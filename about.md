@@ -10,5 +10,7 @@ I am presently at <a href="https://www.varian.com/" target="_blank">Varian</a>, 
 
 You can find me on <a href="https://twitter.com/berensp" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/berensp/" target="_blank">LinkedIn</a>, and <a href="https://keybase.io/berens" target="_blank">Keybase</a>.
 
-<i class="fab fa-twitter"></i>
-<span class="fab fa-twitter"></span>
+<a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a>
+<a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>
+<a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>
+<a href="https://www.linkedin.com/in/berensp/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
