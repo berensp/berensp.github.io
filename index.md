@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is PMB. More [about me](/about/).
+Hiya. My name is Paul Berens. More [about me](/about/).
