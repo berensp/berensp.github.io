@@ -1,7 +1,7 @@
 title: Paul Berens
 email: paul@berens.co
 description: Paul Berens
-url: "https://berensp.github.io"
+site.url: "https://berensp.github.io"
 twitter: berensp
 
 baseurl: ""
