@@ -1,3 +1,11 @@
-name: Paul Berens
+title: Paul Berens
+email: paul@berens.co
+description: Paul Berens
+url: "https://berensp.github.io"
+twitter: berensp
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-feed
