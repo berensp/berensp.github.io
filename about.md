@@ -8,9 +8,10 @@ My name is Paul Berens and I live in San Francisco. I'm a hispanophonic, <a href
 
 I am presently at <a href="https://www.varian.com/" target="_blank">Varian</a>, working on our software business. Previously at HP and Deloitte Consulting.
 
-You can find me on <a href="https://twitter.com/berensp" target="_blank">Twitter</a>, <a href="https://www.linkedin.com/in/berensp/" target="_blank">LinkedIn</a>, and <a href="https://keybase.io/berens" target="_blank">Keybase</a>.
+Connect with me on any of the these channels 🖣
 
 <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/berensp" target="_blank"><i class="fab fa-telegram-plane"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/berensp/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
