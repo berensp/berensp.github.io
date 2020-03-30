@@ -8,7 +8,7 @@ My name is Paul Berens and I live in San Francisco. I'm a hispanophonic, <a href
 
 I am presently at <a href="https://www.varian.com/" target="_blank">Varian</a>, working on our software business. Previously at HP and Deloitte Consulting.
 
-Connect with me on any of the these channels &#128071
+Connect with me on any of the these channels &#128071;
 
 <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>&nbsp;&nbsp;&nbsp;
