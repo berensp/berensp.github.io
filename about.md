@@ -1,11 +1,19 @@
 ---
 layout: page
-title: About
+title: &#128075;, Paul here
 permalink: /about/
 ---
-&#128075;, I'm Paul Berens, a homichlophilic, hispanophonic, Catholic, technophilic, eclectic.
+Hi. I'm Paul Berens
+<ul>
+  <li>technophilic
+    <li>Germanic/Celtic
+      <li>Catholic
+        <li>hispanophonic
+          <li>homichlophilic
+            <li>eclectic
+             </ul>
 
-Presently at <a href="https://www.varian.com/" target="_blank">Varian</a>, working on our software business. Previously at HP and Deloitte Consulting.
+Presently product marketing @ <a href="https://www.varian.com/" target="_blank">Varian</a> (software). Previously @ HP and Deloitte Consulting.
 
 Connect with me on these channels &#128071;
 
