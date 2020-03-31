@@ -9,7 +9,7 @@ Presently (software) product marketing at <a href="https://www.varian.com/" targ
 
 Connect with me on these channels &#128071;
 
-<a style="text-decorations:none" href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;
+<a style="text-decoration:none" href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/berensp" target="_blank"><i class="fab fa-telegram-plane"></i></a>&nbsp;&nbsp;&nbsp;
