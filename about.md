@@ -5,13 +5,13 @@ permalink: /about/
 ---
 &#128075;, I'm Paul Berens.
 <ul>
-  <li>technophilic
-    <li>Germanic/Celtic
-      <li>Catholic
-        <li>hispanophonic
-          <li>homichlophilic
-            <li>eclectic
-             </ul>
+  <li>technophilic</li>
+  <li>Germanic/Celtic</li>
+  <li>Catholic</li>
+  <li>hispanophonic</li>
+  <li>homichlophilic</li>
+  <li>eclectic</li>
+</ul>
 
 Presently product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a> (software). Previously at HP and Deloitte Consulting.
 
