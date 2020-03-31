@@ -3,17 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-&#128075;, I'm Paul Berens.
-<ul>
-  <li>technophilic</li>
-  <li>Germanic/Celtic</li>
-  <li>Catholic</li>
-  <li>hispanophonic</li>
-  <li>homichlophilic</li>
-  <li>eclectic</li>
-</ul>
+&#128075;, I'm Paul Berens. If I had to use only -ic words to describe myself I'd say I am technophilic, Germanic/Celtic, Catholic, hispanophonic, homichlophilic, (somewhat) cycloptic, eclectic.
 
-Presently product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a> (software). Previously at HP and Deloitte Consulting.
+Presently product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a> (software). Previous gigs at HP and Deloitte Consulting.
 
 Connect with me on these channels &#128071;
 
