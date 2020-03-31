@@ -1,9 +1,9 @@
 ---
 layout: page
-title: &#128075;, Paul here
+title: About
 permalink: /about/
 ---
-Hi. I'm Paul Berens
+&#128075;, I'm Paul Berens.
 <ul>
   <li>technophilic
     <li>Germanic/Celtic
@@ -13,7 +13,7 @@ Hi. I'm Paul Berens
             <li>eclectic
              </ul>
 
-Presently product marketing @ <a href="https://www.varian.com/" target="_blank">Varian</a> (software). Previously @ HP and Deloitte Consulting.
+Presently product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a> (software). Previously at HP and Deloitte Consulting.
 
 Connect with me on these channels &#128071;
 
