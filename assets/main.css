@@ -19,24 +19,8 @@ img {
   max-width: 100%; 
 }
 
-a:link {
-  color: blue;
-  text-decoration: none;
-}
-
-a:visited {
-  color: blue;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  text-decoration: underline;
-}
-
-a:active {
-  color: red;
-  text-decoration: underline;
+a {
+  color: #0074D9; 
 }
 
 h1, h2, strong {
