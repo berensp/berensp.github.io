@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-&#128075;, I'm Paul Berens. Using only *-ic* words to describe myself I'd say I am technophilic, Germanic/Celtic, Catholic, hispanophonic, homichlophilic, (somewhat) cycloptic, eclectic.
+Hello. My name is Paul Berens and I live in San Francisco.
+
+Using only *-ic* words to describe myself I'd say I am technophilic, Germanic/Celtic, Catholic, hispanophonic, homichlophilic, (somewhat) cycloptic, eclectic.
 
 Presently (software) product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting.
 
