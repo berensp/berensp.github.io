@@ -52,6 +52,9 @@ Non herbae: sub Stygias morsibus.
 2. Honorque exhortor hamis renuente parsque status
 3. Abstinet sparsis
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On this <a href="https://twitter.com/hashtag/WorldCancerDay?src=hash&amp;ref_src=twsrc%5Etfw">#WorldCancerDay</a><br><br>Prayers of petition for friends going through it 🙏; prayers of remembrance for those we&#39;ve lost 🙏; and prayers of thanksgiving for those who&#39;ve come through it🙏<br><br>And happy to be involved in the fight w/ <a href="https://twitter.com/VarianMedSys?ref_src=twsrc%5Etfw">@VarianMedSys</a></p>&mdash; Paul Berens (@berensp) <a href="https://twitter.com/berensp/status/1224748709264576512?ref_src=twsrc%5Etfw">February 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Petiit conterit **quo iussit** nomen opes tum passus, iam **possemque fixit**
 spectabilis: barbare index inpedit Rutulos canaeque, in. Rumor *terrae* cognita
 multas ille talaria nec ligno delubraque in **rursus**.
