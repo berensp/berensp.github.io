@@ -15,5 +15,6 @@ You can find me on these channels &#128071;
 <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/berensp/" target="_blank"><i class="fab fa-linkedin-in"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://mastodon.social/@berens" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;
+<a href="https://signal.org/" target="_blank"><i class="fas fa-signal"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/berensp" target="_blank"><i class="fab fa-telegram-plane"></i></a>&nbsp;&nbsp;&nbsp;
 <a style="text-decoration:none" href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a>
