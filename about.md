@@ -5,11 +5,11 @@ permalink: /about/
 ---
 &#128075;. My name is Paul Berens and I live in San Francisco.
 
-Restricting myself to *-ic* descriptors I am technophilic, Germanic/Celtic, Catholic, hispanophonic, (somewhat) cycloptic, homichlophilic [sic], eclectic.
-
 Presently (software) product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting.
 
-You can find me on these channels &#128071;
+Restricting myself to *-ic* descriptors I am Catholic, (somewhat) cycloptic, eclectic, Germanic/Celtic, hispanophonic, homichlophilic [sic], technophilic.
+
+Find me on these channels &#128071;
 
 <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>&nbsp;&nbsp;&nbsp;
