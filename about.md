@@ -3,11 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-&#128075;. My name is Paul Berens and I live in San Francisco.
+My name is Paul Berens and I live in San Francisco...&#128075;
 
 Presently (software) product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting.
 
-Restricting myself to *-ic* descriptors I am Catholic, (somewhat) cycloptic, eclectic, Germanic/Celtic, hispanophonic, homichlophilic [sic], technophilic.
+I am Catholic, (somewhat) cycloptic, eclectic, Germanic/Celtic, hispanophonic, homichlophilic [sic], technophilic.
 
 Find me on these messengers/channels/platforms &#128071;
 
