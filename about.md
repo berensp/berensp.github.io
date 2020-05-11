@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Paul Berens and I live in San Francisco...&#128075;
+My name is Paul Berens and I live in San Francisco.
 
 Presently (software) product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting.
 
