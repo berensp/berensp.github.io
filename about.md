@@ -7,7 +7,7 @@ My name is Paul Berens and I live in San Francisco.
 
 Presently (software) product marketing at <a href="https://www.varian.com/" target="_blank">Varian</a>. Previous gigs at <a href="https://www.hp.com" target="_blank">HP</a> and <a href="https://deloitte.com/consulting" target="_blank">Deloitte Consulting</a>.
 
-I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">aerobic</a> (opportunistic), Catholic, <a href="https://en.wikipedia.org/wiki/Persistent_hyperplastic_primary_vitreous" target="_blank">cycloptic</a> (somewhat), eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a> [sic], technophilic.
+I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">aerobic</a> (opportunistic), Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a> [sic], technophilic.
 
 Find me on these messengers/channels/platforms &#128071;
 
