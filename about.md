@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Paul Berens and I live in San Francisco.
 
-Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting. Alumnus of <a href="https://bc.edu/" target="_blank">BC</a> and <a href="https://michiganross.umich.edu/" target="_blank">Michigan Ross</a>.
+Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at <a href="https://hp.com" target="_blank">HP</a> and <a href="https://deloitte.com/consulting" target="_blank">Deloitte Consulting</a>. Proud <a href="https://cadets.com/" target="_blank">Cadet</a>, <a href="https://bc.edu/" target="_blank">Eagle</a>, and <a href="https://michiganross.umich.edu/" target="_blank">Wolverine</a>.
 
 I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">aerobic</a> (opportunistic), analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a> [sic], philharmonic, technophilic.
 
