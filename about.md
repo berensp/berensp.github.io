@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Paul Berens and I live in San Francisco, but hail from <i>L'Étoile du Nord</i>.
+My name is Paul Berens and I live in San Francisco, but hail from L'Étoile du Nord.
 
 Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting.
 
