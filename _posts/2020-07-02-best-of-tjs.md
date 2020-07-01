@@ -11,7 +11,7 @@ ast lacrimas, est [monte membra](http://quem.io/semina) mediumque vetus! Volat
 fuit inmitis illo, agunt aras laudatissima ferit certamina famuli somnusque an
 facie convicia pharetra; deteriorque tanti.
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Category | Product | Price |
+| :---         | :---          | :--- |
+| Entrée | Mandarin chicken     | $-    |
+| Hors d'oeuvre | Toscano cheese | $- |
