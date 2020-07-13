@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Paul Berens (<a href="http://accentperfect.com/pronunciation/berens/" target="_blank">'bɪrənz</a>) and I live in San Francisco, but hail from L'Étoile du Nord.
 
-Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting.
+Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at <a href="https://hp.com" target="_blank">HP</a> and <a href="https://deloitte.com/consulting" target="_blank">Deloitte Consulting</a>. Schooling at <a href="https://bc.edu" target="_blank">Boston College</a> and <a href="https://michiganross.umich.edu/" target="_blank">Michigan Ross</a>.
 
 I am <a href="https://www.relive.cc/view/vMv8PX48NvQ" target="_blank">aerobic</a> (opportunistic), analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a> [sic], philharmonic, technophilic.
 
