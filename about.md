@@ -7,7 +7,7 @@ My name is Paul Berens (<a href="http://accentperfect.com/pronunciation/berens/"
 
 Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting. Schooling at Boston College and Michigan Ross.
 
-I am <a href="https://www.relive.cc/view/vMv8PX48NvQ" target="_blank">aerobic</a> (opportunistic), analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a> [sic], philharmonic, technophilic, <a href="https://www.hbo.com/silicon-valley/season-6/5-tethics/tethics" target="_blank">tethic</a>, unchic.
+I am <a href="https://www.relive.cc/view/vMv8PX48NvQ" target="_blank">aerobic</a> (opportunistic), analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a>, philharmonic, technophilic, <a href="https://www.hbo.com/silicon-valley/season-6/5-tethics/tethics" target="_blank">tethic</a> [sic], unchic.
 
 Find me on these messengers/channels/platforms &#128071;
 
