@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="/assets/pmb.sketch.png" width="50%" height="50%">
+<img src="/assets/pmb.sketch.png" width="30%" height="30%">
 
 Brave making more wampum to buy pelts. More [about me](/about/).
 
