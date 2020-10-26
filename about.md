@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-My name is Paul Berens (<a href="http://accentperfect.com/pronunciation/berens/" target="_blank">'bɪrənz</a>) and I live in San Francisco, but hail from L'Étoile du Nord.
+My name is Paul Berens (<a href="https://forvo.com/word/berens/#en" target="_blank">'bɪrənz</a>) and I live in San Francisco, but hail from L'Étoile du Nord.
 
 Presently (software) product marketing at <a href="https://varian.com/" target="_blank">Varian</a>. Previous gigs at HP and Deloitte Consulting. Schooling at Boston College and Michigan Ross.
 
