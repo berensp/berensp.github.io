@@ -3,10 +3,9 @@ layout: page
 title: Minnesota
 permalink: /minnesota/
 ---
-> "Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."
+> *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* —Garrison Keillor
 
 My running tally of what makes Minnesota unique, interesting, valuable, loveable...
-
 
 ## Food
 - Bundt cakes
@@ -21,9 +20,17 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - The Replacements
 - Jayhawks
 - HarMar Superstar
-- Charles Schultz and Peanuts
+- Charles Shultz and Peanuts
 - Mystery Science Theater 3000
-- Coen Bros
+- Coen Brothers
+- Garrison Keillor and "A Prairie Home Companion"
+- F. Scott Fitzgerald
+- Sinclair Lewis
+- Judy Garland
+
+## People
+- [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh)
+- Ann Bancroft - 1st woman to reach North Pole by foot - Mendota Heights
 
 ## Brands and Inventions
 - Best Buy
@@ -35,15 +42,21 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - Post-it® Notes
 - [Target](https://www.target.com/)
 - Betty Crocker
+- [Polaris](https://www.polaris.com/en-us/brands/)
 
 ## Sports
-- North Stars
 - 1980 Miracle On Ice
 - Winningest Coach In College Football History
+- Charlie Conway
+- Kirby Puckett
+- Roger Maris
+- Paul Molitor
+- Kevin McHale
 
 ## Culture and Curiosities
 - [Duck duck gray duck](https://www.startribune.com/why-do-minnesotans-play-duck-duck-gray-duck-instead-of-duck-duck-goose/502474351/)
 
+
 ## Rankings
 - [№1 most bikeable city](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/)
-- [№ 2 northernmost U.S. state (after Alaska)](https://en.wikipedia.org/wiki/Geography_of_Minnesota)
+- [№2 northernmost U.S. state (after Alaska)](https://en.wikipedia.org/wiki/Geography_of_Minnesota)
