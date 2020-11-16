@@ -27,12 +27,12 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 
 ## Sports
 - ⚾ - Kirby Puckett, Bert Blyleven, Roger Maris, Paul Molitor, Dave Winfield
-- 🏀 - Troy Bell[1], Kevin McHale
+- 🏀 - Troy Bell[^1], Kevin McHale
 - 🏈 - Larry Fitzgerald, John Madden, Winningest Coach In College Football History
 - 🏒 - Broten bros., Patrick Eaves (BC Eagle to boot!), 1980 Miracle On Ice
 - ⛷ - Lindsey Vonn, Kristina Koznick (Go Vis)
 
-[1]: <https://berens.co/minnesota#bceagle> "Boston College Eagle to boot (bonus points)"
+[^1]: Boston College Eagle to boot (bonus points)
 
 ## Culture and Curiosities
 - [Duck duck gray duck](https://www.startribune.com/why-do-minnesotans-play-duck-duck-gray-duck-instead-of-duck-duck-goose/502474351/)
