@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Minnesota
+title: Minnesota 🛶
 permalink: /minnesota/
 ---
 > *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* —Garrison Keillor
@@ -32,7 +32,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - 🏒 - Broten bros., Patrick Eaves (BC Eagle to boot!), 1980 Miracle On Ice
 - ⛷ - Lindsey Vonn, Kristina Koznick (Go Vis)
 
-[1]: Boston College Eagle to boot (bonus points)
+[1]: <https://berens.co/minnesota#bceagle> "Boston College Eagle to boot (bonus points)"
 
 ## Culture and Curiosities
 - [Duck duck gray duck](https://www.startribune.com/why-do-minnesotans-play-duck-duck-gray-duck-instead-of-duck-duck-goose/502474351/)
