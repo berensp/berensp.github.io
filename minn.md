@@ -10,16 +10,16 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 ## Les Arts
 - **Actors** - Jessica Biel, Judy Garland, Kelsey Grammer, Josh Hartnett, Jessica Lange, [Winona Ryder](https://www.welcometowinona.com/), Seann William Scott
 - **Cartoonists** - Charles Shultz (*Peanuts*)
-- **Musicians** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^1], [Har Mar Superstar](http://www.harmarsuperstar.com/), The Jayhawks, Prince, The Replacements
+- **Musicians** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^1], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, Mason Jennings, Prince, The Replacements, Soul Asylum
 - **Shows** - Mystery Science Theater 3000
 - **Writers** - F. Scott Fitzgerald, Sinclair Lewis, The Coen Brothers, Garrison Keillor, Jake Lentz, Kevin Etten
 
 ## Brands and Inventions
 - **Beauty/Fashion** - Aveda, Zubaz
 - **Food** - [Bundt cakes](https://www.foodandwine.com/news/brief-delightful-history-bundt-pan), [Honeycrisp apples *(Malus pumila)*](https://en.wikipedia.org/wiki/Honeycrisp), Land O Lakes® butter, [MAR-O-BAR®](https://www.minnesotamonthly.com/archive/candy-bar-combat/), [SPAM®](https://en.wikipedia.org/wiki/Spam_(food)), [Tater Tot Hotdish](https://vimeo.com/65158243)
-- **Healthcare** - first open-heart surgery; Mayo Clinic
+- **Healthcare** - first open-heart surgery, Mayo Clinic
 - **Shopping** - [Target](https://www.target.com/), Mall of America, [first "fully enclosed, climate-controlled" mall](https://www.theguardian.com/cities/2015/may/06/southdale-center-america-first-shopping-mall-history-cities-50-buildings)
-- **Sports/Activities** - NERF, [Polaris](https://www.polaris.com/en-us/brands/), Rollerblade®, Twister, [waterskiing](https://www.britannica.com/sports/waterskiing)
+- **Sports/Activities** - NERF, [Polaris](https://www.polaris.com/en-us/brands/), Rollerblade®, [Twister](https://en.wikipedia.org/wiki/Twister_(game)), [waterskiing](https://www.britannica.com/sports/waterskiing)
 - **Supplies** - Scotch® Tape, Post-it® Notes
 
 ## Culture and Curiosities
