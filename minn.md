@@ -3,14 +3,14 @@ layout: page
 title: Minnesota 🛶
 permalink: /minnesota/
 ---
-<img src="/assets/the.first.minnesota.png" alt="The First Minnesota Regiment" width="50%" height="50%">
+<img src="/assets/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
 
 My running tally of what makes Minnesota unique, interesting, valuable, loveable...
 
 ## Les Arts
 - **Actors** - Jessica Biel, Judy Garland, Kelsey Grammer, Josh Hartnett, Jessica Lange, [Winona Ryder](https://www.welcometowinona.com/), Seann William Scott
 - **Authors** - F. Scott Fitzgerald,  Sinclair Lewis
-- **Humorists** - Kevin Etten, [Joel Hodgson](https://en.wikipedia.org/wiki/Joel_Hodgson), [Al Franken]p(https://en.wikipedia.org/wiki/Al_Franken), Garrison Keillor, Jacob Lentz, [Charles Shultz](https://en.wikipedia.org/wiki/Charles_M._Schulz)
+- **Humorists** - Kevin Etten, [Joel Hodgson](https://en.wikipedia.org/wiki/Joel_Hodgson), [Al Franken](https://en.wikipedia.org/wiki/Al_Franken), Garrison Keillor, Jacob Lentz, [Charles Shultz](https://en.wikipedia.org/wiki/Charles_M._Schulz)
 - **Musicians** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^1], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, Mason Jennings, Prince, The Replacements, Soul Asylum
 - **Producers** - The Coen Brothers
 
@@ -52,7 +52,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - [#3 happiest](https://wallethub.com/edu/happiest-states/6959)
 - [#56 tallest domes (Cathedral of St. Paul)](https://en.wikipedia.org/wiki/List_of_tallest_domes)
 
-[^2] Apparently this oft-cited stat is [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/)
+[^2]: Apparently this oft-cited stat is [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/)
 
 
 > *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* —Garrison Keillor
