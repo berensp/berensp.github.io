@@ -45,9 +45,9 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 ## Rankings
 - [#1 shopping mall by retail space](https://en.wikipedia.org/wiki/List_of_largest_shopping_malls_in_the_United_States)
 - [#1 most bikeable city](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/)
-- #1 golfers per capita among US cities
 - [#2 largest state fair in the US](https://www.mnstatefair.org/about-the-fair/attendance/)
 - [#2 northernmost U.S. state (after Alaska)](https://en.wikipedia.org/wiki/Geography_of_Minnesota)
+- [#2 household participation percentage of golf](https://golf.com/news/the-united-states-of-golf-all-50-states-ranked-by-their-golfiness/)
 - #2 largest number of theater seats per capita[^2]
 - [#3 happiest](https://wallethub.com/edu/happiest-states/6959)
 - [#56 tallest domes (Cathedral of St. Paul)](https://en.wikipedia.org/wiki/List_of_tallest_domes)
