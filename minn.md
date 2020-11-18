@@ -8,7 +8,7 @@ permalink: /minnesota/
 My running tally of what makes Minnesota unique, interesting, valuable, loveable, [happy](https://wallethub.com/edu/happiest-states/6959)...
 
 ## Les Arts 🎭
-- **Performing Arts** - home to the oldest continuously running theater (Old Log Theater), [the largest dinner theater](https://chanhassendt.com/history-of-chanhassen-dinner-theatres/), and the largest regional playhouse (Guthrie Theater) in the country; second largest number of theater seats per capita[^1]
+- **Performing Arts** - home to [the oldest continuously running theater](https://en.wikipedia.org/wiki/Old_Log_Theatre), [the largest dinner theater](https://chanhassendt.com/history-of-chanhassen-dinner-theatres/), and [the largest regional playhouse in the country](https://www.guthrietheater.org); second largest number of theater seats per capita[^1]
 - **Les Artistes**
 	- **Actors** - Jessica Biel, Judy Garland, Kelsey Grammer, Josh Hartnett, Jessica Lange, [Winona Ryder](https://www.welcometowinona.com/), Seann William Scott
 	- **Authors** - F. Scott Fitzgerald,  Sinclair Lewis
@@ -16,10 +16,10 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 	- **Musicians** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^2], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, Mason Jennings, Prince, The Replacements, Soul Asylum
 	- **Producers** - The Coen Brothers
 
-[^1]: Apparently this oft-cited stat is [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/)
+[^1]: Though apparently this oft-cited stat is [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/).
 
 ## The Great Outdoors 🏞
-- Lakes! 90k miles of shoreline (> California + Florida + Hawaii)
+- Land of 11,842 lakes, 90k miles of shoreline (> California + Florida + Hawaii)
 - People and gov't committed to bicycling [(#1 most bikeable city)](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/) and 
 - [Boundary Waters Canoe Area](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness). It's hard to get more pristine.
 - One recreational boat per every six people—more than any other state
@@ -47,11 +47,11 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - **Politicians** - Hubert Humphrey, Walter Mondale, Jesse Ventura, Paul Wellstone
 
 ## Sports 🏒
-- **Alpine Skiing** - Lindsey Vonn, Kristina Koznick[^2], Cindy Nelson
-- **Baseball** - [The 1987 World Champion Twins (Kirby Puckett, Bert Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
+- **Alpine Skiing** - Lindsey Vonn, Kristina Koznick[^2], Cindy Nelson, [99th Infantry Battalion](https://www.norwegianamerican.com/the-vikings-of-world-war-ii/)
+- **Baseball** - [The '87 World Champion Twins (K. Puckett, B. Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
 - **Basketball** - the first-ever intercollegiate game was played in MN February 9, 1895; Troy Bell[^2], Kevin McHale, 
 - **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
-- **Hockey** - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.)
+- **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.)
 
 [^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (accepted, but never matriculated?).
 
