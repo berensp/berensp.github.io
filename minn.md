@@ -20,14 +20,14 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 
 ## The Great Outdoors 🏞
 - Land of 11,842 lakes, 90k miles of shoreline (> California + Florida + Hawaii)
-- People and gov't committed to bicycling [(#1 most bikeable city)](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/) and 
+- People and gov't committed to bicycling [(#1 most bikeable city)](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/); [lots of rail-trails](https://www.railstotrails.org/our-work/united-states/minnesota/)
 - [Boundary Waters Canoe Area](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness). It's hard to get more pristine.
 - One recreational boat per every six people—more than any other state
 
 ## Brands and Inventions 🍎
 - **Beauty/Fashion** - Aveda → Zubaz (A→Z)
 - **Food** - automatic pop-up toaster, [Bundt cakes](https://www.foodandwine.com/news/brief-delightful-history-bundt-pan), [Cheerios](https://www.mentalfloss.com/article/74142/8-things-you-might-not-know-about-cheerios), [Green Giant vegetables](https://en.wikipedia.org/wiki/Green_Giant), [Honeycrisp apples *(Malus pumila)*](https://en.wikipedia.org/wiki/Honeycrisp), Land O Lakes® butter, [MAR-O-BAR®](https://www.minnesotamonthly.com/archive/candy-bar-combat/), [SPAM®](https://en.wikipedia.org/wiki/Spam_(food)), [Minnesota State Fair food](https://www.afarmgirlsdabbles.com/best-minnesota-state-fair-food/), [Tater Tot Hotdish](https://vimeo.com/65158243), [Wheaties](https://en.wikipedia.org/wiki/Wheaties)
-- **Healthcare** - the packemaker, first open-heart surgery, Mayo Clinic
+- **Healthcare** - the pacemaker, first open-heart surgery, Mayo Clinic
 - **Shopping** - [Target](https://www.target.com/), [Mall of America®](https://en.wikipedia.org/wiki/List_of_largest_shopping_malls_in_the_United_States), [first "fully enclosed, climate-controlled" mall](https://www.theguardian.com/cities/2015/may/06/southdale-center-america-first-shopping-mall-history-cities-50-buildings)
 - **Sports/Activities** - NERF, [Polaris](https://www.polaris.com/en-us/brands/), Rollerblade®, Tonka Trucks, [Twister](https://en.wikipedia.org/wiki/Twister_(game)), [waterskiing](https://www.britannica.com/sports/waterskiing)
 - **Supplies** - Scotch® Tape, masking tape, Post-it® Notes, stapler
@@ -51,7 +51,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - **Baseball** - [The '87 World Champion Twins (K. Puckett, B. Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
 - **Basketball** - the first-ever intercollegiate game was played in MN February 9, 1895; Troy Bell[^2], Kevin McHale, 
 - **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
-- **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.)
+- **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.), [U.S. Hockey Hall of Fame](https://en.wikipedia.org/wiki/United_States_Hockey_Hall_of_Fame)
 
 [^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (accepted, but never matriculated?).
 
