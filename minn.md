@@ -12,7 +12,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - **Les Artistes**
 	- **Actors** - Jessica Biel, Judy Garland, Kelsey Grammer, Josh Hartnett, Jessica Lange, [Winona Ryder](https://www.welcometowinona.com/), Seann William Scott
 	- **Authors** - F. Scott Fitzgerald,  Sinclair Lewis
-	- **Humorists** - Kevin Etten, [Joel Hodgson](https://en.wikipedia.org/wiki/Joel_Hodgson), [Al Franken](https://en.wikipedia.org/wiki/Al_Franken), Garrison Keillor, Jacob Lentz, [Charles Shultz](https://en.wikipedia.org/wiki/Charles_M._Schulz)
+	- **Humorists** - [Joel Hodgson](https://en.wikipedia.org/wiki/Joel_Hodgson), [Al Franken](https://en.wikipedia.org/wiki/Al_Franken), Garrison Keillor, [Jacob Lentz](https://www.imdb.com/name/nm1802676/), [Charles Shultz](https://en.wikipedia.org/wiki/Charles_M._Schulz)
 	- **Musicians** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^2], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, Mason Jennings, Prince, The Replacements, Soul Asylum
 	- **Producers** - The Coen Brothers
 
