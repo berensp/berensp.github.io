@@ -20,7 +20,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 
 ## The Great Outdoors 🏞
 - Lakes! 90k miles of shoreline (> California + Florida + Hawaii)
-- People and gov't committed to bicycling ([#1 most bikeable city](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/))
+- People and gov't committed to bicycling [(#1 most bikeable city)](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/) and 
 - [Boundary Waters Canoe Area](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness). It's hard to get more pristine.
 - One recreational boat per every six people—more than any other state
 
@@ -39,6 +39,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - [Duck duck gray duck](https://www.startribune.com/why-do-minnesotans-play-duck-duck-gray-duck-instead-of-duck-duck-goose/502474351/)
 - [One of the most stunning Catholic churches (and largest in the Midwest)](https://www.tripadvisor.com/Attraction_Review-g43501-d144120-Reviews-Cathedral_of_Saint_Paul-Saint_Paul_Minnesota.html)
 - [Comparative advantage in education](https://mn.gov/deed/ed/how-we-rank/#3)
+- ["Minnesota Nice"](https://www.startribune.com/where-does-the-term-minnesota-nice-come-from-and-what-does-it-mean/502474301/) - [(well-conveyed by Cousin Charlie Berens)](https://youtu.be/AHISDsmSsDg)
 
 ## Other Folks 👥
 - **Adventurers** - [Ann Bancroft](https://en.wikipedia.org/wiki/Ann_Bancroft), [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh)
@@ -46,11 +47,11 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - **Politicians** - Hubert Humphrey, Walter Mondale, Jesse Ventura, Paul Wellstone
 
 ## Sports 🏒
-- ⚾ - [The 1987 World Champion Twins (Kirby Puckett, Bert Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
-- 🏀 - the first-ever intercollegiate game was played in MN February 9, 1895; Troy Bell[^2], Kevin McHale, 
-- 🏈 - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
-- 🏒 - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.)
-- ⛷ - Lindsey Vonn, Kristina Koznick[^2], Cindy Nelson
+- **Alpine Skiing** - Lindsey Vonn, Kristina Koznick[^2], Cindy Nelson
+- **Baseball** - [The 1987 World Champion Twins (Kirby Puckett, Bert Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
+- **Basketball** - the first-ever intercollegiate game was played in MN February 9, 1895; Troy Bell[^2], Kevin McHale, 
+- **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
+- **Hockey** - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.)
 
 [^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (accepted, but never matriculated?).
 
