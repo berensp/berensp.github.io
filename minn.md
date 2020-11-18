@@ -51,7 +51,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - **Baseball** - [The '87 World Champion Twins (K. Puckett, B. Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
 - **Basketball** - the first-ever intercollegiate game was played in MN February 9, 1895; Troy Bell[^2], Kevin McHale, 
 - **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
-- **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], 1980 Miracle On Ice (Herb Brooks et al.), [U.S. Hockey Hall of Fame](https://en.wikipedia.org/wiki/United_States_Hockey_Hall_of_Fame)
+- **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], [1980 Miracle On Ice (Herb Brooks et al.)](https://en.wikipedia.org/wiki/Miracle_on_Ice), [U.S. Hockey Hall of Fame](https://en.wikipedia.org/wiki/United_States_Hockey_Hall_of_Fame)
 
 [^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (accepted, but never matriculated?).
 
