@@ -16,7 +16,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 	- **Musicians** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^2], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, Mason Jennings, Prince, The Replacements, Soul Asylum
 	- **Producers** - The Coen Brothers
 
-[^1]: Though apparently this oft-cited stat is [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/).
+[^1]: This oft-cited stat is apparently [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/).
 
 ## The Great Outdoors 🏞
 - Land of 11,842 lakes, 90k miles of shoreline (> California + Florida + Hawaii)
@@ -25,7 +25,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - One recreational boat per every six people—more than any other state
 
 ## Brands and Inventions 🍎
-- **Beauty/Fashion** - Aveda → Zubaz (A→Z)
+- **Beauty/Fashion** - [Aveda](https://www.aveda.com/living-aveda/responsible-manufacturing) to [Zubaz](https://www.startribune.com/zubaz-pants-are-back/16943196)
 - **Food** - automatic pop-up toaster, [Bundt cakes](https://www.foodandwine.com/news/brief-delightful-history-bundt-pan), [Cheerios](https://www.mentalfloss.com/article/74142/8-things-you-might-not-know-about-cheerios), [Green Giant vegetables](https://en.wikipedia.org/wiki/Green_Giant), [Honeycrisp apples *(Malus pumila)*](https://en.wikipedia.org/wiki/Honeycrisp), Land O Lakes® butter, [MAR-O-BAR®](https://www.minnesotamonthly.com/archive/candy-bar-combat/), [SPAM®](https://en.wikipedia.org/wiki/Spam_(food)), [Minnesota State Fair food](https://www.afarmgirlsdabbles.com/best-minnesota-state-fair-food/), [Tater Tot Hotdish](https://vimeo.com/65158243), [Wheaties](https://en.wikipedia.org/wiki/Wheaties)
 - **Healthcare** - the pacemaker, first open-heart surgery, Mayo Clinic
 - **Shopping** - [Target](https://www.target.com/), [Mall of America®](https://en.wikipedia.org/wiki/List_of_largest_shopping_malls_in_the_United_States), [first "fully enclosed, climate-controlled" mall](https://www.theguardian.com/cities/2015/may/06/southdale-center-america-first-shopping-mall-history-cities-50-buildings)
@@ -43,16 +43,16 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 
 ## Other Folks 👥
 - **Adventurers** - [Ann Bancroft](https://en.wikipedia.org/wiki/Ann_Bancroft), [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh)
-- **Fictional Characters** - [Charlie Brown et al. (Peanuts)](https://peanuts.fandom.com/wiki/Setting), Paul Bunyan, [Charlie Conway](https://disney.fandom.com/wiki/Charlie_Conway), Betty Crocker, Jolly Green Giant, Pillsbury Doughboy
+- **Fictional Characters** - [Charlie Brown et al. (Peanuts)](https://peanuts.fandom.com/wiki/Setting), [MacGyver](https://en.wikipedia.org/wiki/MacGyver#Biography), Paul Bunyan, [Charlie Conway](https://disney.fandom.com/wiki/Charlie_Conway), Betty Crocker, Jolly Green Giant, Pillsbury Doughboy, [Rocky and Bullwinkle](https://en.wikipedia.org/wiki/The_Adventures_of_Rocky_and_Bullwinkle_and_Friends#Characters)
 - **Politicians** - Hubert Humphrey, Walter Mondale, Jesse Ventura, Paul Wellstone
 
 ## Sports 🏒
 - **Alpine Skiing** - Lindsey Vonn, Kristina Koznick[^2], Cindy Nelson, [99th Infantry Battalion](https://www.norwegianamerican.com/the-vikings-of-world-war-ii/)
 - **Baseball** - [The '87 World Champion Twins (K. Puckett, B. Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
-- **Basketball** - the first-ever intercollegiate game was played in MN February 9, 1895; Troy Bell[^2], Kevin McHale, 
+- **Basketball** - [the birth of intercollegiate basketball](https://www.ncaa.com/news/basketball-men/article/2016-02-09/possible-first-intercollegiate-basketball-game-was-played-feb); Troy Bell[^2], Kevin McHale, 
 - **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
 - **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], [1980 Miracle On Ice (Herb Brooks et al.)](https://en.wikipedia.org/wiki/Miracle_on_Ice), [U.S. Hockey Hall of Fame](https://en.wikipedia.org/wiki/United_States_Hockey_Hall_of_Fame)
 
-[^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (accepted, but never matriculated?).
+[^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (matriculated but DNF).
 
 > *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* —Garrison Keillor
