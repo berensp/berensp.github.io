@@ -24,7 +24,7 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 - One recreational boat per every six people—more than any other state
 
 ## Brands and Inventions 🍎
-- **Beauty/Fashion** - from [Aveda](https://www.aveda.com/living-aveda/responsible-manufacturing) to [Zubaz](https://www.startribune.com/zubaz-pants-are-back/16943196)
+- **Beauty/Fashion** - [Aveda](https://www.aveda.com/living-aveda/responsible-manufacturing), [J.R. Watkins](https://jrwatkins.com/), [Zubaz](https://www.startribune.com/zubaz-pants-are-back/16943196)
 - **Food** - automatic pop-up toaster, [Bundt cakes](https://www.foodandwine.com/news/brief-delightful-history-bundt-pan), [Cheerios](https://www.mentalfloss.com/article/74142/8-things-you-might-not-know-about-cheerios), [Green Giant vegetables](https://en.wikipedia.org/wiki/Green_Giant), [Honeycrisp apples *(Malus pumila)*](https://en.wikipedia.org/wiki/Honeycrisp), Land O Lakes® butter, [MAR-O-BAR®](https://www.minnesotamonthly.com/archive/candy-bar-combat/), [SPAM®](https://en.wikipedia.org/wiki/Spam_(food)), [Minnesota State Fair food](https://www.afarmgirlsdabbles.com/best-minnesota-state-fair-food/), [Tater Tot Hotdish](https://vimeo.com/65158243), [Wheaties](https://en.wikipedia.org/wiki/Wheaties)
 - **Healthcare** - the pacemaker, first open-heart surgery, Mayo Clinic
 - **Shopping** - [Target](https://www.target.com/), [Mall of America®](https://en.wikipedia.org/wiki/List_of_largest_shopping_malls_in_the_United_States), [first "fully enclosed, climate-controlled" mall](https://www.theguardian.com/cities/2015/may/06/southdale-center-america-first-shopping-mall-history-cities-50-buildings)
