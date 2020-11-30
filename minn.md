@@ -48,8 +48,8 @@ My running tally of what makes Minnesota unique, interesting, valuable, loveable
 ## Sports 🏒
 - **Alpine Skiing** - [99th Infantry Battalion](https://www.norwegianamerican.com/the-vikings-of-world-war-ii/), Kristina Koznick[^2], Cindy Nelson, [Lindsey Vonn](https://en.wikipedia.org/wiki/Lindsey_Vonn#Early_life_and_education)
 - **Baseball** - [The '87 World Champion Twins (K. Puckett, B. Blyleven, et al.)](https://en.wikipedia.org/wiki/1987_Minnesota_Twins_season#Roster), Roger Maris, Paul Molitor, Dave Winfield
-- **Basketball** - [the birth of intercollegiate basketball](https://www.ncaa.com/news/basketball-men/article/2016-02-09/possible-first-intercollegiate-basketball-game-was-played-feb); [the original Lakers](https://en.wikipedia.org/wiki/Los_Angeles_Lakers); Troy Bell[^2], Kevin McHale, 
-- **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer
+- **Basketball** - [the birth of intercollegiate basketball](https://www.ncaa.com/news/basketball-men/article/2016-02-09/possible-first-intercollegiate-basketball-game-was-played-feb); [the original Lakers](https://en.wikipedia.org/wiki/Los_Angeles_Lakers); Troy Bell[^2], Kevin McHale
+- **Football** - [John Gagliardi](https://www.google.com/search?q=The+Winningest+Coach+In+College+Football+History), John Madden, Larry Fitzgerald, Tommy Kramer, [Minnesota State Screaming Eagles](https://en.wikipedia.org/wiki/Coach_(TV_series))
 - **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], [1980 Miracle On Ice (Herb Brooks et al.)](https://en.wikipedia.org/wiki/Miracle_on_Ice), [U.S. Hockey Hall of Fame](https://en.wikipedia.org/wiki/United_States_Hockey_Hall_of_Fame), [shinny](https://en.wikipedia.org/wiki/Shinny)
 
 [^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (matriculated but DNF).
