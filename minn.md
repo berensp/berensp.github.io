@@ -3,7 +3,7 @@ layout: page
 title: Minnesota
 permalink: /minnesota/
 ---
-<img src="/assets/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
+<img src="/assets/images/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
 
 My running tally of what makes Minnesota unique, interesting, valuable, loveable, [happy](https://wallethub.com/edu/happiest-states/6959)...
 
