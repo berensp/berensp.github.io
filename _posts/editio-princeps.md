@@ -16,7 +16,7 @@ Ergo, while it percolates I'll reserve the right to post banal topics as a diary
 
 ...from this slow reader guilty of [Tsundoku](https://www.google.com/search?q=Tsundoku) (Japanese: 積ん読).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week&#39;s cover, “Bedtime Stories,” by Bruce Eric Kaplan. <a href="https://t.co/KXNilCUARs">https://t.co/KXNilCUARs</a> <a href="https://t.co/S36UHATjzO">pic.twitter.com/S36UHATjzO</a></p>&mdash; The New Yorker (@NewYorker) <a href="https://twitter.com/NewYorker/status/1135516514910711809?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week&#39;s cover, “Bedtime Stories,” by Bruce Eric Kaplan. <a href="https://t.co/KXNilCUARs">https://t.co/KXNilCUARs</a> <a href="https://t.co/S36UHATjzO">pic.twitter.com/S36UHATjzO</a></p>&mdash; The New Yorker (@NewYorker) <a href="https://twitter.com/NewYorker/status/1135516514910711809?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Tsundoku is much more meaningful when quantified with the **Berens Ratio**:
 
@@ -24,7 +24,7 @@ Tsundoku is much more meaningful when quantified with the **Berens Ratio**:
 
 If it's `> 100 − your current age` you need to start donating to your library else [build your own little free library](https://littlefreelibrary.org)[^1].
 
-[^1]This aligns with Tim Urban's point that you don't read an endless number of books in your lifetime: you will read [years left to live × average number of books you read per annum]; a sad reality but (there are things to do about it)[https://twitter.com/maxjoseph/status/1121086199983157250].
+[^1]This aligns with Tim Urban's point that you don't read an endless number of books in your lifetime: you will read [years left to live × average number of books you read per annum]; a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
 
 This just suggests we need to prioritize our reading. I'll try to keep mine here.
 
