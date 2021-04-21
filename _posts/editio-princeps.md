@@ -18,16 +18,16 @@ Ergo, while it percolates I'll reserve the right to post banal topics as a diary
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week&#39;s cover, “Bedtime Stories,” by Bruce Eric Kaplan. <a href="https://t.co/KXNilCUARs">https://t.co/KXNilCUARs</a> <a href="https://t.co/S36UHATjzO">pic.twitter.com/S36UHATjzO</a></p>&mdash; The New Yorker (@NewYorker) <a href="https://twitter.com/NewYorker/status/1135516514910711809?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Tsundoku is much more meaningful when quantified with the **Berens Ratio**:
+Tsundoku is much more meaningful when quantified with the **Berens Tsundoku Ratio**:
 
-`total unread books on your shelf ÷ average number of books read per annum`
+> `total unread books on your shelf ÷ average number of books read per annum ÷ approximate number of years you have left on this earth`
 
-If that result is greater than the approximate number of years you have left on this earth, you'd better start donating to your local library else [build your own little free library](https://littlefreelibrary.org)[^1].
+`If (result) > 1.0 {` you'd better start donating to your local library else [build your own little free library](https://littlefreelibrary.org)[^1].
 
 [^1]: This aligns with Tim Urban's point that you don't read an endless number of books in your lifetime: you will read [years left to live × average number of books you read per annum]; a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
 
-This just suggests we need to prioritize our reading. I'll try to keep mine here.
+This just suggests we need to prioritize our reading. I'll try to keep mine [here](/books).
 
-There are digital analogues to Tsundoku, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of allowing a set number of episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (Pocket Casts encomium forthcoming...stay tuned).
+There are digital analogues to Tsundoku, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (Pocket Casts encomium forthcoming...stay tuned).
 
 ![initials](/assets/images/pmb.initials.png)
