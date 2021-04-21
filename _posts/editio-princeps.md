@@ -22,12 +22,12 @@ Tsundoku is much more meaningful when quantified with the **Berens Ratio**:
 
 `total unread books on your shelf ÷ average number of books read per annum`
 
-If it's `> 100 − your current age` you need to start donating to your library else [build your own little free library](https://littlefreelibrary.org)[^1].
+If that result is greater than the approximate number of years you have left on this earth, you'd better start donating to your local library else [build your own little free library](https://littlefreelibrary.org)[^1].
 
-[^1]This aligns with Tim Urban's point that you don't read an endless number of books in your lifetime: you will read [years left to live × average number of books you read per annum]; a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
+[1]: This aligns with Tim Urban's point that you don't read an endless number of books in your lifetime: you will read [years left to live × average number of books you read per annum]; a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
 
 This just suggests we need to prioritize our reading. I'll try to keep mine here.
 
-There are digital analogues to Tsundoku, too: e.g. accumlating podcast episode at a rate that far outstrips your consumption. The feature of allowing a set number of episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (encomium forthcoming...stay tuned).
+There are digital analogues to Tsundoku, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of allowing a set number of episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (Pocket Casts encomium forthcoming...stay tuned).
 
 ![initials](/assets/images/pmb.initials.png)
