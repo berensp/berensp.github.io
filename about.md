@@ -7,7 +7,7 @@ My name is Paul Berens (<a href="https://en-audio.howtopronounce.com/9b50d7492de
 
 Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting. Almae matres: <a href="https://michiganross.umich.edu/" target="_blank">Michigan</a>, <a href="https://www.bc.edu" target="_blank">BC</a>, St. Thomas (Military) Academy.
 
-I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a>, philharmonic, technophilic, <a href="https://www.hbo.com/silicon-valley/season-6/5-tethics/tethics" target="_blank">tethic</a> [sic], unchic.
+I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a>, [librocubicularistic](/books), philharmonic, technophilic, <a href="https://www.hbo.com/silicon-valley/season-6/5-tethics/tethics" target="_blank">tethic</a> [sic], unchic.
 
 Say hello on these messengers / channels / platforms &#128071;
 

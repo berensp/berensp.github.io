@@ -6,9 +6,9 @@ author:	Paul Berens
 description: The first post on this website
 ---
 
-And here I thought I'd fire out of the starting gate, confidently proclaiming a bold and singular angle for this forum...and...I don't particualrly have one yet.
+And here I thought I'd explode out of the starting gate, confidently proclaiming a bold and singular angle for this forum...and...I don't particualrly have one yet.
 
-Ergo, while it percolates I'll reserve the right to post banal topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
+Ergo, while it percolates I'll reserve the right to post a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
 
 ...so why not begin by wishing you...
 
@@ -20,14 +20,14 @@ Ergo, while it percolates I'll reserve the right to post banal topics as a diary
 
 Tsundoku is much more meaningful when quantified with the **Berens Tsundoku Ratio**:
 
-> `(current # of books sitting unread on the shelf + estimated acquisitions over remainder of your life) ÷ avg. # of books read per annum ÷ approximate # of years you have left on this earth (or can no longer read)`
+> `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of your life) ÷ avg. # of books you read per annum ÷ approximate # of years you have left on this earth (or can no longer read)`
 
-`If (result) > 1.0 {` you can maybe do some donating and/or [build your own little free library](https://littlefreelibrary.org)[^1].
+`If (result) > 1 {` you can maybe do some donating and/or [build your own little free library](https://littlefreelibrary.org)[^1], and if > 3 or so you might get evaluated for bibliomania.
 
-[^1]: This aligns with Tim Urban's point that you don't read an endless number of books in your lifetime: you will read [years left to live × average number of books you read per year]; a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
+[^1]: H/T to Tim Urban who pointed all of this out: that [there's a finite—and estimable—number of things you'll do in your lifetime (including books read)](https://waitbutwhy.com/2015/12/the-tail-end.html)...a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
 
-This isn't just about shelf space and total book tonnage thing, because even if you're an e-reader it still behooves you to prioritize books/reading...to be *intentional* about it (to use modern parlance). I'll try to keep mine [here](/books).
+Even if you're an e-reader—I'm too bibliosmic to abandon hardcovers—it still behooves you to be *intentional* (to use the modern parlance) about what you consume since it's not only shelf space that is in limited supply but more than anything time. I'll try to keep a log [here](/books).
 
-There are digital analogues to Tsundoku, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (Pocket Casts encomium forthcoming...stay tuned).
+It's funny there are lots of analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (Pocket Casts encomium forthcoming...stay tuned).
 
 ![initials](/assets/images/pmb.initials.png)
