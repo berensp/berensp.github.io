@@ -6,14 +6,14 @@ permalink: /books/
 I'm not a high-output reader, but I do aspire to read meaningful, life-changing books.
 
 ## Presently reading
-- *Divine Comedy* - Dante Alighieri
+- [*Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) - Dante Alighieri
 
 ## On deck
-- *One Hundred Years of Solitude* - Gabriel García Márquez
-- *The Road* - Cormac McCarthy
+- [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) - Gabriel García Márquez
+- [*The Road*](https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0) - Cormac McCarthy
 
 ## Recently completed
-- *Driftless* - David Rhodes
+- [*Driftless*](https://www.google.com/books/edition/Driftless/9x8KFppvCAIC?hl=en&gbpv=0) - David Rhodes
 
 ## Some favorites
 - [*Brideshead Revisited*](https://www.google.com/books/edition/Brideshead_Revisited/mAjbDwAAQBAJ) - Evelyn Waugh
