@@ -28,6 +28,6 @@ Tsundoku is much more meaningful when quantified with the **Berens Tsundoku Rati
 
 Even if you're an e-reader—I'm too bibliosmic to abandon hardcovers—it still behooves you to be *intentional* (to use the modern parlance) about what you consume since it's not only shelf space that is in limited supply but more than anything time. I'll try to keep a log [here](/books).
 
-It's funny there are lots of analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons I love [Pocket Casts](https://www.pocketcasts.com/) (Pocket Casts encomium forthcoming...stay tuned).
+It's funny there are lots of analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love [Pocket Casts](https://www.pocketcasts.com/)—stay tuned for forthcoming Pocket Casts encomium.
 
 ![initials](/assets/images/pmb.initials.png)
