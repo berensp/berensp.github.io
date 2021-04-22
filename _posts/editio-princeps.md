@@ -20,11 +20,13 @@ Ergo, while it percolates I'll reserve the right to post a smörgåsbord of topi
 
 Tsundoku is much more meaningful when quantified with the **Berens Tsundoku Ratio**:
 
-> `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of your life) ÷ avg. # of books you read per annum ÷ approximate # of years you have left on this earth (or can no longer read)`
+> `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of your life) ÷ avg. # of books you read per annum[^1] ÷ approximate # of years you have left on this earth (or can no longer read)`
 
-`If (result) > 1 {` you can maybe do some donating and/or [build your own little free library](https://littlefreelibrary.org)[^1], and if > 3 or so you might get evaluated for bibliomania.
+[^1]: Or put your to-read list through the [howlongtoread.com](https://howlongtoread.com) to add it all up.
 
-[^1]: H/T to Tim Urban who pointed all of this out: that [there's a finite—and estimable—number of things you'll do in your lifetime (including books read)](https://waitbutwhy.com/2015/12/the-tail-end.html)...a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
+`If (result) > 1 {` you can maybe do some donating and/or [build your own little free library](https://littlefreelibrary.org)[^2], and if > 3 or so you might get evaluated for bibliomania.
+
+[^2]: H/T to Tim Urban who pointed all of this out: that [there's a finite—and estimable—number of things you'll do in your lifetime (including books read)](https://waitbutwhy.com/2015/12/the-tail-end.html)...a sad reality but [there are things to do about it](https://twitter.com/maxjoseph/status/1121086199983157250).
 
 Even if you're an e-reader—I'm too bibliosmic to abandon hardcovers—it still behooves you to be *intentional* (to use the modern parlance) about what you consume since it's not only shelf space that is in limited supply but more than anything time. I'll try to keep a log [here](/books).
 
