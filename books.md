@@ -3,7 +3,7 @@ layout: page
 title: Books 📚
 permalink: /books/
 ---
-I'm not a high-output reader, but I do aspire to read meaningful, life-changing books. What are you reading?
+I'm not a high-output reader, but I do aspire to read meaningful, life-changing books.
 
 ## Presently reading
 - *Divine Comedy* - Dante Alighieri
