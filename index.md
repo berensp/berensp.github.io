@@ -9,4 +9,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <img src="/assets/images/curricle.02.png" width="60%" height="60%">
 
-👋 Hi my name is Paul and I...[[cont.](/about/)].
+My name is Paul Berens (<a href="https://en-audio.howtopronounce.com/9b50d7492defb6a92d2f90480138e864.mp3">'bɪrənz</a>) and I...[[cont.](/about/)].
