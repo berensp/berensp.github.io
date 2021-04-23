@@ -3,6 +3,8 @@ layout: page
 title: Books 📚
 permalink: /books/
 ---
+![bookshelf](/assets/images/bookshelf.bw.png)
+
 I'm not a high-output reader, but I do aspire to read meaningful, life-changing books.
 
 ## Presently reading
@@ -16,6 +18,7 @@ I'm not a high-output reader, but I do aspire to read meaningful, life-changing 
 - [*Driftless*](https://www.google.com/books/edition/Driftless/9x8KFppvCAIC?hl=en&gbpv=0) by David Rhodes
 
 ## Some favorites
+- [*Alice in Wonderland*](https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0) by Lewis Carroll
 - [*Brideshead Revisited*](https://www.google.com/books/edition/Brideshead_Revisited/mAjbDwAAQBAJ) by Evelyn Waugh
 - [*Confederacy of Dunces*](https://www.google.com/books/edition/A_Confederacy_of_Dunces/WM6OztAsYWQC?hl=en&gbpv=0) by John Kennedy Toole
 - [*The Count of Monte Cristo*](https://www.google.com/books/edition/The_Count_of_Monte_Cristo/RyEEAAAAQAAJ?hl=en&gbpv=0) by Alexandre Dumas
