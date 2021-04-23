@@ -7,4 +7,6 @@ layout: home
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
+![curricle](/assets/images/curricle.02.png)
+
 Brave making more wampum to buy pelts. More [about me](/about/).
