@@ -5,9 +5,9 @@ permalink: /about/
 ---
 My name is Paul Berens (<a href="https://en-audio.howtopronounce.com/9b50d7492defb6a92d2f90480138e864.mp3">'bɪrənz</a>) and I live in San Francisco, but hail from [L'Étoile du Nord](/minnesota).
 
-Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting. Almae matres: <a href="https://michiganross.umich.edu/" target="_blank">Michigan</a>, <a href="https://www.bc.edu" target="_blank">BC</a>, St. Thomas (Military) Academy.
+Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting. Almae matres: <a href="https://michiganross.umich.edu/" target="_blank">Michigan</a>, <a href="https://www.bc.edu" target="_blank">BC</a>, <a href="https://www.thewrap.com/wp-content/uploads/2016/05/Top-Gun-Cast.png" target="_blank">St. Thomas Academy</a>.
 
-I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a>, philharmonic, technophilic, <a href="https://www.hbo.com/silicon-valley/season-6/5-tethics/tethics" target="_blank">tethic</a> [sic], unchic.
+I am <a href="https://www.strava.com/athletes/berenzino" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, eclectic, Germanic/Celtic, hispanophonic, <a href="https://twitter.com/KarlTheFog" target="_blank">homichlophilic</a>, [librocubicularistic](/books), philharmonic, technophilic, <a href="https://www.hbo.com/silicon-valley/season-6/5-tethics/tethics" target="_blank">tethic</a> [sic], unchic.
 
 Say hello on these messengers / channels / platforms &#128071;
 
