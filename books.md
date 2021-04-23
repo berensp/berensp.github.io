@@ -3,7 +3,7 @@ layout: page
 title: Books 📚
 permalink: /books/
 ---
-<img src="/assets/images/bookshelf.bw.png" alt="bookshelf" width="40%" height="40%">
+<img src="/assets/images/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 I'm not a high-output reader, but I do aspire to read meaningful, life-changing books.
 
@@ -22,6 +22,6 @@ I'm not a high-output reader, but I do aspire to read meaningful, life-changing 
 - [*Brideshead Revisited*](https://www.google.com/books/edition/Brideshead_Revisited/mAjbDwAAQBAJ) by Evelyn Waugh
 - [*Confederacy of Dunces*](https://www.google.com/books/edition/A_Confederacy_of_Dunces/WM6OztAsYWQC?hl=en&gbpv=0) by John Kennedy Toole
 - [*The Count of Monte Cristo*](https://www.google.com/books/edition/The_Count_of_Monte_Cristo/RyEEAAAAQAAJ?hl=en&gbpv=0) by Alexandre Dumas
-- [*A Prayer for Owen Meany*](https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0) by John Irving
 - [*Pillars of the Earth*](https://www.google.com/books/edition/_/QYYQDAAAQBAJ?hl=en&sa=X&ved=2ahUKEwit84DyoZLwAhXxhK0KHY5bDaUQ7_IDMB16BAgNEAU) by Ken Follett
+- [*A Prayer for Owen Meany*](https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0) by John Irving
 - [*The Seven Storey Mountain*](https://www.google.com/books/edition/The_Seven_Storey_Mountain/SIZiPwAACAAJ?hl=en&kptab=overview) by Thomas Merton
