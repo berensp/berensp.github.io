@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="/assets/images/pmb.sketch.png" width="25%" height="25%">
+<img src="/assets/images/pmb.sketch.png" width="35%" height="35%">
 
 My name is Paul Berens (<a href="https://en-audio.howtopronounce.com/9b50d7492defb6a92d2f90480138e864.mp3">'bɪrənz</a>) and I live in San Francisco, but hail from [L'Étoile du Nord](/minnesota).
 
