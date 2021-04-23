@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Editio Princeps
-date:	2021-04-20
+title:	Editio Princeps
+date:	2021-04-23
 author:	Paul Berens
 description: The first post on this website
+
 ---
 
 And here I thought I'd explode out of the starting gate, confidently proclaiming a bold and singular angle for this forum...and...I don't particualrly have one yet.
