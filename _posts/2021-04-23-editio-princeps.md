@@ -17,13 +17,14 @@ Ergo, while it percolates I'll reserve the right to post a smörgåsbord of topi
 
 ...from this rather slow reader guilty of [Tsundoku](https://www.google.com/search?q=Tsundoku) (Japanese: 積ん読).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This week&#39;s cover, “Bedtime Stories,” by Bruce Eric Kaplan. <a href="https://t.co/KXNilCUARs">https://t.co/KXNilCUARs</a> <a href="https://t.co/S36UHATjzO">pic.twitter.com/S36UHATjzO</a></p>&mdash; The New Yorker (@NewYorker) <a href="https://twitter.com/NewYorker/status/1135516514910711809?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Tsundoku is much more meaningful when quantified with the **Berens Tsundoku Ratio**:
+<img src="https://media.newyorker.com/photos/5cf04c5edbca2c0f4b0f477d/master/w_2560%2Cc_limit/CoverStory-STORY_BEK_fiction.jpg" alt="Bedtime Stories" width="50%" height="50%">
 
-> `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of your life) ÷ avg. # of books you read per annum[^1] ÷ approximate # of years you have left on this earth (or can no longer read)`
+Tsundoku is more meaningful when we can quantify with my **To Prune Or Not To Prune Ratio**™:
 
-[^1]: Or put your to-read list through the [howlongtoread.com](https://howlongtoread.com) to add it all up.
+> `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of your life) ÷ avg. # of books you read per annum ÷ approximate # of years you have left on this earth (or can no longer read)`
+
+*NB: for a more precise approach put your to-read list through the [howlongtoread.com](https://howlongtoread.com), and add up the hours.*
 
 `If (result) > 1 {` you can maybe do some donating and/or [build your own little free library](https://littlefreelibrary.org)[^2], and if > 3 or so you might get evaluated for bibliomania.
 
@@ -33,4 +34,4 @@ Even if you're an e-reader—I'm too bibliosmic to abandon hardcovers—it still
 
 It's funny there are lots of analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love [Pocket Casts](https://www.pocketcasts.com/)—stay tuned for forthcoming Pocket Casts encomium.
 
-![initials](/assets/images/pmb.initials.png)
+![initials](../assets/images/pmb.initials.png)
