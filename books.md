@@ -3,7 +3,7 @@ layout: page
 title: Books 📚
 permalink: /books/
 ---
-![bookshelf](/assets/images/bookshelf.bw.png)
+<img src="/assets/images/bookshelf.bw.png" alt="bookshelf" width="40%" height="40%">
 
 I'm not a high-output reader, but I do aspire to read meaningful, life-changing books.
 
