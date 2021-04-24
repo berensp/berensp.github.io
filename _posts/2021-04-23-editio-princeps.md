@@ -24,14 +24,14 @@ How much more meaningful Tsundoku is when quantified with my **To Prune Or Not T
 > `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of life) ÷ avg. # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
 
 If the result[^1] is approaching or greater than one I might consider:
-* **Lending to family and friends**. Discover USPS' hidden gem formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>. A delightful way to keep books moving. (Not necessarily a good thing if you like to take notes in your books or your books are so precious that you've got <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a>.
+* **Lending to family and friends**. Discover USPS' hidden gem formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>. A delightful way to keep books moving. (Not necessarily a good thing for note-taking readers or for those for whom books are so precious that you've got <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a>.
 * **Donating**. To the public library...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> I intend to build.
 
-If it's greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, evaluate for possible bibliomania.
+If the result is greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, evaluate for possible bibliomania.
 
 [^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.*
 
-Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still behooves me to be *intentional* about what I consume since it's not only shelf space that is in limited supply but more than anything time[^2].
+Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still behooves me to be thoughtful about what I consume since it's not only shelf space that is in limited supply but more than anything time[^2].
 
 [^2]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
 
