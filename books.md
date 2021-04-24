@@ -5,7 +5,7 @@ permalink: /books/
 ---
 <img src="/assets/images/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
-I shan't claim to be particularly well-read; but I do aspire to read meaningful, life-changing books.
+I ain't particularly well-read; but I do aspire to read meaningful, life-changing books.
 
 ## Presently reading
 - [*The Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) by Dante Alighieri
