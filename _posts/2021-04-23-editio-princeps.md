@@ -7,11 +7,11 @@ description: First post...finally. Might as well make it about books.
 
 ---
 
-And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this forum...and...I don't particualrly have one yet.
+And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this forum...but it isn't to be...yet.
 
 So while it percolates I guess I'll just post a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
 
-...so why not begin by wishing you...
+So why not begin by wishing you...
 
 ## Happy <a href="https://twitter.com/hashtag/WorldBookDay" target="_blank">#WorldBookDay</a>) 📚
 
@@ -19,7 +19,7 @@ So while it percolates I guess I'll just post a smörgåsbord of topics as a dia
 
 <img src="https://media.newyorker.com/photos/5cf04c5edbca2c0f4b0f477d/master/w_2560%2Cc_limit/CoverStory-STORY_BEK_fiction.jpg" alt="Bedtime Stories" width="70%" height="70%">
 
-How much more meaningful Tsundoku is when quantified with my **To Prune Or Not To Prune Ratio**™:
+How much more meaningful Tsundoku is, though, when quantified with my **To Prune Or Not To Prune Ratio**™:
 
 > `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of life) ÷ avg. # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
 
@@ -37,7 +37,7 @@ Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still
 
 I'll keep my log [here](/books).
 
-<center>&#x1F65F;</center>
+<center>&#128600;</center>
  
 There are countless analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
 
