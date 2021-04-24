@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Editio Princeps
+title:	Editio Princeps + World Book Day
 date:	2021-04-23
 author:	Paul Berens
 description: First post...finally. Might as well make it about books.
@@ -27,7 +27,7 @@ If the result[^1] is approaching or greater than one I might consider:
 * **Lending to family and friends**. Discover USPS' hidden gem formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to keep in touch with your peops and keep books moving. (Not necessarily a good thing for note-taking readers or for those for whom books are so precious that <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a> surface.)
 * **Donating**. To the public library...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> I intend to build.
 
-If the result is greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, evaluate for possible bibliomania.
+If the result is greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, get evaluated for possible bibliomania.
 
 [^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.
 
