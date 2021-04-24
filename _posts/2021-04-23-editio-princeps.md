@@ -29,13 +29,15 @@ If the result[^1] is approaching or greater than one I might consider:
 
 If the result is greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, evaluate for possible bibliomania.
 
-[^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.*
+[^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.
 
 Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still behooves me to be thoughtful about what I consume since it's not only shelf space that is in limited supply but more than anything time[^2].
 
 [^2]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
 
 I'll keep my log [here](/books).
+
+<center>&#128607;</center>
 
 There are countless analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
 
