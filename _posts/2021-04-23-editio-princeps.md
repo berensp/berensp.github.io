@@ -39,6 +39,6 @@ I'll keep my log [here](/books).
 
 <center>&#128607;</center>
 
-There are countless analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
+<p>There are countless analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
 
 ![initials](/assets/images/initials.pmb.png)
