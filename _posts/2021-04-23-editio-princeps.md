@@ -7,13 +7,13 @@ description: First post...finally. Might as well make it about books.
 
 ---
 
-And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this forum...but it isn't to be...yet.
+And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this blog...but it isn't to be...just yet.
 
 So while it percolates I guess I'll just post a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
 
 So why not begin by wishing you...
 
-## Happy <a href="https://twitter.com/hashtag/WorldBookDay" target="_blank">#WorldBookDay</a>) 📚
+## Happy <a href="https://twitter.com/hashtag/WorldBookDay" target="_blank">#WorldBookDay</a> 📚
 
 ...from this rather slow reader guilty of <a href="https://www.google.com/search?q=Tsundoku" target="_blank">Tsundoku</a>.
 
