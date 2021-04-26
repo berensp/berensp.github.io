@@ -20,7 +20,7 @@ I ain't particularly well-read, but changing that one book at a time.
 
 ## Some favorites
 - [*Alice in Wonderland*](https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0) by Lewis Carroll
-- [*Badland*](https://www.google.com/books/edition/Bad_Land/ZbiNJcYeM6gC?hl=en&gbpv=0 by Jonathan Raban
+- [*Badland*](https://www.google.com/books/edition/Bad_Land/ZbiNJcYeM6gC?hl=en&gbpv=0) by Jonathan Raban
 - [*Brideshead Revisited*](https://www.google.com/books/edition/Brideshead_Revisited/mAjbDwAAQBAJ) by Evelyn Waugh
 - [*Confederacy of Dunces*](https://www.google.com/books/edition/A_Confederacy_of_Dunces/WM6OztAsYWQC?hl=en&gbpv=0) by John Kennedy Toole
 - [*The Count of Monte Cristo*](https://www.google.com/books/edition/The_Count_of_Monte_Cristo/RyEEAAAAQAAJ?hl=en&gbpv=0) by Alexandre Dumas
