@@ -11,7 +11,7 @@ And here I thought I'd explode out of the starting gate, boldly proclaiming a si
 
 So while it percolates I guess I'll just post a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
 
-So why not begin by wishing you...
+So why not begin by wishing you and yours a...
 
 ## Happy <a href="https://twitter.com/hashtag/WorldBookDay" target="_blank">#WorldBookDay</a> 📚
 
@@ -23,9 +23,9 @@ How much more meaningful Tsundoku is, though, when quantified with my **To Prune
 
 > `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of life) ÷ avg. # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
 
-If the result[^1] is approaching or greater than one I might consider:
+If the result[^1] is approaching or greater than one you might consider:
+* **Donating**. To the public library, your favorite book drive...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> you intend to build.
 * **Lending**. Discover USPS' hidden gem for pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to keep in touch with your family and friends and keep books moving. (Not necessarily a good thing for note-taking readers or for those for whom books are so precious that <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a> surface.)
-* **Donating**. To the public library...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> I intend to build.
 
 If the result is greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, get evaluated for possible bibliomania.
 
@@ -41,4 +41,4 @@ I'll keep my log [here](/books).
  
 There are countless analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
 
-![initials](/assets/images/initials.pmb.png)
+![initials](/assets/images/initials.pmb.71.56.png)
