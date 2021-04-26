@@ -7,11 +7,11 @@ description: First post...finally. Might as well make it about books.
 
 ---
 
-And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this blog...but it isn't to be...just yet.
+And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this blog, but it isn't to be...just yet.
 
-So while it percolates I guess I'll just post a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
+So while it percolates I guess I'll just write on a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
 
-So why not begin by wishing you and yours a...
+Why not begin by wishing you and yours a...
 
 ## Happy <a href="https://twitter.com/hashtag/WorldBookDay" target="_blank">#WorldBookDay</a> 📚
 
@@ -24,10 +24,10 @@ How much more meaningful Tsundoku is, though, when quantified with my **To Prune
 > `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of life) ÷ avg. # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
 
 If the result[^1] is approaching or greater than one you might consider:
-* **Donating**. To the public library, your favorite book drive...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> you intend to build.
-* **Lending**. Discover USPS' hidden gem for pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to keep in touch with your family and friends and keep books moving. (Not necessarily a good thing for note-taking readers or for those for whom books are so precious that <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a> surface.)
+* **Donating**. A la biblioteca, your favorite book drive...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> you intend to build.
+* **Lending**. USPS has a secret gem for pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to keep in touch with distant family and friends, and keep books moving. (Not necessarily a good thing for margin-scribblers or for those for whom books are so precious that <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a> present.)
 
-If the result is greater than three and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>, get evaluated for possible bibliomania.
+If the result is greater than ~three (and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>) get evaluated for possible <a href="https://www.theguardian.com/books/2017/jan/26/bibliomania-the-strange-history-of-compulsive-book-buying" target="_blank">bibliomania</a>.
 
 [^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.
 
@@ -35,10 +35,10 @@ Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still
 
 [^2]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
 
-I'll keep my log [here](/books).
+[My running list](/books).
 
 <center>&#128600;</center>
  
-There are countless analogues to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
+There are quite a few parallels to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
 
 ![initials](/assets/images/initials.pmb.71.56.png)
