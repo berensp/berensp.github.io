@@ -7,6 +7,6 @@ layout: home
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<img src="/assets/images/curricle.02.png" width="60%" height="60%">
+<img src="/assets/images/curricle.02.png" width="40%" height="40%">
 
 👋 My name is Paul Berens and I...[[cont.](/about/)].
