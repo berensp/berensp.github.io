@@ -5,7 +5,7 @@ permalink: /books/
 ---
 <img src="/assets/images/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
-I ain't particularly well-read, but changing that one book at a time.
+I ain't particularly well-read, but changing that situation one book at a time.
 
 ## Presently reading
 - [*The Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) by Dante Alighieri
