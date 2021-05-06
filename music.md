@@ -8,5 +8,5 @@ I ain't particularly music-literate, but changing that situation one song at a t
 ## My messin' around
 
 <audio class="js-player">
-<source src="https://soundcloud.com/berens/walk-on-the-ocean"/>
+<source src="/assets/songs/WeBelong.m4a"/>
 </audio>
