@@ -19,7 +19,7 @@ Why not begin by wishing you and yours a...
 
 <img src="https://media.newyorker.com/photos/5cf04c5edbca2c0f4b0f477d/master/w_2560%2Cc_limit/CoverStory-STORY_BEK_fiction.jpg" alt="Bedtime Stories" width="70%" height="70%">
 
-How much more meaningful Tsundoku is, though, when quantified with my **To Prune Or Not To Prune Ratio**™:
+How much more meaningful would Tsundoku be as a concept if it could be quantified? Don't despair. Introducing the **To Prune Or Not To Prune Ratio**™:
 
 > `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of life) ÷ avg. # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
 
