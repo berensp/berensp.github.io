@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <img src="/assets/images/pmb.sketch.png" width="35%" height="35%">
 
-My name is Paul Berens (<a href="https://en-audio.howtopronounce.com/9b50d7492defb6a92d2f90480138e864.mp3">'bɪrənz</a>) and I live in San Francisco, but hail from [L'Étoile du Nord](/minnesota).
+My name is Paul Berens (<a href="/assets/audio/berens.mp3">'bɪrənz</a>) and I live in San Francisco, but hail from [L'Étoile du Nord](/minnesota).
 
 Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting. Almae matres: <a href="https://michiganross.umich.edu/" target="_blank">Michigan</a>, <a href="https://bc.edu" target="_blank">BC</a>, <a href="https://www.thewrap.com/wp-content/uploads/2016/05/Top-Gun-Cast.png" target="_blank">St. Thomas Academy</a>.
 
