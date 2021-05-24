@@ -35,7 +35,7 @@ Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still
 
 [^2]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
 
-<mark>[My running list](/books).</mark>
+<mark><a href="/books">My running list</a></mark>
 
 <center>&#128600;</center>
  
