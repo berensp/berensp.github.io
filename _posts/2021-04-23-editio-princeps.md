@@ -23,11 +23,11 @@ How much more meaningful would Tsundoku be as a concept if it could be quantifie
 
 > `(current # of books sitting unread on the shelf + estimated acquisitions over the remainder of life) ÷ avg. # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
 
-If the result[^1] is approaching or greater than one you might consider:
-* **Donating**. A la biblioteca, your favorite book drive...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> you intend to build.
-* **Lending**. USPS has a secret gem for pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to keep in touch with distant family and friends, and keep books moving. (Not necessarily a good thing for margin-scribblers or for those for whom books are so precious that <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a> present.)
+If the result[^1] is approaching or greater than one (1):
+* **Donate**. A la biblioteca, your favorite book drive...or that adorable <a href="https://littlefreelibrary.org" target="_blank">little free library</a> you intend to build.
+* **Lend**. USPS has a secret gem for pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to keep in touch with distant family and friends, and keep books moving. (Not necessarily a good thing for margin-scribblers or for those for whom books are so precious that <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">these sorts of reservations</a> present.)
 
-If the result is greater than ~three (and in the absence of personal library like <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">this</a>) get evaluated for possible <a href="https://www.theguardian.com/books/2017/jan/26/bibliomania-the-strange-history-of-compulsive-book-buying" target="_blank">bibliomania</a>.
+If you're in the 3+ range (and in the absence of a <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">majestic personal library</a>) get evaluated for possible <a href="https://www.theguardian.com/books/2017/jan/26/bibliomania-the-strange-history-of-compulsive-book-buying" target="_blank">bibliomania</a>.
 
 [^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.
 
@@ -35,7 +35,7 @@ Even if I were an e-reader—I'm too bibliosmic to abandon hardcovers—it still
 
 [^2]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
 
-[My running list](/books).
+<mark>[My running list](/books).</mark>
 
 <center>&#128600;</center>
  
