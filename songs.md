@@ -10,9 +10,6 @@ permalink: /songs/
 <source src="/assets/songs/WeBelong.m4a"/>
 </audio>
 
-
-<ul>
-<li class="plyr__cite plyr__cite--audio" hidden>
 <small>
 <svg class="icon" title="HTML5">
 <title>HTML5</title>
@@ -21,4 +18,3 @@ permalink: /songs/
 <a href="http://www.kishibashi.com/" target="_blank">Kishi Bashi &ndash; &ldquo;It All Began With A Burst&rdquo;</a>
 &copy; Kishi Bashi
 </small>
-</li>
