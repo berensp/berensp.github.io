@@ -9,4 +9,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <img src="/assets/images/curricle.02.png" width="40%" height="40%">
 
-👋 My name is Paul Berens and I...[[cont.](/about/)].
+Hi 👋, I'm Paul. This is my internet website. [More about me](/about/).
