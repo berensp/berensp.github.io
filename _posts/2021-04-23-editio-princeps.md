@@ -25,13 +25,13 @@ How much more meaningful would Tsundoku be as a concept if it could be quantifie
 
 If the result[^1] ≥ one (1):
 * **Donate**. To your favorite book drive or <a href="https://littlefreelibrary.org" target="_blank">little free library</a> around the corner.
-* **Lend/Send**. USPS has a secret gem for us pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to stay in touch with distant family and friends, and keep books moving. (But know thyself and <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">thy lending rules</a> first.
+* **Lend/Send**. USPS has a secret gem for us pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to stay in touch with distant family and friends, and keep books moving. (But know thyself and <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">thy lending rules</a> first.)
 
 In the 3+ range (and in the absence of a <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">majestic personal library</a>) get evaluated for possible <a href="https://www.theguardian.com/books/2017/jan/26/bibliomania-the-strange-history-of-compulsive-book-buying" target="_blank">bibliomania</a>.
 
 [^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.
 
-Even if I were an e-reader—I'm too bibliosmic[^2] to abandon hardcovers—it still behooves me to be thoughtful about what I consume since it's not only shelf space that is in limited supply but more than anything time[^3].
+Even for e-readers—I'm too bibliosmic[^2] to abandon hardcovers—it's still advisable to be thoughtful about what you consume since it's not only shelf space that is in limited supply but more than anything time[^3].
 
 [^2]: Should be added to my [-ic descriptors list](/about), but "reading in bed" occupies the book-related slot.
 
