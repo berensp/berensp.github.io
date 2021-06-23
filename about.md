@@ -14,6 +14,7 @@ I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</
 Say hello on these messengers / channels / platforms &#128071;
 
 <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;
+<a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a>&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a>&nbsp;&nbsp;&nbsp;
 <a rel="me" href="https://mastodon.social/@berens" target="_blank"><i class="fab fa-mastodon"></i></a>&nbsp;&nbsp;&nbsp;
