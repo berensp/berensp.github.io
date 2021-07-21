@@ -10,6 +10,7 @@ ogimage: bookshelf.bw.png
 I ain't particularly well-read, but changing that situation one book at a time.
 
 ## Presently reading
+- [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
 - [*The Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) by Dante Alighieri
 - [*For Whom the Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
 
