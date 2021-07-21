@@ -5,7 +5,7 @@ permalink: /minnesota/
 ---
 <img src="/assets/images/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
 
-My running tally of what makes Minnesota unique, interesting, valuable, loveable, [happy](https://wallethub.com/edu/happiest-states/6959)...
+My running tally of what makes L'Étoile du Nord unique, interesting, valuable, loveable, [happy](https://wallethub.com/edu/happiest-states/6959)...
 
 ## Les Arts 🎭
 - **Performing Arts** - home to [the oldest continuously running theater](https://en.wikipedia.org/wiki/Old_Log_Theatre), [the largest dinner theater](https://chanhassendt.com/history-of-chanhassen-dinner-theatres/), and [the largest regional playhouse in the country](https://www.guthrietheater.org); second largest number of theater seats per capita[^1]
