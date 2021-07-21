@@ -4,7 +4,7 @@ title:	Editio Princeps
 date:	2021-04-23
 author:	Paul Berens
 description: First post...finally. Might as well make it about books.
-ogimage: bookshelf.bw.png
+ogimage: curricle-canv-sm.png
 
 ---
 
