@@ -2,8 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+ogimage: pmb.sketch.png
+
 ---
-<img src="/assets/images/pmb.sketch.png" width="35%" height="35%">
+<img src="/assets/og/pmb.sketch.png" width="35%" height="35%">
 
 My name is Paul Berens (<a href="/assets/audio/berens.mp3">'bɪrənz</a>) and I live in San Francisco, but hail from [L'Étoile du Nord](/minnesota).
 
