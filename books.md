@@ -7,7 +7,7 @@ ogimage: bookshelf.bw.png
 ---
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
-I ain't particularly well-read, but changing that situation one book at a time.
+I ain't particularly well-read, but changing that situation one book at a time. *Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo.*
 
 ## Presently reading
 - [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
