@@ -9,7 +9,7 @@ ogimage: pmb.sketch.png
 
 My name is Paul Berens (<a href="/assets/audio/berens.mp3">'bɪrənz</a>) and I live in San Francisco, but am bi-coastal if you consider the [Mississippi River one of the coasts](/minnesota).
 
-Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting. Almae matres: <a href="https://michiganross.umich.edu/" target="_blank">UMich</a>, <a href="https://bc.edu" target="_blank">BC</a>, <a href="https://pb.url.lol/sta" target="_blank">St. Thomas Academy</a>.
+Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting. Almae matres: <a href="https://michiganross.umich.edu/" target="_blank">UMich</a>, <a href="https://bc.edu" target="_blank">BC</a>, <a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a>.
 
 I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, eclectic, Germanic/Celtic, <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [librocubicularistic](/books), philharmonic, technophilic, unchic.
 
