@@ -3,7 +3,6 @@ layout: page
 title: Books 📚
 permalink: /books/
 ogimage: bookshelf.bw.png
-
 ---
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 

@@ -2,6 +2,7 @@
 layout: page
 title: Songs 🎼
 permalink: /songs/
+description: If you sing; sing, sing.
 ---
 ## My half-baked recordings (solo)
 
