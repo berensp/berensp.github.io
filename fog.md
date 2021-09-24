@@ -3,11 +3,11 @@ layout: page
 title: Fog 🌫
 permalink: /fog/
 ogimage: ggb.jpg
-description: the fog slips ghost like into a thousand rooms
+description: the fog slips ghost-like into a thousand rooms
 ---
 <img src="/assets/og/ggb.jpg">
 
-Fog is the romance of San Francisco: rolling through the hills, hanging high in the eucalyptus trees, shrouding cityscapes, and [keeping runners like me nice and cool](https://www.strava.com/activities/5460410709/).
+Fog is the romance of San Francisco: rolling through the hills, hanging high in the eucalyptus trees, shrouding cityscapes, and keeping runners and cyclists nice 'n' cool.
 
 > *Hark now, hear the sailors cry*\
 > *Smell the sea and feel the sky*\
