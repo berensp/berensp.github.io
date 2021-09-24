@@ -6,7 +6,7 @@ ogimage: ggb.jpg
 ---
 <img src="/assets/og/ggb.jpg">
 
-I can't say I love everything about San Francisco, but the fog is undoubtedly one of its best and most enchanting qualities; rolling through the hills, hanging high in the eucalyptus trees, shrouding views, and [cooling down us runners](https://www.strava.com/activities/5460410709/).
+The fog is undoubtedly one of San Francisco's best and most enchanting features: rolling through the hills, hanging high in the eucalyptus trees, shrouding views, and [cooling down runners](https://www.strava.com/activities/5460410709/).
 
 > *Hark now, hear the sailors cry*\
 > *Smell the sea and feel the sky*\
