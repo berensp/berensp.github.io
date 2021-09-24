@@ -16,4 +16,4 @@ I can't say I love everything about San Francisco, but the fog is undoubtedly on
 > *I will be coming home*\
 > *Yeah, when that fog horn blows*\
 > *I wanna hear it*\
-> *I don't have to fear it*\
+> *I don't have to fear it*
