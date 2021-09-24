@@ -2,6 +2,7 @@
 layout: page
 title: Minnesota
 permalink: /minnesota/
+description: Where all the women are strong, all the men are good-looking, and all the children are above average.
 ---
 <img src="/assets/images/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
 

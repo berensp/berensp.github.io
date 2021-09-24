@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ogimage: pmb.sketch.png
-
 ---
 <img src="/assets/og/pmb.sketch.png" width="35%" height="35%">
 
