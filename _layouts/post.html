@@ -4,5 +4,5 @@ layout: default
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 <h1>{{ page.title | escape }}</h1>
 {{ content }}
-<p class="muted small">First published: {{ page.date | date: "%d %B %Y" }} | <a class="muted small" href="https://twitter.com/intent/tweet?url={{ post.url | relative_url }}" target="_blank">tweet</a></p>
+<p class="muted small">First published: {{ page.date | date: "%d %B %Y" }} | <a class="muted small" href="https://twitter.com/intent/tweet?url={{ original_referer }}" target="_blank">tweet</a></p>
 {%- include footer.html -%}
