@@ -1,6 +1,6 @@
 ---
 layout: post
-title:	Editio Princeps
+title:	Editio Princeps / Tsundoku
 date:	2021-04-23
 author:	Paul Berens
 description: First post...finally. Might as well make it about books.
@@ -38,7 +38,7 @@ Even for e-readers—I'm too bibliosmic[^2] to abandon hardcovers—it's still a
 
 [^3]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
 
-<mark><a href="/books">My running list</a></mark>
+<mark><a href="/books/">My running list</a></mark>
 
 <center>&#128600;</center>
  
