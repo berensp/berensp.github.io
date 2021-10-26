@@ -12,3 +12,10 @@ Sans-serif typefacing
 Imprinted at San Francisco, California
 
 anno Domini MMXXI
+
+<p><center><img src="/assets/images/divider-g2fa5b2a44_1280.png" width="35%" height="35%">
+
+<p class="muted small">
+Image by <a href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834">Gordon Johnson</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834">Pixabay</a>
+</p>
+</center>
