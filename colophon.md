@@ -12,3 +12,5 @@ Sans-serif typefacing
 Imprinted at San Francisco, California
 
 anno Domini MMXXI
+
+<img src="/assets/images/divider-g2fa5b2a44_1280.png" width="35%" height="35%">
