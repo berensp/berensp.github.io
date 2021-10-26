@@ -13,10 +13,9 @@ Imprinted at San Francisco, California
 
 anno Domini MMXXI
 
-<p><center>
+<center>
 ![flourish](/assets/images/divider-g2fa5b2a44_1280.png)
-
-<p class="muted small">
-Image by <a class="muted small" href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834">Gordon Johnson</a> from <a class="muted small" href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834">Pixabay</a>
+<p>
+<div class="muted small">Image by </div><a class="muted small" href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834">Gordon Johnson</a><div class="muted small"> from  </div><a class="muted small" href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834">Pixabay</a>
 </p>
 </center>
