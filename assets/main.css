@@ -65,3 +65,11 @@ hr {
 .small {
   font-size: .8em; 
 }
+
+
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+    } 
+body {
+    top: 0px !important; 
+    }
