@@ -13,12 +13,12 @@ Say hello on these messengers / channels / platforms &#128071;
 - **Professional stuff:** <a href="https://angel.co/berens" target="_blank">AngelList</a>, <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - **Events:** send me an email or a calendar item to my email; <strike>[Facebook](/fb/)</strike>
 
-[^1]: *<https://www.wired.com/story/ditch-all-those-other-messaging-apps-heres-why-you-should-use-signal/?utm_source=WIR_REG_GATE" target="_blank">Ditch All Those Other Messaging Apps: Here's Why You Should Use Signal</a>
+[^1]: *<a href="https://www.wired.com/story/ditch-all-those-other-messaging-apps-heres-why-you-should-use-signal/?utm_source=WIR_REG_GATE" target="_blank">Ditch All Those Other Messaging Apps: Here's Why You Should Use Signal</a>*
 
 [^2]: Keybase is a great encrypted platform as well. It's also identity management: how you know that the owner of [berens.co](/index/) is the same person as <a href="https://twitter.com/berensp" target="_blank">@berensp</a> on Twitter, who is the same person as <a href="https://mastodon.cloud/@berens" target="_blank">@berens</a> on @mastodon.cloud.
 
 [^3]: 🤘<i class="fab fa-android">🤘
 
-[^4]: [Mastodon and the fediverse](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html) should be the answer to social media's ills, but...still waiting for my first connection 😐
+[^4]: [Mastodon and the fediverse](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html) should be the answer to social media's ills, but...still waiting for my first connection 😐 (i.e. there's a tall network externalities mountain to climb).
 
 [^5]: As newsletters/blogs are becoming more prevalent maybe this old-school, user-controlled technology is the answer (and then antidote to the monolithic social media-controlled feeds). I'm trying to migrate my content to it (via [Feedly](https://feedly.com)).
