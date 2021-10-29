@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact &#128483;
+title: Contact 📇
 permalink: /contact/
 ogimage: phone.png
 ---
