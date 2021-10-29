@@ -19,6 +19,6 @@ Say hello on these messengers / channels / platforms &#128071;
 
 [^3]: 🤘<i class="fab fa-android">🤘
 
-[^4]: [Mastodon and the fediverse](https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html) should be the answer to social media's ills, but...still waiting for my first connection 😐 (i.e. there's a tall network externalities mountain to climb).
+[^4]: <a href="https://www.nytimes.com/2018/03/28/technology/social-media-privacy.html" target="_blank">Mastodon and the fediverse</a> should be the answer to social media's ills, but...still waiting for my first connection 😐 (i.e. there's a tall network externalities mountain to climb).
 
-[^5]: As newsletters/blogs are becoming more prevalent maybe this old-school, user-controlled technology is the answer (and then antidote to the monolithic social media-controlled feeds). I'm trying to migrate my content to it (via [Feedly](https://feedly.com)).
+[^5]: As newsletters/blogs are becoming more prevalent maybe this old-school, user-controlled technology is the answer (and then antidote to the monolithic social media-controlled feeds). I'm trying to migrate my content to it (via <a href="https://feedly.com/" target="_blank">Feedly</a>).
