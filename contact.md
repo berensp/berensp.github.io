@@ -6,9 +6,19 @@ ogimage: phone.png
 ---
 Say hello on these messengers / channels / platforms:
 
+## By category
 - **Messaging:** <a href="https://signal.org" target="_blank">Signal</a>[^1], <a href="https://t.me/berensp" target="_blank">Telegram</a>, <a href="https://keybase.io/berens" target="_blank">Keybase</a>[^2], <a href="https://chat.google.com" target="_blank">Google Chat</a>, <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a>, <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>, KakaoTalk (카카오톡), <a href="mailto:pb@omg.lol">good ol' fashioned electronic mail</a>, <strike>iMessage</strike>[^3], <strike>WhatsApp</strike>, <strike><a href="../fb">Facebook Messenger</a></strike>
 - **Social media:** <a href="https://twitter.com/berensp" target="_blank">Twitter</a>, <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">Mastodon</a>[^4], <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>, [RSS](https://berens.co/feed.xml)[^5], <strike><a href="../fb">Facebook, Instagram</a></strike>
-- **Professional stuff:** <a href="https://angel.co/berens" target="_blank">AngelList</a>, <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
+- **Professional / investing:** <a href="https://angel.co/berens" target="_blank">AngelList</a>, <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
+
+## By platform
+- <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i> AngelList</a> for networking and investments
+- <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i> Discord</a> for 
+- <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a> for encrypted/secure chat and file-sharing, and verifying each channel is really me[^2]
+- <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn</a> for professional networking
+- <a rel="me" href="https://mastodon.social/@berens" target="_blank"><i class="fab fa-mastodon"></i>< Mastodon/a> for non-evil social media
+- <a href="https://www.strava.com/athletes/berenzino" target="_blank"><i class="fab fa-strava"></i> Strava</a> for engendering a destructive amount competitiveness amongst friends
+- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>—but only the good parts (e.g. learning)
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
 
