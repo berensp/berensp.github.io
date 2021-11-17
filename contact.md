@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these messengers / channels / platforms
 ---
-## Sí se puede 🟢
+## Sí se puede 👍
 Say hello on these messengers / channels / platforms:
 - <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">AngelList</a> for networking and investments
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i></a> <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a> for chats and videos and other like Slack-like things (but personal [non-work] stuffs)
@@ -17,19 +17,16 @@ Say hello on these messengers / channels / platforms:
 - <a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a> for interesting questions 
 - <a href="https://berens.co/feed.xml" target="_blank"><i class="fas fa-rss"></i></a> <a href="https://berens.co/feed.xml" target="_blank">RSS</a> for me to add your blog into my <a href="https://feedly.com/" target="_blank">Feedly</a>
 - <a href="https://signal.org" target="_blank">Signal</a>[^1] for encrypted, cross-platform messaging
-- <a href="https://t.me/berensp" target="_blank"><i class="fab fa-telegram"></i></a> <a href="https://t.me/berensp" target="_blank">Strava</a> for messaging
+- <a href="https://t.me/berensp" target="_blank"><i class="fab fa-telegram"></i></a> <a href="https://t.me/berensp" target="_blank">Telegram</a> for messaging
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank"><i class="fab fa-strava"></i></a> <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a> for keeping friends motivated with runs and rides
-- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/berensp" target="_blank">Twitter</a> and 
-<a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a>
- ...but only the good parts (e.g. learning)
+- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/berensp" target="_blank">Twitter</a> ...but only the good parts (e.g. learning)
 
 ## No se puede ⛔
 - <strike><a href="../fb">Facebook</a></strike>
 - <strike><a href="../fb">FB Messenger</a></strike>
-- <strike>iMessage</strike>[^3]
+- <strike>iMessage[^3]</strike>
 - <strike><a href="../fb">Instagram</a></strike>
 - <strike><a href="../fb">WhatsApp</a></strike>
-
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
 
