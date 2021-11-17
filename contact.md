@@ -13,12 +13,12 @@ Say hello on these messengers / channels / platforms:
 
 ## By platform
 - <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i> AngelList</a> for networking and investments
-- <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i> Discord</a>—like Slack but for non-work stuffs
-- <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a> for encrypted/secure chat and file-sharing, and verifying each channel is really me[^2]
+- <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i> Discord</a> for chats and videos and other like Slack-like things (but personal [non-work] stuffs)
+- <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i> Keybase</a> for encrypted/secure chat/file-sharing and identity proofs[^2]
 - <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i> LinkedIn</a> for professional networking
 - <a rel="me" href="https://mastodon.social/@berens" target="_blank"><i class="fab fa-mastodon"></i> Mastodon</a> for non-evil social media
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank"><i class="fab fa-strava"></i> Strava</a> for engendering a destructive amount competitiveness amongst friends
-- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>—but only the good parts (e.g. learning)
+- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>...but only the good parts (e.g. learning)
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
 
