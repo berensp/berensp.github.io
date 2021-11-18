@@ -16,15 +16,13 @@ Say hello on these messengers / channels / platforms:
 - <a rel="me" href="https://mastodon.social/@berens" target="_blank"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.social/@berens" target="_blank">Mastodon</a> for non-evil social media
 - <a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a> for interesting questions 
 - <a href="https://berens.co/feed.xml" target="_blank"><i class="fas fa-rss"></i></a> <a href="https://berens.co/feed.xml" target="_blank">RSS</a> for me to add your blog into my <a href="https://feedly.com/" target="_blank">Feedly</a>
-- <a href="https://signal.org" target="_blank">Signal</a>[^1] for encrypted messaging
+- <a href="https://signal.org" target="_blank">Signal</a> for encrypted messaging
 - <a href="https://t.me/berensp" target="_blank"><i class="fab fa-telegram"></i></a> <a href="https://t.me/berensp" target="_blank">Telegram</a> for messaging
-- <a href="https://www.strava.com/athletes/berenzino" target="_blank"><i class="fab fa-strava"></i></a> <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a> for keeping friends motivated with runs and rides
-- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/berensp" target="_blank">Twitter</a> ...but only the good parts (e.g. learning)
+- <a href="https://www.strava.com/athletes/berenzino" target="_blank"><i class="fab fa-strava"></i></a> <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a> for competing viciously against friends
+- <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/berensp" target="_blank">Twitter</a> ...but only the good parts (e.g. learning, polemics)
 
 ## No se puede ⛔
-- <strike>iMessage</strike>[^1]
+- <strike>iMessage</strike>
 - <strike><a href="../fb">Meta products/platforms</a></strike>
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
-
-[^1]: 🤘<i class="fab fa-android">🤘
