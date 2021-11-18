@@ -22,7 +22,7 @@ Say hello on these (cross-platform) messengers / channels / platforms:
 - <a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/berensp" target="_blank">Twitter</a> ...but only the good parts (e.g. learning, polemics)
 
 ## No se puede ⛔
-- <strike><i class="fab fa-apple"></i>iMessage</strike>
-- <strike><i class="fab fa-facebook"></i><a href="../fb">Meta products/platforms</a></strike>
+- <strike><i class="fab fa-apple"></i> iMessage</strike>
+- <strike><i class="fab fa-facebook"></i> <a href="../fb">Meta products/platforms</a></strike>
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
