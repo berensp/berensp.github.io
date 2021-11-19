@@ -9,7 +9,7 @@ Say hello on these (cross-platform) apps and messengers:
 ## Sí se puede 👍
 - <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">AngelList</a> for networking and investing
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i></a> <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a> for <mark>messaging</mark> and Slack-like interaction
-- <a href="mailto:{{ site.email }}"><i class="far fa-envelope"></i></a> <a href="mailto:{{ site.email }}">Email</a> for <mark>old-school messaging</mark>
+- <a href="mailto:{{ site.email }}"><i class="far fa-envelope"></i></a> <a href="mailto:{{ site.email }}">Email</a> for <mark>classic messaging</mark>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a> for <mark>messaging</mark> with 친구
 - <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a> <a href="https://keybase.io/berens" target="_blank">Keybase</a> for <mark>encrypted messaging</mark>, file-sharing, and <a href="https://book.keybase.io/guides/proof-integration-guide" target="_blank">identity proofs</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a> for networking
