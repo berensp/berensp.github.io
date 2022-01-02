@@ -14,7 +14,7 @@ Say hello on these apps, messengers, etc.:
 - <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">@berens</a> for professional networking and investing
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i></a> <a href="https://discordapp.com/users/181094465874821120" target="_blank">berenzino#1540</a> for messaging and Slack-like stuff
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a> for messaging with 친구
-- <a rel="me" href="https://mastodon.cloud/@berens"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">@berens@mastodon.cloud</a> for (more righteous) social networking
+- <a rel="me" href="https://mastodon.cloud/@berens"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">@berens@mastodon.cloud</a> for a more perfect social network
 - <a href="https://www.meetup.com/members/13018732/"><i class="fab fa-meetup"></i></a> <a href="https://www.meetup.com/members/13018732/" target="_blank">@berens</a> for meet-ups
 - <a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">@berensp</a> for the news but with many opinions thrown in
 - <a href="https://berens.co/feed.xml" target="_blank"><i class="fas fa-rss"></i></a> <a href="https://berens.co/feed.xml" target="_blank">berens.co</a> for my infrequent blog post to hit your <a href="https://feedly.com/" target="_blank">RSS reader</a>
