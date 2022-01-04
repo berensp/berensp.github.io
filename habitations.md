@@ -7,6 +7,6 @@ description: Hic manebo optime
 ---
 <img src="/assets/og/places.lived.2022.01.03.png">
 
-<mark><span class="muted small">Bubble size corresponds to total duration in each metro area.</span></mark>
+<i><mark><span class="muted small">Bubble size = total duration in each metro area</span></mark></i>
 
 <span class="muted small">Source: internal analysis, January 2022</span>
