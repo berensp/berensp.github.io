@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Habitations 🏠
+title: Where I've lived 🏠
 permalink: /habitations/
 ogimage: places.lived.2022.01.03.png
 description: Hic manebo optime
