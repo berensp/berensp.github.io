@@ -10,4 +10,4 @@ description: Hic mansi optime
 West to East: San Francisco, Calif.; <a href="/mn">Saint Paul, Minn.</a>; Wausau, Wisc.; Chicago, Ill.; Ann Arbor, Mich.; Boston, Mass.
 
 <mark><span class="muted small">(Bubble size = time spent)</span></mark>
-<br><span class="muted small">Source: internal analysis, January 2022</span>
+<br><span class="muted small">Source: internal analysis, January 2022.</span>
