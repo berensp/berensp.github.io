@@ -4,7 +4,7 @@ title: Stats 🧮
 permalink: /stats/
 description: my stats
 ---
-Blood type: `A+`  
+Blood type: `<mark>A+</mark>`  
 Blood aunts and uncles*: `19`  
 Height: `6'3"`  
 MBTI®: `INTP`  
