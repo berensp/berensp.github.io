@@ -4,17 +4,14 @@ title: Stats 🧮
 permalink: /stats/
 description: my stats
 ---
-Blood type: <mark><code>A+</code></mark>  
-Blood aunts and uncles*: `19`  
-Height: `6'3"`  
-MBTI®: `INTP`  
-Time-keeping convention: `24-hour clock`  
-US states visited: `47`  
-Zodiac: &#9806;  
-
-| Stat | Value |
+| Category | Value |
 | :---        | :----: |
 | Blood type | <mark><code>A+</code></mark> |
 | Blood aunts and uncles* | <mark><code>19</code></mark> |
+| Height | <mark><code>190 cm</code></mark> |
+| MBTI® | <mark><code>INTP</code></mark> |
+| Time-keeping convention | <mark><code>INTP</code></mark> |
+| US states visited | <mark><code>47</code></mark> |
+| Zodiac | <mark><code>&#9806;</code></mark> |
 
 <span class="muted small">* i.e. not including those by marriage.</span>
