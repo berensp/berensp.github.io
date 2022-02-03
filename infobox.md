@@ -13,6 +13,7 @@ description: key stats
 | MBTI® | <mark><code>INTP</code></mark> |
 | Nationality | <mark><code>USA</code></mark> |
 | Political party | <mark><code>Independent</code></mark> |
+| Pronunciation | <mark><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></mark> |
 | US states visited | <mark><code>47</code></mark> |
 
 <span class="muted small">* Consanguineous.</span>
