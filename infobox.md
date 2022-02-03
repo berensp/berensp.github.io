@@ -4,7 +4,7 @@ title: Infobox
 permalink: /infobox/
 description: key stats
 ---
-| Field | Value |
+| Factoid | Value |
 | :---     | :---  |
 | Aunts & uncles* | <mark><code>19</code></mark> |
 | Almae matres | <mark><code><a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a></code></mark><br><mark><code><a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a></code></mark><br><mark><code><a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a></code></mark> |
@@ -13,7 +13,6 @@ description: key stats
 | MBTI® | <mark><code>INTP</code></mark> |
 | Nationality | <mark><code>USA</code></mark> |
 | Political party | <mark><code>Independent</code></mark> |
-| Pronunciation | <mark><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></mark> |
 | US states visited | <mark><code>47</code></mark> |
 
 <span class="muted small">* Consanguineous.</span>
