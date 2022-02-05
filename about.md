@@ -18,7 +18,8 @@ I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</
 | Blood type | <mark><code>A+</code></mark> |
 | Height | <mark><code>190 cm</code></mark> |
 | MBTI®* | <mark><code>INTP</code></mark> |
-| Mondegreen | <mark><code>Ball Bearings</code></mark>
+| <a href="https://duckduckgo.com/?q=mondegreen" target="_blank">Mondegreen</a> | <mark><code>Ball Bearings</code></mark>
+| <mark><code>Ball Bearings</code></mark>
 | Nationality | <mark><code>USA</code></mark> |
 | Political party | <mark><code>Independent</code></mark> |
 | Pronunciation | <mark><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></mark> |
