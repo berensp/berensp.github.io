@@ -12,8 +12,7 @@ Presently working on data products at <a href="https://varian.com" target="_blan
 
 I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [homichlophilic](/fog/), [librocubicularistic](/books/), philharmonic, technophilic, unchic.
 
-## Factoids
-| <!-- --> | <!-- --> |
+| Factoid | Value |
 | :---     | :---     |
 | Almae matres | <mark><code><a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a></code></mark>, <mark><code><a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a></code></mark>, <mark><code><a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a></code></mark> |
 | Blood type | <mark><code>A+</code></mark> |
