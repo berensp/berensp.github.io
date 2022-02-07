@@ -16,11 +16,8 @@ I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</
 | :---     | :---     |
 | Almae matres | <code><a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a></code>, <code><a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a></code>, <code><a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a></code> |
 | Blood type | <code>A+</code> |
-| Height | <code>190 cm</code> |
 | MBTI®* | <code>INTP</code> |
-| <a href="https://duckduckgo.com/?q=mondegreen" target="_blank">Mondegreen</a> | <code>Ball Bearings</code>
-| Nationality | <code>USA</code> |
-| Political party | <code>Independent</code> |
+| Mondegreen | <code>Ball Bearings</code>
 | Pronunciation | <code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code> |
 | Ski length | <code>188 cm</code> |
 | US states visited | <code>47</code> |
