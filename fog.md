@@ -11,6 +11,6 @@ Fog is the romance of San Francisco: rolling through the hills, hanging high in 
 
 > *When that fog horn blows*\
 > *I will be coming home*\
-> *Yeah, when that fog horn blows*\
+> *When that fog horn whistle blows*\
 > *I wanna hear it*\
 > *I don't have to fear it*
