@@ -12,7 +12,7 @@ Presently working on data products at <a href="https://varian.com" target="_blan
 
 I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [homichlophilic](/fog/), [librocubicularistic](/books/), philharmonic, technophilic, unchic.
 
-| Trifle | Value |
+| Fun Fact | Value |
 | :---     | :---     |
 | Almae matres | <code><a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a></code>, <code><a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a></code>, <code><a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a></code> |
 | Blood type | <code>A+</code> |
