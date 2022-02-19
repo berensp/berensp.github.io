@@ -10,7 +10,7 @@ My name is Paul Berens and I live in San Francisco&mdash;previously <a href="/ha
 
 Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>; erstwhile: HP, Deloitte Consulting.
 
-I am <a href="https://pb.url.lol/defaultroute" target="_blank">(quasi-)aerobic</a>, analytic, Catholic, <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [homichlophilic](/fog/), [librocubicularistic](/books/), philharmonic, technophilic, unchic.
+I am [autodidactic](/learning/), Catholic, <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [homichlophilic](/fog/), [librocubicularistic](/books/), philharmonic, technophilic, unchic.
 
 | Fun Fact | Value |
 | :---     | :---     |
