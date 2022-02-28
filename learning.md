@@ -4,7 +4,7 @@ title: My Learning 🌱
 permalink: /learning/
 ogimage: ggb.jpg
 ---
-*"Curiouser and curiouser!" Cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English).*
+This isn't to say that I'm some self-taught polymath — I've had plenty of traditional education — but I am something of a tinkerer with certain interests: mess around first; <strike>read</strike>consult the manual only if necessary.
 
 ## To learn or pick back up
 - Writing/blogging
