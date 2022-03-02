@@ -2,9 +2,10 @@
 layout: page
 title: Minnesota
 permalink: /mn/
+ogimage: the.first.minnesota.png
 description: Where all the women are strong, all the men are good-looking, and all the children are above average.
 ---
-<img src="/assets/images/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
+<img src="/assets/og/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
 
 My running tally of what makes L'Étoile du Nord unique, interesting, valuable, loveable, and [happy](https://wallethub.com/edu/happiest-states/6959).
 
