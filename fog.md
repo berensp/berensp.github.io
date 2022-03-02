@@ -14,6 +14,5 @@ description: the fog slips ghost-like into a thousand rooms
 <br>I will be coming home
 <br>When that fog horn whistle blows
 <br>I wanna hear it
-<br>I don't have to fear it
-</blockquote></i>
+<br>I don't have to fear it</i></blockquote>
 </p>
