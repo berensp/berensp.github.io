@@ -10,10 +10,10 @@ description: the fog slips ghost-like into a thousand rooms
 <p>Fog is the romance of San Francisco: rolling through the hills, hanging high in the eucalyptus trees, shrouding cityscapes, and keeping runners and cyclists nice 'n' cool.</p>
 <p>
 <blockquote>
-*When that fog horn blows*
-*I will be coming home*
-*When that fog horn whistle blows*
-*I wanna hear it*
-*I don't have to fear it*
-</blockquote>
+<i>When that fog horn blows
+<br>I will be coming home
+<br>When that fog horn whistle blows
+<br>I wanna hear it
+<br>I don't have to fear it
+</blockquote></i>
 </p>
