@@ -4,7 +4,7 @@ title: Infobox
 permalink: /infobox/
 description: key stats
 ---
-| Factoid | Value |
+| Fun Fact | Value |
 | :---    | :---  |
 | Almae matres | <mark><code><a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a></code></mark>, <mark><code><a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a></code></mark>, <mark><code><a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a></code></mark> |
 | Blood type | <mark><code>A+</code></mark> |
