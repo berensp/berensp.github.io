@@ -4,7 +4,7 @@ title: My Learning 🌱
 permalink: /learning/
 ogimage: ggb.jpg
 ---
-This isn't to say that I'm some self-taught polymath—I've had plenty of traditional education—but I *do* have varied interests and tend toward tinkering.
+This isn't to say that I'm some self-taught Renaissance Man—I'm certainly a product of traditional education—but I do have varied interests and with many things tend toward tinkering.
 
 ## To learn or pick back up
 - Writing/blogging
