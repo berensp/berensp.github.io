@@ -19,12 +19,6 @@ My running tally of what makes L'Étoile du Nord unique, interesting, valuable, 
 
 [^1]: This oft-cited stat is apparently [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/).
 
-## The Great Outdoors 🏞
-- Land of 11,842 lakes, 90k miles of shoreline (> California + Florida + Hawaii)
-- People and gov't committed to bicycling [(#1 most bikeable city)](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/); [lots of rail-trails](https://www.railstotrails.org/our-work/united-states/minnesota/)
-- [Boundary Waters Canoe Area](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness). It's hard to get more pristine.
-- One recreational boat per every six people—more than any other state
-
 ## Brands and Inventions 🍎
 - **Beauty/Fashion** - [Aveda](https://www.aveda.com/living-aveda/responsible-manufacturing), [J.R. Watkins](https://jrwatkins.com/), [Zubaz](https://www.startribune.com/zubaz-pants-are-back/16943196)
 - **Food** - automatic pop-up toaster, [Bundt cakes](https://www.foodandwine.com/news/brief-delightful-history-bundt-pan), [Cheerios](https://www.mentalfloss.com/article/74142/8-things-you-might-not-know-about-cheerios), [Green Giant vegetables](https://en.wikipedia.org/wiki/Green_Giant), [Honeycrisp apples *(Malus pumila)*](https://en.wikipedia.org/wiki/Honeycrisp), Land O Lakes® butter, [MAR-O-BAR®](https://www.minnesotamonthly.com/archive/candy-bar-combat/), [SPAM®](https://en.wikipedia.org/wiki/Spam_(food)), [Minnesota State Fair food](https://www.afarmgirlsdabbles.com/best-minnesota-state-fair-food/), [Tater Tot Hotdish](https://vimeo.com/65158243), [Wheaties](https://en.wikipedia.org/wiki/Wheaties)
@@ -41,6 +35,12 @@ My running tally of what makes L'Étoile du Nord unique, interesting, valuable, 
 - [One of the most stunning Catholic churches (and largest in the Midwest)](https://www.tripadvisor.com/Attraction_Review-g43501-d144120-Reviews-Cathedral_of_Saint_Paul-Saint_Paul_Minnesota.html)
 - [Comparative advantage in education](https://mn.gov/deed/ed/how-we-rank/#3)
 - ["Minnesota Nice"](https://www.startribune.com/where-does-the-term-minnesota-nice-come-from-and-what-does-it-mean/502474301/) - [(well-conveyed by Cousin Charlie Berens)](https://youtu.be/AHISDsmSsDg)
+
+## The Great Outdoors 🏞
+- Land of 11,842 lakes, 90k miles of shoreline (> California + Florida + Hawaii)
+- People and gov't committed to bicycling [(#1 most bikeable city)](https://www.redfin.com/news/most-bike-friendly-cities-usa-2020/); [lots of rail-trails](https://www.railstotrails.org/our-work/united-states/minnesota/)
+- [Boundary Waters Canoe Area](https://en.wikipedia.org/wiki/Boundary_Waters_Canoe_Area_Wilderness). It's hard to get more pristine.
+- One recreational boat per every six people—more than any other state
 
 ## Other Folks 👥
 - **Adventurers** - [Ann Bancroft](https://en.wikipedia.org/wiki/Ann_Bancroft), [Charles Lindbergh](https://en.wikipedia.org/wiki/Charles_Lindbergh)
