@@ -17,8 +17,8 @@ Say hello on these messengers, apps, etc.:
 
 ## También &#128483;
 - <mark><a href="https://app.ens.domains/name/berensp.eth/details" target="_blank"><i class="fab fa-ethereum"></i></a> <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">berensp.eth</a> for web3</mark>
-- <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">@berens</a> for professional networking and investing
 - <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a href="https://linkedin.com/in/berensp" target="_blank">@berensp</a> for professional networking
+- <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">@berens</a> for professional networking and investing
 - <a rel="me" href="https://mastodon.cloud/@berens"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">@berens@mastodon.cloud</a> for a more perfect social network
 - <a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">@berensp</a> for the news but laced with opinions
 - <a href="https://berens.co/feed.xml" target="_blank"><i class="fas fa-rss"></i></a> <a href="https://berens.co/feed.xml" target="_blank">berens.co</a> for my infrequent blog post to hit your <a href="https://feedly.com/" target="_blank">RSS reader</a>
