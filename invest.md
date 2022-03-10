@@ -4,9 +4,10 @@ title: Investments
 permalink: /invest/
 description: 💸
 ---
-| Co/Fund | GP | Date |
+| Company/Fund | GP | Date |
 | :---    | :---  | :---  |
 | <a href="https://www.nursewallet.co/" target="_blank">NurseWallet</a> | <a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a> | Feb '22 |
+| <a href="https://twitter.com/DiscoverVincent" target="_blank">Vincent</a> | <a href="https://twitter.com/jason" target="_blank">@Jason</a> | Jun '21 |
 | Basecamp 2021 | AVG | Jan '21 |
 | Deep Tech Fund 1 | AVG | Oct '20 |
 | <a href="https://www.luminous.com/" target="_blank">Luminous</a> | AVG | Oct '20 |
