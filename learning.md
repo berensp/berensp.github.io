@@ -1,10 +1,10 @@
 ---
 layout: page
-title: My Learning 🌱
+title: Learning 🌱
 permalink: /learning/
 ogimage: ggb.jpg
 ---
-My constructivist continuing education (i.e. tinkering).
+My constructivist continuing education (i.e. tinkering):
 
 ## To learn or pick back up
 - Writing/blogging
