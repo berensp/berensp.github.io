@@ -4,7 +4,7 @@ title: Investments
 permalink: /invest/
 description: 💸
 ---
-| Co | Institution | When |
+| Co/Fund | GP | Invest Date |
 | :---    | :---  | :---  |
 | <a href="https://www.nursewallet.co/" target="_blank">NurseWallet</a> | <a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a> | Feb 2022 |
 | Basecamp 2021 | AVG | Jan 2021 |
