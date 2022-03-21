@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ogimage: pmb.sketch.png
+description: Homo sum, humani nihil a me alienum puto.
 ---
 <img src="/assets/og/pmb.sketch.png" width="35%" height="35%">
 
