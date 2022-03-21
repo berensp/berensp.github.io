@@ -9,4 +9,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <img src="/assets/images/curricle.02.png" width="40%" height="40%">
 
-Hi 👋, I'm Paul from St. Paul; now in St. Frank. More [about me](/about/).
+Hi 👋, I'm Paul from Saint Paul; now in Saint Frank. More [about me](/about/).
