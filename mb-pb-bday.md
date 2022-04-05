@@ -10,7 +10,7 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | :---    | :---  | :---  |
 | 2022-03-31 | <a href="https://www.strava.com/activities/6910839279#comments" target="_blank"><i class="fab fa-strava"></i></a> <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
 | 2017-09-30 | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
-| 2017-03-31 | Twitter DM | PB→MB |
+| 2017-03-31 | <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | PB→MB |
 | 2016-09-30 | <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
 | 2016-03-31 | <a href="http://peach.cool/" target="_blank">&#127825;</a> <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
 | 2015-09-30 | <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank"><i class="fab fa-ello"></i></a> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | PB→MB |
