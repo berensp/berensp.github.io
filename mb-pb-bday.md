@@ -14,10 +14,13 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | 2016-9-30 | <i class="fab fa-twitter"></i> <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
 | 2016-3-31 | &#127825; <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
 | 2015-9-30 | <i class="fab fa-ello"></i> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
+| 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 
 ## Others already used:
 - <i class="fa-brands fa-google-plus-g"></i> Google+ - shuttered in 2019 so I don't know the date
-- <i class="fa-brands fa-facebook"></i> Facebook, FB Messenger, Instagram, WhatsApp - but I [deep-sixed all Meta accounts](/fb) so don't have those dates
+- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp - but I [deep-sixed all Meta accounts](/fb) so don't have those dates[^1]
+
+[^1]:The only reason I know the Facebook one above is because I had email notifications of wall posts back then 😄
 
 ## Others available:
 - <a href="https://signal.org" target="_blank">Signal</a>
