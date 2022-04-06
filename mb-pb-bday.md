@@ -16,18 +16,18 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | 2015-9-30 | <i class="fab fa-ello"></i> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
 | 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 
-## Others already used:
-- <i class="fa-brands fa-google-plus-g"></i> Google+ - shuttered in 2019 so I don't know the date
-- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp - but I [deep-sixed all Meta accounts](/fb) so don't have those dates[^1]
+## Others maybe already used?
+- <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this but it shuttered in 2019 so can't look it up
+- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^1]
 
-[^1]:The only reason I know the Facebook one above is because I had email notifications of wall posts back then 😄
+[^1]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
 ## Others available:
 - <a href="https://signal.org" target="_blank">Signal</a>
+- <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <i class="fab fa-telegram"></i> <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <i class="fab fa-keybase"></i> <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <i class="fab fa-discord"></i> <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
 - <i class="fab fa-mastodon"></i> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">Mastodon</a>
 - <i class="fab fa-reddit"></i> <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
-- <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
-- <mark><i class="fab fa-ethereum"></i> <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">On the blockchain?!</a></mark>
+- <mark><i class="fab fa-ethereum"></i> <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">Somewhere somehow on the blockchain?!</a></mark>
