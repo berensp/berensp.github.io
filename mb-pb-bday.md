@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Berens Birney Birthdays 🎈
+title: Berens Birney Birthday Bulletin 🎈
 permalink: /mb-pb-bday/
 description: 
 ---
 Our annual birthday exchanges where the only rule is that you can’t have posted on that platform previously.
 
+## Used up:
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
 | 2022-3-31 | <i class="fab fa-strava"></i> <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
@@ -16,13 +17,13 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | 2015-9-30 | <i class="fab fa-ello"></i> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
 | 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 
-## Others maybe already used?
-- <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this once, but it shuttered in 2019 so can't look it up
-- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these we hit up, but I [deep-sixed all Meta accounts last September](/fb) so don't have those dates[^1]
+## Others maybe already used (?):
+- <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this but it shuttered in 2019 so can't look it up
+- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^1]
 
 [^1]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
-## Others available:
+## Others available that Berens is already on:
 - <a href="https://signal.org" target="_blank">Signal</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <i class="fab fa-telegram"></i> <a href="https://t.me/berensp" target="_blank">Telegram</a>
