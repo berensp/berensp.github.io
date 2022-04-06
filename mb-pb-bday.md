@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MB PB Bday
-permalink: /mb-pb/
+permalink: /mb-pb-bday/
 description: 
 ---
 Our annual birthday exchanges where the only rule is that you can’t have posted on that platform previously.
@@ -26,5 +26,5 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 - <a href="https://keybase.io/berens" target="_blank"><i class="fab fa-keybase"></i></a> <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank"><i class="fab fa-discord"></i></a> <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
 - <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank"><i class="fab fa-ethereum"></i></a> <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">On the blockchain?</a>
-- <a rel="me" href="https://mastodon.cloud/@berens"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">@berens@mastodon.cloud</a>
-- <a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">@berensp</a>
+- <a rel="me" href="https://mastodon.cloud/@berens"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">Mastodon</a>
+- <a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
