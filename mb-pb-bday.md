@@ -18,13 +18,13 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | 2015-9-30 | <i class="fab fa-ello"></i> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
 | 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 
-## Others maybe already used (?):
+## Also off the table:
 - <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this but it shuttered in 2019 so can't look it up
 - <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^1]
 
 [^1]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
-## Eligible (and Berens already on):
+## Eligible:
 - <a href="https://signal.org" target="_blank">Signal</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <i class="fab fa-telegram"></i> <a href="https://t.me/berensp" target="_blank">Telegram</a>
