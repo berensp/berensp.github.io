@@ -4,7 +4,9 @@ title: Berens Birney Bdays 🎈
 permalink: /mb-pb-bday/
 description: One social medium per bday wish
 ---
-Our annual birthday exchanges where the only rule is that you can’t have posted on that platform previously.
+Our semi-annual[^1] birthday exchanges where the only rule is that you can’t have posted on that platform previously.
+
+[^1]: Lucky that our birthdays are almost *exactly* a half year apart.
 
 ## Used up / ineligible:
 
@@ -20,9 +22,9 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 
 ## Also off the table:
 - <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this but it shuttered in 2019 so can't look it up
-- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^1]
+- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these we've exploited, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^2]
 
-[^1]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
+[^2]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
 ## Eligible:
 - <a href="https://signal.org" target="_blank">Signal</a>
