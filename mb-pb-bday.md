@@ -6,7 +6,7 @@ description:
 ---
 Our annual birthday exchanges where the only rule is that you can’t have posted on that platform previously.
 
-| Date | Platform | Sender |
+| Date | Platform | From/To |
 | :---    | :---  | :---  |
 | 2022-03-31 | <a href="https://www.strava.com/activities/6910839279#comments" target="_blank"><i class="fab fa-strava"></i></a> <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
 | 2017-09-30 | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
@@ -15,9 +15,9 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | 2016-03-31 | <a href="http://peach.cool/" target="_blank">&#127825;</a> <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
 | 2015-09-30 | <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank"><i class="fab fa-ello"></i></a> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | PB→MB |
 
-## Others used to date:
-- <i class="fa fa-ello"></i> Google+ - since shuttered so I don't know the date
-- <i class="fa-brands fa-meta"></i> Facebook, Facebook Messenger, Instagram, WhatsApp - but I'm disconnected from all things <a href="https://about.facebook.com/meta" target="_blank">Meta</a> so don't have those dates
+## Others already used:
+- <i class="fa-brands fa-google-plus-g"></i> Google+ - since shuttered so I don't know the date
+- <i class="fa-brands fa-facebook"></i> Facebook, FB Messenger, Instagram, WhatsApp - but I'm disconnected from all things <a href="https://about.facebook.com/meta" target="_blank">Meta</a> so don't have those dates
 
 ## Others available:
 - <a href="https://signal.org" target="_blank">Signal</a>
