@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Berens Birney Birthday Bulletin 🎈
+title: Berens Birney Birthdays 🎈
 permalink: /mb-pb-bday/
 description: 
 ---
@@ -17,8 +17,8 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 | 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 
 ## Others maybe already used?
-- <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this but it shuttered in 2019 so can't look it up
-- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^1]
+- <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this once, but it shuttered in 2019 so can't look it up
+- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these we hit up, but I [deep-sixed all Meta accounts last September](/fb) so don't have those dates[^1]
 
 [^1]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
