@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Berens Birney Birthdays 🎈
+title: Berens Birney Bdays 🎈
 permalink: /mb-pb-bday/
 description: One social medium per bday wish
 ---
 Our annual birthday exchanges where the only rule is that you can’t have posted on that platform previously.
 
-## Used up:
+## Used up / ineligible:
 
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
@@ -24,7 +24,7 @@ Our annual birthday exchanges where the only rule is that you can’t have poste
 
 [^1]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
-## Others available that Berens is already on:
+## Eligible (and Berens already on):
 - <a href="https://signal.org" target="_blank">Signal</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <i class="fab fa-telegram"></i> <a href="https://t.me/berensp" target="_blank">Telegram</a>
