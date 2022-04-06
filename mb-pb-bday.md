@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Berens Birney Birthday Bulletin 🎈
+title: Berens Birney Birthdays 🎈
 permalink: /mb-pb-bday/
-description: 
+description: One social medium per bday wish
 ---
 Our annual birthday exchanges where the only rule is that you can’t have posted on that platform previously.
 
 ## Used up:
+
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
 | 2022-3-31 | <i class="fab fa-strava"></i> <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
