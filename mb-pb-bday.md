@@ -21,8 +21,8 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 
 ## Also off the table:
-- <i class="fa-brands fa-google-plus-g"></i> Google+ – I think we used this but it shuttered in 2019 so can't look it up
-- <i class="fa-brands fa-facebook-messenger"></i> FB Messenger, Instagram, WhatsApp – not sure which of these we've exploited, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^2]
+- <i class="fa-brands fa-google"></i> **Shuttered Google Products:** Google+, Allo, Buzz, Wave...
+- <i class="fa-brands fa-facebook-messenger"></i> **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^2]
 
 [^2]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
