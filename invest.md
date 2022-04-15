@@ -6,7 +6,7 @@ description: 💸
 ---
 | Company/Fund | GP | Round | Date |
 | :---    | :---  | :---  | :---  |
-| <a href="https://getdex.com/" target="_blank">Dex</a> | AngelList | SAFE | Apr '22 |
+| <a href="https://getdex.com/" target="_blank">Dex</a> | SPV | SAFE | Apr '22 |
 | <a href="https://www.nursewallet.co/" target="_blank">NurseWallet</a> | <a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a> | Seed | Feb '22 |
 | <a href="https://twitter.com/DiscoverVincent" target="_blank">Vincent</a> | <a href="https://twitter.com/jason" target="_blank">@Jason</a> | Seed | Jun '21 |
 | Basecamp 2021 | AVG | Various  | Jan '21 |
