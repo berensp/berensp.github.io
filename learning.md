@@ -7,16 +7,13 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## To learn or pick back up
-- Writing/blogging
+- ✍ Writing/blogging, [Obsidian](https://obsidian.md/) (and backing up on Github Pages), Notion
 - NFT minting
-- [Obsidian](https://obsidian.md/) (and backing up on Github Pages)
-- Korean (한국말)
-- Piano
+- &#58644; Korean (한국말)
+- 🎹 Piano
 
 ## Previous Pursuits
-- Acoustic guitar
-- HTML
-- [Google Query Language](https://cloud.google.com/datastore/docs/reference/gql_reference)
-- BASIC
-- Español
-- [Alpine skiing](/skiing.html)
+- 🎸 Acoustic guitar
+- 💻 [Google Query Language](https://cloud.google.com/datastore/docs/reference/gql_reference), HTML, BASIC
+- &#58641; Español
+- ⛷ [Alpine skiing](/skiing.html)
