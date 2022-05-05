@@ -6,15 +6,13 @@ author:	Paul Berens
 description: You can keep them alive for a time.
 ogimage: tulips.jpg
 ---
-As someone who works in and around data analytics, I can assert that identifying which explanatory variables influence a response variable is the name of the game. But sometimes there's a delayed reaction in the algorithm and for some time you don't see the effect you'd expect to see.
+In data analytics, evaluating the effects of explanatory variables on a response variable is the name of the game. But sometimes there's a delayed reaction in the algorithm and for some time you don't see the effect you'd expect to see.
 
 Enter the **Cut Flowers Theory**, a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
 
-In a nutshell: freshly cut flowers look just as beautiful and smell as fragrant as their planted counterparts, but they are actually beginning to wither and die now that they're in a vase, stem severed from roots. So, too, with certain phenomena that are dependent upon and nourished by other external, often invisible forces or beings.
+In a nutshell: freshly cut flowers look just as beautiful and smell just as fragrant as when they were planted in soil, but they are actually beginning to wither and die once they're in a vase, stem severed from roots. So, too, with certain phenomena that are dependent upon and nourished by other external and often invisible forces or beings: in the short-term you don't notice any withering (degradation in quality), but in the long-term you do.
 
 <center>![cut tulips](/assets/og/tulips.jpg)</center>
-
-in the short-term you don't notice any withering (degradation in quality), but in the long-term you do.
 
 Where do you see it in real life?
 
@@ -24,11 +22,11 @@ Last week Brian Chesky announced Airbnb's plans to go to a fully-remote work mod
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we’re announcing that Airbnb employees can live and work anywhere. <br><br>Our design for working at Airbnb has 5 key features:</p>&mdash; Brian Chesky (@bchesky) <a href="https://twitter.com/bchesky/status/1519831566486147073?ref_src=twsrc%5Etfw">April 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Say what you will about it, but the physical office environment creates myriad opportunities and serendipities for relationships to bloom and grow organically, and we're starting to learn about the costs and drawbacks of a Zoom-only approach[^1]. So for whom will a Zoom + Slack + quarterly meet-up model be enough to *maintain* culture? Presumably established, successful companies like Airbnb can exploit a dynamic existing culture with its existing web of relationships...at least for a certain period of time. The question is how long?
+Say what you will about it, but the physical office environment creates myriad opportunities and serendipities for relationships to *bloom* and *grow* organically, and we're starting to learn about the costs and drawbacks of a Zoom-only approach[^1]. So for whom will a Zoom + Slack + quarterly meet-up model be enough to *maintain* culture? Presumably established, successful companies like Airbnb can exploit a dynamic existing culture with its existing web of relationships...at least for a certain period of time. The question is how long?
 
 [^1]: *[Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)*
 
-And that's for companies that built culture in *analog*. What will be interesting is to see if companies built *remote from the get-go* can successfully build good culture. My guess is that the most elite start-ups with the most talented, motivated, digitally-disposed (Gen Z+) employees can do it, but many other companies won't be able to swing it so easily.
+And that's for companies that built culture the old *analog* way. What will be interesting is to see if companies built *remote from the get-go* can successfully build good culture. My guess is that the most elite start-ups with the most talented, motivated, digitally-disposed (Gen Z+) employees can do it, but many other companies won't be able to swing it so easily.
 
 ## 2) Long-term investments &#128184;
 
@@ -40,7 +38,7 @@ There are several corporate spend categories where the effects of a cutback don'
 
 ## 3) Country/Social Health &#127963;
 
-Why the cacophony in the public square? Why the shouting and polemics and absence of reasonable arguments? Why the political polarization? I won't pretend to have a complete answer, but I submit that at least in part it's that we're not operating from the same moral framework. We see a great many Twitter debates reach a "because the Constitution says so" ceiling and get stuck. If one can't go past the Constitution to it's modern philosophy and natural law principles, one is constrained to Jefferson's words, and it's difficult to apply to new situations.
+We're often wondering why the public square is so cacophonous and polarizing? Why the shouting and polemics and absence of reasonable arguments? I won't pretend to have a complete answer and many have weighed in on this topic, but I submit that at least in part it's that we're not operating from the same moral framework. We see a great many Twitter debates reach a "because the Constitution says so" ceiling and get stuck. If one can't go past the Constitution to it's modern philosophy and natural law (first) principles, one is de facto constrained to Jefferson's words, and it's difficult to apply to new situations.
 
 We find people have been disaffiliating from churches and religions for quite some time, which you may think should be of no consquenece other than their own spirital well-being and state of grace. But then we try to discuss the relative morality of this thing or that, and there's no shared language, and so it devolves to *de gustibus non est disputandum*. Alexis de Tocqueville maintained that faith underpins society: "Liberty cannot be established without morality, nor morality without faith." David Perell's recent *[The Book You Need to Read](https://perell.com/essay/the-book-you-need-to-read/)* argued for reading the Bible not because you are or aren't Christian but because of its influence on the culture.
 
