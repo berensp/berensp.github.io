@@ -1,16 +1,18 @@
 ---
 layout: post
 title:	Cut Flowers Theory
-date:	2022-05-01
+date:	2022-05-05
 author:	Paul Berens
 description: You can keep them alive for a time.`
 ogimage: tulips.jpg
 ---
-As someone working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game. But sometimes there's a delayed reaction (response lag) and for some time you don't see the effect you'd expect to see.
+As someone working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game 🤓.
 
-Enter the **Cut Flowers Theory**, a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
+But sometimes there's a delayed reaction (response lag) and for some period of time you don't see the effect you'd expect to see.
 
-In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but of course they're in fact beginning to wither and die once they're in a vase, stem severed from roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any withering (degradation in quality), but in the long-term you do.
+Enter the **<mark>Cut Flowers Theory</mark>**, a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
+
+In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but in fact they're beginning to wither and die the moment stems are severed from roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any withering (degradation in quality), but in the long-term you do.
 
 <center>![cut tulips](/assets/og/tulips.jpg)</center>
 
@@ -41,5 +43,9 @@ There are several corporate spend categories where the effects of a cutback don'
 - **Because the Constitution, Man!**. We're often wondering why the public square is so cacophonous and polarizing? Why the shouting and polemics and absence of reasonable arguments? I won't pretend to have a complete answer as there's plenty of good expert thinking on this topic, but I submit that at least in part it's that we're not operating from the same moral framework. We see a great many Twitter debates reach a "because the Constitution says so" roadblock and get stuck. If one can't go past the Constitution to it's modern philosophy and natural law (first) principles, one is de facto constrained to Jefferson's words, and then it's a difficult game of interpretation and trying to apply to novel situations.
 
 - **Fides et Ratio.** We find people have been disaffiliating from churches and religions for quite some time, which you may think should be of no consquenece other than their own spirital well-being and state of grace. But then we try to discuss the relative morality of this thing or that, and there's no shared language, and so it devolves to *de gustibus non est disputandum*. Alexis de Tocqueville maintained that faith underpins society: "Liberty cannot be established without morality, nor morality without faith." David Perell's recent *[The Book You Need to Read](https://perell.com/essay/the-book-you-need-to-read/)* argued for reading the Bible not because you are or aren't Christian but because of its influence on the culture. Faith without reason leads to superstition, but reason without faith leads to nihilism and relativism, which then, Bishop Barron is wont to argue, leads to voluntarism (a contest of wills) (i.e. if we can't have a reasoned argument then perhaps I'll be left with no other choice but violence).
+
+<center>* * *</center>
+
+In a world of multivariate systems, unintended consequences, and delayed reactions; remember cut flowers.
 
 ![initials](/assets/images/initials.pmb.71.56.png)
