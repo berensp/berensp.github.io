@@ -10,7 +10,7 @@ As someone working in and around data analytics, *I'm often told* that evaluatin
 
 But sometimes there's a delayed reaction (response lag) and for some period of time you don't see the effect you'd expect to see.
 
-Enter the **<mark>Cut Flowers Theory&trade;</mark>**[^1], a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
+Enter **Cut Flowers Theory&trade;**[^1], a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
 
 [^1]: I didn't come up with the "cut flower" concept ex nihilo; I'm just expanding on [Will Herberg's Cut Flower Culture](https://en.wikipedia.org/wiki/Will_Herberg#%22Cut_flower_culture%22)...if it is really his (can you trust a dude who falsified his academic record?). 
 
