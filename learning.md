@@ -9,7 +9,7 @@ My constructivist continuing education (i.e. tinkering):
 ## To learn or pick back up
 - ✍ Writing/blogging, [Obsidian](https://obsidian.md/) (and backing up on Github Pages), Notion
 - NFT minting
-- &#58644; Korean (한국말)
+- &#xe514; Korean (한국말)
 - 🎹 Piano
 
 ## Previous Pursuits
