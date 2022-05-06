@@ -17,10 +17,10 @@ Enter **Cut Flowers Theory&trade;**[^1], a useful little mental model / framewor
 In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but in fact they're beginning to wither and die the moment their stems are severed from the roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any degradation, but in the long-term you do.
 
 <center>
-<img src='/assets/og/tulips.png' width="95%" height="95%">
+<img src='/assets/og/tulips.png' width="70%" height="70%">
 </center>
 
-A few examples:
+<p>A few examples:
 
 ## Remote work &#127968;
 
