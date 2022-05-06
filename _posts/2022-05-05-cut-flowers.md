@@ -6,17 +6,19 @@ author:	Paul Berens
 description: You can keep them alive for a time.`
 ogimage: tulips.jpg
 ---
-As someone working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game 🤓.
+As someone working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game.
 
 But sometimes there's a delayed reaction (response lag) and for some period of time you don't see the effect you'd expect to see.
 
-Enter the **<mark>Cut Flowers Theory</mark>**, a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
+Enter the **<mark>Cut Flowers Theory</mark>**[^1], a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
 
-In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but in fact they're beginning to wither and die the moment stems are severed from roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any withering (degradation in quality), but in the long-term you do.
+[^1]:
+
+In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but in fact they're beginning to wither and die the moment their stems are severed from roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any withering (degradation in quality), but in the long-term you do.
 
 <center>![cut tulips](/assets/og/tulips.jpg)</center>
 
-Where do we see it in real life? A few examples:
+A few examples:
 
 ## 1) Remote work &#127968;
 
@@ -24,9 +26,9 @@ Last week Brian Chesky announced Airbnb's plans to go to a fully-remote work mod
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we’re announcing that Airbnb employees can live and work anywhere. <br><br>Our design for working at Airbnb has 5 key features:</p>&mdash; Brian Chesky (@bchesky) <a href="https://twitter.com/bchesky/status/1519831566486147073?ref_src=twsrc%5Etfw">April 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Say what you will about it, but the physical office environment creates myriad opportunities and serendipities for relationships to *bloom* and *grow* organically, and we're starting to learn about the costs and drawbacks of a Zoom-only approach[^1]. So for whom will a Zoom + Slack + quarterly meet-up model be enough to *maintain* culture? Presumably established, successful companies like Airbnb that can exploit a dynamic existing culture with an existing web of relationships...at least for a certain period of time. The question is how long?
+I've certainly enjoyed the comforts of home throughout the pandemic, but admittedly, the physical office environment creates myriad opportunities and serendipities for relationships to *bloom* and *grow* organically, and we're starting to learn about the costs and drawbacks of a Zoom-only approach[^2]. So for whom will a Zoom + Slack + quarterly meet-up model be enough to *maintain* culture? Presumably established, successful companies like Airbnb that can exploit a dynamic existing culture with an existing web of relationships...at least for a certain period of time. The question is how long?
 
-[^1]: *[Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)*
+[^2]: *[Virtual communication curbs creative idea generation](https://www.nature.com/articles/s41586-022-04643-y)*
 
 And that's for companies that built culture the old *analog* way. What will be interesting is to see if companies built *remote from the get-go* can successfully build good culture. My guess is that the most elite start-ups with the most talented, motivated, digitally-disposed (Gen Z+) employees can do it, but many other companies won't be able to swing it so easily. Time will tell.
 
