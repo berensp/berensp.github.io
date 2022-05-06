@@ -56,6 +56,7 @@ At the end of the day, causal inference is difficult stuff (because the world is
 1. you'd expect a deterioration...
 2. BUT there's a response lag...
 3. AND the bulletproof multivariate regression analysis is lacking to prove it
+
 ...then you can casually (smugly) offer, "Well, this certainly sounds like a classic 'cut flowers' dynamic."
 
 There you have it. A well-cultivated worldview *must* include [Cut Flowers Theory](https://twitter.com/hashtag/CutFlowersTheory).
