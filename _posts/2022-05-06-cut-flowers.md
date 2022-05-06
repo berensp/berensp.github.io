@@ -3,7 +3,7 @@ layout: post
 title:	Cut Flowers Theory
 date:	2022-05-06
 author:	Paul Berens
-description: You can keep them alive for a time.`
+description: You can keep them alive...for a time.
 ogimage: tulips.png
 ---
 As someone working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game.
