@@ -6,7 +6,7 @@ author:	Paul Berens
 description: You can keep them alive...for a time.
 ogimage: tulips.png
 ---
-As someone working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game.
+As a fella working in and around data analytics, *I'm often told* that evaluating the effects of explanatory variables on a response variable is the name of the game 🤓
 
 But sometimes there's a delayed reaction (response lag) and for some period of time you don't see the effect you'd expect to see.
 
@@ -17,7 +17,7 @@ Enter **Cut Flowers Theory&trade;**[^1], a useful little mental model / framewor
 In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but in fact they're beginning to wither and die the moment their stems are severed from the roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any degradation, but in the long-term you do.
 
 <center>
-<img src='/assets/og/tulips.png' width="60%" height="60%">
+<img src='/assets/og/tulips.png' width="70%" height="70%">
 </center>
 
 A few examples:
@@ -50,7 +50,7 @@ There are several corporate spend categories where the effects of a cutback don'
 
 <center>* * *</center>
 
-At the end of the day, causal inference is difficult stuff (because the world is complex and there are confounding variables, etc.), so when there's a situation in which you'd expect a deterioration in quality but there's a response lag and the bulletproof multivariate regression analysis is lacking to prove it; just casually (smugly) offer, "Well, this certainly sounds like a classic 'cut flowers' dynamic."
+At the end of the day, causal inference is difficult stuff (because the world is complex and there are confounding variables, etc.), so when there's a situation in which you'd expect deterioration but there's a response lag and the bulletproof multivariate regression analysis is lacking to prove it; just casually (smugly) offer, "Well, this certainly sounds like a classic 'cut flowers' dynamic."
 
 There you have it. A well-cultivated worldview *must* include [Cut Flowers Theory](https://twitter.com/hashtag/CutFlowersTheory).
 
