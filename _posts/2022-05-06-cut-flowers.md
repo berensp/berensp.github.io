@@ -20,7 +20,7 @@ In a nutshell: freshly cut flowers at first look just as beautiful and smell jus
 <img src='/assets/og/tulips.png' width="70%" height="70%">
 </center>
 
-<p>A few examples:
+A few examples:
 
 ## Remote work &#127968;
 
