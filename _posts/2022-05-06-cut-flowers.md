@@ -6,7 +6,7 @@ author:	Paul Berens
 description: You can keep them alive...for a time.
 ogimage: tulips.png
 ---
-As someone working in and around data analytics, I'm often reminded that teasing out[^1] the effects of explanatory variables on a response variable is the name of the game.
+In data analytics, teasing out[^1] the effects of explanatory variables on a response variable is the name of the game.
 
 [^1]: Technical data analytics terminology.
 
@@ -54,8 +54,8 @@ There are several corporate spend categories where the effects of a cutback don'
 
 At the end of the day, causal inference is difficult stuff (because the world is complex and there are confounding variables, etc.), so when there's a situation in which:
 1. you'd expect a deterioration...
-2. BUT there's a response lag...
-3. AND the bulletproof multivariate regression analysis is lacking to prove it
+2. *but* there's a response lag...
+3. *and* the bulletproof multivariate regression analysis to prove it is lacking
 
 ...then you can casually (smugly) offer, "Well, this certainly sounds like a classic 'cut flowers' dynamic."
 
