@@ -28,7 +28,7 @@ description: Countries visited
 | 🇩🇪 Germany | Kaiserslautern, Trier | 2012 |
 | 🇨🇭 Switzerland | Genève | 2012 |
 | 🇵🇪 Peru | Lima, Cusco | 2015 |
-| 🇵🇷 Puerto Rico | Bahia Beach, Viejo San Juan | 2017 |
+| 🇵🇷 Puerto Rico[^1] | Bahia Beach, Viejo San Juan | 2017 |
 | 🇮🇳 India | Pune | 2019 |
 
 [^1]: Unincorporated U.S. territory, but more appropriate here than the states list, because they have a flag emoji.
