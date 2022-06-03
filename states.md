@@ -57,9 +57,10 @@ description: Just three to go
 | 49 | Ark. | **(not yet)** |
 | 50 | Del. | **(not yet)** |
 
-*<mark>National park trip</mark>*
-*<lightskyblue>Ski trip</lightskyblue>*
+*<mark>National park trip 🥾</mark>*
+
+*<lightskyblue>Ski trip ⛷</lightskyblue>*
 
 [^1]: A drive-through. College World Series (~'07) first destination trip.
 
-**See also [Countries visited](/countries/)** (not so remarkable, but recorded to be thorough).
+(See also [Countries visited](/countries/).)
