@@ -27,8 +27,8 @@ description: ~88% yet to explore
 | 🇸🇪 | Stockholm, Rockelstad | 2008 |
 | 🇩🇪 | Kaiserslautern, Trier | 2012 |
 | 🇨🇭 | Genève | 2012 |
-| 🇵🇪 | Lima, Cusco | 2015 |
-| 🇵🇷 | Bahia Beach, Viejo San Juan | 2017 |
+| 🇵🇪 | Lima, Machu Picchu | 2015 |
+| 🇵🇷[^1] | Bahia Beach, Viejo San Juan | 2017 |
 | 🇮🇳 | Pune | 2019 |
 
 [^1]: Unincorporated U.S. territory, but more appropriate here than the states list.
