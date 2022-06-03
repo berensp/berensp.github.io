@@ -58,7 +58,6 @@ description: Just three to go
 | 50 | Del. | **(not yet)** |
 
 *<mark>National park trip 🥾</mark>*
-
 *<lightskyblue>Ski trip ⛷</lightskyblue>*
 
 [^1]: A drive-through. College World Series (~'07) first destination trip.
