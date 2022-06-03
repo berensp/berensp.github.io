@@ -15,6 +15,6 @@ description: key stats
 | Pronunciation | <mark><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></mark> |
 | Ski length | <mark><code>188 cm</code></mark> |
 | Skydives | <mark><code>2</code></mark> |
-| US states visited | <mark><code>47</code></mark> |
+| US states visited | <mark><code>[47](/states/)</code></mark> |
 
 <span class="muted small">* To the extent humans can be put in a box.</span>
