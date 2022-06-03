@@ -10,7 +10,7 @@ description: Just three to go
 | 2 | Minn. | Moving to Saint Paul (age 4) |
 | 3 | Fla. | Walt Disney World® |
 | 4 | Ill. | Sterling to see extended fam |
-| 5 | Iowa | Driving through (?) |
+| 5 | Iowa | Driving through |
 | <mark>6</mark> | <mark>Ariz.</mark> | <mark>Grand Canyon</mark> |
 | <mark>7</mark> | <mark>Utah</mark> | <mark>Bryce and Zion Canyons</mark> |
 | 8 | Hawaii | Oahu, Kauai, Maui |
@@ -28,26 +28,26 @@ description: Just three to go
 | <mark>20</mark> | <mark>Ore.</mark> | <mark>Crater Lake</mark>, Ashland |
 | <mark>21</mark> | <mark>Calif.</mark> | <mark>Redwood Forest</mark> |
 | <mark>22</mark> | <mark>Wyo.</mark> | <mark>Yellowstone</mark> |
-| 23 | Mass. | Touring colleges w/ Dad (BC, Holy Cross) |
+| 23 | Mass. | College tour (BC, Holy Cross) |
 | 24 | Conn. | Norwalk (Kevin Eidt R.I.P.) |
 | 25 | N.Y. | NYC (BC freshman year Easter) |
 | 26 | Ohio | drive through on way to South Bend |
 | <lightskyblue>27</lightskyblue> | <lightskyblue>Vt.</lightskyblue> | <lightskyblue>Killington</lightskyblue> |
 | <lightskyblue>28</lightskyblue> | <lightskyblue>Maine</lightskyblue> | <lightskyblue>Sunday River Resort</lightskyblue> |
 | 29 | N.H. | Mt. Monadnock |
-| 30 | Mo. | St. Louis (Hmen trip) |
+| 30 | Mo. | St. Louis (WashU) |
 | 31 | Ind. | a BC/ND game |
 | 32 | La. | New Orleans |
-| 33 | Miss. | Hattiesburg (college) |
-| 34 | S.C. | Myrtle Beach (Hmen trip) |
+| 33 | Miss. | Hattiesburg |
+| 34 | S.C. | Myrtle Beach |
 | 35 | R.I. | Newport |
 | 36 | N.J. | Peapack |
 | <mark>37</mark> | <mark>Alaska</mark> | <mark>Denali, Kenai</mark> |
 | 38 | Pa. | Philadelphia (consulting) |
-| 39 | Md. | Bethesda for Fourth of July |
+| 39 | Md. | Bethesda for 4th of July |
 | 40 | Texas | Woodlands |
-| 41 | Ga. | Habitat HQ (Americus) for bschool project |
-| 42 | Kan. | Bschool RV roadtrip |
+| 41 | Ga. | Habitat HQ (Americus) |
+| 42 | Kan. | bschool RV roadtrip |
 | 43 | W.Va. | Rafting the Gauley River |
 | 44 | Idaho | Driven through on way to Jackson Hole |
 | 45 | Nev. | Tahoe |
@@ -61,6 +61,6 @@ description: Just three to go
 *<lightskyblue>Ski trip ⛷</lightskyblue>*
 
 [^1]: A drive-through. College World Series (~'07) first destination trip.
-[^2]: May have caught the northwest corner on the bschool RV roadtrip, but not enough to count it.
+[^2]: May have caught the northwest corner on bschool RV roadtrip, but not enough to count it.
 
 (See also [Countries visited](/countries/).)
