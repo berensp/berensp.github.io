@@ -10,7 +10,7 @@ description: Countries visited
 | &#127464; Canada | Victoria Island | 1988 |
 | &#127483; Venezuela | Maracaibo; Trujillo; Caracas | 1990 |
 | &#127468; Guatemala | San Lucas Tolimán | 1996 |
-| &#127462; Andorra | Skiing the Pyrenees | 1999 |
+| &#127465; Andorra | Skiing the Pyrenees | 1999 |
 | &#127466; Spain | Valencia, Granada | 2000 |
 | &#127472; South Korea | Seoul, Daegu, Jeju | 2002 |
 | &#127462; Argentina | Skiing Patagonia | 2004 |
