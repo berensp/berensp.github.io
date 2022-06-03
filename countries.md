@@ -32,3 +32,5 @@ description: ~88% yet to explore
 | 🇮🇳 | Pune | 2019 |
 
 [^1]: Unincorporated U.S. territory, but more appropriate here than the states list.
+
+(See also [States visited](/states/).)
