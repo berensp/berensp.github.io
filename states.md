@@ -53,13 +53,14 @@ description: Just three to go
 | 45 | Nev. | Tahoe |
 | 46 | N.M. | Event with HP |
 | 47 | Ala. | Huntsville |
-| 48 | Okla.| **(not yet)** |
+| 48 | Okla.[^2] | **(not yet)** |
 | 49 | Ark. | **(not yet)** |
 | 50 | Del. | **(not yet)** |
 
-*<mark>National park trip 🥾</mark>*
+*<mark>National park trip 🥾</mark>*<br>
 *<lightskyblue>Ski trip ⛷</lightskyblue>*
 
 [^1]: A drive-through. College World Series (~'07) first destination trip.
+[^2]: May have caught the northwest corner on the bschool RV roadtrip, but not enough to count it.
 
 (See also [Countries visited](/countries/).)
