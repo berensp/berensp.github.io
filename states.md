@@ -14,7 +14,7 @@ description: Just three to go
 | <mark>6</mark> | <mark>Ariz.</mark> | <mark>Grand Canyon</mark> |
 | <mark>7</mark> | <mark>Utah</mark> | <mark>Bryce and Zion Canyons</mark> |
 | 8 | Hawaii | Oahu, Kauai, Maui |
-| 9 | Mich. | U.P.: Powderhorn; (L.P.: bschool) |
+| <lightskyblue>9</lightskyblue> | <lightskyblue>Mich.</lightskyblue> | <lightskyblue>U.P.: Powderhorn</lightskyblue>; (L.P.: bschool) |
 | 10 | N.D. | Grand Forks |
 | <mark>11</mark> | <mark>S.D.</mark> | <mark>Badlands</mark>, Black Hills |
 | <mark>12</mark> | <mark>Mont.</mark> | <mark>Glacier National Park</mark> |
@@ -22,7 +22,7 @@ description: Just three to go
 | 14 | Tenn. | Roadtrip to Outer Banks |
 | 15 | N.C. | Outer Banks (Duck, NC) |
 | 16 | Va. | Williamsburg |
-| 17 | Colo. | Copper Mountain |
+| <lightskyblue>17</lightskyblue> | <lightskyblue>Colo.</lightskyblue> | <lightskyblue>Copper Mountain</lightskyblue> |
 | 18 | Neb.[^1] | driving through to CO for skiing |
 | <mark>19</mark> | <mark>Wash.</mark> | Seattle, <mark>Olympic Peninsula</mark> |
 | <mark>20</mark> | <mark>Ore.</mark> | <mark>Crater Lake</mark>, Ashland |
@@ -32,8 +32,8 @@ description: Just three to go
 | 24 | Conn. | Norwalk (Kevin Eidt R.I.P.) |
 | 25 | N.Y. | NYC (BC freshman year Easter) |
 | 26 | Ohio | drive through on way to South Bend |
-| 27 | Vt. | Killington |
-| 28 | Maine | Sunday River Resort or Freeport |
+| <lightskyblue>27</lightskyblue> | <lightskyblue>Vt.</lightskyblue> | <lightskyblue>Killington</lightskyblue> |
+| <lightskyblue>28</lightskyblue> | <lightskyblue>Maine</lightskyblue> | <lightskyblue>Sunday River Resort</lightskyblue> |
 | 29 | N.H. | Mt. Monadnock |
 | 30 | Mo. | St. Louis (Hmen trip) |
 | 31 | Ind. | a BC/ND game |
@@ -58,7 +58,8 @@ description: Just three to go
 | 50 | Del. | **(not yet)** |
 
 *<mark>National park trip</mark>*
+*<lightskyblue>Ski trip</lightskyblue>*
 
 [^1]: A drive-through. College World Series (~'07) first destination trip.
 
-[Countries visited](/countries/) not so remarkable, but good to document nonetheless.
+**See also [Countries visited](/countries/)** (not so remarkable, but recorded to be thorough).
