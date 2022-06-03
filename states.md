@@ -61,4 +61,4 @@ description: Just three to go
 
 [^1]: A drive-through. College World Series (~'07) first destination trip.
 
-[Countries visited](/countries/) not so remarkable, but good to document nonetheless.
+**See also [Countries visited](/countries/)** (not so remarkable, but good to document nonetheless).
