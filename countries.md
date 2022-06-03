@@ -4,6 +4,8 @@ title: Countries visited
 permalink: /countries/
 description: Countries visited
 ---
+| Country | Locations | Year |
+| :--- | :--- | :----: |
 | 🇺🇸 USA | delivery room | Day1 |
 | 🇨🇦 Canada | Victoria Island | 1988 |
 | 🇻🇪 Venezuela | Maracaibo; Trujillo; Caracas | 1990 |
