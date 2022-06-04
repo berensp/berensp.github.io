@@ -4,8 +4,6 @@ title: States visited
 permalink: /states/
 description: Just three to go
 ---
-| Order | State | First Trip |
-| :----: | :--- | :--- |
 | 1 | Wis. | Wausau |
 | 2 | Minn. | Saint Paul |
 | 3 | Fla. | Orlando |
@@ -50,16 +48,14 @@ description: Just three to go
 | 42 | Kan. | Bschool RV roadtrip |
 | 43 | W.Va. | Rafting the Gauley River |
 | 44 | Idaho | En route to Jackson Hole |
-| <lightskyblue>45</lightskyblue> | <lightskyblue>Nev.</lightskyblue> | <lightskyblue>Tahoe</lightskyblue> |
+| <lightskyblue>45</lightskyblue> | <lightskyblue>Nev.</lightskyblue> | <lightskyblue>Stateline (Heavenly)</lightskyblue> |
 | 46 | N.M. | Event with HP |
 | 47 | Ala. | Huntsville |
 | 48 | Okla. | (not yet) |
 | 49 | Ark. | (not yet) |
 | 50 | Del. | (not yet) |
-
 [^1]: Lower Peninsula: Ann Arbor
 [^2]: A drive-through. College World Series (~'07) was the first destination trip.
-
 *<mark>National park trip 🥾</mark>*<br>
 *<lightskyblue>Ski trip ⛷</lightskyblue>*
 
