@@ -31,6 +31,6 @@ description: ~88% yet to explore
 | 🇵🇷[^1] | Bahia Beach | 2017 |
 | 🇮🇳 | Pune | 2019 |
 
-[^1]: Unincorporated U.S. territory, but more appropriate here than the states list.
+[^1]: Unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
 
 (See also [States visited](/states/).)
