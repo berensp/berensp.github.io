@@ -4,6 +4,8 @@ title: States visited
 permalink: /states/
 description: Just three to go
 ---
+| Order | State | First Trip |
+| :----: | :--- | :--- |
 | 1 | Wis. | Wausau |
 | 2 | Minn. | Saint Paul |
 | 3 | Fla. | Orlando |
@@ -54,6 +56,7 @@ description: Just three to go
 | 48 | Okla. | (not yet) |
 | 49 | Ark. | (not yet) |
 | 50 | Del. | (not yet) |
+
 [^1]: Lower Peninsula: Ann Arbor
 [^2]: A drive-through. College World Series (~'07) was the first destination trip.
 *<mark>National park trip 🥾</mark>*<br>
