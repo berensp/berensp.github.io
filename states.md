@@ -7,18 +7,18 @@ description: Just three to go
 | Order | State | First Trip |
 | :----: | :--- | :--- |
 | 1 | Wis. | Wausau |
-| 2 | Minn. | St. Paul |
+| 2 | Minn. | Saint Paul |
 | 3 | Fla. | Orlando |
 | 4 | Ill. | Sterling |
 | 5 | Iowa | Sioux City |
 | <mark>6</mark> | <mark>Ariz.</mark> | <mark>Grand Canyon</mark> |
 | <mark>7</mark> | <mark>Utah</mark> | <mark>Bryce and Zion Canyons</mark> |
 | 8 | Hawaii | Oahu, Kauai, Maui |
-| <lightskyblue>9</lightskyblue> | <lightskyblue>Mich.</lightskyblue> | <lightskyblue>U.P.: Powderhorn[^1]</lightskyblue> |
+| <lightskyblue>9</lightskyblue> | <lightskyblue>Mich.</lightskyblue> | <lightskyblue>U.P.: Powderhorn</lightskyblue>[^1] |
 | 10 | N.D. | Grand Forks |
 | <mark>11</mark> | <mark>S.D.</mark> | <mark>Badlands, Black Hills</mark> |
 | <mark>12</mark> | <mark>Mont.</mark> | <mark>Glacier National Park</mark> |
-| 13 | Ky. | Meeting M&D's matchmakers |
+| 13 | Ky. | Louisville |
 | 14 | Tenn. | Roadtrip to Outer Banks |
 | 15 | N.C. | Outer Banks (Duck, NC) |
 | 16 | Va. | Williamsburg |
@@ -58,7 +58,7 @@ description: Just three to go
 | 50 | Del. | (not yet) |
 
 [^1]: Lower Peninsula: Ann Arbor
-[^2]: A drive-through. College World Series (~'07) first destination trip.
+[^2]: A drive-through. College World Series (~'07) was the first destination trip.
 
 *<mark>National park trip 🥾</mark>*<br>
 *<lightskyblue>Ski trip ⛷</lightskyblue>*
