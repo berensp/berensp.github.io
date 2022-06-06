@@ -6,15 +6,15 @@ description: key stats
 ---
 | Fun Fact | Value |
 | :---    | :---  |
-| Almae matres | <mark><code><a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a></code></mark>, <mark><code><a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a></code></mark>, <mark><code><a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a></code></mark> |
-| Blood type | <mark><code>A+</code></mark> |
-| MBTI®* | <mark><code>INTP</code></mark> |
-| Mondegreen | <mark><code>Ball Bearings</code></mark>
-| Nationality | <mark><code>USA</code></mark> |
-| Political party | <mark><code>Independent</code></mark> |
-| Pronunciation | <mark><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></mark> |
-| Ski length | <mark><code>188 cm</code></mark> |
-| Skydives | <mark><code>2</code></mark> |
-| US states visited | <mark><code><a href="/states/">47</a></code></mark> |
+| Blood type | <mark>A+</mark> |
+| Countries visited | <mark><a href="/countries/">12%</a></mark> |
+| MBTI®* | <mark>INTP</mark> |
+| Mondegreen | <mark>Ball Bearings</mark>
+| Nationality | <mark>USA</mark> |
+| Political party | <mark>Independent</mark> |
+| Pronunciation | <mark><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></mark> |
+| Ski length | <mark>188 cm</mark> |
+| Skydives | <mark>2</mark> |
+| US states visited | <mark><a href="/states/">94%</a></mark> |
 
 <span class="muted small">* To the extent humans can be put in a box.</span>

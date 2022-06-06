@@ -20,7 +20,7 @@ description: ~88% yet to explore
 | 🇩🇴 | Cabarete | 2006 |
 | 🇻🇦 | Saint Peter's Basilica | 2006 |
 | 🇮🇱 | Tel Aviv, Jerusalem | 2006 |
-| 🇮🇹 | Roma, Firenze, Venezia | 2006 |
+| 🇮🇹 | Roma, Firenze, Assisi | 2006 |
 | 🇯🇴 | Petra, Wadi Rum | 2006 |
 | 🇹🇷 | Istanbul, Cappadocia | 2006 |
 | 🇳🇱 | Amsterdam | 2008 |
