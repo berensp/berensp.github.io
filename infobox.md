@@ -4,11 +4,12 @@ title: Infobox
 permalink: /infobox/
 description: key stats
 ---
-| Fun Fact | Value |
+| Quick Fact | Value |
 | :---    | :---  |
+| Aunts and uncles[^1] | 19 |
 | Blood type | <mark>A+</mark> |
 | Countries visited | <mark><a href="/countries/">12%</a></mark> |
-| MBTI®* | <mark>INTP</mark> |
+| MBTI®[^2] | <mark>INTP</mark> |
 | Mondegreen | <mark>Ball Bearings</mark>
 | Nationality | <mark>USA</mark> |
 | Political party | <mark>Independent</mark> |
@@ -17,4 +18,6 @@ description: key stats
 | Skydives | <mark>2</mark> |
 | US states visited | <mark><a href="/states/">94%</a></mark> |
 
-<span class="muted small">* To the extent humans can be put in a box.</span>
+
+[^1]: consanguineous
+[^2]: To the extent humans can be put in a box.
