@@ -4,32 +4,32 @@ title: Countries visited
 permalink: /countries/
 description: ~88% yet to explore
 ---
-| Country | First Trip | Year |
-| :--- | :--- | :----: |
-| 🇺🇸 | Wausau, Wis. | Day1 |
-| 🇨🇦 | Victoria Island | 1988 |
-| 🇻🇪 | Niquitao, Caracas | 1990 |
-| 🇬🇹 | San Lucas Tolimán | 1996 |
-| 🇦🇩 | El Pas de la Casa | 1999 |
-| 🇪🇸 | Valencia | 1999 |
-| 🇰🇷 | Seoul, Daegu, Jeju | 2002 |
-| 🇦🇷 | Bariloche | 2004 |
-| 🇫🇷 | Aix-en-Provence | 2004 |
-| 🇲🇽 | Acapulco | 2005 |
-| 🇹🇭 | Bangkok, Phuket | 2005 |
-| 🇩🇴 | Cabarete | 2006 |
-| 🇻🇦 | Saint Peter's Basilica | 2006 |
-| 🇮🇱 | Tel Aviv, Jerusalem | 2006 |
-| 🇮🇹 | Roma, Firenze, Assisi | 2006 |
-| 🇯🇴 | Petra, Wadi Rum | 2006 |
-| 🇹🇷 | Istanbul, Cappadocia | 2006 |
-| 🇳🇱 | Amsterdam | 2008 |
-| 🇸🇪 | Stockholm, Rockelstad | 2008 |
-| 🇩🇪 | Kaiserslautern, Trier | 2012 |
-| 🇨🇭 | Genève | 2012 |
-| 🇵🇪 | Lima, Machu Picchu | 2015 |
-| 🇵🇷[^1] | Bahia Beach | 2017 |
-| 🇮🇳 | Pune | 2019 |
+| Order | Ctry. | First Trip |
+| :----: | :----: | :--- |
+| 1 | 🇺🇸 | Wausau, Wis. |
+| 2 | 🇨🇦 | Victoria Island |
+| 3 | 🇻🇪 | Niquitao, Caracas |
+| 4 | 🇬🇹 | San Lucas Tolimán |
+| 5 | 🇦🇩 | El Pas de la Casa |
+| 6 | 🇪🇸 | Valencia |
+| 7 | 🇰🇷 | Seoul, Daegu, Jeju |
+| 8 | 🇦🇷 | Bariloche |
+| 9 | 🇫🇷 | Aix-en-Provence, Paris |
+| 10 | 🇲🇽 | Acapulco |
+| 11 | 🇹🇭 | Bangkok, Phuket |
+| 12 | 🇩🇴 | Cabarete |
+| 13 | 🇻🇦 | Saint Peter's Basilica |
+| 14 | 🇮🇱 | Tel Aviv, Jerusalem |
+| 15 | 🇮🇹 | Roma, Firenze, Venezia |
+| 16 | 🇯🇴 | Petra, Wadi Rum |
+| 17 | 🇹🇷 | Istanbul, Cappadocia |
+| 18 | 🇳🇱 | Amsterdam |
+| 19 | 🇸🇪 | Stockholm, Rockelstad |
+| 20 | 🇩🇪 | Kaiserslautern, Trier |
+| 21 | 🇨🇭 | Genève |
+| 22 | 🇵🇪 | Lima, Machu Picchu |
+| 23 | 🇵🇷[^1] | Bahia Beach |
+| 24 | 🇮🇳 | Pune |
 
 [^1]: Unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
 
