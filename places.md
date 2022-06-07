@@ -19,6 +19,5 @@ Prior to SF I've always been east of the Mississippi and north of the 41°.
 West to East: San Francisco, Calif.; Saint Paul, <a href="/mn">Minn.</a>; Wausau, Wis.; Chicago, Ill.; Ann Arbor, Mich.; Boston, Mass.
 
 ## Where I've traveled 🧳
-| :--- | :--- |
 | [Countries](/countries/) | █░░░░░░░░░ 11% |
 | [States](/states/) | █████████░ 94% |
