@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Places 📍
-permalink: /myplaces/
+title: Places 📍
+permalink: /places/
 ogimage: places.lived.2022.01.03.png
 description: Hic mansi optime
 ---
@@ -20,5 +20,5 @@ West to East: San Francisco, Calif.; Saint Paul, <a href="/mn">Minn.</a>; Wausau
 
 ## Where I've traveled 🧳
 | :--- | :--- |
-|[Countries](/countries/) | █░░░░░░░░░ 11% |
-|[States](/states/) | █████████░ 94% |
+| [Countries](/countries/) | █░░░░░░░░░ 11% |
+| [States](/states/) | █████████░ 94% |
