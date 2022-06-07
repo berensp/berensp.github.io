@@ -20,5 +20,6 @@ West to East: San Francisco, Calif.; Saint Paul, <a href="/mn">Minn.</a>; Wausau
 
 ## Where I've traveled 🧳
 
+| :--- | :--- |
 | [Countries](/countries/) | █░░░░░░░░░ 11% |
 | [States](/states/) | █████████░ 94% |
