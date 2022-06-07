@@ -14,7 +14,7 @@ description: ~88% yet to explore
 | 🇪🇸 | Valencia | 1999 |
 | 🇰🇷 | Seoul, Daegu, Jeju | 2002 |
 | 🇦🇷 | Bariloche | 2004 |
-| 🇫🇷 | Paris, Aix-en-Provence | 2004 |
+| 🇫🇷 | Aix-en-Provence | 2004 |
 | 🇲🇽 | Acapulco | 2005 |
 | 🇹🇭 | Bangkok, Phuket | 2005 |
 | 🇩🇴 | Cabarete | 2006 |
