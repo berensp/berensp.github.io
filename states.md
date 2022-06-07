@@ -48,10 +48,10 @@ description: Just three to go
 | 40 | Texas | Woodlands |
 | 41 | Ga. | Americus |
 | 42 | Kan. | Bschool RV roadtrip |
-| 43 | W.Va. | Rafting the Gauley River |
+| 43 | W.Va. | Lansing (Gauley River) |
 | 44 | Idaho | En route to Jackson Hole |
 | <lightskyblue>45</lightskyblue> | <lightskyblue>Nev.</lightskyblue> | <lightskyblue>Stateline (Heavenly)</lightskyblue> |
-| 46 | N.M. | Event with HP |
+| 46 | N.M. | Albuquerque |
 | 47 | Ala. | Huntsville |
 | 48 | Okla. | (not yet) |
 | 49 | Ark. | (not yet) |
