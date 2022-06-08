@@ -7,17 +7,16 @@ description: key stats
 | Quick Fact | Value |
 | :---    | :---  |
 | Aunts and uncles[^1] | 19 |
-| Blood type | <mark>A+</mark> |
-| Countries visited | <mark><a href="/countries/">12%</a></mark> |
-| MBTI®[^2] | <mark>INTP</mark> |
-| Mondegreen | <mark>Ball Bearings</mark>
-| Nationality | <mark>USA</mark> |
-| Political party | <mark>Independent</mark> |
-| Pronunciation | <mark><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></mark> |
-| Ski length | <mark>188 cm</mark> |
-| Skydives | <mark>2</mark> |
-| US states visited | <mark><a href="/states/">94%</a></mark> |
-
+| Blood type | A+ |
+| Countries visited | <a href="/countries/">12%</a> |
+| MBTI®[^2] | INTP |
+| Mondegreen | Ball Bearings
+| Nationality | USA |
+| Political party | Independent |
+| Pronunciation | <a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a> |
+| Ski length | 188 cm |
+| Skydives | 2 |
+| US states visited | <a href="/states/">94%</a> |
 
 [^1]: consanguineous
 [^2]: To the extent humans can be put in a box.
