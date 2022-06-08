@@ -6,7 +6,7 @@ ogimage: places.lived.2022.01.03.png
 description: Hic mansi optime
 ---
 ## Hic Manebimus Optime
-I love San Francisco for all the [beauty](/assets/images/ggb.baker.jpg) and charm and distinctiveness it's famous for, and at the same time lament its <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" target="_blank">deterioration</a>. What can one do—apart from leaving—but accentuate the positive and vote?
+I treasure San Francisco for its abundant [beauty](/assets/images/ggb.baker.jpg) and charm and distinctiveness, while, at the same time, I lament its <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" target="_blank">deterioration</a>. What can one do—apart from leaving—but accentuate the positive and vote?
 
 ## Where I've lived 🏠
 Prior to SF I've always been east of the Mississippi and north of the 41°.
