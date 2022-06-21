@@ -59,7 +59,7 @@ description: Just three to go
 
 [^1]: Lower Peninsula: Ann Arbor
 [^2]: A drive-through. College World Series (~'07) was the first destination trip.
-<mark><span class="muted small">National park trip 🥾</span></mark><br>
+<mark><span class="muted small">National park trip 🥾</span></mark>
 <mark2><span class="muted small">Ski trip ⛷</span></mark2>
 
 (See also [Countries visited](/countries/).)
