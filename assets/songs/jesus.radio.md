@@ -6,7 +6,7 @@ description: You took a photograph of me
 ---
 **Original Artist**: Guster<br>
 **Covering Artist**: Paul Berens and Peter Berens<br>
-**Recording date**: Circa 2012
+**Recording date**: December 2012
 
 ## Lyrics
 5a.m. March 16<br>
@@ -27,7 +27,5 @@ To get through to go around<br>
 To get through to go around
 
 <span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/" target="_blank">Musixmatch</a>
-
 <span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span>
-
 <span class="muted small">Jesus on the Radio lyrics © Low Crawl Music</span>
