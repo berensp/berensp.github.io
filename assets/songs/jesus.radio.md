@@ -26,7 +26,7 @@ You're so low you don't know
 To get through to go around
 To get through to go around
 
-<span class="muted small">Source: </span><a class="muted" href="https://www.musixmatch.com/" target="_blank">Musixmatch</a>
+<span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/" target="_blank">Musixmatch</a>
 
 <span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span>
 
