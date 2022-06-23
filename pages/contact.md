@@ -30,6 +30,6 @@ Say hello on these messengers, apps, etc.:
 - <i class="fab fa-apple"></i> <strike>iMessage</strike>
 - <a href="../fb"><i class="fab fa-facebook"></i></a> <strike><a href="../fb">Meta products/platforms</a></strike>
 
-<mark><span class="muted small">Keybase-verified identity proof</span></mark>
+<mark><span class="muted small">Keybase-verified (identity proof)</span></mark>
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
