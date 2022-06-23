@@ -5,7 +5,7 @@ permalink: /give-me-time/
 description: If there's one thing you could give
 ---
 **Original Artist**: Dawes<br>
-**Covering Artist**: Peter Berens (lead vocals); Paul Berens (lead guitar, backing vocals)<br>
+**Covering Artist**: Peter Berens (vocals); Paul Berens (guitar, vocals)<br>
 **Recording date**: December 22, 2012<br>
 **Recording location**: Mpls., Minn.
 
