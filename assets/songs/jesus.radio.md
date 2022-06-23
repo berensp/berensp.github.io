@@ -26,6 +26,6 @@ You're so low you don't know<br>
 To get through to go around<br>
 To get through to go around
 
-<span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/" target="_blank">Musixmatch</a>
-<span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span>
+<span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/" target="_blank">Musixmatch</a><br>
+<span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span><br>
 <span class="muted small">Jesus on the Radio lyrics © Low Crawl Music</span>
