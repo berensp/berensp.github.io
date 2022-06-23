@@ -5,8 +5,11 @@ permalink: /jesus-radio/
 description: You took a photograph of me
 ---
 **Original Artist**: Guster<br>
-**Covering Artist**: Paul Berens and Peter Berens<br>
-**Recording date**: Circa 2012
+**Covering Artist**: Peter Berens (lead vocals); Paul Berens (lead guitar, backing vocals)<br>
+**Recording date**: December 22, 2012
+**Recording location**: Mpls., Minn.
+
+<mark><b><a href="https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/464792704295067942055326260603979070088343924201035246970139109591166746625" target="_blank">Non-fungible token</a></b><mark>
 
 ## Lyrics
 5a.m. March 16<br>
@@ -26,8 +29,6 @@ You're so low you don't know<br>
 To get through to go around<br>
 To get through to go around
 
-<span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/" target="_blank">Musixmatch</a>
-
-<span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span>
-
+<span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/lyrics/Guster/Jesus-on-the-Radio" target="_blank">Musixmatch</a><br>
+<span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span><br>
 <span class="muted small">Jesus on the Radio lyrics © Low Crawl Music</span>
