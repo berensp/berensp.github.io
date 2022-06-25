@@ -13,7 +13,6 @@ description: Trust is a joke
     contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
     tokenId="464792704295067942055326260603979070088343924201035246970139115088724885505">
     </nft-card>
-    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 ## Lyrics
 Twenty times I've tried to tell you<br>
