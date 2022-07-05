@@ -11,4 +11,4 @@ My name is Paul Berens (<a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz
 
 Presently working on data products at <a href="https://varian.com" target="_blank">Varian</a>. Erstwhile: HP, Deloitte Consulting; and almae matres <a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a>, <a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a>, and <a href="https://pb.url.lol/sta" target="_blank">ST(M)A</a>.
 
-I am (to varying degrees) [autodidactic](/learning/), Catholic, <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [homichlophilic](/fog/), [librocubicularistic](/books/), philharmonic, technophilic, unchic.
+I am (to varying degrees) [autodidactic](/learning/), Catholic, [Germanic/Celtic](/ancestry/), <a href="https://translate.google.com/translate?sl=en&tl=es&u=https://berens.co/about/">hispanophonic</a>, [homichlophilic](/fog/), [librocubicularistic](/books/), philharmonic, technophilic, unchic.
