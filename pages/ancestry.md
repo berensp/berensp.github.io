@@ -16,4 +16,4 @@ Family history has alway been a fascination, so I'm now trying to build out <a h
 1. Get beyond the basics (names, dates, locations) and **into the stories**
 2. Flesh out my tree enough to **attract ("bait" in the WikiTree parlance) more participation** to help with #1 ☝
 3. Go back far enough to understand **how and when the Berenses made their way from Holland 🇳🇱 to Germany 🇩🇪**
-4. Establish degrees of separation from George Bernard Shaw and James Joyce
+4. Establish degrees of separation from James Joyce, George Bernard Shaw, and W. B. Yeats
