@@ -22,7 +22,7 @@ Say hello on these messengers, apps, etc.:
 - <mark><a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">@berensp</a></mark>
 - <mark><a href="https://github.com/berensp/" target="_blank"><i class="fa-brands fa-github"></i> <a href="https://github.com/berensp" target="_blank">@berensp</a>
 - <mark><a href="https://berens.co/feed.xml" target="_blank"><i class="fas fa-rss"></i></a> <a href="https://berens.co/feed.xml" target="_blank">berens.co</a></mark>
-- <mark2><a href="https://www.farcaster.xyz/" target="_blank">Farcaster</a></mark2> 🆕
+- <mark2><a href="https://www.farcaster.xyz/" target="_blank">Farcaster</a></mark2>&nbsp;🆕
 - <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">@berens</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a href="https://linkedin.com/in/berensp" target="_blank">@berensp</a>
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank"><i class="fab fa-strava"></i></a> <a href="https://www.strava.com/athletes/berenzino" target="_blank">@berenzino</a>
