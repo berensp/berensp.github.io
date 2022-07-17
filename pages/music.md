@@ -4,6 +4,10 @@ title: Music 🎼
 permalink: /music/
 description: If you sing; sing, sing.
 ---
+> *[Great music][^1] invigorates our best faculties and...inspires love in the highest part of the soul."* (—Iris Murdoch)
+
+[^1]:In actuality she said "great art" or "good art", and so I'm taking some license with her quote.
+
 Lots to include in this page: music created, musical opinions, musical associations, musical memories, etc.
 
 ## Half-baked covers (solo)
