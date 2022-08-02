@@ -11,54 +11,54 @@ description: Just three to go
 | 3 | Fla. | Orlando |
 | 4 | Ill. | Sterling |
 | 5 | Iowa | Sioux City |
-| <mark>6</mark> | <mark>Ariz.</mark> | <mark>Grand Canyon</mark> |
-| <mark>7</mark> | <mark>Utah</mark> | <mark>Bryce and Zion Canyons</mark> |
-| 8 | Hawaii | Oahu, Kauai, Maui |
-| <mark2>9</mark2> | <mark2>Mich.</mark2> | <mark2>U.P.: Powderhorn</mark2>[^1] |
-| 10 | N.D. | Grand Forks |
-| <mark>11</mark> | <mark>S.D.</mark> | <mark>Badlands, Black Hills</mark> |
-| <mark>12</mark> | <mark>Mont.</mark> | <mark>Glacier National Park</mark> |
-| 13 | Ky. | Louisville |
-| 14 | Tenn. | Roadtrip to Outer Banks |
-| 15 | N.C. | Outer Banks (Duck, NC) |
-| 16 | Va. | Williamsburg |
-| <mark2>17</mark2> | <mark2>Colo.</mark2> | <mark2>Copper Mountain</mark2> |
-| 18 | Neb.[^2] | En route to Copper |
-| <mark>19</mark> | <mark>Wash.</mark> | <mark>Seattle, Olympic Peninsula</mark> |
-| <mark>20</mark> | <mark>Ore.</mark> | <mark>Crater Lake, Ashland</mark> |
-| <mark>21</mark> | <mark>Calif.</mark> | <mark>Redwood Forest</mark> |
-| <mark>22</mark> | <mark>Wyo.</mark> | <mark>Yellowstone</mark> |
-| 23 | Mass. | College tour |
-| 24 | Ind. | South Bend |
-| 25 | Conn. | Norwalk (Kevin Eidt R.I.P.) |
-| 26 | N.Y. | NYC (BC 1st year Easter) |
-| 27 | Ohio | En route to South Bend |
-| <mark2>28</mark2> | <mark2>Vt.</mark2> | <mark2>Killington</mark2> |
-| <mark2>29</mark2> | <mark2>Maine</mark2> | <mark2>Sunday River</mark2> |
-| 30 | N.H. | Mt. Monadnock |
-| 31 | Mo. | St. Louis (WashU) |
-| 32 | La. | New Orleans |
-| 33 | Miss. | Hattiesburg |
-| 34 | S.C. | Myrtle Beach |
-| 35 | R.I. | Newport |
-| 36 | N.J. | Peapack |
-| <mark>37</mark> | <mark>Alaska</mark> | <mark>Denali, Kenai</mark> |
-| 38 | Pa. | Philly, Chadds Ford |
-| 39 | Md. | Bethesda |
-| 40 | Texas | Woodlands |
-| 41 | Ga. | Americus |
-| 42 | Kan. | Bschool RV roadtrip |
+| 6 | Hawaii | Oahu, Kauai, Maui |
+| <mark2>7</mark2> | <mark2>Mich.</mark2> | <mark2>U.P.: Powderhorn</mark2>[^1] |
+| 8 | N.D. | Grand Forks |
+| <mark>9</mark> | <mark>Mont.</mark> | <mark>Glacier National Park</mark> |
+| 10 | Ky. | Louisville |
+| 11 | Tenn. | Roadtrip to Outer Banks |
+| 12 | N.C. | Outer Banks (Duck, NC) |
+| 13 | Va. | Williamsburg |
+| <mark2>14</mark2> | <mark2>Colo.</mark2> | <mark2>Copper Mountain</mark2> |
+| <mark>15</mark> | <mark>Wash.</mark> | <mark>Seattle, Olympic National Park</mark> |
+| <mark>16</mark> | <mark>Ore.</mark> | <mark>Crater Lake, Ashland</mark> |
+| <mark>17</mark> | <mark>Calif.</mark> | <mark>Redwood Forest</mark> |
+| <mark>18</mark> | <mark>Utah</mark> | <mark>Bryce and Zion Canyons</mark> |
+| <mark>19</mark> | <mark>Ariz.</mark> | <mark>Grand Canyon</mark> |
+| <mark>20</mark> | <mark>S.D.</mark> | <mark>Badlands, Devils Tower</mark> |
+| <mark>21</mark> | <mark>Wyo.</mark> | <mark>Yellowstone</mark> |
+| 22 | Mass. | College tour |
+| 23 | Ind. | South Bend |
+| 24 | Conn. | Norwalk |
+| 25 | N.Y. | NYC |
+| 26 | Ohio | En route to South Bend |
+| <mark2>27</mark2> | <mark2>Vt.</mark2> | <mark2>Killington</mark2> |
+| <mark2>28</mark2> | <mark2>Maine</mark2> | <mark2>Sunday River</mark2> |
+| 29 | N.H. | Mt. Monadnock |
+| 30 | Mo. | St. Louis (WashU) |
+| 31 | La. | New Orleans |
+| 32 | Miss. | Hattiesburg |
+| 33 | S.C. | Myrtle Beach |
+| 34 | R.I. | Newport |
+| 35 | N.J. | Peapack |
+| <mark>36</mark> | <mark>Alaska</mark> | <mark>Denali, Kenai</mark> |
+| 37 | Pa. | Philly, Chadds Ford |
+| 38 | Md. | Bethesda |
+| 39 | Texas | Woodlands |
+| 40 | Ga. | Americus |
+| 41 | Kan. | Bschool RV roadtrip |
+| 42 | Neb. | En route to Copper[^2] |
 | 43 | W.Va. | Lansing (Gauley River) |
 | 44 | Idaho | En route to Jackson Hole |
 | <mark2>45</mark2> | <mark2>Nev.</mark2> | <mark2>Stateline (Heavenly)</mark2> |
 | 46 | N.M. | Albuquerque |
 | 47 | Ala. | Huntsville |
-| 48 | Ark. | (not yet) |
-| 49 | Del. | (not yet) |
-| 50 | Okla. | (not yet) |
+| 48 | Okla. | (not yet) |
+| 49 | Ark. | (not yet) |
+| 50 | Del. | (not yet) |
 
 [^1]: Lower Peninsula: Ann Arbor
 [^2]: A drive-through. College World Series (~'07) was the first destination trip.
-<mark><span class="muted small">National park trip 🥾</span></mark><span class="muted small"> | </span><mark2><span class="muted small">Ski trip ⛷</span></mark2>
+<mark><span class="muted small">National park/monument trip 🥾</span></mark><span class="muted small"> | </span><mark2><span class="muted small">Ski trip ⛷</span></mark2>
 
 (See also [Countries visited](/countries/).)
