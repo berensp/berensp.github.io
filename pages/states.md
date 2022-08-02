@@ -20,7 +20,7 @@ description: Just three to go
 | 12 | N.C. | Outer Banks (Duck, NC) |
 | 13 | Va. | Williamsburg |
 | <mark2>14</mark2> | <mark2>Colo.</mark2> | <mark2>Copper Mountain</mark2> |
-| <mark>15</mark> | <mark>Wash.</mark> | <mark>Seattle, Olympic National Park</mark> |
+| <mark>15</mark> | <mark>Wash.</mark> | <mark>Seattle, Olympic Nat'l Park</mark> |
 | <mark>16</mark> | <mark>Ore.</mark> | <mark>Crater Lake, Ashland</mark> |
 | <mark>17</mark> | <mark>Calif.</mark> | <mark>Redwood Forest</mark> |
 | <mark>18</mark> | <mark>Utah</mark> | <mark>Bryce and Zion Canyons</mark> |
