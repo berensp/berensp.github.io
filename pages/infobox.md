@@ -6,11 +6,12 @@ description: key stats
 ---
 | Quick Fact | Value |
 | :---    | :---  |
-| Almae Matres | <a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a> <a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a> |
+| <td colspan=2>Other |
+| Almae Matres | <a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a> <a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a> |
 | Aunts and uncles[^1] | 19 |
 | Blood type | A+ |
 | Countries visited | <a href="/countries/">12%</a> |
-| Heritage | <a href="/ancestors/">🇩🇪 🇮🇪</a> |
+| Heritage | <a href="/ancestry/">🇩🇪 🇮🇪</a> |
 | Languages | 🇬🇧 🇪🇸 |
 | MBTI®[^2] | INTP |
 | Mondegreen | Ball Bearings

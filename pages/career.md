@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work 💼
-permalink: /work/
+title: Résumé 💼
+permalink: /cv/
 ---
 ## Experience
 - **<a href="https://varian.com" target="_blank">Varian</a>** - Product Marketing - SaaS, analytics
