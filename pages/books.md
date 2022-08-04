@@ -24,6 +24,7 @@ I ain't particularly well-read, but changing that situation one book at a time. 
 - [*Alice in Wonderland*](https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0) by Lewis Carroll
 - [*Bad Land*](https://www.google.com/books/edition/Bad_Land/ZbiNJcYeM6gC?hl=en&gbpv=0) by Jonathan Raban
 - [*Brideshead Revisited*](https://www.google.com/books/edition/Brideshead_Revisited/mAjbDwAAQBAJ) by Evelyn Waugh
+- [*The Devil in the White City*](https://www.google.com/books/edition/_/my26rbCgjlYC?hl=en&sa=X&ved=2ahUKEwjjt_Wrhqv5AhUOjIkEHZliAsAQre8FegQIAxBZ) by Erik Larson
 - [*Confederacy of Dunces*](https://www.google.com/books/edition/A_Confederacy_of_Dunces/WM6OztAsYWQC?hl=en&gbpv=0) by John Kennedy Toole
 - [*The Count of Monte Cristo*](https://www.google.com/books/edition/The_Count_of_Monte_Cristo/RyEEAAAAQAAJ?hl=en&gbpv=0) by Alexandre Dumas
 - [*Pillars of the Earth*](https://www.google.com/books/edition/_/QYYQDAAAQBAJ?hl=en&sa=X&ved=2ahUKEwit84DyoZLwAhXxhK0KHY5bDaUQ7_IDMB16BAgNEAU) by Ken Follett
