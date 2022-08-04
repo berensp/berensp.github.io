@@ -6,7 +6,6 @@ description: key stats
 ---
 | Quick Fact | Value |
 | :---    | :---  |
-|<td bgcolor="#fdeca6" colspan=2><b>Other</b></td>|
 | Almae Matres | <a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a> <a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a> |
 | Aunts and uncles[^1] | 19 |
 | Blood type | A+ |
