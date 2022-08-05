@@ -4,29 +4,22 @@ title: PAUL BERENS
 permalink: /cv/
 ---
 Product Marketer, Strategist
-<br><span style="color:gray">San Francisco, CA | [✉](/contact)</span>
+<br><span style="color:gray">San Francisco, CA | p@berens.co</span>
 
 <span class="muted small"><b>WORK EXPERIENCE</b></span>
 
 ## VARIAN
 <span style="color:gray">Product Marketing | Mar 2019 - present</span>
-- x
-- x
-
-## OPTACARE
-<span style="color:gray">Biz Dev | 1 yr 5 mos</span>
-- x
-- x
+- Building and launching data products
 
 ## HP
 <span style="color:gray">Marketing Strategy | 7 yrs 6 mos</span>
-- x
-- x
+- Go-to-market strategy and execution, product launches
+- Digital analytics, marketing mix analysis, driving ROAS
 
 ## DELOITTE CONSULTING
 <span style="color:gray">Strategy & Operations | 6 yrs</span>
-- x
-- x
+- Management consulting in the areas of Customer Experience, Corporate and Competitive Strategy, Merger Integration, Growth Strategy, Operations Excellence
 
 <span class="muted small"><b>EDUCATION</b></span>
 
@@ -35,3 +28,5 @@ Product Marketer, Strategist
 
 ## BOSTON COLLEGE
 <span style="color:gray">Bachelor of Arts, Philosophy</span>
+
+<span style="color:gray"><a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a></span>
