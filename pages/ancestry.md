@@ -13,10 +13,10 @@ Family history has alway been a fascination, so I'm now trying to build out <a h
 <!-- End Family Tree Widget -->
 
 ## Goals
-- Get beyond the basics (names, dates, locations) and <mark>into the stories</mark>
-- Flesh out my tree enough to <mark>attract ("bait" in the WikiTree parlance) more participation</mark> to help with #1 ☝
-- 🇩🇪 side-specific goal: Go back far enough to <mark>understand when/how/why the Berenses emigrated from Holland to Germany</mark>
-- 🇮🇪 side-specific goal: Establish <mark>degrees of separation</mark> from James Joyce, George Bernard Shaw, and W. B. Yeats
+- Get beyond the basics (names, dates, locations) and into the stories
+- Flesh out my tree enough to attract ("bait" in the WikiTree parlance) more participation to help with #1 ☝
+- 🇩🇪 side-specific goal: Go back far enough to understand when/how/why the Berenses emigrated from Holland to Germany
+- 🇮🇪 side-specific goal: Establish degrees of separation from James Joyce, George Bernard Shaw, and W. B. Yeats
 
 ## Running list of insights
 - **Life used to be a lot harder.** My <a href="https://www.wikitree.com/wiki/Miessner-9" target="_blank">paternal grandmother</a> was born in Montana because her parents took an enticing homestead offer and relocated from Wisconsin. It turned out they were duped by the government and the railroad: the soil was crap/untillable. Facing possible starvation they escaped back to Wisconsin with the help of the Lutheran Church, which is why, as I understand it, my great-grandparents didn't take kindly to it when my grandmother later converted to Catholicism (how could you turn your back on the institution that [literally] saved us?). There's a book called *Bad Land* which describes the experience of my grandmother's family and that of many of their unfortunate neighbors, which is [listed among my favorites](/books/).
