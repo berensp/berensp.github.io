@@ -31,7 +31,7 @@ Even if I have to fly it into the ground
 I know my days are numbered but I'm bad at math<br>
 I got a [life][^1] so hard that a cat couldn't scratch<br>
 Made some bad decisions, I shouldn't go back<br>
-I can't see her, it's just-a not like that
+I can't see her, it's just-a not like that<br>
 You see I had this lovin' baby but I [messed it][^1] up<br>
 There's a little ounce of pain behind every grunt<br>
 All the noise that I make, I shouldn't complain<br>
