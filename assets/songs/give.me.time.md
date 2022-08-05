@@ -10,7 +10,7 @@ description: If there's one thing you could give
 **Recording location**: Mpls., Minn.
 
 <audio id="player" controls>
-  <source src="give.me.time.mp3" type="audio/mp3" />
+  <source src="/assets/songs/give.me.time.mp3" type="audio/mp3" />
 </audio>
 
 <p>
