@@ -6,7 +6,6 @@ description: A cat couldn't scratch
 ---
 **Original Artist**: Middle Brother<br>
 **Covering Artist**: Peter Berens (vocals); Paul Berens (guitar, vocals)<br>
-**Recording date**: December 22, 2012<br>
 **Recording location**: Mpls., Minn.
 
 <audio id="player" controls>

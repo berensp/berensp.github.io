@@ -6,7 +6,6 @@ description: Trust is a joke
 ---
 **Original Artist**: Toad the Wet Sprocket<br>
 **Covering Artist**: Paul Berens (vocals, guitar, synth string sound from GarageBand app)<br>
-**Recording date**: Circa 2014<br>
 **Recording location**: San Francisco
 
 <audio id="player" controls>

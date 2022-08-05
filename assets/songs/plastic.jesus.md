@@ -6,7 +6,6 @@ description: Trust is a joke
 ---
 **Original Artist**: Ed Rush, George Cromarty *(Plastic Jesus)*; Greg Brown *(Spring Wind)*<br>
 **Covering Artist**: Paul Berens (vocals, guitar)<br>
-**Recording date**: Circa 2014<br>
 **Recording location**: San Francisco
 
 <audio id="player" controls>
@@ -30,7 +29,7 @@ assuring me that I will never go to hell<br>
 All my friends are getting older,<br>
 I guess I must be too.<br>
 Without their love and kindness<br>
-I don't want I'll do<br>
+I don't know what I'd do<br>
 Oh the wine bottle's half empty<br>
 The money's all been spent<br>
 We're a cross between our parents<br>

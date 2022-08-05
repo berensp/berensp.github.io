@@ -6,7 +6,6 @@ description: You took a photograph of me
 ---
 **Original Artist**: Guster<br>
 **Covering Artist**: Peter Berens (lead vocals); Paul Berens (lead guitar, backing vocals)<br>
-**Recording date**: December 22, 2012<br>
 **Recording location**: Mpls., Minn.
 
 <audio id="player" controls>

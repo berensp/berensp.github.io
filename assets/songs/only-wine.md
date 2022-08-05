@@ -6,7 +6,6 @@ description: Head spinnin', mouth open
 ---
 **Original Artist**: David Gray<br>
 **Covering Artist**: Paul Berens (vocals, guitar, bass guitar from GarageBand app)<br>
-**Recording date**: Circa 2014<br>
 **Recording location**: San Francisco
 
 <audio id="player" controls>
