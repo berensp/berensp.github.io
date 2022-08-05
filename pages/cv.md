@@ -4,7 +4,7 @@ title: PAUL BERENS
 permalink: /cv/
 ---
 Product Marketer, Strategist
-<span style="color:gray">San Francisco, CA | paul@berens.co</span>
+<br><span style="color:gray">San Francisco, CA | paul@berens.co</span>
 
 <span class="muted small"><b>WORK EXPERIENCE</b></span>
 
@@ -28,7 +28,7 @@ Product Marketer, Strategist
 - x
 - x
 
-<p><span class="muted small"><b>ALMA MATRES</b></span>
+<span class="muted small"><b>ALMA MATRES</b></span>
 
 ## UNIVERSITY OF MICHIGAN, ROSS SCHOOL OF BUSINESS
 <span style="color:gray">MBA, Marketing and Strategy</span>
