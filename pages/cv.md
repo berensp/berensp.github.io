@@ -29,4 +29,10 @@ Product Marketer, Strategist
 ## BOSTON COLLEGE
 <span style="color:gray">Bachelor of Arts, Philosophy</span>
 
-<span style="color:gray"><a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a></span>
+<span class="muted small"><b>MISCELLANY</b></span>
+- Skills
+- Passions
+- Hobbies
+- Investments
+
+<center><span style="color:gray"><a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a></span></center>
