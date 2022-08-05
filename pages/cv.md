@@ -12,14 +12,17 @@ Product Marketer, Strategist
 <span style="color:gray">Product Marketing | March 2019 - present</span>
 - x
 - x
+
 ## OPTACARE
 <span style="color:gray">Biz Dev | March 2018 - Feb </span>
 - x
 - x
+
 ## HP
 <span style="color:gray">Marketing Strategy | March 2019 - present</span>
 - x
 - x
+
 ## DELOITTE CONSULTING
 <span style="color:gray">Strategy & Operations | March 2019 - present</span>
 - x
@@ -29,6 +32,7 @@ Product Marketer, Strategist
 
 ## UNIVERSITY OF MICHIGAN, ROSS SCHOOL OF BUSINESS
 <span style="color:gray">MBA, Marketing and Strategy</span>
+
 ## BOSTON COLLEGE
 <span style="color:gray">Bachelor of Arts, Philosophy</span>
 
