@@ -6,7 +6,6 @@ description: If there's one thing you could give
 ---
 **Original Artist**: Dawes<br>
 **Covering Artist**: Peter Berens (vocals); Paul Berens (guitar, vocals)<br>
-**Recording date**: December 22, 2012<br>
 **Recording location**: Mpls., Minn.
 
 <audio id="player" controls>

@@ -6,7 +6,6 @@ description: Trust is a joke
 ---
 **Original Artist**: Lowen & Navarro<br>
 **Covering Artist**: Paul Berens (vocals, guitar, tambourine)<br>
-**Recording date**: Circa 2014<br>
 **Recording location**: San Francisco
 
 <audio id="player" controls>
