@@ -9,6 +9,10 @@ description: If there's one thing you could give
 **Recording date**: December 22, 2012<br>
 **Recording location**: Mpls., Minn.
 
+<audio id="player" controls>
+  <source src="give.me.time.mp3" type="audio/mp3" />
+</audio>
+
 <p>
 
     <nft-card
