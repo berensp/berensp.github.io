@@ -13,15 +13,6 @@ description: If there's one thing you could give
   <source src="/assets/songs/give.me.time.mp3" type="audio/mp3" />
 </audio>
 
-<p>
-
-    <nft-card
-    contractAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
-    tokenId="464792704295067942055326260603979070088343924201035246970139110690678374401">
-    </nft-card>
-    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
-</p>
-
 ## Lyrics
 Give me time<br>
 Give me time<br>
