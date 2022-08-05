@@ -1,17 +1,40 @@
 ---
 layout: page
-title: Résumé 💼
+title: PAUL BERENS
 permalink: /cv/
 ---
-## Experience
-- **<a href="https://varian.com" target="_blank">Varian</a>** - Product Marketing - SaaS, analytics
-- **<a href="https://twitter.com/HP" target="_blank">HP</a>** - Marketing Strategy
-- **<a href="https://twitter.com/MonitorDeloitte" target="_blank">Deloitte Consulting</a>** - Strategy & Operations
+Product Marketer, Strategist
+<span style="color:gray">San Francisco, CA | paul@berens.co</span>
 
-## Almae Matres
-- **<a href="https://twitter.com/MichiganRoss/" target="_blank">University of Michigan</a>**, MBA, Marketing and Strategy
-- **<a href="https://twitter.com/BCPhilosophy" target="_blank">Boston College</a>**, Bachelor of Arts, Philosophy
-- **<a href="https://pb.url.lol/sta" target="_blank">St. Thomas Academy</a>**
+<span class="muted small"><b>WORK EXPERIENCE</b></span>
+
+### VARIAN
+<span style="color:gray">Product Marketing | March 2019 - present</span>
+- x
+- x
+
+### OPTACARE
+<span style="color:gray">Biz Dev | March 2018 - Feb </span>
+- x
+- x
+
+### HP
+<span style="color:gray">Marketing Strategy | March 2019 - present</span>
+- x
+- x
+
+### DELOITTE CONSULTING
+<span style="color:gray">Strategy & Operations | March 2019 - present</span>
+- x
+- x
+
+<span class="muted small"><b>ALMA MATRES</b></span>
+
+### UNIVERSITY OF MICHIGAN, ROSS SCHOOL OF BUSINESS
+<span style="color:gray">MBA, Marketing and Strategy</span>
+
+### BOSTON COLLEGE
+<span style="color:gray">Bachelor of Arts, Philosophy</span>
 
 ## Professional Profiles
 - <a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">@berens</a>

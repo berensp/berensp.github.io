@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Investments
-permalink: /invest/
+title: Investment Portfolio
+permalink: /portfolio/
 description: 💸
 ---
 | Company/Fund | GP | Round | Date |
