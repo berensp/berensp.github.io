@@ -29,10 +29,26 @@ Product Marketer, Strategist
 ## BOSTON COLLEGE
 <span style="color:gray">Bachelor of Arts, Philosophy</span>
 
+<span class="muted small"><b>SKILLS</b></span>
+- Pivoting between left- and right-brained activities
+- Oscillating between strategy and tactical execution
+- Storytelling and distilling complex technical concepts for an intended audience
+- Ramping quickly on new technologies, products, and industry verticals
+- Getting things done in highly matrixed environments
+
+<span class="muted small"><b>PASSIONS</b></span>
+- Technologies that unlock great potential
+- Unanticipated market insights
+- Forming and nurturing relationships
+- Winning as a team
+- Creating Arbejdsglæde (joy at work)
+- Making giant swooping turns on alpine skis
+
+<span class="muted small"><b>SPECIALTIES</b></span>
+`Product marketing`, `marketing strategy`, `business strategy`, `integrated marketing`, `demand generation`, `data analytics`, `SaaS`
+
 <span class="muted small"><b>MISCELLANY</b></span>
-- Skills
-- Passions
-- Hobbies
-- Investments
+- [🌱 I’m currently digging into...](/learning/)
+- [Investments](/portfolio/)
 
 <center><span style="color:gray"><a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a></span></center>
