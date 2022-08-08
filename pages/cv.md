@@ -45,10 +45,10 @@ Product Marketer, Strategist
 - Making giant swooping turns on alpine skis
 
 <span class="muted small"><b>SPECIALTIES</b></span>
-`Product marketing`, `marketing strategy`, `business strategy`, `integrated marketing`, `demand generation`, `data analytics`, `SaaS`
+<br>`product marketing`, `marketing strategy`, `business strategy`, `integrated marketing`, `demand generation`, `data analytics`, `SaaS`
 
 <span class="muted small"><b>MISCELLANY</b></span>
-- [🌱 I’m currently digging into...](/learning/)
+- [Currently digging into...](/learning/)
 - [Investments](/portfolio/)
 
 <center><span style="color:gray"><a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a></span></center>
