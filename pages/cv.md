@@ -29,7 +29,7 @@ Product Marketer, Strategist
 ## BOSTON COLLEGE
 <span style="color:gray">Bachelor of Arts, Philosophy</span>
 
-<span class="muted small"><b>SKILLS</b></span>
+<br><span class="muted small"><b>SKILLS</b></span>
 - Pivoting between left- and right-brained activities
 - Oscillating between strategy and tactical execution
 - Storytelling and distilling complex technical concepts for an intended audience
