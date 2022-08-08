@@ -6,7 +6,7 @@ permalink: /cv/
 Product Marketer, Strategist
 <br><span style="color:gray">San Francisco, CA | p@berens.co</span>
 
-<span class="muted small"><b>WORK EXPERIENCE</b></span>
+<br><span class="muted small"><b>WORK EXPERIENCE</b></span>
 
 ## VARIAN
 <span style="color:gray">Product Marketing | Mar 2019 - present</span>
@@ -21,7 +21,7 @@ Product Marketer, Strategist
 <span style="color:gray">Strategy & Operations | 6 yrs</span>
 - Management consulting in the areas of Customer Experience, Corporate and Competitive Strategy, Merger Integration, Growth Strategy, Operations Excellence
 
-<span class="muted small"><b>EDUCATION</b></span>
+<br><span class="muted small"><b>EDUCATION</b></span>
 
 ## UNIVERSITY OF MICHIGAN, ROSS SCHOOL OF BUSINESS
 <span style="color:gray">MBA, Marketing and Strategy</span>
@@ -36,7 +36,7 @@ Product Marketer, Strategist
 - Ramping quickly on new technologies, products, and industry verticals
 - Getting things done in highly matrixed environments
 
-<span class="muted small"><b>PASSIONS</b></span>
+<br><span class="muted small"><b>PASSIONS</b></span>
 - Technologies that unlock great potential
 - Unanticipated market insights
 - Forming and nurturing relationships
@@ -44,10 +44,12 @@ Product Marketer, Strategist
 - Creating Arbejdsglæde (joy at work)
 - Making giant swooping turns on alpine skis
 
-<span class="muted small"><b>SPECIALTIES</b></span>
-<br>`product marketing`, `marketing strategy`, `business strategy`, `integrated marketing`, `demand generation`, `data analytics`, `SaaS`
+<br><span class="muted small"><b>SPECIALTIES</b></span>
+- Product marketing, integrated marketing, demand generation
+- Marketing strategy, go-to-market strategy, business strategy, SaaS
+- Data analytics, marketing analytics
 
-<span class="muted small"><b>MISCELLANY</b></span>
+<br><span class="muted small"><b>MISCELLANY</b></span>
 - [Currently digging into...](/learning/)
 - [Investments](/portfolio/)
 
