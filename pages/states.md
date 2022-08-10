@@ -15,8 +15,8 @@ description: Just three to go
 | <mark2>7</mark2> | <mark2>Mich.</mark2> | <mark2>U.P.: Powderhorn</mark2>[^1] |
 | 8 | N.D. | Grand Forks |
 | <mark>9</mark> | <mark>Mont.</mark> | <mark>Glacier National Park</mark> |
-| 10 | Ky. | Louisville |
-| 11 | Tenn. | Roadtrip to Outer Banks |
+| 10 | Ky. | En route to Outer Banks |
+| 11 | Tenn. | Knoxville |
 | 12 | N.C. | Outer Banks (Duck, NC) |
 | 13 | Va. | Williamsburg |
 | <mark2>14</mark2> | <mark2>Colo.</mark2> | <mark2>Copper Mountain</mark2> |
