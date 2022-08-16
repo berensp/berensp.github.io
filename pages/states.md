@@ -7,7 +7,7 @@ description: Just three to go
 | Order | State | First Trip |
 | :----: | :--- | :--- |
 | 1 | Wis. | Wausau |
-| 2 | Minn. | Saint Paul |
+| 2 | <a href="/mn">Minn.</a> | Saint Paul |
 | 3 | Fla. | Orlando |
 | 4 | Ill. | Sterling |
 | 5 | Iowa | Sioux City |
