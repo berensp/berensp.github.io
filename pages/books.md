@@ -4,9 +4,11 @@ title: Books 📚
 permalink: /books/
 ogimage: bookshelf.bw.png
 ---
-<img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
+> *Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo.*[^1] (—Giordano Bruno)
 
-I ain't particularly well-read, but changing that situation one book at a time. *(Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo.)*
+[^1]:*A drop hollows out the stone by falling not twice, but often; so too is a person becomes wise by reading not twice, but often.* I ain't particularly well-read, but changing that situation one book at a time.
+
+<img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Presently reading
 - [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
