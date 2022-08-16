@@ -4,6 +4,8 @@ title: Infobox
 permalink: /infobox/
 description: key stats
 ---
+> *'Who are **you**?'* (—The Caterpillar, Alice's Adventures in Wonderland, Lewis Carroll)
+
 | Quick Fact | Value |
 | :---    | :---  |
 | Almae Matres | <a href="https://twitter.com/BCPhilosophy" target="_blank">BC</a> <a href="https://twitter.com/MichiganRoss/" target="_blank">UMich</a> |

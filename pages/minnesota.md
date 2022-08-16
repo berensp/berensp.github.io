@@ -5,6 +5,8 @@ permalink: /mn/
 ogimage: the.first.minnesota.png
 description: Where all the women are strong, all the men are good-looking, and all the children are above average.
 ---
+> *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* (—Garrison Keillor)
+
 <img src="/assets/og/the.first.minnesota.png" alt="The First Minnesota Regiment" width="40%" height="40%">
 
 My running tally of what makes L'Étoile du Nord unique, interesting, valuable, loveable, and [happy](https://wallethub.com/edu/happiest-states/6959).
@@ -55,5 +57,3 @@ My running tally of what makes L'Étoile du Nord unique, interesting, valuable, 
 - **Hockey/[Bandy](https://en.wikipedia.org/wiki/Bandy)** - Broten brothers, Patrick Eaves[^2], [1980 Miracle On Ice (Herb Brooks et al.)](https://en.wikipedia.org/wiki/Miracle_on_Ice), [U.S. Hockey Hall of Fame](https://en.wikipedia.org/wiki/United_States_Hockey_Hall_of_Fame), [shinny](https://en.wikipedia.org/wiki/Shinny)
 
 [^2]: a Boston College Eagle to boot (bonus points). *Koznick: honorary (matriculated but DNF).
-
-> *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* —Garrison Keillor
