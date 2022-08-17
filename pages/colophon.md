@@ -3,7 +3,9 @@ layout: page
 title: Colophon
 permalink: /colophon/
 ---
-*Explicit iste liber, scriptor sit crimine liber, Christus scriptorem custodiat ac det honorem.*
+> *"Explicit iste liber, scriptor sit crimine liber, Christus scriptorem custodiat ac det honorem."*[^1] (—Bodleian MS. 264, *Roman d'Alexandre*)
+
+[^1]:*Here ends this book. May the scribe be free from reproach. May Christ protect the scribe and give him honor.*
 
 This site is hosted on [GitHub Pages and built with Jekyll using Clio](/this-site), a template and theme designed by Dan Romero.
 
