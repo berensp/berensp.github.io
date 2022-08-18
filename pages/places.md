@@ -5,7 +5,7 @@ permalink: /places/
 ogimage: places.lived.2022.01.03.png
 description: Hic mansi optime
 ---
-> *"The world is a great book...they who never stir from home read only a page."* (—St. Augustine)
+> *"The ache for home lives in all of us."* (—Maya Angelou)
 
 ## Hic Manebimus Optime
 I treasure San Francisco for its [beauty](/assets/images/ggb.baker.jpg) and <a href="/fog">charm</a> and distinctiveness, while, at the same time, I lament its <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" target="_blank">deterioration</a>. What can one do—apart from leaving—but accentuate the positive and vote?
