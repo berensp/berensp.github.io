@@ -4,7 +4,7 @@ title: Infobox
 permalink: /infobox/
 description: key stats
 ---
-> *"'Who are **you**?'"* (—The Caterpillar, Alice's Adventures in Wonderland, Lewis Carroll)
+> *"'Who are you?'"* (—The Caterpillar, Alice's Adventures in Wonderland, Lewis Carroll)
 
 | Quick Fact | Value |
 | :---    | :---  |
