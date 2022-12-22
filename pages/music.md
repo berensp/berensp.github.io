@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Music Creation
 
-F\olk and classical piano music were omnipresent in our household, as you'd expect when your mother is my mother: music teacher 
+Folk and classical piano music were omnipresent in our household, as you'd expect when your mother is my mother: grade school music teacher 
 
 
 ### My half-baked covers (solo)
