@@ -16,7 +16,7 @@ description: my cellular history
 | Apple | iPhone 4S | Sprint | 2011 |
 | Apple | iPhone 5S | Sprint | 2013 |
 | Apple | iPhone 6S | Sprint | 2016 |
-| Palm | Pixel 3 | <a href="https://fi.google.com/" target="_blank">Google</a> | 2019 |
+| Google | Pixel 3 | <a href="https://fi.google.com/" target="_blank">Google</a> | 2019 |
 | Samsung | Galaxy S21 | Sprint | 2021 |
 
 [^1]: Sprint PCS
