@@ -13,11 +13,21 @@ ogimage: bookshelf.bw.png
 ## Presently reading
 - [*For Whom the Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
 - [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
-- [*The Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) by Dante Alighieri
 
 ## On deck
 - [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
-- [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
+
+## Near-term reading list
+- [*Atomic Habits*](https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00) by James Clear
+- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
+- [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
+- [*Range*](https://www.google.com/books/edition/Range/6nsmEAAAQBAJ?hl=en&gbpv=0) by David Epstein
+- [*The Life And Times Of The Thunderbolt Kid*](https://www.google.com/books/edition/The_Life_and_Times_of_the_Thunderbolt_Ki/W_WOEAAAQBAJ?hl=en) by Bill Bryson
+- [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0&kptab=overview) by Fyodor Dostoevsky
+- [*Bridge Of Sighs*](https://www.google.com/books/edition/Bridge_of_Sighs/OiNGhdlc0CIC?hl=en&gbpv=0) by Richard Russo
+- [*The Book of Unknown Americans*](https://www.google.com/books/edition/The_Book_of_Unknown_Americans/jixPAgAAQBAJ?hl=en&gbpv=0) by Christina Henriquez
+- [*An Interrupted Life and Letters from Westerbork*](https://www.google.com/books/edition/Etty_Hillesum/HxfMzAEACAAJ?hl=en) by Etty Hillesum
+- [*Shipping News*](https://www.google.com/books/edition/The_Shipping_News/jHp8VHqgCmQC?hl=en&gbpv=0) by Annie Proulx
 - [*The Road*](https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0) by Cormac McCarthy
 
 ## Recently completed
