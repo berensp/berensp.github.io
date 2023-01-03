@@ -19,6 +19,7 @@ Say hello on these messengers, apps, etc.:
 ## Other &#128483;
 - <mark><a href="https://twitter.com/berensp" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://twitter.com/berensp" target="_blank">@berensp</a></mark>
 - <mark><a rel="me" href="https://mastodon.cloud/@berens"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">@berens@mastodon.cloud</a></mark>
+- <mark><a rel="me" href="https://mas.to/@pmb"><i class="fab fa-mastodon"></i></a> <a rel="me" href="https://mas.to/@pmb" target="_blank">@pmb@mas.to</a></mark>
 - <mark><a href="https://reddit.com/user/berensp" target="_blank"><i class="fab fa-reddit"></i></a> <a href="https://reddit.com/user/berensp" target="_blank">@berensp</a></mark>
 - <mark><a href="https://github.com/berensp/" target="_blank"><i class="fa-brands fa-github"></i> <a href="https://github.com/berensp" target="_blank">@berensp</a>
 - <mark><a href="https://berens.co/feed.xml" target="_blank"><i class="fas fa-rss"></i></a> <a href="https://berens.co/feed.xml" target="_blank">berens.co</a></mark>
