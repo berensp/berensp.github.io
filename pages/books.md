@@ -11,12 +11,13 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Presently reading
-- [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
-- [*The Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) by Dante Alighieri
 - [*For Whom the Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
+- [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
+- [*The Divine Comedy*](https://www.google.com/books/edition/The_Divine_Comedy/aiMRqLDYe2EC?hl=en&gbpv=0) by Dante Alighieri
 
 ## On deck
-- [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
+- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
+- [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
 - [*The Road*](https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0) by Cormac McCarthy
 
 ## Recently completed
