@@ -11,7 +11,7 @@ description: 💸
 | <a href="https://www.hurree.co/" target="_blank">Hurree</a> | Chainstay | Seed | May '22 |
 | <a href="https://getdex.com/" target="_blank">Dex</a> | SPV | SAFE | Apr '22 |
 | <a href="https://www.nursewallet.co/" target="_blank">NurseWallet</a> | <a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a> | Seed | Feb '22 |
-| <a href="https://twitter.com/DiscoverVincent" target="_blank">Vincent</a> | <a href="https://twitter.com/jason" target="_blank">@Jason</a> | Seed | Jun '21 |
+| <a href="https://twitter.com/DiscoverVincent" target="_blank">Vincent</a> | <a href="https://thesyndicate.com/" target="_blank">Syndicate</a> | Seed | Jun '21 |
 | Basecamp 2021 | AVG | Various | Jan '21 |
 | Deep Tech Fund 1 | AVG | Various | Oct '20 |
 | <a href="https://twitter.com/LuminousAI" target="_blank">Luminous</a> | AVG | Series A | Oct '20 |
