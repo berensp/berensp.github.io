@@ -13,7 +13,7 @@ description: key stats
 | Blood type | A+ |
 | Countries visited | <a href="/countries/">12%</a> |
 | Heritage | <a href="/ancestry/">🇩🇪 🇮🇪</a> |
-| Languages | 🇬🇧 🇪🇸 |
+| Investments | <a href="/portfolio/">9</a> |
 | MBTI®[^2] | INTP |
 | Mondegreen | Ball Bearings
 | Nationality | USA |
