@@ -12,10 +12,9 @@ ogimage: bookshelf.bw.png
 
 ## Presently reading
 - [*For Whom the Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
-- [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
 
 ## On deck
-- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
+- [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
 
 ## Near-term reading list
 - [*Atomic Habits*](https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00) by James Clear
