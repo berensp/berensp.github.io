@@ -12,6 +12,7 @@ description: key stats
 | Aunts and uncles[^1] | 19 |
 | Blood type | A+ |
 | Countries visited | <a href="/countries/">12%</a> |
+| Current book | <a href="/books/">{{ site.readingbook }}</a>
 | Heritage | <a href="/ancestry/">🇩🇪 🇮🇪</a> |
 | Investments | <a href="/portfolio/">9</a> |
 | MBTI®[^2] | INTP |
