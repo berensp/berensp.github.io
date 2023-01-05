@@ -12,6 +12,7 @@ ogimage: bookshelf.bw.png
 
 ## Presently reading
 - [*For Whom the Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
+- [*{{ site.readingbook }}*]({{ site.readingurl }}) by {{ site.readingauthor }}
 
 ## On deck
 - [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
