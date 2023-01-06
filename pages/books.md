@@ -11,7 +11,6 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Presently reading
-- [*For Whom the Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
 - [*{{ site.readingbook }}*]({{ site.readingurl }}) by {{ site.readingauthor }}
 
 ## On deck
