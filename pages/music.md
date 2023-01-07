@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music 🎼
+title: 🎼 Music
 permalink: /music/
 description: If you sing; sing, sing.
 ---

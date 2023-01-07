@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Investments 🚀
+title: 🚀 Investments
 permalink: /portfolio/
 description: 💸
 ---
