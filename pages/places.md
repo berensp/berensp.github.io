@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Places 📍
+title: 📍 Places
 permalink: /places/
 ogimage: places.lived.2022.01.03.png
 description: Hic mansi optime
