@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Infobox
+title: Infobox 🪂
 permalink: /infobox/
 description: key stats
 ---
@@ -17,7 +17,7 @@ description: key stats
 | MBTI®[^1] | INTP |
 | Mondegreen | Ball Bearings
 | Nationality | 🇺🇸 |
-| Religion | ✝ |
+| Religion | Catholic |
 | Political party | Independent |
 | Pronunciation | <a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a> |
 | Ski length | 188 cm |
