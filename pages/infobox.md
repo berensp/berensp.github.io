@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Infobox 🪂
+title: 🪂 Infobox
 permalink: /infobox/
 description: key stats
 ---
