@@ -4,8 +4,6 @@ title: 🚀 Investments
 permalink: /portfolio/
 description: 💸
 ---
-> *"Someone is sitting in the shade today because someone planted a tree a long time ago."* (—Warren Buffett)
-
 | Company/Fund | GP | Round | Date |
 | :---    | :---  | :---  | :---  |
 | <a href="https://www.hurree.co/" target="_blank">Hurree</a> | Chainstay | Seed | May '22 |
