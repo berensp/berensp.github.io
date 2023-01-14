@@ -17,7 +17,6 @@ ogimage: bookshelf.bw.png
 - [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
 
 ## Near-term reading list
-- [*Atomic Habits*](https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00) by James Clear
 - [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
 - [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
 - [*Range*](https://www.google.com/books/edition/Range/6nsmEAAAQBAJ?hl=en&gbpv=0) by David Epstein
@@ -30,7 +29,7 @@ ogimage: bookshelf.bw.png
 - [*The Road*](https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0) by Cormac McCarthy
 
 ## Recently completed
-- [*Driftless*](https://www.google.com/books/edition/Driftless/9x8KFppvCAIC?hl=en&gbpv=0) by David Rhodes
+- [*For Whom The Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
 
 ## Some favorites
 - [*Alice in Wonderland*](https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0) by Lewis Carroll

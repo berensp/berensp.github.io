@@ -3,9 +3,9 @@ email: pb@omg.lol
 description: Paul Berens
 site.url: "https://berensp.github.io"
 twitter: berensp
-readingurl: https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview
-readingbook: For Whom The Bell Tolls
-readingauthor: Ernest Hemingway
+readingurl: https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00
+readingbook: Atomic Habits
+readingauthor: James Clear
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
