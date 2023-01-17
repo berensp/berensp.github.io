@@ -4,10 +4,8 @@ title: PAUL BERENS
 permalink: /cv/
 ---
 Product Marketer, Strategist
-<br><span style="color:gray">San Francisco, CA</span>
-<br><span style="color:gray"><a href="mailto:p@berens.co"><i class="far fa-envelope"></i></a> <a href="mailto:p@berens.co">p@berens.co</a></span>
-<br><span style="color:gray"><a href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a href="https://angel.co/berens" target="_blank">AngelList</a></span>
-<br><span style="color:gray"><a href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a></span>
+<br><span style="color:gray">San Francisco, California</span>
+<br><a class="muted" href="mailto:p@berens.co"><i class="far fa-envelope"></i></a> <a class="muted" href="mailto:p@berens.co">p@berens.co</a><span class="muted small"> | </span><a class="muted" href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a class="muted" href="https://angel.co/berens" target="_blank">AngelList</a><span class="muted small"> | </span><a class="muted" href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a class="muted" href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 
 <br><span class="muted small">💼 <b>WORK EXPERIENCE</b></span>
 
@@ -52,8 +50,9 @@ Product Marketer, Strategist
 - Marketing strategy, go-to-market strategy, business strategy, SaaS
 - Data analytics, marketing analytics
 
-<br><span class="muted small">⛷️ <b>MISCELLANY</b></span>
-- [Reading](/books/)
+<br><span class="muted small">☕ <b>MISCELLANY</b></span>
 - [Learning](/learning/)
 - [Investing](/portfolio/)
-- <a href="https://www.strava.com/athletes/berenzino" target="_blank">Running and cycling</a> (where I can fit it in)
+- [Reading](/books/)
+- <a href="https://www.strava.com/athletes/berenzino" target="_blank">Running and cycling</a>
+- [Traveling](/countries/)
