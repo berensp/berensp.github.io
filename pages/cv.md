@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 Product Marketer, Strategist
 <br><span style="color:gray">San Francisco</span>
-<br><a class="muted" href="mailto:p@berens.co"><i class="far fa-envelope"></i></a><span style="color:gray"> | </span><a class="muted" href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a><span style="color:gray"> | </span><a class="muted" href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+<br><a class="muted" href="mailto:p@berens.co"><i class="far fa-envelope"></i></a><span style="color:gray">&nbsp;&nbsp;&nbsp;</span><a class="muted" href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a><span style="color:gray">&nbsp;&nbsp;&nbsp;</span><a class="muted" href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 
 <br><span class="muted small">💼 <b>WORK EXPERIENCE</b></span>
 
