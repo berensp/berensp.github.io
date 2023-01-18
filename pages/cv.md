@@ -4,10 +4,7 @@ title: PAUL BERENS
 permalink: /cv/
 ---
 Product Marketer, Strategist
-<br><span style="color:gray">San Francisco, California</span>
-<br><a class="muted" href="mailto:p@berens.co"><i class="far fa-envelope"></i></a> <a class="muted" href="mailto:p@berens.co">p@berens.co</a>
-<br><a class="muted" href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a> <a class="muted" href="https://angel.co/berens" target="_blank">AngelList</a>
-<br><a class="muted" href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a> <a class="muted" href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
+<br><span style="color:gray">San Francisco, California | </span><a class="muted" href="mailto:p@berens.co"><i class="far fa-envelope"></i></a>&nbsp;<a class="muted" href="https://angel.co/berens" target="_blank"><i class="fab fa-angellist"></i></a>&nbsp;<a class="muted" href="https://linkedin.com/in/berensp" target="_blank"><i class="fab fa-linkedin-in"></i></a>
 
 <br><span class="muted small">💼 <b>WORK EXPERIENCE</b></span>
 
