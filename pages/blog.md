@@ -5,8 +5,6 @@ permalink: /blog/
 description: ✍
 ---
 <main>
-  
-{{ content }}
 
   {%- if site.posts.size > 0 -%}
     <h1>{{ page.list_title | default: "Posts" }}</h1>
