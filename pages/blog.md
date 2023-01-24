@@ -4,7 +4,11 @@ title: Posts
 permalink: /blog/
 description: ✍
 ---
-<main>
+<header>
+  <h1>{{ page.title | escape }}</h1>
+</header><main>
+
+{{ content }}
 
   {%- if site.posts.size > 0 -%}
     <h1>{{ page.list_title | default: "Posts" }}</h1>
