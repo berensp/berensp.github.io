@@ -13,7 +13,7 @@ description: key stats
 | Countries visited | <a href="/countries/">12%</a> |
 | Current book | *<a href="/books/">{{ site.readingbook }}</a>*
 | Heritage | <a href="/ancestry/">🇩🇪 🇮🇪</a> |
-| Investments | <a href="/portfolio/">9</a> |
+| Investments | <a href="/invest/">9</a> |
 | MBTI®[^1] | INTP |
 | Mondegreen | Ball Bearings
 | Nationality | 🇺🇸 |
