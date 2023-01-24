@@ -4,8 +4,6 @@ title: Posts
 permalink: /blog/
 description: ✍
 ---
-<main>
-  
 <img src="/assets/images/curricle.02.png" width="40%" height="40%">
 
 👋 Hi, I'm Paul from Saint Paul; currently in Saint Frank. More [about me](/about/).
@@ -20,6 +18,3 @@ description: ✍
       {%- endfor -%}
     </ul>
   {%- endif -%}
-
-{%- include footer.html -%}
-</main>
