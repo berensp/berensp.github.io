@@ -7,7 +7,7 @@ layout: home
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<img src="/assets/og/pmb.sketch.png" width="35%" height="35%">
+<img src="/assets/og/pmb.sketch.png" width="25%" height="25%">
 
 👋 Hi, I'm Paul from Saint Paul; currently in [Saint Frank](/places/) with my wife Lisa and our two tykes. [(More)](/infobox/).
 
