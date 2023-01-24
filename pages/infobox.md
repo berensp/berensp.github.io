@@ -14,6 +14,7 @@ description: key stats
 | Current book | *<a href="/books/">{{ site.readingbook }}</a>*
 | Heritage | <a href="/ancestry/">🇩🇪 🇮🇪</a> |
 | Investments | <a href="/invest/">9</a> |
+| Languages | 🇬🇧 🇪🇸 🇰🇷 |
 | MBTI®[^1] | INTP |
 | Mondegreen | Ball Bearings
 | Nationality | 🇺🇸 |
