@@ -52,7 +52,7 @@ Product Marketer, Strategist
 
 <br><span class="muted small">☕ <b>MISCELLANY</b></span>
 - [Learning](/learning/)
-- [Investing](/portfolio/)
+- [Investing](/invest/)
 - [Reading](/books/)
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Running and cycling</a>
 - [Traveling](/countries/)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🚀 Investments
-permalink: /portfolio/
+permalink: /invest/
 description: 💸
 ---
 I've been fortunate to participate in the early rounds of the following startups:
