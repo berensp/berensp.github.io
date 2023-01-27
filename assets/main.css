@@ -74,7 +74,12 @@ body {
     top: 0px !important; 
     }
 
-.container {
+.plyr-container {
 	margin: 50px auto;
 	max-width: 500px;
+}
+
+.plyr-video {
+	object-fit:
+cover;
 }
