@@ -75,8 +75,6 @@ body {
     }
 
 .plyr-container {
-	margin: 50px auto;
-	max-width: 500px;
-	object-fit:
-cover;
+	width: 800px;
+	height: 450px;
 }
