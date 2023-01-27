@@ -78,3 +78,8 @@ body {
 	width: 800px;
 	height: 450px;
 }
+
+.plyr-video {
+	object-fit:
+cover;
+}
