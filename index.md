@@ -15,4 +15,4 @@ Presently bringing data products to market at <a href="https://varian.com" targe
 
 When I'm not chauffeuring, cleaning, and diapering; I enjoy [reading](/books/), [writing](/blog/), and [traveling](/countries/).
 
-Reach me on <a href="https://signal.org" target="_blank">Signal</a> and [elsewhere](/contact/).
+Get in touch on <a href="https://signal.org" target="_blank">Signal</a> and [elsewhere](/contact/).
