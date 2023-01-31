@@ -13,6 +13,6 @@ Hi, I'm Paul from Saint Paul; now in [Saint Frank](/places/) with my wife Lisa a
 
 Presently bringing data products to market at <a href="https://varian.com" target="_blank">Varian</a>. [(Bio)](/bio/)
 
-When I'm not chauffeuring, cleaning, and diapering; I enjoy [reading](/books/), [writing](/blog/), and [traveling](/countries/).
+Currently reading *{{ site.readingbook }}* by {{ site.readingauthor }}. [(Bookshelf)](/books/)
 
-Get in touch on <a href="https://signal.org" target="_blank">Signal</a> and [elsewhere](/contact/).
+Get in touch on <a href="https://signal.org" target="_blank">Signal</a>, <a href="https://t.me/berensp" target="_blank">Telegram</a>, and <a href="https://twitter.com/berensp" target="_blank">Twitter</a>.
