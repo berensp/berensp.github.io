@@ -9,16 +9,16 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- [Genealogy](/ancestry/)
-- Korean (한국말)
 - <a href="https://notion.so" target="_blank">Notion</a>
 - [Writing](/blog/)
 - [Investing](/invest/)
-- <a href="https://github.com/berensp" target="_blank">GitHub</a>
+- [This site: Jekyll / Liquid / GitHub Pages](/colophon/)
+- Korean (한국말)
 
-## Future Endeavours
+## Expected Endeavours
 - <a href="https://obsidian.md/" target="_blank">Obsidian</a> (and backing up to GitHub Pages)
-- Piano - why did I ever stop? 😣
+- Piano (why did I ever stop? 😣)
+- [Genealogy](/ancestry/)
 
-## Past Endeavours
+## Earlier Enterprises
 - <a href="https://opensea.io/berens" target="_blank">NFT minting</a>
