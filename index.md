@@ -15,4 +15,4 @@ Presently bringing data products to market at <a href="https://varian.com" targe
 
 Misc.: [reading](/books/), [writing](/blog/), <a href="https://www.strava.com/athletes/berenzino" target="_blank">running/riding</a>, and [researching](/learning/).
 
-Get in touch on <a href="https://signal.org" target="_blank">Signal</a>, <a href="https://t.me/berensp" target="_blank">Telegram</a>, and <a href="https://twitter.com/berensp" target="_blank">Twitter</a>.
+Get in touch on <a href="https://signal.org" target="_blank">Signal</a>, <a href="https://t.me/berensp" target="_blank">Telegram</a>, <a href="https://twitter.com/berensp" target="_blank">Twitter</a>, <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>.
