@@ -14,27 +14,32 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
-| 2022-11-5 | <a href="https://plex.tv/" target="_blank">Plex server share</a> | MB→PB |
-| 2022-3-31 | <i class="fab fa-strava"></i> <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
-| 2017-9-30 | <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
-| 2017-3-31 | <i class="fab fa-twitter"></i> <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | PB→MB |
-| 2016-9-30 | <i class="fab fa-twitter"></i> <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
+| <mark>2023-3-31</mark> | <mark><a href="https://t.me/berensp" target="_blank">Telegram</a></mark> | <mark>PB→MB</mark> |
+| 2022-11-5 | <a href="https://plex.tv/" target="_blank">Plex server share</a>[^3] | MB→PB |
+| 2022-3-31 | <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
+| 2021-3-31 | <a href="https://discord.com/channels/790628259414147092/790628259414147094/826944084840153138" target="_blank">Discord</a> | PB→MB |
+| 2017-9-30 | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
+| 2017-3-31 | <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | PB→MB |
+| 2016-9-30 | <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
 | 2016-3-31 | &#127825; <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
-| 2015-9-30 | <i class="fab fa-ello"></i> <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
-| 2010-9-30 | <i class="fa-brands fa-facebook"></i> <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
+| 2015-9-30 | <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
+| 2014-3-31 | <a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a>[^2] | PB→MB |
+| 2010-9-30 | <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
+
+[^3]: MVP: Most Valuable Platform shared to date. Thanks again.
 
 ## Also off the table:
-- <i class="fa-brands fa-google"></i> **Shuttered Google Products:** Google+, Allo, Buzz, Wave...
-- <i class="fa-brands fa-facebook-messenger"></i> **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^3]
+- **Shuttered Google Products:** Google+, Allo, Buzz, Wave...
+- **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^4]
 
-[^3]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
+[^4]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
 ## Eligible:
-- <a href="https://signal.org" target="_blank">Signal</a>
+- <div style="float:left;"><span style="display:inline;">🆕&nbsp;</span><span style="display:inline;"><a href="https://www.farcaster.xyz/" target="_blank">Farcaster[^5]</a></span></div>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
-- <i class="fab fa-telegram"></i> <a href="https://t.me/berensp" target="_blank">Telegram</a>
-- <i class="fab fa-keybase"></i> <a href="https://keybase.io/berens" target="_blank">Keybase</a>
-- <i class="fab fa-discord"></i> <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
-- <i class="fab fa-mastodon"></i> <a rel="me" href="https://mastodon.cloud/@berens" target="_blank">Mastodon</a>
-- <i class="fab fa-reddit"></i> <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
-- <mark><i class="fab fa-ethereum"></i> <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">Somewhere somehow on the blockchain?!</a></mark>
+- <a href="https://keybase.io/berens" target="_blank">Keybase</a>
+- <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
+- <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
+- <a href="https://signal.org" target="_blank">Signal</a>
+
+[^5]: Requires an identify on Ethereum blockchain 🤓
