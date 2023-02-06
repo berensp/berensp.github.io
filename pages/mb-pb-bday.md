@@ -42,4 +42,4 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 - <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
 - <a href="https://signal.org" target="_blank">Signal</a>
 
-[^5]: Requires an identify on Ethereum blockchain 🤓
+[^5]: Requires an identity on the Ethereum blockchain 🤓
