@@ -35,7 +35,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 [^4]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
 ## Eligible:
-- <div style="float:left;"><span style="display:inline;">🆕&nbsp;</span><span style="display:inline;"><a href="https://www.farcaster.xyz/" target="_blank">Farcaster</a></span>[^5]</div>
+- <div style="float:left;"><span style="display:inline;">🆕&nbsp;</span><span style="display:inline;"><a href="https://www.farcaster.xyz/" target="_blank">Farcaster</a></span></div>[^5]
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
