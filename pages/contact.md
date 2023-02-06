@@ -27,5 +27,3 @@ Say hello on these messengers, apps, etc.:
 ## No se puede
 - <strike><a href="/phones/">iMessage</a></strike>
 - <strike><a href="../fb">Meta products/platforms</a></strike>
-
-<center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
