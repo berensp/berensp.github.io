@@ -25,7 +25,7 @@ Say hello on these messengers, apps, etc.:
 - <a href="https://twitter.com/berensp" target="_blank">Twitter</a>
 
 ## ⛔ No se puede
-- <strike>iMessage</strike>
+- <strike><a href="/phones/">iMessage</a></strike>
 - <strike><a href="../fb">Meta products/platforms</a></strike>
 
 <center><img src="/assets/og/phone.png" alt="phone" width="30%" height="30%"></center>
