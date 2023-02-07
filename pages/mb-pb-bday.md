@@ -15,7 +15,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
 | <mark>2023-3-31</mark> | <mark><a href="https://t.me/berensp" target="_blank">Telegram</a></mark> | <mark>PB→MB</mark> |
-| 2022-11-5 | <a href="https://plex.tv/" target="_blank">Plex server share</a>[^3] | MB→PB |
+| 2022-11-5 | <a href="https://plex.tv/" target="_blank">Plex</a>[^3] | MB→PB |
 | 2022-3-31 | <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | PB→MB |
 | 2021-3-31 | <a href="https://discord.com/channels/790628259414147092/790628259414147094/826944084840153138" target="_blank">Discord</a> | PB→MB |
 | 2017-9-30 | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
@@ -30,7 +30,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 
 ## Also off the table:
 - **Shuttered Google Products:** Google+, Allo, Buzz, Wave...
-- **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited, but I [deep-sixed all Meta accounts in September](/fb) so don't have those dates[^4]
+- **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited, but I [deep-sixed all Meta accounts in September 2021](/fb) so don't have those dates[^4]
 
 [^4]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
