@@ -4,7 +4,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-var gpxLayer = new L.GPX("/maps/Twin_Peaks_Mt_Sutro.gpx", {
+var gpxLayer = new L.GPX("../maps/Twin_Peaks_Mt_Sutro.gpx", {
     async: true,
     marker_options: {
         startIconUrl: 'path/to/start-icon.png',
