@@ -26,18 +26,19 @@ layout: default
         })
       });
 
-	// Wait for the GPX data to load
-	vectorSource.on('change', function() {
-	  if (vectorSource.getState() === 'ready') {
-	    var extent = vectorSource.getExtent();
-	    var center = ol.extent.getCenter(extent);
-	    var view = new ol.View({
-	      center: center,
-	      zoom: 10
-	    });
-	    map.setView(view);
-	  }
-	});
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          vectorLayer
+        ],
+        view: new ol.View({
+          center: [37.75, -122.46],
+          zoom: 10
+        })
+      });
 
     </script>
 
