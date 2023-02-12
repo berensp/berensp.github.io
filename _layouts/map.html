@@ -3,17 +3,43 @@ layout: default
 ---
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 
+<script src="https://openlayers.org/en/v6.0.1/build/ol.js"></script>
+
 <main>
 
 {{ content }}
 
     <h1>{{ page.list_title }}</h1>
 
-    <div id="map" style="height: 500px; width: 100%;"></div>
- <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
-     crossorigin=""></script>
-    <script src="/assets/gpx-renderer.js"></script>
+    <div id="map" class="map" style="height: 500px; width: 100%;"></div>
+    <script>
+      var vectorLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          url: '/assets/maps/Twin_Peaks_Mt_Sutro.gpx',
+          format: new ol.format.GPX()
+        }),
+        style: new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: 'red',
+            width: 3
+          })
+        })
+      });
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          vectorLayer
+        ],
+        view: new ol.View({
+          center: [0, 0],
+          zoom: 2
+        })
+      });
+    </script>
 
 
 {%- include footer.html -%}
