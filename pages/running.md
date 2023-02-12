@@ -4,4 +4,3 @@ title: 👟 Running
 permalink: /running/
 description: correr
 ---
-# Testing
