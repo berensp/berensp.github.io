@@ -1,17 +1,19 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
+<a class="muted small" href="/">{{ site.title | escape }}</a>
 
-  {%- include head.html -%}
-
-  <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMZNFRB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
+<main>
 
     <div id="map" style="height: 500px; width: 100%;"></div>
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-    <script src="/assets/gpx-renderer.js"></script>
-    
-    {{ content }}
-  </body>
-</html>
+
+ <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
+    <script src="../assets/gpx-renderer.js"></script>
+ 
+{{ content }}
+
+
+{%- include footer.html -%}
+</main>

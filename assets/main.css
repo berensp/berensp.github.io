@@ -83,3 +83,5 @@ body {
 	object-fit:
 cover;
 }
+
+#map { height: 180px; }
