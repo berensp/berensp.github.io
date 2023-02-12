@@ -9,9 +9,13 @@ layout: default
 
 {{ content }}
 
-    <h1>{{ page.list_title }}</h1>
+    <h1>👟 Running</h1>
 
-    <div id="map" class="map" style="height: 500px; width: 100%;"></div>
+<p>I have a love-hate relationship with running: the hate side including Patellofemoral arthralgia and fasciitis and the love side being anytime I'm in good-enough shape to achieve "runner's high" and/or run beautiful routes like...
+
+<h2>Twin Peaks Mt. Sutro Loop</h2>
+
+    <div id="map" class="map" style="height: 300px; width: 100%;"></div>
     <script>
       var vectorLayer = new ol.layer.Vector({
         source: new ol.source.Vector({
@@ -42,6 +46,41 @@ layout: default
         })
       });
     </script>
+
+<h2>GGP to home loop</h2>
+
+    <div id="map" class="map" style="height: 300px; width: 100%;"></div>
+    <script>
+      var vectorLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          url: '/assets/maps/Twin_Peaks_Mt_Sutro.gpx',
+          format: new ol.format.GPX()
+        }),
+        style: new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: 'red',
+            width: 3
+          })
+        })
+      });
+
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          vectorLayer
+        ],
+        view: new ol.View({
+	    center: [-13632051.259155,4545436.314426],
+	    zoom: 14,
+	    maxZoom: 19,
+	    minZoom: 5
+        })
+      });
+    </script>
+
 
 {%- include footer.html -%}
 </main>
