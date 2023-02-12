@@ -17,7 +17,10 @@ layout: default
         source: new ol.source.Vector({
           url: '/assets/maps/Twin_Peaks_Mt_Sutro.gpx',
           format: new ol.format.GPX()
-        }),
+      });
+
+      var vectorLayer = new ol.layer.Vector({
+        source: vectorSource,
         style: new ol.style.Style({
           stroke: new ol.style.Stroke({
             color: 'red',
@@ -33,15 +36,26 @@ layout: default
             source: new ol.source.OSM()
           }),
           vectorLayer
-        ],
-        view: new ol.View({
-          center: [37.75, -122.46],
-          zoom: 10
-        })
+        ]
       });
 
+      vectorSource.on('change', function() {
+        if (vectorSource.getState() === 'ready') {
+          var extent = vectorSource.getExtent();
+          var center = ol.extent.getCenter(extent);
+          var size = map.getSize();
+          var view = new ol.View({
+            center: center,
+            zoom: Math.max(Math.min(map.getView().getZoom() || 10,
+                ol.animation.zoom({ resolution: ol.extent.getHeight(extent) / size[1], duration: 250 })),
+              map.getView().getMinZoom()),
+            maxZoom: 18,
+            minZoom: 1
+          });
+          map.setView(view);
+        }
+      });
     </script>
-
 
 {%- include footer.html -%}
 </main>
