@@ -5,14 +5,15 @@ layout: default
 
 <main>
 
-    <div id="map" style="height: 500px; width: 100%;"></div>
+{{ content }}
 
+    <h1>{{ page.list_title }}</h1>
+
+    <div id="map" style="height: 500px; width: 100%;"></div>
  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
      crossorigin=""></script>
     <script src="/assets/gpx-renderer.js"></script>
- 
-{{ content }}
 
 
 {%- include footer.html -%}
