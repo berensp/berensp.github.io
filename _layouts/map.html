@@ -35,8 +35,10 @@ layout: default
           vectorLayer
         ],
         view: new ol.View({
-          center: [37.7545,-122.4479],
-          zoom: 14
+	    center: ol.proj.fromLonLat(-122.4588,37.7590),
+	    zoom: 14,
+	    maxZoom: 19,
+	    minZoom: 5
         })
       });
     </script>
