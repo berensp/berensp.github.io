@@ -1,6 +1,6 @@
 ---
 layout: map_run
-title: Twin Peaks Mt. Sutro Loop
+title: Twin Peaks Mt. Sutro
 gpx_url: Twin_Peaks_Mt_Sutro.gpx
 id: sutro
 long: -13631483.529752282
