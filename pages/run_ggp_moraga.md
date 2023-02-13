@@ -3,8 +3,8 @@ layout: map_run
 title: 7th, GGP, Moraga Steps
 gpx_url: 7th_GGP_MoragaSteps.gpx
 id: ggp_moraga
-long: -13632975.210929
-lat: 4545605.281778
+long: -13633369.275701
+lat: 4546119.129654
 zoom: 14
 distance: 5.4 mi
 elevation: 545 ft
