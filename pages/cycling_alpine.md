@@ -5,7 +5,7 @@ gpx_url: Alpine_Dam.gpx
 id: alpine
 long: -13643753.962591
 lat: 4570240.983720
-zoom: 10
+zoom: 11
 distance: ~65 mi
 elevation: 5,275 ft
 difficulty: hard
