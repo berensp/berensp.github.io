@@ -16,7 +16,7 @@ layout: default
 <h2>Twin Peaks Mt. Sutro Loop</h2>
 
    <p>
-    <div id="map" class="map" style="height: 300px; width: 100%;"></div>
+    <div id="sutro" class="map" style="height: 300px; width: 100%;"></div>
     <script>
       var vectorLayer = new ol.layer.Vector({
         source: new ol.source.Vector({
@@ -31,8 +31,8 @@ layout: default
         })
       });
 
-      var map = new ol.Map({
-        target: 'map',
+      var sutro = new ol.Map({
+        target: 'sutro',
         layers: [
           new ol.layer.Tile({
             source: new ol.source.OSM()
@@ -40,7 +40,7 @@ layout: default
           vectorLayer
         ],
         view: new ol.View({
-	    center: [-13632051.259155,4545436.314426],
+	    center: [-13631483.529752282,4544450.726165106],
 	    zoom: 14,
 	    maxZoom: 19,
 	    minZoom: 5
@@ -76,7 +76,7 @@ layout: default
           vectorLayer
         ],
         view: new ol.View({
-	    center: [-13632051.259155,4545436.314426],
+	    center: [-13631483.529752282,4544450.726165106],
 	    zoom: 14,
 	    maxZoom: 19,
 	    minZoom: 5
