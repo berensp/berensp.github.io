@@ -13,6 +13,6 @@ Hi, I'm Paul from Saint Paul; now in [Saint Frank](/places/) with my wife Lisa a
 
 Presently bringing data products to market at <a href="https://varian.com" target="_blank">Varian</a>. [(Bio)](/bio/)
 
-Misc.: [reading](/books/), [writing](/blog/), <a href="https://www.strava.com/athletes/berenzino" target="_blank">running, riding</a>.
+Misc.: [reading](/books/), [writing](/blog/), [running](/running/), [riding](/cycling/).
 
 Get in touch on <a href="https://signal.org" target="_blank">Signal</a> and [elsewhere](/contact/).
