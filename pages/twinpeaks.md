@@ -6,8 +6,8 @@ id: sutro
 long: -13631483.529752282
 lat: 4544450.726165106
 zoom: 14
-distance: 5.5
-elevation: 1,052
+mileage: 5.5
+elevation_ft: 1,052
 difficulty: hard
 permalink: /twin-peaks-mt-sutro/
 ---
