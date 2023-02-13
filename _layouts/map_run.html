@@ -14,6 +14,10 @@
 
 <h1>{{ page.title | escape }}</h1>
 
+<b>Distance:</b> `{{ page.distance }}`
+<br><b>Elevation:</b> `{{ page.elevation }}`
+<br><b>Difficulty:</b> `{{ page.difficulty }}`
+
 {{ content }}
 
     <div id="{{ page.id }}" class="map" style="height: 300px; width: 100%;"></div>
