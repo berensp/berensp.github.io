@@ -7,7 +7,7 @@ long: -13631483.529752282
 lat: 4544450.726165106
 zoom: 14
 distance: 5.5 mi
-elevation gain: 1,052 ft
+elevation: 1,052 ft
 difficulty: hard
 permalink: /twin-peaks-mt-sutro/
 ---
