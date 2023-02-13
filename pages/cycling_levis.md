@@ -3,9 +3,9 @@ layout: map_run
 title: Levi's GranFondo
 gpx_url: Levi_GranFondo.gpx
 id: levi
-long: -13633369.275701
-lat: 4546119.129654
-zoom: 14
+long: -13697983.645502
+lat: 4653147.089333
+zoom: 10
 distance: ~103 mi
 elevation: 9k ft
 difficulty: hard
