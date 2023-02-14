@@ -11,5 +11,6 @@ Let's face it: there aren't many exercise options as time efficient, cheap, and 
 - [7th Ave GGP Moraga Steps](/ggp-moraga-steps/)
 
 ## Old favorites
-- [Presidio to 🌉 to Main Post to Ecology Trail](/presidio/)
-- Embarcadero out-and-back or Embarcadero one-way
+- [Presidio Ecology Trail](/presidio/)
+- Embarcadero (out-and-back)
+- Embarcadero (one-way)

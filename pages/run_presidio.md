@@ -3,8 +3,8 @@ layout: map_run
 title: Presidio Ecology Trail
 gpx_url: Presidio_ecology_trail.gpx
 id: presidio
-long: -13633369.275701
-lat: 4546119.129654
+long: -13632639.582664173
+lat: 4550511.302060906
 zoom: 14
 distance: 10k
 elevation: 490 ft
