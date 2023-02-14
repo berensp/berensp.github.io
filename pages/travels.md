@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🧳 Travels
-permalink: /travel/
+permalink: /travels/
 description: Where I've been
 ---
 | :--- | :--- |
