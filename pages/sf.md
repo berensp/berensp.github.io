@@ -12,4 +12,4 @@ I treasure San Francisco for its beauty and <a href="/fog">fog</a> and distincti
 [Where I've lived](/abodes/)
 [Where I've traveled](/travels/)
 
-<img src="/assets/og/ggb.baker.jpg">
+![Golden Gate Bridge from Baker Beach](/assets/og/ggb.baker.jpg)
