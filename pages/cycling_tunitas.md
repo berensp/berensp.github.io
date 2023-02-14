@@ -1,7 +1,7 @@
 ---
 layout: map_run
 title: Tunitas Creek
-gpx_url: tunitas.gpx
+gpx_url: Tunitas.gpx
 id: tunitas
 long: -13608054.33297959
 lat: 4488675.567091091

@@ -5,7 +5,7 @@ gpx_url: SF2G.gpx
 id: sf2g
 long: -13614507.864003764
 lat: 4519414.7934265835
-zoom: 11
+zoom: 10
 distance: ~62 mi
 elevation: 630 ft
 difficulty: medium
