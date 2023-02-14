@@ -6,7 +6,7 @@ description: I want to ride my bicycle; I want to ride my bike.
 ---
 <img src="/assets/og/marin.ride.bw.png" width="50%" height="50%">
 
-Is there a better way to experience and soak in the beauty of the Bay Area?
+Is there a better way to experience and soak in the beauty of the Bay Area while spiking your serotonin and dopamine?
 
 ## Some favorite rides
 - [Alpine Dam](/alpine-dam/)
