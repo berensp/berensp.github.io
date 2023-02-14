@@ -1,6 +1,6 @@
 ---
 layout: map_run
-title: Mt. Tam (Almost) Century
+title: Mt. Tam Century
 gpx_url: Mt_Tam_Century.gpx
 id: mt_tam
 long: -122.674026
