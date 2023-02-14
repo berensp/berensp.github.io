@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏡 Abodes
+title: 🏠 Abodes
 permalink: /abodes/
 ogimage: places.lived.2022.01.03.png
 description: Where I've lived
@@ -12,4 +12,4 @@ Prior to SF I've always been east of the Mississippi and north of the 41°.
 
 <mark><span class="muted small">(Bubble size = time spent)</span></mark>
 
-West to East: San Francisco, Calif.; Saint Paul, <a href="/mn">Minn.</a>; Wausau, Wis.; Chicago, Ill.; Ann Arbor, Mich.; Boston, Mass.
+West to East: [San Francisco](/sf/), Calif.; Saint Paul, <a href="/mn">Minn.</a>; Wausau, Wis.; Chicago, Ill.; Ann Arbor, Mich.; Boston, Mass.
