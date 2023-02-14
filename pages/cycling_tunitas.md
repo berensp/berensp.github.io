@@ -11,4 +11,4 @@ elevation: 6,225 ft
 difficulty: hard
 permalink: /tunitas/
 ---
-My favorite [ride](/cycling/) on the Peninsula. Page Mill Alpine Rd Pescadero Rd La Honda Rd Stage Rd Cabrillo Hwy Tunitas Creek Rd Kings Mountain Rd Woodside Rd Mountain Home Rd Portola Rd.
+My favorite [ride](/cycling/) on the Peninsula. Page Mill > Alpine Rd > Pescadero Rd > La Honda Rd > Stage Rd > Cabrillo Hwy > Tunitas Creek Rd > Kings Mountain Rd > Woodside Rd > Mountain Home Rd > Portola Rd.
