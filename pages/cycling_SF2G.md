@@ -1,10 +1,10 @@
 ---
 layout: map_run
 title: (Bayway) SF2G
-gpx_url: sf2g.gpx
+gpx_url: SF2G.gpx
 id: sf2g
-long: -13643753.962591
-lat: 4570240.983720
+long: -122.301865
+lat: 37.574328
 zoom: 11
 distance: ~45 mi
 elevation: 1,500 ft
