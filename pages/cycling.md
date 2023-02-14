@@ -4,6 +4,8 @@ title: 🚴‍♂️ Cycling
 permalink: /cycling/
 description: I want to ride my bicycle; I want to ride my bike.
 ---
+<img src="/assets/og/marin.ride.bw.png" width="50%" height="50%">
+
 Is there a better way to experience and soak in the beauty of the Bay Area?
 
 ## Some favorite rides
