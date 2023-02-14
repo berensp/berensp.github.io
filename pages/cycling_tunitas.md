@@ -3,8 +3,8 @@ layout: map_run
 title: Tunitas Creek
 gpx_url: tunitas.gpx
 id: tunitas
-long: -121.674026
-lat: 38.975462
+long: -13608054.33297959
+lat: 4488675.567091091
 zoom: 11
 distance: ~57 mi
 elevation: 6,225 ft
