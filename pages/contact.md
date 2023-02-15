@@ -12,6 +12,7 @@ Say hello on your messenger/app/platform of choice:
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <a href="https://signal.org" target="_blank">Signal</a>
+- <a href="https://join.status.im/u/0x04fef6e494c4db1d25d1b144f3914747cdf8164e5208dafe7fd1926d3d75e7b545ff02d0571ccf788ff0fff8065616967de51935e76d90a04a47df82cead041f57" target="_blank">Status</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 
 ## Other
