@@ -11,4 +11,4 @@ elevation: 5,226 ft
 difficulty: medium hard
 permalink: /point-reyes/
 ---
-All manner of terrain makes this a spectacular [ride](/cycling/). The very first rides I did when I first came out to the Bay Area were from Mike's Bikes of Sausalito (Marin City) to Nicasio and back (~21 miles of this loop)—thanks, @Nerpouni 🤘.
+All manner of terrain makes this a spectacular [ride](/cycling/). The very first rides I did when I first came out to the Bay Area were from Mike's Bikes of Sausalito (Marin City) to Nicasio and back (~21 miles of this loop).
