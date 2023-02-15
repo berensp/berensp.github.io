@@ -13,4 +13,4 @@ permalink: /mt-tam-century/
 ---
 <img src="/assets/og/marin.ride.bw.png" width="50%" height="50%">
 
-I think this was my ~third Marin Century when [@Joe](https://www.strava.com/athletes/111975) and I decided to kick up the climbing a notch.
+I think this was my third Marin Century when [@Joe](https://www.strava.com/athletes/111975) and I decided to kick up the climbing a notch.
