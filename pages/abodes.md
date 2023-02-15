@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 🏠 Abodes
+title: 🏠 Where I've lived
 permalink: /abodes/
 ogimage: places.lived.2022.01.03.png
-description: Where I've lived
+description: There I've stayed excellently
 ---
 Prior to SF I've always been east of the Mississippi and north of the 41°.
 
