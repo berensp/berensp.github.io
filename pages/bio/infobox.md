@@ -16,7 +16,7 @@ description: fun facts
 | Mondegreen | Ball Bearings
 | Nationality | 🇺🇸 |
 | Religion | Catholic |
-| Political party | heterodoxy |
+| Political party | be less tribal |
 | Pronunciation | <a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a> |
 | Ski length | 188 cm |
 | Skydives | 2 |
