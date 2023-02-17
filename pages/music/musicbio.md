@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🛣 Music Odyssey
+title: Music Odyssey
 permalink: /musicbio/
 description: My journey through music
 ---
