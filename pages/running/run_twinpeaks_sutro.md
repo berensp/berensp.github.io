@@ -11,9 +11,4 @@ elevation: 1,052 ft
 difficulty: hard
 permalink: /twin-peaks-mt-sutro/
 ---
-One of my current [favourite loops](/run/). I can't exactly do it without pausing to catch my breath at a couple points, but hey. Beautiful views atop Twin Peaks and descending Twin Peaks Blvd., tough but nice wooded climb up to Mt. Sutro, happy descent on the Historic Trail (so long as I don't twist an ankle on a root some day).
-
-<center>
-<img src="https://i.giphy.com/media/Uj67RY9CoDXnBwkney/giphy-downsized-large.gif" width="300">
-</center>
-<br>
+One of my current [favourite loops](/running/). I can't exactly do it without pausing to catch my breath at a couple points, but hey. Beautiful views atop Twin Peaks and descending Twin Peaks Blvd., tough but nice wooded climb up to Mt. Sutro, [happy descent on the Historic Trail](https://media4.giphy.com/media/4g7UN58F3mIQsisBUZ/giphy.gif) (so long as I don't twist an ankle on a root some day).
