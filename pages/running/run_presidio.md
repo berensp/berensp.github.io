@@ -8,7 +8,7 @@ lat: 4550591.756869134
 zoom: 14
 distance: 10k
 elevation: 490 ft
-difficulty: medium
+difficulty: moderate
 permalink: /presidio/
 ---
 My default route when we lived in Laurel Heights. North through Presidio Heights; enter Presidio by the golf course and jump on Bay Area Ridge Trail to Washington Blvd. toward GGB to Storey Ave to Battery Wagner Rd to Presidio Promenade (by the U.S. Park Police horse corral) to Lincoln Blvd. to Sheridan Ave. to Ecology Trail. Great trail-to-asphalt ratio.
