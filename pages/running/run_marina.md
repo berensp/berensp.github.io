@@ -1,0 +1,14 @@
+---
+layout: map_run
+title: One-way to the Marina
+gpx_url: Marina.gpx
+id: marina
+long: -13631483.529752282
+lat: 4544450.726165106
+zoom: 14
+distance: 6 mi
+elevation: 84 ft
+difficulty: easy
+permalink: /marina/
+---
+When I lived in Potrero Hill I'd usually run [to the Ferry Building and back via the Embarcadero](/embarcadero/), but to mix things up I'd occasionally run to the Marina and then catch the #22 Fillmore from Fillmore & Bay to 18th & Pennsylvania (my front door).
