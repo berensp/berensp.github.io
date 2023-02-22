@@ -9,6 +9,6 @@ zoom: 14
 distance: 5.2 mi
 elevation: 41 ft
 difficulty: easy
-permalink: /embarcadero/
+permalink: /ferry-bldg/
 ---
 From Potrero to the Ferry Building via the Embarcadero. Nice 'n' flat and no crosswalks to break your stride for good stretches of it.
