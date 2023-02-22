@@ -5,7 +5,7 @@ gpx_url: Hawk_Hill.gpx
 id: hawk
 long: -13637125.418000253
 lat: 4555609.789531359
-zoom: 14
+zoom: 13
 distance: 18 mi
 elevation: 1700 ft
 difficulty: moderate
