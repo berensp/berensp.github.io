@@ -14,6 +14,7 @@ My preferred means of soaking in the great outdoors whilst spiking serotonin and
 - [Levi's GranFondo](/levis/)
 - [Mt. Tam Century](/mt-tam-century/)
 - [Nicasio Point Reyes Stinson](/point-reyes/)
+- [Pantoll Stinson](/pantoll/)
 - [Paradise](/paradise/)
 - [SF2G](/sf2g/)
 - [Tunitas Creek](/tunitas/)
