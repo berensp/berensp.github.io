@@ -3,9 +3,9 @@ layout: map_run
 title: One-way to the Marina
 gpx_url: Marina.gpx
 id: marina
-long: -13631483.529752282
-lat: 4544450.726165106
-zoom: 14
+long: -13627117.239180483
+lat: 4548706.593363042
+zoom: 12
 distance: 6 mi
 elevation: 84 ft
 difficulty: easy
