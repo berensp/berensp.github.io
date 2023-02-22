@@ -1,11 +1,11 @@
 ---
 layout: map_run
-title: Embarcadero to Ferry Bldg
+title: Ferry Building via Embarcadero
 gpx_url: Embarcadero.gpx
 id: ferry
-long: -13631483.529752282
-lat: 4544450.726165106
-zoom: 14
+long: -13624395.044721458
+lat: 4548127.171483651
+zoom: 13
 distance: 5.2 mi
 elevation: 41 ft
 difficulty: easy
