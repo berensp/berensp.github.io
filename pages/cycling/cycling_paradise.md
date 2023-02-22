@@ -5,7 +5,7 @@ gpx_url: Paradise.gpx
 id: paradise
 long: -13614507.864003764
 lat: 4519414.7934265835
-zoom: 10
+zoom: 12
 distance: 41 mi
 elevation: 2k ft
 difficulty: easy
