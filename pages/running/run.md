@@ -14,5 +14,5 @@ Let's face it: there aren't many exercise options as time efficient, cheap, and 
 
 ## Old favorites
 - [Presidio Ecology Trail](/presidio/)
-- Embarcadero (out-and-back)
-- Embarcadero (one-way)
+- [Embarcadero (out-and-back)](/ferry-bldg/)
+- [Embarcadero (one-way)](/marina/)
