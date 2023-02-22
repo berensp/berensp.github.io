@@ -3,9 +3,9 @@ layout: map_run
 title: Pantoll Stinson
 gpx_url: Pantoll_Stinson.gpx
 id: pantoll
-long: -13643753.962591
-lat: 4570240.983720
-zoom: 11
+long: -13646254.853128532
+lat: 4563775.417862482
+zoom: 12
 distance: 50 mi
 elevation: 4.4k ft
 difficulty: moderate/hard
