@@ -12,7 +12,10 @@ Let's face it: there aren't many exercise options as time efficient, cheap, and 
 - [Twin Peaks Mt. Sutro](/twin-peaks-mt-sutro/)
 - [7th Ave GGP Moraga Steps](/ggp-moraga-steps/)
 
+## Away from home
+- [Mendota St. Peter's](/mendota/)
+
 ## Old favorites
 - [Presidio Ecology Trail](/presidio/)
-- [Embarcadero (out-and-back)](/ferry-bldg/)
-- [Embarcadero (one-way)](/marina/)
+- [Ferry Building via Embarcadero](/ferry-bldg/)
+- [One-way to the Marina](/marina/)
