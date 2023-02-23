@@ -3,9 +3,9 @@ layout: map_run
 title: Mendota
 gpx_url: Mendota.gpx
 id: mendota
-long: -10368964.732832806
-lat: 5604243.4380234415
-zoom: 14
+long: -10369386.293560026
+lat: 5604794.6705246195
+zoom: 13
 distance: 6.3 mi
 elevation: 342 ft
 difficulty: moderate
