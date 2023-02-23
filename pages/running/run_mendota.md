@@ -1,6 +1,6 @@
 ---
 layout: map_run
-title: Mendota
+title: Mendota St. Peter
 gpx_url: Mendota.gpx
 id: mendota
 long: -10369386.293560026
@@ -11,4 +11,4 @@ elevation: 342 ft
 difficulty: moderate
 permalink: /mendota/
 ---
-My current favourite 10k loop in the Twin Cities. Big Rivers Trail past the confluence of the Minnesota and Mississippi rivers to St. Peter's.
+My current favourite 10k loop in the Twin Cities. Big Rivers Trail past the confluence of the Minnesota and Mississippi rivers to Church of St. Peter Historic Cemetery.
