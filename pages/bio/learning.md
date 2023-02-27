@@ -17,6 +17,7 @@ My constructivist continuing education (i.e. tinkering):
 
 ## Expected Endeavours
 - <a href="https://obsidian.md/" target="_blank">Obsidian</a> (and backing up to GitHub Pages)
+- [Using Airtable as a Jekyll website db](/https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
 - Piano (why did I ever stop? 😣)
 - [Genealogy](/ancestry/)
 
