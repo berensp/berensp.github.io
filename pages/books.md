@@ -10,6 +10,9 @@ ogimage: bookshelf.bw.png
 
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
+## Recently completed
+- [*For Whom The Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
+
 ## Presently reading
 - [*{{ site.readingbook }}*]({{ site.readingurl }}) by {{ site.readingauthor }}
 
@@ -29,9 +32,6 @@ ogimage: bookshelf.bw.png
 - [*An Interrupted Life and Letters from Westerbork*](https://www.google.com/books/edition/Etty_Hillesum/HxfMzAEACAAJ?hl=en) by Etty Hillesum
 - [*Shipping News*](https://www.google.com/books/edition/The_Shipping_News/jHp8VHqgCmQC?hl=en&gbpv=0) by Annie Proulx
 - [*Avenue of Mysteries*](https://www.google.com/books/edition/Avenue_of_Mysteries/jH_RCgAAQBAJ?hl=en) by John Irving
-
-## Recently completed
-- [*For Whom The Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
 
 ## Some favorites
 - [*Alice in Wonderland*](https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0) by Lewis Carroll
