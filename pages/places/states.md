@@ -12,14 +12,14 @@ description: Just three to go
 | 4 | Ill. | Sterling |
 | 5 | Iowa | Sioux City |
 | 6 | Hawaii | Oahu, Kauai, Maui |
-| <mark2>7</mark2> | <mark2>Mich.</mark2> | <mark2>U.P.: Powderhorn</mark2>[^1] |
+| <mark_paleturquoise>7</mark_paleturquoise> | <mark_paleturquoise>Mich.</mark_paleturquoise> | <mark_paleturquoise>U.P.: Powderhorn</mark_paleturquoise>[^1] |
 | 8 | N.D. | Grand Forks |
 | <mark>9</mark> | <mark>Mont.</mark> | <mark>Glacier National Park</mark> |
 | 10 | Ky. | En route to Outer Banks |
 | 11 | Tenn. | Knoxville |
 | 12 | N.C. | Outer Banks (Duck, NC) |
 | 13 | Va. | Williamsburg |
-| <mark2>14</mark2> | <mark2>Colo.</mark2> | <mark2>Copper Mountain</mark2> |
+| <mark_paleturquoise>14</mark_paleturquoise> | <mark_paleturquoise>Colo.</mark_paleturquoise> | <mark_paleturquoise>Copper Mountain</mark_paleturquoise> |
 | <mark>15</mark> | <mark>Wash.</mark> | <mark>Seattle, Olympic Nat'l Park</mark> |
 | <mark>16</mark> | <mark>Ore.</mark> | <mark>Crater Lake, Ashland</mark> |
 | <mark>17</mark> | <mark>Calif.</mark> | <mark>Redwood Forest</mark> |
@@ -32,8 +32,8 @@ description: Just three to go
 | 24 | Conn. | Norwalk |
 | 25 | N.Y. | NYC |
 | 26 | Ohio | En route to South Bend |
-| <mark2>27</mark2> | <mark2>Vt.</mark2> | <mark2>Killington</mark2> |
-| <mark2>28</mark2> | <mark2>Maine</mark2> | <mark2>Sunday River</mark2> |
+| <mark_paleturquoise>27</mark_paleturquoise> | <mark_paleturquoise>Vt.</mark_paleturquoise> | <mark_paleturquoise>Killington</mark_paleturquoise> |
+| <mark_paleturquoise>28</mark_paleturquoise> | <mark_paleturquoise>Maine</mark_paleturquoise> | <mark_paleturquoise>Sunday River</mark_paleturquoise> |
 | 29 | N.H. | Mt. Monadnock |
 | 30 | Mo. | St. Louis (WashU) |
 | 31 | La. | New Orleans |
@@ -50,7 +50,7 @@ description: Just three to go
 | 42 | Neb. | En route to Copper[^2] |
 | 43 | W.Va. | Lansing (Gauley River) |
 | 44 | Idaho | En route to Jackson Hole |
-| <mark2>45</mark2> | <mark2>Nev.</mark2> | <mark2>Stateline (Heavenly)</mark2> |
+| <mark_paleturquoise>45</mark_paleturquoise> | <mark_paleturquoise>Nev.</mark_paleturquoise> | <mark_paleturquoise>Stateline (Heavenly)</mark_paleturquoise> |
 | 46 | N.M. | Albuquerque |
 | 47 | Ala. | Huntsville |
 | 48 | Okla. | (not yet) |
@@ -59,6 +59,6 @@ description: Just three to go
 
 [^1]: Lower Peninsula: Ann Arbor
 [^2]: A drive-through. College World Series (~'07) was the first destination trip.
-<mark><span class="muted small">National park/monument trip 🥾</span></mark><span class="muted small"> | </span><mark2><span class="muted small">Ski trip ⛷</span></mark2>
+<mark><span class="muted small">National park/monument trip 🥾</span></mark><span class="muted small"> | </span><mark_paleturquoise><span class="muted small">Ski trip ⛷</span></mark_paleturquoise>
 
 (See also [Countries visited](/countries/).)
