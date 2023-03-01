@@ -6,11 +6,7 @@ description: My journey through music
 ---
 > *"For the love you bring won't mean a thing / Unless you sing, sing, sing, sing, sing, sing, sing, sing"* (—*Sing* by Travis)
 
-⚠ Iᴛ’s ᴠᴇrʏ ʟɪᴋᴇʟʏ ᴛʜɪs ᴡɪʟʟ ɴᴏᴛ ɪɴᴛᴇrᴇsᴛ ʏᴏᴜ, Dᴇᴀr Rᴇᴀᴅᴇr — ᴀssᴜᴍɪɴɢ ʏᴏᴜ ᴀrᴇ ɴᴏᴛ ᴍʏ ᴡɪғᴇ ᴏr ᴍᴏᴛʜᴇr — sᴏ rᴇᴀᴅ ᴏɴ ᴀᴛ ʏᴏᴜr ᴏᴡɴ rɪsᴋ ᴀs ᴛʜɪs ɪs ᴇғғᴇᴄᴛɪᴠᴇʟʏ sᴏᴍᴇ ᴊᴏᴜrɴᴀʟɪɴɢ ᴏɴ ʜᴏᴡ ᴍᴜsɪᴄ ᴄᴀᴍᴇ ɪɴᴛᴏ ᴍʏ ʟɪғᴇ. ⚠
-
 ⚠ ℑ𝔱’𝔰 𝔳𝔢𝔯𝔶 𝔩𝔦𝔨𝔢𝔩𝔶 𝔱𝔥𝔦𝔰 𝔴𝔦𝔩𝔩 𝔫𝔬𝔱 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱 𝔶𝔬𝔲, 𝔇𝔢𝔞𝔯 ℜ𝔢𝔞𝔡𝔢𝔯 — 𝔞𝔰𝔰𝔲𝔪𝔦𝔫𝔤 𝔶𝔬𝔲 𝔞𝔯𝔢 𝔫𝔬𝔱 𝔪𝔶 𝔴𝔦𝔣𝔢 𝔬𝔯 𝔪𝔬𝔱𝔥𝔢𝔯 — 𝔰𝔬 𝔯𝔢𝔞𝔡 𝔬𝔫 𝔞𝔱 𝔶𝔬𝔲𝔯 𝔬𝔴𝔫 𝔯𝔦𝔰𝔨 𝔞𝔰 𝔱𝔥𝔦𝔰 𝔦𝔰 𝔢𝔣𝔣𝔢𝔠𝔱𝔦𝔳𝔢𝔩𝔶 𝔰𝔬𝔪𝔢 𝔧𝔬𝔲𝔯𝔫𝔞𝔩𝔦𝔫𝔤 𝔬𝔫 𝔥𝔬𝔴 𝔪𝔲𝔰𝔦𝔠 𝔠𝔞𝔪𝔢 𝔦𝔫𝔱𝔬 𝔪𝔶 𝔩𝔦𝔣𝔢. ⚠
-
-⚠ 𝐼𝓉'𝓈 𝓋𝑒𝓇𝓎 𝓁𝒾𝓀𝑒𝓁𝓎 𝓉𝒽𝒾𝓈 𝓌𝒾𝓁𝓁 𝓃𝑜𝓉 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉 𝓎𝑜𝓊 𝒾𝒻 𝓎𝑜𝓊, 𝑅𝑒𝒶𝒹𝑒𝓇, 𝒶𝓇𝑒 𝓃𝑜𝓉 𝓂𝓎 𝓌𝒾𝒻𝑒 𝑜𝓇 𝓂𝑜𝓉𝒽𝑒𝓇, 𝓈𝑜 𝓇𝑒𝒶𝒹 𝑜𝓃 𝒶𝓉 𝓎𝑜𝓊𝓇 𝑜𝓌𝓃 𝓇𝒾𝓈𝓀; 𝓉𝒽𝒾𝓈 𝒾𝓈 𝑒𝒻𝒻𝑒𝒸𝓉𝒾𝓋𝑒𝓁𝓎 𝓈𝑜𝓂𝑒 𝒿𝑜𝓊𝓇𝓃𝒶𝓁𝒾𝓃g 𝑜𝓃 𝒽𝑜𝓌 𝓂𝓊𝓈𝒾𝒸 𝒸𝒶𝓂𝑒 𝒾𝓃𝓉𝑜 𝓂𝓎 𝓁𝒾𝒻𝑒. ⚠
 
 Music is in my soul by nature and nurture, thanks firstly to my mother who herself was inspired by her Grandma Kate:
 
