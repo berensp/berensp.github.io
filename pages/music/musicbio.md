@@ -6,7 +6,7 @@ description: My journey through music
 ---
 > *"For the love you bring won't mean a thing / Unless you sing, sing, sing, sing, sing, sing, sing, sing"* (—*Sing* by Travis)
 
-<mark_lightgray>⚠ ℑ𝔱’𝔰 𝔳𝔢𝔯𝔶 𝔩𝔦𝔨𝔢𝔩𝔶 𝔱𝔥𝔦𝔰 𝔴𝔦𝔩𝔩 𝔫𝔬𝔱 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱 𝔶𝔬𝔲, 𝔇𝔢𝔞𝔯 ℜ𝔢𝔞𝔡𝔢𝔯 — 𝔞𝔰𝔰𝔲𝔪𝔦𝔫𝔤 𝔶𝔬𝔲 𝔞𝔯𝔢 𝔫𝔬𝔱 𝔪𝔶 𝔴𝔦𝔣𝔢 𝔬𝔯 𝔪𝔬𝔱𝔥𝔢𝔯 — 𝔰𝔬 𝔯𝔢𝔞𝔡 𝔬𝔫 𝔞𝔱 𝔶𝔬𝔲𝔯 𝔬𝔴𝔫 𝔯𝔦𝔰𝔨 𝔞𝔰 𝔱𝔥𝔦𝔰 𝔦𝔰 𝔢𝔣𝔣𝔢𝔠𝔱𝔦𝔳𝔢𝔩𝔶 𝔰𝔬𝔪𝔢 𝔧𝔬𝔲𝔯𝔫𝔞𝔩𝔦𝔫𝔤 𝔬𝔫 𝔥𝔬𝔴 𝔪𝔲𝔰𝔦𝔠 𝔠𝔞𝔪𝔢 𝔦𝔫𝔱𝔬 𝔪𝔶 𝔩𝔦𝔣𝔢. ⚠</mark_lightgray>
+<mark_lightgray>⚠ It's very likely this will not interest you, Dear Reader — assuming you're not my wife nor my mother — so read on at your own risk as this is effectively some journaling on how music came into my life. ⚠</mark_lightgray>
 
 Music is in my soul by nature and nurture, thanks firstly to my mother who herself was inspired by her Grandma Kate:
 
