@@ -29,6 +29,6 @@ Who knew Emerson was a speed-reader and skimmer of sorts?! But at the end of the
 
 <p>If I'm able to increase my throughput (points #1 and #2) but the public library doesn't pick up most of the incremental volume (point #3), it's going to be necessary to prune the collection now and again, which implies <i>lending</i>—I love <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">lending out books</a> whether to friends nearby or distant (thank you, <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail</a>)—or <i>donating</i> to the occasional book drive or <a href="https://littlefreelibrary.org" target="_blank">little free library</a> around the corner.
 
-"Get an ereader, Man!" I know...but I'm too tactile and bibliosmic to abandon hardcovers.
+<p>"Get an ereader, Man!" I know...but I'm too tactile and bibliosmic to abandon hardcovers.
 
 <p><img src="/assets/images/initials.pmb.71.56.png">
