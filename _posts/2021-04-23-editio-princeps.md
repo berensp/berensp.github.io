@@ -12,36 +12,28 @@ And here I thought I'd explode out of the starting gate, boldly proclaiming a si
 
 So while it percolates I guess I'll just write on a smörgåsbord of topics as a diary of sorts for myself and my progeny: a future-proof, censor-free, character-unrestricted Twitter.
 
-Why not begin by wishing you and yours a...
+I'll begin by wishing you and yours a...
 
 ## Happy <a href="https://twitter.com/hashtag/WorldBookDay" target="_blank">#WorldBookDay</a> 📚
 
-...from this rather slow reader guilty of <a href="https://www.google.com/search?q=Tsundoku" target="_blank">Tsundoku</a>.
+...from this rather slow reader guilty of *Tsundoku,* the practice of buying a lot of books and letting them pile up because you intend to but haven't yet read them.
 
 <img src="https://media.newyorker.com/photos/5cf04c5edbca2c0f4b0f477d/master/w_2560%2Cc_limit/CoverStory-STORY_BEK_fiction.jpg" alt="Bedtime Stories" width="70%" height="70%">
 
-How much more meaningful would Tsundoku be as a concept if it could be quantified? Don't despair. Introducing the **To Prune Or Not To Prune Ratio**™:
+Of course there are two sides to this equation, the acquisition side and the consumption side, and for me it's more a consumption issue for the following reasons:
 
-> `(current # of unread books on shelf + estimated acquisitions over the remainder of life) ÷ average # of books read per annum ÷ approximate # of years left on this earth (or 'til reading no longer possible)`
+1. **Reading consistency.** I've become better over time, but I aspire to better numbers. Tim Urban of *Wait but Why* fame <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">makes a pretty good case for the power of consistently reading 30 minutes per day</a>.
 
-If the result[^1] ≥ one (1):
-* **Donate**. To your favorite book drive or <a href="https://littlefreelibrary.org" target="_blank">little free library</a> around the corner.
-* **Lend/Send**. USPS has a secret gem for us pinchpennies formerly known as Book Rate and now called <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail®</a>: a delightful way to stay in touch with distant family and friends, and keep books moving. (But know thyself and <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">thy lending rules</a> first.)
+2. **Reading speed.** I'm not the fastest reader—especially when I'm trying to read too late at night and re-reading the same sentences as I'm nodding off—but I think sometimes I'm too meticulous and I could stand to be more aggressive in my reading, both in terms of shelving books that aren't delivering, as well as flying through certain types of books and/or certain parts of books as Ralph Waldo Emerson advocated, recorded in Robert D. Richardson, Jr.'s *Emerson: The Mind on Fire* (1995)[^1]:
 
-In the 3+ range (and in the absence of a <a href="https://i.insider.com/57bc93abdb5ce953008b8602" target="_blank">majestic personal library</a>) get evaluated for possible <a href="https://www.theguardian.com/books/2017/jan/26/bibliomania-the-strange-history-of-compulsive-book-buying" target="_blank">bibliomania</a>.
+[^1]:Who knew Emerson was a speed-reader and skimmer of sorts?! But at the end of the day he's right: don't peruse a self-help book as you would *The Divine Comedy*.
 
-[^1]: For a more precise approach put your to-read list through the <a href="https://howlongtoread.com" target="_blank">howlongtoread.com</a>, and add up the hours.
+> Along with Emerson's freedom to take whatever struck him went the equally important obligation to ignore what did not. Emerson read widely and advised others to do so, but he was insistent about the dangers of being overwhelmed and overinfluenced by one's reading. "Do not attempt to be a great reader," he told a young Williams College student named Charles Woodbury. "Read for facts and not by the bookful." He thought one should "learn to divine books, to feel those that you want without wasting much time on them." It is only worthwhile concentrating on what is excellent and for that "often a chapter is enough." He encouraged browsing and skipping. "The glance reveals what the gaze obscures. Somewhere the author has hidden his message. Find it, and skip the paragraphs that do not talk to you."
 
-Even for e-readers—I'm too bibliosmic[^2] to abandon hardcovers—it's still advisable to be thoughtful about what you consume since it's not only shelf space that is in limited supply but more than anything time[^3].
+3. **Library disqualificiation**. I'm typically not getting through books quickly enough (points 1 and 2 combined) to take advantage of the public library, which causes me to acquire my own copy. I could easily be a library reader because I don't take notes in the margins, but hitherto this has been a block.
 
-[^2]: Should be added to my [-ic descriptors list](/about), but "reading in bed" occupies the book-related slot.
+If I'm able to increase my throughput (points #1 and #2) but the public library doesn't pick up most of the incremental volume (point #3), it's going to be necessary to prune the collection now and again, which implies *lending*—I love <a href="https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/" target="_blank">lending out books</a> whether to friends nearby or distant (thank you, <a href="https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate" target="_blank">Media Mail</a>)—or *donating* to the occasional book drive or <a href="https://littlefreelibrary.org" target="_blank">little free library</a> around the corner.
 
-[^3]: H/T to Tim Urban who pointed all of this out: that there's a finite—and estimable—number of things you'll do in your lifetime <a href="https://waitbutwhy.com/2015/12/the-tail-end.html" target="_blank">(reading being no exception)</a>...a sad reality but <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">there are things to do about it</a>.
-
-<mark><a href="/books/">My running list</a></mark>
-
-<center>&#128600;</center>
- 
-There are quite a few parallels to Tsundoku when you start thinking about it; digital ones, too: e.g. accumlating podcast episodes at a rate that outstrips your consumption. (The feature of limiting the number of downloaded episodes per podcast is just one of the many reasons to love <a href="https://www.pocketcasts.com/" target="_blank">Pocket Casts</a>—stay tuned for forthcoming Pocket Casts encomium.)
+"Get an ereader, Man!" I know...but I'm too tactile and bibliosmic to abandon hardcovers.
 
 ![initials](/assets/images/initials.pmb.71.56.png)
