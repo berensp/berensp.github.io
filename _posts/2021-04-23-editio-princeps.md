@@ -24,7 +24,7 @@ Of course there are two sides to this equation, the acquisition side and the con
 
 1. **Reading consistency.** I've become better over time, but I aspire to better numbers. Tim Urban of *Wait but Why* fame <a href="https://twitter.com/maxjoseph/status/1121086199983157250" target="_blank">makes a pretty good case for the power of consistently reading 30 minutes per day</a>.
 
-2. **Reading speed.** I'm not the fastest reader—well especially when I'm trying to read too late at night and re-reading the same sentences as I'm half-asleep—but I think sometimes I'm too meticulous and I could stand to be more aggressive in my reading, both in terms of shelving books that aren't delivering against the promise, as well as flying through certain types of books and/or certain parts of books as Ralph Waldo Emerson advocated, recorded in Robert D. Richardson, Jr.'s *Emerson: The Mind on Fire* (1995)[^1]:
+2. **Reading speed.** I'm not the fastest reader—especially when I'm trying to read too late at night and re-reading the same sentences as I'm nodding off—but I think sometimes I'm too meticulous and I could stand to be more aggressive in my reading, both in terms of shelving books that aren't delivering, as well as flying through certain types of books and/or certain parts of books as Ralph Waldo Emerson advocated, recorded in Robert D. Richardson, Jr.'s *Emerson: The Mind on Fire* (1995)[^1]:
 
 [^1]:Who knew Emerson was a speed-reader and skimmer of sorts?! But at the end of the day he's right: don't peruse a self-help book as you would *The Divine Comedy*.
 
