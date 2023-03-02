@@ -87,9 +87,10 @@ cover;
 #map { height: 180px; }
 
 blockquote {
-  background: #f9f9f9;
+  background: #D3D3D3;
   border-left: 3px solid #ccc;
   margin: 1.5em 10px;
+  font-style: italic;
   padding: 0.5em 10px;
 }
 blockquote p {
