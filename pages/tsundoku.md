@@ -11,9 +11,9 @@ I'll begin by wishing you and yours a...
 
 ## Happy World Book Day 📚
 
-...from this rather slow reader guilty of *Tsundoku,* the practice of buying a lot of books and letting them pile up because you intend to but haven't yet read them.
+...from this enthusiastic-but-unremarkable reader guilty of *Tsundoku,* the practice of buying a lot of books and letting them pile up because you intend to read them but haven't yet read them.
 
-![ny times tsundoku](https://media.newyorker.com/photos/5cf04c5edbca2c0f4b0f477d/master/w_2560%2Cc_limit/CoverStory-STORY_BEK_fiction.jpg)
+![New Yorker Tsundoku](/assets/og/tsundoku.png "Bedtime Stories, by Bruce Eric Kaplan")
 
 Of course there are two sides to this equation, the acquisition side and the consumption side, and for me it's more a consumption issue for the following reasons:
 
@@ -23,11 +23,11 @@ Of course there are two sides to this equation, the acquisition side and the con
 
 	> Along with Emerson's freedom to take whatever struck him went the equally important obligation to ignore what did not. Emerson read widely and advised others to do so, but he was insistent about the dangers of being overwhelmed and overinfluenced by one's reading. "Do not attempt to be a great reader," he told a young Williams College student named Charles Woodbury. "Read for facts and not by the bookful." He thought one should "learn to divine books, to feel those that you want without wasting much time on them." It is only worthwhile concentrating on what is excellent and for that "often a chapter is enough." He encouraged browsing and skipping. "The glance reveals what the gaze obscures. Somewhere the author has hidden his message. Find it, and skip the paragraphs that do not talk to you."
 
-	Who knew Emerson was a speed-reader and skimmer of sorts?! But at the end of the day he's right: don't peruse a self-help book as you would *The Divine Comedy*.
+	Who knew Emerson was a speed-reader and skimmer of sorts? But at the end of the day he's right: don't peruse a self-help book as you would *The Divine Comedy*.
 
-3. **Library disqualification**. I hitherto thought I wasn't getting through books quickly enough (points 1 and 2 combined) to take advantage of the public library, which caused me to acquire my own copies, but with my rejuvenated reading habit (and a moderately generous renewal policy) I could easily be a library reader because I don't take notes in the margins.
+3. **Library disqualification**. I hitherto believed I wasn't getting through books quickly enough (points 1 and 2 combined) to take advantage of the public library, which caused me to acquire my own copies, but with my rejuvenated reading habit (and a moderately generous renewal policy) I could easily be a library reader because I don't take notes in the margins.
 
-If I'm able to increase my throughput (points #1 and #2) but the public library doesn't pick up most of the incremental volume (point #3), it's going to be necessary to prune the collection now and again, which implies *lending*—I love [lending out books](https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/) whether to friends nearby or distant (thank you, (Media Mail)[https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate]—or *donating* to the occasional book drive or [little free library](https://littlefreelibrary.org) around the corner.
+If I'm able to increase my throughput (points #1 and #2) but the public library doesn't pick up most of the incremental volume (point #3), it's going to be necessary to prune the collection now and again, which implies *lending*—I love [lending out books](https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/) whether to friends nearby or distant (thank you, [Media Mail](https://faq.usps.com/s/article/What-is-Media-Mail-Book-Rate)—or *donating* to the occasional book drive or [little free library](https://littlefreelibrary.org) around the corner.
 
 "Get an ereader, Man!" I know, I know...I'm just too tactile and bibliosmic to abandon my hardcovers.
 
