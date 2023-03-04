@@ -3,14 +3,13 @@ layout: page
 title: 🏔 Goals
 permalink: /goals/
 ---
-[ ] Sleep seven hours per noctem
+- [ ] Sleep seven hours per noctem
 
-[x] 🏃‍♂️ [Run](/run/) 2x / week
+- [x] 🏃‍♂️ [Run](/run/) 2x / week
 
-[ ] 🇰🇷 Learn Korean
+- [ ] 🇰🇷 Learn Korean
+- [ ] 👨‍🍳 1 new recipe / qtr.
 
-[ ] 👨‍🍳 Expand dinner repertoire
+- [ ] 🇬🇧 Visit Great Britian
 
-[ ] 🇬🇧 Visit Great Britian
-
-[ ] 💑 Monthly date night
+- [ ] 💑 Mensual date night
