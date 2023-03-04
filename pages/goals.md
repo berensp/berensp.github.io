@@ -12,3 +12,5 @@ permalink: /goals/
 [ ] 👨‍🍳 Expand dinner repertoire
 
 [ ] 🇬🇧 Visit Great Britian
+
+[ ] 💑 Monthly date night
