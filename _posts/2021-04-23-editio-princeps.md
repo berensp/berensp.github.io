@@ -28,7 +28,7 @@ Of course there are two sides to this equation, the acquisition side and the con
 
 	Who knew Emerson was a speed-reader and skimmer of sorts? But at the end of the day he's right: don't peruse a self-help book as you would *The Divine Comedy*.
 
-3. **Library disqualification.** I hitherto believed I wasn't getting through books quickly enough (points 1 and 2 combined) to take advantage of the public library, which caused me to acquire my own copies. But with my rejuvenated reading habit (and a moderately generous renewal policy) I could easily be a library reader because I'm not one who takes notes in the margins.
+3. **Library disqualification.** I hitherto believed I wasn't getting through books quickly enough (points 1 and 2 combined) to take advantage of the public library, which caused me to acquire my own copies. But with my rejuvenated reading habit (and a moderately generous renewal policy) I could easily become a library reader because I'm not one who takes notes in the margins.
 
 If I am successful at increasing my throughput (points #1 and #2) but the public library doesn't pick up most of the incremental volume (point #3), some pruning is going to be necessary now and again, which implies [lending](https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/) and [donating](https://littlefreelibrary.org).
 
