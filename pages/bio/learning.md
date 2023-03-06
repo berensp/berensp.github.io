@@ -4,7 +4,7 @@ title: 🌱 Learning
 permalink: /learning/
 ogimage: ggb.jpg
 ---
-> *"For the things we have to learn before we can do them, we learn by doing them."* (—Aristotle, Nicomachean Ethics, II, 1)
+*"For the things we have to learn before we can do them, we learn by doing them."* (—Aristotle, Nicomachean Ethics, II, 1)
 
 My constructivist continuing education (i.e. tinkering):
 

@@ -4,7 +4,7 @@ title: 🎛 Recordings
 permalink: /recordings/
 description: A few jams.
 ---
-> *"For the love you bring won't mean a thing / Unless you sing, sing, sing, sing, sing, sing, sing, sing"* (—*Sing* by Travis)
+*"For the love you bring won't mean a thing / Unless you sing, sing, sing, sing, sing, sing, sing, sing"* (—*Sing* by Travis)
 
 ### Some half-baked covers (solo)
 - [*Only The Wine*](/only-wine/)
