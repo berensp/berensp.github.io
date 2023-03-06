@@ -3,9 +3,18 @@ email: paul@berens.co
 description: Paul Berens
 url: "https://berensp.github.io"
 twitter: berensp
-readingurl: https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00
-readingbook: Atomic Habits
-readingauthor: James Clear
+
+book_last_url: https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview
+book_last_title: For Whom The Bell Tolls
+book_last_author: Ernest Hemingway
+
+book_now_url: https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00
+book_now_title: Atomic Habits
+book_now_author: James Clear
+
+book_next_url: https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0
+book_next_title: One Hundred Years of Solitude
+book_next_author: Gabriel García Márquez
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
