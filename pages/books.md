@@ -11,13 +11,13 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Recently completed
-- [*For Whom The Bell Tolls*](https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview) by Ernest Hemingway
+- [*{{ site.book_last_title }}*]({{ site.book_last_url }}) by {{ site.book_last_author }}
 
 ## Presently reading
-- [*{{ site.readingbook }}*]({{ site.readingurl }}) by {{ site.readingauthor }}
+- [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
 
 ## On deck
-- [*One Hundred Years of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
+- [*{{ site.book_next_title }}*]({{ site.book_next_url }}) by {{ site.book_next_author }}
 
 ## Near-term reading list
 - [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang

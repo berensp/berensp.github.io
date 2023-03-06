@@ -8,7 +8,7 @@ description: fun facts
 | :---    | :---  |
 | Blood type | A+ |
 | Countries visited | <a href="/countries/">12%</a> |
-| Current book | *<a href="/books/">{{ site.readingbook }}</a>*
+| Current book | *<a href="/books/">{{ site.book_now_title }}</a>*
 | Heritage | <a href="/ancestry/">🇩🇪 🇮🇪</a> |
 | Investments | <a href="/invest/">9</a> |
 | Languages | 🇬🇧 🇪🇸 🇰🇷[^1] |
