@@ -4,7 +4,7 @@ title: Countries visited
 permalink: /countries/
 description: ~88% yet to explore
 ---
-> *"The world is a country which nobody ever yet knew by description; one must travel through it one's self to be acquainted with it."* (—Philip Stanhope, Earl of Chesterfield)
+*"The world is a country which nobody ever yet knew by description; one must travel through it one's self to be acquainted with it."* (—Philip Stanhope, Earl of Chesterfield)
 
 | Order | Ctry. | First Trip |
 | :----: | :----: | :--- |

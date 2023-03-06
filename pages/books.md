@@ -4,7 +4,7 @@ title: 📚 Books
 permalink: /books/
 ogimage: bookshelf.bw.png
 ---
-> *"Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo."*[^1] (—Giordano Bruno)
+*"Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo."*[^1] (—Giordano Bruno)
 
 [^1]:*A drop hollows out the stone by falling not twice, but often; so too is a person becomes wise by reading not twice, but often.* I ain't particularly well-read, but changing that situation one book at a time.
 
@@ -43,3 +43,9 @@ ogimage: bookshelf.bw.png
 - [*Pillars of the Earth*](https://www.google.com/books/edition/_/QYYQDAAAQBAJ?hl=en&sa=X&ved=2ahUKEwit84DyoZLwAhXxhK0KHY5bDaUQ7_IDMB16BAgNEAU) by Ken Follett
 - [*A Prayer for Owen Meany*](https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0) by John Irving
 - [*The Seven Storey Mountain*](https://www.google.com/books/edition/The_Seven_Storey_Mountain/SIZiPwAACAAJ?hl=en&kptab=overview) by Thomas Merton
+
+## Books written by friends and family (that you should buy)
+- [*Animal Review*](https://www.google.com/books/edition/The_Animal_Review/ljqRVptXG-sC?hl=en&gbpv=0) by Jacob Lentz
+- [*Half American*](https://www.google.com/books/edition/Half_American/4UpTEAAAQBAJ?hl=en&gbpv=0) by Matthew Delmont
+- [*Let's Meet on the Moon*](https://www.google.com/books/edition/Let_s_Meet_on_the_Moon/N7PIzQEACAAJ?hl=en) by Lauren Ranalli
+- [*Max, the Bad-talking Parrot*](https://www.google.com/books/edition/Max_the_Bad_Talking_Parrot/jUazf0BTIHEC?hl=en&gbpv=0) by Patricia Brennan
