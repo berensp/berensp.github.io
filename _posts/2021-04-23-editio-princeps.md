@@ -32,6 +32,6 @@ Of course there are two sides to this equation, the acquisition side and the con
 
 I suppose if I'm successful at upping my throughput (points #1 and #2) but the public library doesn't pick up most of that incremental volume (point #3), some pruning is going to be in order now and again, which (happily) implies [lending](https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/) and [donating](https://littlefreelibrary.org).
 
-"Get an e-reader, Man." I know, I know...I'm just too haptic and bibliosmic to abandon hardcovers.
+"Get an e-reader, Man." I know, I know...but I'm too bibliosmic to abandon hardcovers.
 
 ![initials](/assets/images/initials.pmb.71.56.png)
