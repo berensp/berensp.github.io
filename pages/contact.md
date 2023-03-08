@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger/app/platform of choice:
+Say hello on your messenger / app / platform of choice:
 
 ## Messaging
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
