@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger/app/platform of choice:
+Say hello on your messenger / app / platform of choice:
 
 ## Messaging
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
@@ -18,7 +18,7 @@ Say hello on your messenger/app/platform of choice:
 ## Other
 - <a href="https://angel.co/berens" target="_blank">AngelList</a>
 - <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">Ethereum</a>
-- <div style="float:left;"><span style="display:inline;">🆕&nbsp;</span><span style="display:inline;"><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></span></div>
+- <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a>
 - <a href="https://github.com/berensp" target="_blank">GitHub</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
