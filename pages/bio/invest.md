@@ -4,7 +4,7 @@ title: 🚀 Investments
 permalink: /invest/
 description: 💸
 ---
-I've been fortunate to participate in the early rounds of the following startups:
+I've been lucky to help support the following startups in their early rounds:
 - <a href="https://www.hurree.co/" target="_blank">Hurree</a> (<a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a>) – cross-platform analytics
 - <a href="https://getdex.com/" target="_blank">Dex</a> (SPV) – personal CRM / modern rolodex
 - <a href="https://www.nursewallet.co/" target="_blank">NurseWallet</a> (<a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a>) – money app for nurses (fintech)
