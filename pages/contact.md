@@ -15,9 +15,8 @@ Say hello on your messenger / app / platform of choice:
 - <a href="https://join.status.im/u/0x04fef6e494c4db1d25d1b144f3914747cdf8164e5208dafe7fd1926d3d75e7b545ff02d0571ccf788ff0fff8065616967de51935e76d90a04a47df82cead041f57" target="_blank">Status</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 
-## Other
+## Social / Other
 - <a href="https://angel.co/berens" target="_blank">AngelList</a>
-- <a href="https://app.ens.domains/name/berensp.eth/details" target="_blank">Ethereum</a>
 - <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a>
 - <a href="https://github.com/berensp" target="_blank">GitHub</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
