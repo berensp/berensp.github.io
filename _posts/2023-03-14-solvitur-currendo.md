@@ -8,7 +8,7 @@ ogimage: tahoe.half.02.png
 ---
 The other day I had the most profound experience.
 
-There I was, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some *seven days prior* begins *re-*playing in my brain. Almost verbatim. And mine is by no means an exceptional memory.
+There I was, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some *seven days prior* begins *re*-playing in my brain. Almost verbatim. And mine is by no means an exceptional memory.
 
 <center>
 <img src='/assets/videos/historic.trail.slow.gif'>
@@ -22,7 +22,7 @@ But for me it was nothing so deliberate; just a beautiful, eucalyptus-scented, b
 
 And so I was plumb amazed both by how powerful the encoding can be (my near word-for-word recollection) and it seemingly being this background, unconscious process — unless interest or attention level is a factor (catalyst in the reaction).
 
-Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *(solvitur ambulando)*: breathe some fresh air, boost your energy level, and maybe best of all, stimulate brain function. There's research that suggests that "moderately-intense" aerobic exercise increases the size of hippocampus and improves memory (or at least staves off hippocampal volume loss and memory deterioration)[^1], so I'm thinking: pick up the pace and amplify the effects. Ergo, *solvitur correndo* (it is solved by running)...*it* being the problem you're trying to work out; the memory you're trying to bring into focus; that 50th digit of pi you're trying to associate with a specific point on the trail.
+Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *(solvitur ambulando)*: breathe some fresh air, boost your energy level, and maybe best of all, stimulate brain function. There's research that suggests that "moderately-intense" aerobic exercise increases the size of the hippocampus and improves memory (or at least staves off hippocampal volume loss and memory deterioration)[^1], so I'm thinking: pick up the pace and amplify the effects. Ergo, *solvitur correndo* (it is solved by running)...*it* being the problem you're trying to work out; the memory you're trying to bring into focus; that 50th digit of pi you're trying to associate with a specific point on the trail.
 
 [^1]: Erickson, Kirk I., et al. ["Exercise training increases size of hippocampus and improves memory."](https://www.pnas.org/doi/10.1073/pnas.1015950108) *Proceedings of the national academy of sciences* 108.7 (2011): 3017-3022.
 
