@@ -18,10 +18,12 @@ The phenomenon of tagging memories to physical surroundings is known as *context
 
 Apparently, the hippocampus creates a kind of "neural map" of the environment, which helps to organize and store memories based on their location. When we subsequently try to recall a memory, the brain can use contextual cues, such as the sights, sounds, and smells of the environment, to activate the relevant neural network in the hippocampus and retrieve the memory. The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes," for example, will construct a "memory palace" that allows them to recall an insane number of digits of pi.
 
-But for me it was nothing so conscious or deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mneumonic device.
+But for me it was nothing so deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mneumonic device.
 
-And so I was utterly amazed both by how powerful the encoding can be (my nearly word-for-word recollection) and it seemingly being this background process — unless interest or attention level is a factor (or a catalyst in the reaction).
+And so I was plumb amazed both by how powerful the encoding can be (my near word-for-word recollection) and it seemingly being this background, unconscious process — unless interest or attention level is a factor (or a catalyst in the reaction).
 
-So now I'm thinking Steve Jobs, Mark Zuckerberg, et al. were/are on to something with walking meetings *(solvitur ambulando)*, but then there's evidence that [exercise training increases size of hippocampus and improves memory](https://www.pnas.org/doi/10.1073/pnas.1015950108), *ergo, a fortiori, solvitur correndo.*
+Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *(solvitur ambulando)*: breathe some fresh air, boost your energy level, and maybe best of all, stimulate brain function. There's a body of research that suggests that moderately-intense aerobic exercise increases the size of hippocampus and improves memory (or at least staves off hippocampal volume loss and memory deterioration)[^1].
+
+[^1]: Erickson, Kirk I., et al. ["Exercise training increases size of hippocampus and improves memory."](https://www.pnas.org/doi/10.1073/pnas.1015950108) *Proceedings of the national academy of sciences* 108.7 (2011): 3017-3022.
 
 ![initials](/assets/images/initials.pmb.71.56.png)
