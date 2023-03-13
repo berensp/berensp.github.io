@@ -20,7 +20,7 @@ Apparently, the hippocampus creates a kind of "neural map" of the environment, w
 
 But for me it was nothing so conscious or deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mneumonic device.
 
-And so I was utterly amazed both by how powerful the encoding can be and it seemingly being this background process — unless your interest or attention level is a factor (or a catalyst in the reaction).
+And so I was utterly amazed both by how powerful the encoding can be (my nearly word-for-word recollection) and it seemingly being this background process — unless interest or attention level is a factor (or a catalyst in the reaction).
 
 So now I'm thinking Steve Jobs, Mark Zuckerberg, et al. were/are on to something with walking meetings *(solvitur ambulando)*, but then there's evidence that [exercise training increases size of hippocampus and improves memory](https://www.pnas.org/doi/10.1073/pnas.1015950108), *ergo, a fortiori, solvitur correndo.*
 
