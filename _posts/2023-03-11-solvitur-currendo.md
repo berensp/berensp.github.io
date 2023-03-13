@@ -8,7 +8,7 @@ ogimage: tahoe.half.02.png
 ---
 The other day I had the most profound experience.
 
-There was I, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some *seven days prior* begins *re-*playing in my brain. Almost verbatim — and mine is by no means an exceptional memory.
+There I was, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some *seven days prior* begins *re-*playing in my brain. Almost verbatim — and mine is by no means an exceptional memory.
 
 <center>
 <img src='/assets/videos/historic.trail.slow.gif'>
@@ -18,7 +18,7 @@ The phenomenon of tagging memories to physical surroundings is known as *context
 
 Apparently, the hippocampus creates a kind of "neural map" of the environment, which helps to organize and store memories based on their location. When we subsequently try to recall a memory, the brain can use contextual cues, such as the sights, sounds, and smells of the environment, to activate the relevant neural network in the hippocampus and retrieve the memory. The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes," for example, will construct a "memory palace" that allows them to recall an insane number of digits of pi.
 
-But for me it was nothing so deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mneumonic device.
+But for me it was nothing so deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mnemonic.
 
 And so I was plumb amazed both by how powerful the encoding can be (my near word-for-word recollection) and it seemingly being this background, unconscious process — unless interest or attention level is a factor (or a catalyst in the reaction).
 
