@@ -6,7 +6,9 @@ author:	Paul Berens
 description: It is solved by running.
 ogimage: tahoe.half.02.png
 ---
-The other day I had the most profound experience. There was I, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some seven days prior begins *re-*playing in my brain. Almost verbatim—and mine is not an exceptional memory by any means.
+The other day I had the most profound experience.
+
+There was I, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some seven days prior begins *re-*playing in my brain. Almost verbatim — and mine is by no means an exceptional memory.
 
 <center>
 <img src='/assets/videos/historic.trail.slow.gif'>
@@ -18,8 +20,8 @@ Apparently, the hippocampus creates a kind of "neural map" of the environment, w
 
 But for me it was nothing so conscious or deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mneumonic device.
 
-And so I was amazed by both how powerful the encoding is and the fact that it's seemingly this background process — unless your interest or attention level is the catalyst.
+And so I was utterly amazed both by how powerful the encoding can be and it seemingly being this background process — unless your interest or attention level is a factor (or a catalyst in the reaction).
 
-So now I'm thinking Steve Jobs and Mark Zuckerberg were on to something with walking meetings *(solvitur ambulando)*, but then there's evidence that ["exercise training increases size of hippocampus and improves memory"](https://www.pnas.org/doi/10.1073/pnas.1015950108), ergo, a fortiori, *solvitur correndo.*
+So now I'm thinking Steve Jobs, Mark Zuckerberg, et al. were/are on to something with walking meetings *(solvitur ambulando)*, but then there's evidence that [exercise training increases size of hippocampus and improves memory](https://www.pnas.org/doi/10.1073/pnas.1015950108), *ergo, a fortiori, solvitur correndo.*
 
 ![initials](/assets/images/initials.pmb.71.56.png)
