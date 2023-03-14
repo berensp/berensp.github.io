@@ -6,7 +6,7 @@ author:	Paul Berens
 description: It is solved by running.
 ogimage: historic.trail.slow.gif
 ---
-The other day I'm loping down the exquisite [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point on the path, the podcast episode that I had listened to some *seven days prior* begins replaying in my brain. Almost verbatim. And I realize that this mental replay is nicely synchronized with where I was on the trail on the first listen. *(Nota bene: mine is by no means an exceptional memory.)*
+The other day I'm loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point on the path, the podcast episode that I had listened to some *seven days prior* begins replaying in my brain. Almost verbatim. And I realize that this mental replay is nicely synchronized with where I was on the trail on the first listen. *(Nota bene: mine is by no means an exceptional memory.)*
 
 <center>
 <img src='/assets/videos/historic.trail.slow.gif'>
