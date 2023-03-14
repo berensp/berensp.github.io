@@ -6,23 +6,19 @@ author:	Paul Berens
 description: It is solved by running.
 ogimage: tahoe.half.02.png
 ---
-The other day I had the most profound experience.
-
-There I was, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point on the path, the podcast episode that I had listened to some *seven days prior* begins *re*-playing in my brain. Almost verbatim. And mine is by no means an exceptional memory.
+The other day I'm loping down the exiquisite [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point on the path, the podcast episode that I had listened to some *seven days prior* begins *re*-playing in my brain. Almost verbatim. And mine is by no means an exceptional memory.
 
 <center>
 <img src='/assets/videos/historic.trail.slow.gif'>
 </center>
 
-The phenomenon of tagging memories to physical surroundings is known as *context-dependent memory,* and the idea is that our brains create associations between the context in which we learn or experience something and the information itself, such that recalling the context can help us retrieve the associated memories. The physiological mechanism underlying this phenomenon is thought to involve the hippocampus, a region of the brain that plays a key role in memory formation and retrieval.
+You may know — I did not — that the phenomenon whereby our brains tag memories to physical surroundings to facilitate their subsequent retrieval is known as *context-dependent memory,* and that the physiological mechanism underlying this phenomenon is thought to involve the hippocampus. Apparently, the hippocampus creates a kind of "neural map" of the environment, which helps to organize and store memories based on their location, activated again later via contextual cues (sights, sounds, smells) to retrieve the memory. The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes," for example, will construct a "memory palace" that allows them to recall and recite an insane number of digits of pi.
 
-Apparently, the hippocampus creates a kind of "neural map" of the environment, which helps to organize and store memories based on their location. When we subsequently try to recall a memory, the brain can use contextual cues, such as the sights, sounds, and smells of the environment, to activate the relevant neural network in the hippocampus and retrieve the memory. The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes," for example, will construct a "memory palace" that allows them to recall and recite an insane number of digits of pi.
+But, of course, in my situation it was nothing so deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mnemonic, unbeknownst to Conscious Me.
 
-But for me it was nothing so deliberate; just a beautiful, eucalyptus-scented, birdsong-adorned urban trail through the woods that my brain put to good work as a mnemonic.
+Which is why I was I kind of amazed by how powerful the encoding can be (my near word-for-word recollection) while also flying below the radar as this unconscious process — unless interest or attention level is a factor (catalyst in the reaction).
 
-And so I was plumb amazed both by how powerful the encoding can be (my near word-for-word recollection) and it seemingly being this background, unconscious process — unless interest or attention level is a factor (catalyst in the reaction).
-
-Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *(solvitur ambulando)*: breathe some fresh air, boost your energy level, and maybe best of all, stimulate brain function. There's research that suggests that "moderately-intense" aerobic exercise increases the size of the hippocampus and improves memory (or at least staves off hippocampal volume loss and memory deterioration)[^1], so I'm thinking: pick up the pace and amplify the effects. Ergo, *solvitur correndo* (it is solved by running)...*it* being the problem you're trying to work out; the memory you're trying to bring into focus; that 50th digit of pi you're trying to associate with a specific point on the trail.
+Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *(solvitur ambulando)*: inhale some fresh air, boost your energy level, and maybe best of all, stimulate brain function. And on that last point, research that suggests that "moderately-intense" aerobic exercise increases the size of the anterior hippocampus and improves memory (or at least staves off hippocampal volume loss and memory deterioration)[^1], so I'm thinking: pick up the pace and amplify the effects. Ergo, *solvitur correndo* (it is solved by running)...*it* being the problem you're trying to work out; the memory you're trying to bring into focus; the n-th digit of pi you're trying to associate with a specific point on the trail.
 
 [^1]: Erickson, Kirk I., et al. ["Exercise training increases size of hippocampus and improves memory."](https://www.pnas.org/doi/10.1073/pnas.1015950108) *Proceedings of the national academy of sciences* 108.7 (2011): 3017-3022.
 
@@ -30,4 +26,4 @@ Happy Pi Day,
 
 ![initials](/assets/images/initials.pmb.71.56.png)
 
-<span class="muted small">Thanks to Matthew Brennan for reading a draft of this.</span>
+<span class="muted small">Thanks to Lisa Berens and Matthew Brennan for reading a draft of this.</span>
