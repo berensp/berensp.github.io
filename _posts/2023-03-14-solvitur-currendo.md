@@ -14,7 +14,7 @@ The other day I'm loping down the exquisite [Historic Trail on Mount Sutro](/twi
 
 You may know (I did not) that the phenomenon whereby our brains associate memories to physical surroundings to facilitate their subsequent retrieval is known as *context-dependent memory,* and that the underlying physiological mechanism is thought to involve the hippocampus, which is able to create a kind of "neural map" that allows memories to be organized based on their location and tagged with contextual cues (sights, sounds, smells). The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes" can construct a "memory palace" that allows them to recall and recite, for example, an insane number of digits of pi.
 
-But, of course, in my situation it was nothing so deliberate. The ==`eucalyptus-scented`==, ==`birdsong-adorned`== urban trail through the woods was put to good work as a mnemonic by my brain without my realizing it.
+But, of course, in my situation it was nothing so deliberate. The <mark_lightgray>`eucalyptus-scented==`</mark_lightgray>, <mark_lightgray>`birdsong-adorned`</mark_lightgray> urban trail through the woods was put to good work as a mnemonic by my brain without my realizing it.
 
 Which is why I was amazed that the encoding can be so powerful (my near word-for-word recollection) while also flying below the radar as this unconscious process.
 
