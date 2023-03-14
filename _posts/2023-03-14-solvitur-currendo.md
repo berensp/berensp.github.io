@@ -8,7 +8,7 @@ ogimage: tahoe.half.02.png
 ---
 The other day I had the most profound experience.
 
-There I was, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point, the podcast episode that I had listened to on this very path some *seven days prior* begins *re*-playing in my brain. Almost verbatim. And mine is by no means an exceptional memory.
+There I was, loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt-sutro/), and as I run past this particular point on the path, the podcast episode that I had listened to some *seven days prior* begins *re*-playing in my brain. Almost verbatim. And mine is by no means an exceptional memory.
 
 <center>
 <img src='/assets/videos/historic.trail.slow.gif'>
@@ -29,3 +29,5 @@ Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *
 Happy Pi Day,
 
 ![initials](/assets/images/initials.pmb.71.56.png)
+
+<span class="muted small">Thanks to Matthew Brennan for reading a draft of this.</span>
