@@ -12,7 +12,7 @@ The other day I'm loping down the [Historic Trail on Mount Sutro](/twin-peaks-mt
 <img src='/assets/videos/historic.trail.slow.gif'>
 </center>
 
-You may know (I did not) that the phenomenon whereby our brains associate memories to physical surroundings to facilitate their subsequent retrieval is known as *context-dependent memory,* and that the underlying physiological mechanism is thought to involve the hippocampus, which is able to create a kind of "neural map" that allows memories to be organized based on their location and tagged with contextual cues (sights, sounds, smells). The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes" can construct a "memory palace" that allows them to recall and recite, for example, an insane number of digits of pi.
+You may know (I did not) that the phenomenon whereby our brains associate memories with physical surroundings to facilitate their subsequent retrieval is known as *context-dependent memory,* and that the underlying physiological mechanism is thought to involve the hippocampus, which is able to create a kind of "neural map" that allows memories to be organized based on their location and tagged with contextual cues (sights, sounds, smells). The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes" can construct a "memory palace" that allows them to recall and recite, for example, an insane number of digits of pi.
 
 But, of course, in this situation it was nothing so deliberate. The picturesque, eucalyptus-scented, birdsong-adorned urban trail was put to good work as a mnemonic by my brain without my realizing it.
 
