@@ -3,9 +3,9 @@ layout: map_run
 title: Stanford Dish
 gpx_url: Dish.gpx
 id: dish
-long: -13627117.239180483
-lat: 4548706.593363042
-zoom: 12
+long: -13600307.269472398
+lat: 4496527.106975864
+zoom: 14
 distance: 4 mi
 elevation: 587 ft
 difficulty: moderate
