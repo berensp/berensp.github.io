@@ -47,5 +47,6 @@ ogimage: bookshelf.bw.png
 ## Books written by friends and family (that you should buy)
 - [*Animal Review*](https://www.google.com/books/edition/The_Animal_Review/ljqRVptXG-sC?hl=en&gbpv=0) by Jacob Lentz
 - [*Half American*](https://www.google.com/books/edition/Half_American/4UpTEAAAQBAJ?hl=en&gbpv=0) by Matthew Delmont
+- [*It's Even Worse Than It Looks*](https://www.google.com/books/edition/It_s_Even_Worse_Than_It_Looks/ycKCxduv3xEC) by By Thomas E. Mann, Norman J. Ornstein
 - [*Let's Meet on the Moon*](https://www.google.com/books/edition/Let_s_Meet_on_the_Moon/N7PIzQEACAAJ?hl=en) by Lauren Ranalli
 - [*Max, the Bad-talking Parrot*](https://www.google.com/books/edition/Max_the_Bad_Talking_Parrot/jUazf0BTIHEC?hl=en&gbpv=0) by Patricia Brennan
