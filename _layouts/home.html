@@ -9,6 +9,7 @@ layout: default
 
 <button id="dark-mode-toggle">Dark Mode</button>
 
+<script>
 function toggleDarkMode() {
   const isDarkMode = document.documentElement.getAttribute('data-theme') === 'dark';
   document.documentElement.setAttribute('data-theme', isDarkMode ? 'light' : 'dark');
@@ -16,7 +17,7 @@ function toggleDarkMode() {
 
 const darkModeToggle = document.querySelector('#dark-mode-toggle');
 darkModeToggle.addEventListener('click', toggleDarkMode);
-
+</script>
   
 {{ content }}
 
