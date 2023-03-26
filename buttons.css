@@ -1,0 +1,24 @@
+.dark-mode-toggle {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+  text-align: center;
+}
+
+.dark-mode-toggle:hover {
+  background-color: #222;
+}
+
+.dark-mode-toggle:active {
+  background-color: #111;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .dark-mode-toggle {
+    background-color: #fff;
+    color: #333;
+  }
+}
