@@ -74,15 +74,6 @@ body {
     top: 0px !important; 
     }
 
-.plyr-container {
-	width: 800px;
-	height: 450px;
-}
-
-.plyr-video {
-	object-fit:
-cover;
-}
 
 #map { height: 180px; }
 
@@ -95,4 +86,38 @@ blockquote {
 }
 blockquote p {
   display: inline-block;
+}
+
+.dark-mode-toggle {
+  display: inline-block;
+  background-color: #fff;
+  color: #333;
+  border: none;
+  padding: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header {
+    background-color: #222;
+  }
+  
+  main {
+    background-color: #444;
+  }
+  
+  footer {
+    background-color: #555;
+  }
+  
+  .dark-mode-toggle {
+    background-color: #333;
+    color: #fff;
+  }
 }
