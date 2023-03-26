@@ -96,15 +96,3 @@ blockquote {
 blockquote p {
   display: inline-block;
 }
-
-:root {
-  --background-color: #fff;
-  --text-color: #000;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-color: #000;
-    --text-color: #fff;
-  }
-}
