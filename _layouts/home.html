@@ -1,12 +1,22 @@
 ---
 layout: default
 ---
-
 <header>
   <h1>{{ site.title | escape }}</h1>
 </header>
 
 <main>
+
+<button id="dark-mode-toggle">Dark Mode</button>
+
+function toggleDarkMode() {
+  const isDarkMode = document.documentElement.getAttribute('data-theme') === 'dark';
+  document.documentElement.setAttribute('data-theme', isDarkMode ? 'light' : 'dark');
+}
+
+const darkModeToggle = document.querySelector('#dark-mode-toggle');
+darkModeToggle.addEventListener('click', toggleDarkMode);
+
   
 {{ content }}
 
