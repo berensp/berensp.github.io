@@ -9,40 +9,6 @@ body {
   background: #fafafa; 
 }
 
-.dark-mode-toggle {
-  display: inline-block;
-  background-color: #fafafa;
-  color: #222;
-  border: none;
-  padding: 2rem;
-  margin-bottom: 20px;
-  cursor: pointer;
-}
-
-@media screen and (prefers-color-scheme: dark) {
-  body {
-    background-color: #222;
-    color: #fff;
-  }
-  
-  header {
-    background-color: #222;
-  }
-  
-  main {
-    background-color: #222;
-  }
-  
-  footer {
-    background-color: #222;
-  }
-  
-  .dark-mode-toggle {
-    background-color: #fafafa;
-    color: #222;
-  }
-}
-
 header {
   display: block;
   width: 100%;
