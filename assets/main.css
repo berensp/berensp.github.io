@@ -9,6 +9,40 @@ body {
   background: #fafafa; 
 }
 
+.dark-mode-toggle {
+  display: inline-block;
+  background-color: #fafafa;
+  color: #222;
+  border: none;
+  padding: 2rem;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background-color: #222;
+    color: #fff;
+  }
+  
+  header {
+    background-color: #222;
+  }
+  
+  main {
+    background-color: #222;
+  }
+  
+  footer {
+    background-color: #222;
+  }
+  
+  .dark-mode-toggle {
+    background-color: #222;
+    color: #fff;
+  }
+}
+
 header {
   display: block;
   width: 100%;
@@ -88,36 +122,4 @@ blockquote p {
   display: inline-block;
 }
 
-.dark-mode-toggle {
-  display: inline-block;
-  background-color: #fff;
-  color: #333;
-  border: none;
-  padding: 10px;
-  margin-bottom: 20px;
-  cursor: pointer;
-}
 
-@media screen and (prefers-color-scheme: dark) {
-  body {
-    background-color: #333;
-    color: #fff;
-  }
-  
-  header {
-    background-color: #222;
-  }
-  
-  main {
-    background-color: #444;
-  }
-  
-  footer {
-    background-color: #555;
-  }
-  
-  .dark-mode-toggle {
-    background-color: #333;
-    color: #fff;
-  }
-}
