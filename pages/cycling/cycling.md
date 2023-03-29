@@ -18,3 +18,5 @@ My preferred means of soaking in the great outdoors whilst spiking serotonin and
 - [Paradise](/paradise/)
 - [SF2G](/sf2g/)
 - [Tunitas Creek](/tunitas/)
+
+<span class="muted small">* Century ride (~100 miles).</span>
