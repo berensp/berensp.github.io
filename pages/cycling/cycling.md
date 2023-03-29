@@ -11,10 +11,12 @@ My preferred means of soaking in the great outdoors whilst spiking serotonin and
 ## Some favorite rides
 - [Alpine Dam](/alpine-dam/)
 - [Hawk Hill](/hawk-hill/)
-- [Levi's GranFondo](/levis/)
-- [Mt. Tam Century](/mt-tam-century/)
+- [Levi's GranFondo](/levis/)[*](/centuries/)
+- [Mt. Tam Century](/mt-tam-century/)[*](/centuries/)
 - [Nicasio Point Reyes Stinson](/point-reyes/)
 - [Pantoll Stinson](/pantoll/)
 - [Paradise](/paradise/)
 - [SF2G](/sf2g/)
 - [Tunitas Creek](/tunitas/)
+
+<span class="muted small">* Century ride (~100 miles).</span>

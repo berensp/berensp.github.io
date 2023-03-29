@@ -16,7 +16,7 @@ My running tally of what makes L'Étoile du Nord unique, interesting, valuable, 
 - **Les Artistes**
 	- **Literature** - [F. Scott Fitzgerald](https://en.wikipedia.org/wiki/F._Scott_Fitzgerald), [Sinclair Lewis](https://en.wikipedia.org/wiki/Sinclair_Lewis)
 	- **Humour** - [Joel Hodgson](https://en.wikipedia.org/wiki/Joel_Hodgson), [Al Franken](https://en.wikipedia.org/wiki/Al_Franken), Garrison Keillor, [Jacob Lentz](https://www.imdb.com/name/nm1802676/), [Charles Shultz](https://en.wikipedia.org/wiki/Charles_M._Schulz), [Lizz Winstead](https://en.wikipedia.org/wiki/Lizz_Winstead)
-	- **Music** - Bob Dylan, [Craig Finn](https://craigfinn.net/)[^2], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, [Jimmy Jam and Terry Lewis](https://en.wikipedia.org/wiki/Jimmy_Jam_and_Terry_Lewis), Mason Jennings, Prince, The Replacements, Soul Asylum, [The Concordia Choir](https://en.wikipedia.org/wiki/The_Concordia_Choir)
+	- **Music** - Bob Dylan, [Chad Smith](https://en.wikipedia.org/wiki/Chad_Smith), [Craig Finn](https://craigfinn.net/)[^2], Gear Daddies/Martin Zellar, Har Mar Superstar, Hüsker Dü, The Jayhawks, [Jimmy Jam and Terry Lewis](https://en.wikipedia.org/wiki/Jimmy_Jam_and_Terry_Lewis), Mason Jennings, Prince, The Replacements, Soul Asylum, [The Concordia Choir](https://en.wikipedia.org/wiki/The_Concordia_Choir)
 	- **Silver Screen** - Jessica Biel, [Coen Brothers](https://en.wikipedia.org/wiki/Coen_brothers), Judy Garland, Josh Hartnett, Jessica Lange, [Winona Ryder](https://www.welcometowinona.com/), Seann William Scott
 
 [^1]: This oft-cited stat is apparently [unsubstantiated](https://www.minnesotamonthly.com/featured/fake-news-the-twin-cities-theater-scenes-claim-to-fame/).
