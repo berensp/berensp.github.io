@@ -4,17 +4,17 @@ description: Paul Berens
 url: "https://berensp.github.io"
 twitter: berensp
 
-book_last_url: https://www.google.com/books/edition/For_Whom_the_Bell_Tolls/TdVQAQAAQBAJ?hl=en&gbpv=0&kptab=overview
-book_last_title: For Whom The Bell Tolls
-book_last_author: Ernest Hemingway
+book_last_url: https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00
+book_last_title: Atomic Habits
+book_last_author: James Clear
 
-book_now_url: https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00
-book_now_title: Atomic Habits
-book_now_author: James Clear
+book_now_url: https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0
+book_now_title: One Hundred Years of Solitude
+book_now_author: Gabriel García Márquez
 
-book_next_url: https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0
-book_next_title: One Hundred Years of Solitude
-book_next_author: Gabriel García Márquez
+book_next_url: https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0
+book_next_title: How Much of These Hills Is Gold
+book_next_author: C Pam Zhang
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
