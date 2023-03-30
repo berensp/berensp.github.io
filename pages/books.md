@@ -20,7 +20,6 @@ ogimage: bookshelf.bw.png
 - [*{{ site.book_next_title }}*]({{ site.book_next_url }}) by {{ site.book_next_author }}
 
 ## Near-term reading list
-- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
 - [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
 - [*Range*](https://www.google.com/books/edition/Range/6nsmEAAAQBAJ?hl=en&gbpv=0) by David Epstein
 - [*The Life And Times Of The Thunderbolt Kid*](https://www.google.com/books/edition/The_Life_and_Times_of_the_Thunderbolt_Ki/W_WOEAAAQBAJ?hl=en) by Bill Bryson
