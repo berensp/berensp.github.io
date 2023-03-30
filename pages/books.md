@@ -11,13 +11,13 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Recently completed
-- [*{{ site.book_last_title }}*]({{ site.book_last_url }}) by {{ site.book_last_author }}
+- [*Atomic Habits*](https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00) by James Clear
 
 ## Presently reading
 - [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
 
 ## On deck
-- [*{{ site.book_next_title }}*]({{ site.book_next_url }}) by {{ site.book_next_author }}
+- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
 
 ## Near-term reading list
 - [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
