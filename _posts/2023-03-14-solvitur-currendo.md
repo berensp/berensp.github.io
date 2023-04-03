@@ -23,3 +23,5 @@ Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *
 Happy Pi Day,
 
 ![initials](/assets/images/initials.pmb.71.56.png)
+
+<span class="muted small">Thanks to Lisa Berens and Matthew Brennan for reading a draft of this.</span>
