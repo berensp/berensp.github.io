@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏠 Where I've lived
+title: Where I've lived
 permalink: /abodes/
 ogimage: places.lived.2022.01.03.png
 description: There I've stayed excellently

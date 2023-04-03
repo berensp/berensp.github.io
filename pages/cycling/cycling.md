@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🚴‍♂️ Cycling
+title: Cycling
 permalink: /cycling/
 description: I want to ride my bicycle; I want to ride my bike.
 ---

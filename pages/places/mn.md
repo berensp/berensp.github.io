@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🛶 Minnesota
+title: Minnesota
 permalink: /mn/
 ogimage: the.first.minnesota.png
 description: Where all the women are strong, all the men are good-looking, and all the children are above average.

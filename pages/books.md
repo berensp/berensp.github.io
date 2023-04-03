@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📚 Books
+title: Books
 permalink: /books/
 ogimage: bookshelf.bw.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌳 Ancestry
+title: Ancestry
 permalink: /ancestry/
 description: Genealogy without sources is mythology.
 ---
