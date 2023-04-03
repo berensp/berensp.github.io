@@ -19,4 +19,4 @@ My preferred means of soaking in the great outdoors whilst spiking serotonin and
 - [SF2G](/sf2g/)
 - [Tunitas Creek](/tunitas/)
 
-<span class="muted small">* </span><a class="muted small" href="/centuries/" target="_blank">Century ride</a><span class="muted small"> (~100 miles).</span>
+<span class="muted small">* </span><a class="muted small" href="/centuries/">Century ride</a><span class="muted small"> (~100 miles).</span>
