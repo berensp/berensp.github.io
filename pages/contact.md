@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📪 Contact
+title: Contact
 permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.

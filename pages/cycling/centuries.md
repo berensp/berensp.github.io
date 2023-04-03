@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🚴‍♂️  Centuries
+title: Centuries
 permalink: /centuries/
 ---
 | Ride | Date |

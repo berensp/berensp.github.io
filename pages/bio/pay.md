@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💸 Payment Apps
+title: Payment Apps
 permalink: /pay/
 description: Pay me my money down
 ---

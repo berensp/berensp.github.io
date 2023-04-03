@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🌫 Fog
+title: Fog
 permalink: /fog/
 ogimage: ggb.jpg
 description: the fog slips ghost-like into a thousand rooms

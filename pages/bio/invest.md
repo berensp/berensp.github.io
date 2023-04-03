@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 🚀 Investments
+title: Investments
 permalink: /invest/
-description: 💸
+description: 🚀
 ---
 I've been lucky to help support the following startups in their early rounds:
 - <a href="https://www.hurree.co/" target="_blank">Hurree</a> (<a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a>) – cross-platform analytics

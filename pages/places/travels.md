@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🧳 Travels
+title: Travels
 permalink: /travels/
 description: Where I've been
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🎈 Berens Birney Bdays
+title: Berens Birney Bdays
 permalink: /mb-pb-bday/
 description: One social medium per bday wish
 ---

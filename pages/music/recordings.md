@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🎛 Recordings
+title: Recordings
 permalink: /recordings/
 description: A few jams.
 ---

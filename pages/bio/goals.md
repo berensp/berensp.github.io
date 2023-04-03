@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🏔 Goals
+title: Goals
 permalink: /goals/
 ---
 <ul style="list-style:none">

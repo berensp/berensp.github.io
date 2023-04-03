@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ☁ Cloud Storage
+title: Cloud Storage
 permalink: /cloud/
 ---
 | Property | Total | Used | Remain |

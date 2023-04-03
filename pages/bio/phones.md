@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 📱 Phones
+title: Phones
 permalink: /phones/
 description: my cellular history
 ---

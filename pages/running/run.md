@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 👟 Running
+title: Running
 permalink: /run/
 description: correr
 ---
