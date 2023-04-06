@@ -6,7 +6,7 @@ twitter: berensp
 
 book_now_title: One Hundred Years Of Solitude
 book_now_author: Gabriel García Márquez
-book_now_URL: https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0
+book_now_url: https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
