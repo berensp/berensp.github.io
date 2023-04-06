@@ -3,7 +3,7 @@ layout: home
 ---
 <img src="/assets/og/pmb.sketch.png" width="35%" height="35%">
 
-Hi, I'm Paul from Saint Paul; nowadays in [Saint Frank](/sf/) with my wife Lisa and our two tykes. [(More)](/infobox/)
+Hi, I'm Paul from Saint Paul; currently in [Saint Frank](/sf/) with my wife Lisa and our two tykes. [(More)](/infobox/)
 
 Presently bringing data products to market at <a href="https://varian.com" target="_blank">Varian</a>. [(Bio)](/bio/)
 
