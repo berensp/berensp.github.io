@@ -6,7 +6,6 @@ description: fun facts
 ---
 | Quick Fact | Value |
 | :---    | :---  |
-| Blood type | A+ |
 | Centuries | [7](/centuries/) |
 | Countries visited | [12%](/countries/) |
 | Current book | *<a href="/books/">{{ site.book_now_title }}</a>*
@@ -15,7 +14,6 @@ description: fun facts
 | Languages | 🇬🇧 🇪🇸 🇰🇷[^1] |
 | MBTI®[^2] | INTP |
 | Mondegreen | Ball Bearings
-| Nationality | 🇺🇸 |
 | Religion | Catholic |
 | Political party | be less tribal |
 | Pronunciation | ['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3) |
