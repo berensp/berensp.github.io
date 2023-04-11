@@ -17,7 +17,7 @@ Say hello on your messenger / app / platform of choice:
 
 ## Social / Other
 - <a href="https://angel.co/berens" target="_blank">AngelList</a>
-- <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a>
+- <a href="https://fcast.me/pmb" target="_blank">Farcaster</a>
 - <a href="https://github.com/berensp" target="_blank">GitHub</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
