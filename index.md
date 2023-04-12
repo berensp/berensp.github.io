@@ -5,7 +5,7 @@ layout: home
 
 Hi, I'm Paul from Saint Paul; currently in [Saint Frank](/sf/) with my wife Lisa and our two tykes. [(More)](/infobox/)
 
-Presently bringing data products to market at <a href="https://varian.com" target="_blank">Varian</a>. [(Bio)](/bio/)
+Presently bringing data products to market at Varian. [(More)](/bio/)
 
 Misc.: [reading](/books/), [writing](/blog/), [running](/run/), [riding](/cycling/).
 
