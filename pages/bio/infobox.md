@@ -7,7 +7,7 @@ description: fun facts
 | Quick Fact | Value |
 | :---    | :---  |
 | Centuries | [7](/centuries/) |
-| Countries visited | [12%](/countries/) |
+| Countries | [12%](/countries/) |
 | Current book | *<a href="/books/">{{ site.book_now_title }}</a>*
 | Heritage | [🇩🇪 🇮🇪](/ancestry/) |
 | Investments | [9](/invest/) |
@@ -20,7 +20,7 @@ description: fun facts
 | Ski length | 188 cm |
 | Skydives | 2 |
 | Tíos[^3] | 19 |
-| US states visited | [94%](/states/) |
+| US states | [94%](/states/) |
 
 [^1]: Native, Conversant, Novice; respectively
 [^2]: To the extent humans can be put in a box.
