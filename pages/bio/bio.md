@@ -3,7 +3,7 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
-- Product marketer and business strategy leader with management consulting foundation.
+- Product marketer and business strategy leader with management consulting foundation, presently bringing data products to market and building SaaS business at [Varian](/https://varian.com/).
 - Deep experience with product market fit, go-to-market strategy, positioning, integrated marketing / demand generation, SaaS, measurement and analytics, and product launches.
 - Passionate about telling resonant stories, unlocking great potential through technology, uncovering unanticipated insights, forming and nurturing relationships, and creating *Arbejdsglæde*.
 - MBA from the University of Michigan, Ross School of Business and Bachelor of Arts in Philosophy from Boston College.
