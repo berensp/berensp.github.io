@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Hic Manebimus Optime
+title: San Francisco
 permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
+## Hic Manebimus Optime
+
 I treasure San Francisco for its beauty and <a href="/fog">fog</a> and distinctiveness, while, at the same time, I lament its deterioration[^1][^2][^3]. What can one do—apart from leaving—but accentuate the positive and vote?
 
 [^1]: Gibson, Michael, <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" target="_blank">"San Francisco’s Slow-Motion Suicide"</a>, *National Review*, Apr. 8, 2019.
