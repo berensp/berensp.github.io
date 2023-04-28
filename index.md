@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<img src="/assets/images/pmb.avatar.tr.png" width="15%" height="15%">
+<img src="/assets/images/pmb.avatar.tr.png" width="25%" height="25%">
 
 👋 Hey, it's Paul Berens (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3)). [Aerobic](/run/). [Autodidactic](/learning/). Catholic. Hispanophonic. [Homichlophilic](/sf/). [Librocubicularistic](/books/). Philharmonic. [Scriptoric](/blog/).
 
