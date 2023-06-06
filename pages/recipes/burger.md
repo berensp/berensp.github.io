@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 🍔 Burger
-permalink: /recipe/burgerz/
+title: 🍔 Burgerz
 description: 🍔
 ---
 @Dad always used the Worcestershire sauce, so I don't skip it. 1½ lb. recipe for four patties.
