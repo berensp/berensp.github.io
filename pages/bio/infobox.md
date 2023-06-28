@@ -12,6 +12,7 @@ description: fun facts
 | Heritage | [🇩🇪 🇮🇪](/ancestry/) |
 | Investments | [9](/invest/) |
 | Languages | 🇬🇧 🇪🇸 🇰🇷[^1] |
+| Location | [San Francisco](/sf/) |
 | MBTI®[^2] | INTP |
 | Mondegreen | Ball Bearings
 | Religion | Catholic |

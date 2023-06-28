@@ -9,13 +9,10 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- <a href="https://notion.so" target="_blank">Notion</a>
-- [Writing](/blog/)
-- [Investing](/invest/)
+- The world of web3, Ethereum, <a href="https://opensea.io/assets/ethereum/0xd774557b647330c91bf44cfeab205095f7e6c367/16888" target="_blank">NFTs</a>- <a href="https://notion.so" target="_blank">Notion</a>
+- Large language models (so 2023)
 - [This site: Jekyll / Liquid / GitHub Pages](/colophon/)
 - Korean (한국말)
-- The world of Web3 and Ethereum
-- Large language models (so 2023)
 
 ## Expected Endeavours
 - <a href="https://obsidian.md/" target="_blank">Obsidian</a> (and backing up to GitHub Pages)
@@ -24,4 +21,4 @@ My constructivist continuing education (i.e. tinkering):
 - [Genealogy](/ancestry/)
 
 ## Earlier Enterprises
-- <a href="https://opensea.io/berens" target="_blank">NFT minting</a>
+- kite-surfing
