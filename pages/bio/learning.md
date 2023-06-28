@@ -9,7 +9,8 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- The world of web3, Ethereum, <a href="https://opensea.io/assets/ethereum/0xd774557b647330c91bf44cfeab205095f7e6c367/16888" target="_blank">NFTs</a>- <a href="https://notion.so" target="_blank">Notion</a>
+- The world of web3, Ethereum, <a href="https://opensea.io/assets/ethereum/0xd774557b647330c91bf44cfeab205095f7e6c367/16888" target="_blank">NFTs</a>
+- <a href="https://notion.so" target="_blank">Notion</a>
 - Large language models (so 2023)
 - [This site: Jekyll / Liquid / GitHub Pages](/colophon/)
 - Korean (한국말)
