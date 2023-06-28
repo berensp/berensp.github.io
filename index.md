@@ -7,6 +7,6 @@ layout: home
 
 Presently bringing data products to market at Varian.
 
-You can also find me [running](/run/), [riding](/cycling/), [reading](/books/), [writing](/blog/), [tinkering](/learning/) (when not diapering, dressing, disinfecting).
+You can also find me [running](/run/), [riding](/cycling/), [reading](/books/), [writing](/blog/), [tinkering](/learning/) (when not diapering, dressing, disinfecting). [(More)](/infobox/)
 
-Get in touch at `hey@{{ this domain }}` and [elsewhere](/contact/).
+Get in touch at `hey` at `[this domain]` and [elsewhere](/contact/).
