@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger / app / platform of choice:
+Say hello on your <a href="https://xkcd.com/1810/" target="_blank">messenger / app / platform of choice</a>:
 
 ## Messaging
 - <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
@@ -25,6 +25,7 @@ Say hello on your messenger / app / platform of choice:
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <mark><a href="https://nf.td/pmb" target="_blank">NF.TD</a></mark>
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
+- <a href="https://t2.social/pmb" target="_blank">T2</a>
 - <a href="https://twitter.com/berensp" target="_blank">Twitter</a>
 
 ## No se puede
