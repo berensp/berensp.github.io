@@ -5,7 +5,7 @@ layout: home
 
 ✌ Hi, I'm Paul Berens.
 
-Presently bringing data products to market at Varian.
+Presently nurturing data products at Varian.
 
 Also [running](/run/), [riding](/cycling/), [reading](/books/), [writing](/blog/), [tinkering](/learning/) (when not diapering, dressing, disinfecting). [(More)](/infobox/)
 
