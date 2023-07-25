@@ -5,4 +5,9 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 {{ content }}
 <p class="muted small">First published: {{ page.date | date: "%d %B %Y" }}</p>
+
+{% if page.last_modified_at != page.date %}
+  <p class="muted small">Last updated: {{ page.last_modified_at | date: "%B %d, %Y" }}</p> 
+{% endif %}
+
 {%- include footer.html -%}
