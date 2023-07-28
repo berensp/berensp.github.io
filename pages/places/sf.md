@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hic Manebimus Optime
+title: San Francisco — Hic Manebimus Optime
 permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime

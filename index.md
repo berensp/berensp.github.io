@@ -1,12 +1,12 @@
 ---
 layout: home
 ---
-<img src="/assets/og/pmb.sketch.png" width="35%" height="35%">
+<img src="/assets/images/pmb.avatar.tr.png" width="25%" height="25%">
 
-Hi, I'm Paul from Saint Paul; currently in [Saint Frank](/sf/) with my wife Lisa and our two tykes. [(More)](/infobox/)
+✌ Hi, I'm Paul Berens.
 
-Presently bringing data products to market at <a href="https://varian.com" target="_blank">Varian</a>. [(Bio)](/bio/)
+Presently nurturing data products at Varian.
 
-Misc.: [reading](/books/), [writing](/blog/), [running](/run/), [riding](/cycling/).
+Also [running](/run/), [riding](/cycling/), [reading](/books/), [writing](/blog/), [tinkering](/learning/) (when not diapering, dressing, disinfecting). [(More)](/infobox/)
 
-Get in touch on <a href="https://signal.org" target="_blank">Signal</a> and [elsewhere](/contact/).
+Get in touch at hey [at] [this domain] and [elsewhere](/contact/).
