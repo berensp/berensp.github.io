@@ -6,6 +6,7 @@ description: fun facts
 ---
 | Quick Fact | Value |
 | :---    | :---  |
+| Alpine skis | 188 cm |
 | Centuries | [7](/centuries/) |
 | Countries | [12%](/countries/) |
 | Current book | *<a href="/books/">{{ site.book_now_title }}</a>*
@@ -18,7 +19,6 @@ description: fun facts
 | Religion | Catholic |
 | Political party | be less tribal |
 | Pronunciation | ['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3) |
-| Ski length | 188 cm |
 | Skydives | 2 |
 | Tíos[^3] | 19 |
 | US states | [94%](/states/) |
