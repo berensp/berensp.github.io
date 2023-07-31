@@ -18,7 +18,7 @@ description: fun facts
 | Religion | Catholic |
 | Political party | be less tribal |
 | Pronunciation | ['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3) |
-| Ski length | 188 cm |
+| Skis | 188 cm |
 | Skydives | 2 |
 | Tíos[^3] | 19 |
 | US states | [94%](/states/) |
