@@ -7,4 +7,4 @@ layout: home
 
 🌱 Also [running](/run/), [riding](/cycling/), [reading](/books/), [writing](/blog/), [tinkering](/learning/). [(More)](/infobox/)
 
-📬 [Get in touch](/contact/).
+📬 Get in touch at hey [at] [this domain] and [elsewhere](/contact/).
