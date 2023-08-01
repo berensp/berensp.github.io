@@ -13,6 +13,7 @@ My constructivist continuing education (i.e. tinkering):
 - <a href="https://notion.so" target="_blank">Notion</a>
 - Large language models (so 2023)
 - [This site: Jekyll / Liquid / GitHub Pages](/colophon/)
+- [Investing](/invest/)
 - Korean (한국말)
 
 ## Expected Endeavours

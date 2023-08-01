@@ -3,34 +3,31 @@
 
   {%- include head.html -%}
 
+ <script type="module" src="strava.js"></script>
+
 <body>
 
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 
-<script type="module" src="strava.js"></script>
-
-
-  <h1>My Recent Strava Activity</h1>
-  
-{{ content }}
 
   <div id="activity"></div>
 
   <script>
-    // Fetch activity data from API
+    // Import function
+    import { getRecentActivity } from './activity.js';
 
-    const activityName = 'Morning Run';
-    const activityDistance = '5.3 mi';
-    const activityDate = '2023-02-28';
+    // Call function
+    getRecentActivity()
+      .then(activity => {
 
-    // Display data in HTML
-    const activity = document.getElementById('activity');
-    activity.innerHTML = `
-      <h2>${activityName}</h2>
-      <p><strong>Date:</strong> ${activityDate}</p>  
-      <p><strong>Distance:</strong> ${activityDistance}</p>
-    `;
+        // Display data 
+        document.getElementById('activity').innerHTML = `
+          <h3>${activity.name}</h3>
+          <p>On: ${activity.date}</p>
+          <p>Distance: ${activity.distance}</p>
+        `;
 
+      });
   </script>
 
 
