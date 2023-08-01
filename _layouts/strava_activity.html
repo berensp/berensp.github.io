@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+<body>
+
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+
+<script type="module" src="strava.js"></script>
+
+
+  <h1>My Recent Strava Activity</h1>
+  
+{{ content }}
+
+  <div id="activity"></div>
+
+  <script>
+    // Fetch activity data from API
+
+    const activityName = 'Morning Run';
+    const activityDistance = '5.3 mi';
+    const activityDate = '2023-02-28';
+
+    // Display data in HTML
+    const activity = document.getElementById('activity');
+    activity.innerHTML = `
+      <h2>${activityName}</h2>
+      <p><strong>Date:</strong> ${activityDate}</p>  
+      <p><strong>Distance:</strong> ${activityDistance}</p>
+    `;
+
+  </script>
+
+
+{%- include footer.html -%}
+
+</body>
+</html>
