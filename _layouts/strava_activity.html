@@ -3,11 +3,17 @@
 
   {%- include head.html -%}
 
- <script type="module" src="strava.js"></script>
-
 <body>
 
 <a class="muted small" href="/">{{ site.title | escape }}</a>
+
+<script type="module" src="strava.js"></script>
+
+<h1>{{ page.title | escape }}</h1>
+
+<mark>{{ page.distance }}</mark> | <mark>{{ page.elevation }}</mark> | <mark>{{ page.difficulty }}</mark>
+
+{{ content }}
 
 
   <div id="activity"></div>
