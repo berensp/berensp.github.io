@@ -11,7 +11,6 @@ description: fun facts
 | Countries | [12%](/countries/) |
 | Current book | *<a href="/books/">{{ site.book_now_title }}</a>*
 | Heritage | [🇩🇪 🇮🇪](/ancestry/) |
-| Investments | [9](/invest/) |
 | Languages | 🇬🇧 🇪🇸 🇰🇷[^1] |
 | Location | [San Francisco](/sf/) |
 | MBTI®[^2] | INTP |
