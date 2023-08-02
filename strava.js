@@ -16,6 +16,7 @@ async function getRecentActivity() {
   const name = recentActivity.name;
   const distance = recentActivity.distance; 
   const date = recentActivity.start_date;
+  const test = 'July 10k accomplished'
 
   // Return activity data
   return {
