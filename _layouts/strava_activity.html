@@ -7,35 +7,9 @@
 
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 
-<script type="module" src="strava.js"></script>
+<script type="module" src="strava-js.js"></script>
 
-<h1>{{ page.title | escape }}</h1>
-
-hello
-
-{{ content }}
-
-
-  <div id="activity"></div>
-
-  <script>
-    // Import function
-    import { getRecentActivity } from './activity.js';
-
-    // Call function
-    getRecentActivity()
-      .then(activity => {
-
-        // Display data 
-        document.getElementById('activity').innerHTML = `
-          <h3>${activity.name}</h3>
-          <p>On: ${activity.date}</p>
-          <p>Distance: ${activity.distance}</p>
-        `;
-
-      });
-  </script>
-
+<div id="activity"></div>
 
 {%- include footer.html -%}
 
