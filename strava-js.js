@@ -1,3 +1,5 @@
+import StravaApiV3 from "./strava-api";
+
 const stravaClient = new StravaApiV3({
   clientId: "111503",
   clientSecret: "9abdda73b9cf15100b12faefcae56d4c8343a378",
