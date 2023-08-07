@@ -20,3 +20,5 @@ class StravaApiV3 {
       .then((data) => data.activities);
   }
 }
+
+export default StravaApiV3;
