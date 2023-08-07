@@ -1,4 +1,4 @@
-import StravaApiV3 from "./strava-api";
+import StravaApiV3 from "./strava-api.js";
 
 const stravaClient = new StravaApiV3({
   clientId: "111503",
