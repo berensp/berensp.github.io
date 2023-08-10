@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your <a href="https://xkcd.com/1810/" target="_blank">messenger / app / platform of choice</a>:
+Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target="_blank">messenger / app / platform of choice</a>:
 
 ## Messaging
 - <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
