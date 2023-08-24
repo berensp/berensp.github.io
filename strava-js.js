@@ -1,6 +1,6 @@
 // Strava API endpoint and access token 
 const API_URL = 'https://www.strava.com/api/v3/athlete/activities';
-const ACCESS_TOKEN = '0bd0d49161189cc7bf570a01eeb1833a8f6df06d';
+const ACCESS_TOKEN = 'af63396fd41d863bda24d3a645233012693fb576';
 
 // Fetch latest activity
 fetch(API_URL + '?per_page=1&access_token=' + ACCESS_TOKEN)
