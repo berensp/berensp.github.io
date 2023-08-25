@@ -31,7 +31,6 @@ try {
 
   console.log(activities);
 
-    .then(res => res.json());
 
   // Display first activity
   displayActivity(activities[0]);
