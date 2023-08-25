@@ -13,8 +13,26 @@ let refreshToken = '5d7d5c4edf9d990542ad399d1c9a61d409611923';
 // Request scopes from Strava API
 const SCOPES = 'activity:read_all';
 
+// Function to get auth code
+async function getAuthCode() {
+
+  // Construct authorize URL
+  const authUrl = AUTHORIZE_URL + '?client_id=' + CLIENT_ID + '&redirect_uri=' + REDIRECT_URI + '&response_type=code&scope=' + SCOPES;
+
+  // Redirect user to Strava authorize URL
+  window.location = authUrl;
+
+  // After redirect, auth code will be in URL query string
+  const urlParams = new URLSearchParams(window.location.search);
+  return urlParams.get('code');
+
+}
+
 async function fetchActivities() {
 
+  // Get auth code
+  const code = await getAuthCode();
+  
   // Get access token
   const accessToken = await getAccessToken();
   
@@ -42,6 +60,7 @@ async function getAccessToken() {
       grant_type: 'refresh_token',
       refresh_token: refreshToken,
       scope: SCOPES
+      code: code
     })
   });
   
