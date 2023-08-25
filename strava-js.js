@@ -8,7 +8,7 @@ const CLIENT_ID = '111503';
 const CLIENT_SECRET = '9abdda73b9cf15100b12faefcae56d4c8343a378';
 
 // Saved refresh token 
-let refreshToken = 'your_refresh_token'; 
+let refreshToken = '5d7d5c4edf9d990542ad399d1c9a61d409611923'; 
 
 // Request scopes from Strava API
 const SCOPES = 'activity:read';
