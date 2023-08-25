@@ -34,7 +34,7 @@ async function fetchActivities() {
   const code = await getAuthCode();
   
   // Get access token
-  const accessToken = await getAccessToken();
+  const accessToken = await getAccessToken(code);
   
   // Use access token to call Strava API
   const activities = await fetch(ACTIVITIES_URL + '?access_token=' + accessToken)
@@ -46,7 +46,7 @@ async function fetchActivities() {
 }
 
 
-async function getAccessToken() {
+async function getAccessToken(code) {
 
   // Request access token using refresh token
   const response = await fetch(TOKEN_URL, {
