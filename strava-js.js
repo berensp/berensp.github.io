@@ -17,9 +17,20 @@ async function fetchActivities() {
 
   // Get access token
   const accessToken = await getAccessToken();
+  console.log(accessToken);
   
   // Use access token to call Strava API
+
+try {
   const activities = await fetch(ACTIVITIES_URL + '?access_token=' + accessToken)
+} catch (error) {
+
+  console.log(error);
+
+}
+
+  console.log(activities);
+
     .then(res => res.json());
 
   // Display first activity
