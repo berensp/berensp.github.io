@@ -59,7 +59,7 @@ async function getAccessToken(code) {
       client_secret: CLIENT_SECRET,
       grant_type: 'refresh_token',
       refresh_token: refreshToken,
-      scope: SCOPES
+      scope: SCOPES,
       code: code
     })
   });
