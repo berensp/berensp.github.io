@@ -2,7 +2,7 @@
 const AUTHORIZE_URL = 'https://www.strava.com/oauth/authorize';
 const TOKEN_URL = 'https://www.strava.com/oauth/token';
 const ACTIVITIES_URL = 'https://www.strava.com/api/v3/athlete/activities';
-const REDIRECT_URI = 'https://berens.co';
+const REDIRECT_URI = 'https://berens.co/strava-test';
 
 // Client ID and secret from Strava API registration
 const CLIENT_ID = '111503';
