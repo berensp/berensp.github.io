@@ -11,7 +11,7 @@ const CLIENT_SECRET = '9abdda73b9cf15100b12faefcae56d4c8343a378';
 const SCOPES = 'activity:read_all'; 
 
 // Redirect URI 
-const REDIRECT_URI = 'http://localhost:3000/callback';
+const REDIRECT_URI = 'https://berens.co/strava-test';
 
 // Refresh token stored in localStorage
 let refreshToken = localStorage.getItem('stravaRefreshToken');
