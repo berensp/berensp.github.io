@@ -1,0 +1,10 @@
+<!-- callback.html -->
+
+<script>
+const code = // get code from URL
+
+// Pass code back to opener window 
+window.opener.handleAuthCode(code); 
+
+window.close(); // Close popup
+</script>
