@@ -15,7 +15,8 @@ const CLIENT_CREDENTIALS = {
 const SCOPES = 'activity:read_all';
 
 // Redirect URI
-const REDIRECT_URI = '/callback.html';
+const REDIRECT_URI = encodeURIComponent('/callback.html');
+
 
 // Refresh token stored in localStorage
 let refreshToken = localStorage.getItem('stravaRefreshToken');
