@@ -1,9 +1,4 @@
 // Strava API endpoints
-const AUTHORIZE_URL = 'https://www.strava.com/oauth/authorize';
-const TOKEN_URL = 'https://www.strava.com/oauth/token';
-const ACTIVITIES_URL = 'https://www.strava.com/api/v3/athlete/activities';
-
-// Strava API endpoints
 const STRAVA_API = {
   AUTHORIZE_URL: 'https://www.strava.com/oauth/authorize',
   TOKEN_URL: 'https://www.strava.com/oauth/token',
@@ -20,7 +15,8 @@ const CLIENT_CREDENTIALS = {
 const SCOPES = 'activity:read_all';
 
 // Redirect URI
-const REDIRECT_URI = '/callback.html';
+const REDIRECT_URI = encodeURIComponent('/callback.html');
+
 
 // Refresh token stored in localStorage
 let refreshToken = localStorage.getItem('stravaRefreshToken');
