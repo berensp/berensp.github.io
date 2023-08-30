@@ -12,10 +12,10 @@ const CLIENT_CREDENTIALS = {
 };
 
 // Request scopes
-const SCOPES = 'activity:read_all';
+const SCOPES = 'activity:read';
 
 // Redirect URI
-const REDIRECT_URI = encodeURIComponent('/callback.html');
+const REDIRECT_URI = encodeURIComponent('callback.html');
 
 
 // Refresh token stored in localStorage
@@ -43,19 +43,17 @@ async function getAuthCode() {
 }
 
 // Get access token
-async function getAccessToken(code) {
+if (refreshToken && !refreshToken.expired) {
   const response = await fetch(STRAVA_API.TOKEN_URL, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       ...CLIENT_CREDENTIALS,
-      grant_type: 'authorization_code',
-      code,
-      redirect_uri: REDIRECT_URI
+      grant_type: 'refresh_token',
+      refresh_token
     })
   });
-  const { access_token, refresh_token } = await response.json();
-  localStorage.setItem('stravaRefreshToken', refresh_token);
+  const { access_token } = await response.json();
   return access_token;
 }
 
