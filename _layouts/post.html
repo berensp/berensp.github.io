@@ -6,4 +6,8 @@ layout: default
 {{ content }}
 <p class="muted small">First published: {{ page.date | date: "%Y-%m-%d" }}</p>
 
+{{ post_last_modified_at | date: '%Y-%-m-%d' }}
+{{ post_originally_posted_at | date: '%Y-%-m-%d' }}
+
+
 {%- include footer.html -%}
