@@ -28,10 +28,12 @@ Of course there are two sides to this equation, the acquisition side and the con
 
 	Who knew Emerson was a speed-reader and skimmer of sorts? But at the end of the day he's right: don't peruse a self-help book as you would *The Divine Comedy*.
 
-3. **Library disqualification.** I hitherto believed I wasn't getting through books quickly enough (points 1 and 2) to take advantage of the public library, which caused me to acquire my own copies. But with my rejuvenated reading habit (and a moderately generous renewal policy) I could easily become a library reader because I can't bring myself to desecrate margins  not one who takes notes in the margins.
+3. **Library disqualification.** I hitherto believed I wasn't getting through books quickly enough (points 1 and 2) to take advantage of the public library, which caused me to acquire my own copies. But with my rejuvenated reading habit (and a moderately generous renewal policy) I could easily become a library reader because I can't bring myself to desecrate margins with notetaking[^1].
+
+[^1]: This might be something I need to get over: some of the brightest people I know take notes in their books (and then are probably doing a better job retaining the content and making interesting connections).
 
 I suppose if I'm successful at upping my throughput (points #1 and #2) but the public library doesn't pick up most of that incremental volume (point #3), some pruning is going to be in order now and again, which (happily) implies [lending](https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/) and [donating](https://littlefreelibrary.org).
 
-"Get an e-reader, Man." I know, I know...but I'm too bibliosmic to abandon hardcovers.
+The techie in me is occasionally impelled to get an e-reader, but I'm too bibliosmic to abandon hardcovers.
 
 ![initials](/assets/images/initials.pmb.71.56.png)
