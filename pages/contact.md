@@ -23,9 +23,9 @@ Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <mark><a href="https://nf.td/pmb" target="_blank">NF.TD</a></mark>
+- <a href="https://pebble.is/pmb" target="_blank">Pebble</a>
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
-- <a href="https://t2.social/pmb" target="_blank">T2</a>
-- <a href="https://twitter.com/berensp" target="_blank">Twitter</a>
+- <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
 
 ## No se puede
 - <strike><a href="/phones/">iMessage</a></strike>
