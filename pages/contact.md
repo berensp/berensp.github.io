@@ -20,6 +20,7 @@ Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target
 - <a href="https://angel.co/berens" target="_blank">AngelList</a>
 - <mark><a href="https://rainbow.me/berensp.eth" target="_blank">ENS</a></mark>
 - <mark><a href="https://fcast.me/pmb" target="_blank">Farcaster</a></mark>
+- <mark><a href="https://friend.tech/berensp" target="_blank">friend.tech</a></mark>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <mark><a href="https://nf.td/pmb" target="_blank">NF.TD</a></mark>
