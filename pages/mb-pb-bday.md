@@ -36,15 +36,15 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 [^4]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
 ## Eligible:
-- <mark><a href="https://pebble.is/i/45def088c7db" target="_blank">Pebble</a></mark>[^6]
+- <mark><a href="https://pebble.is/i/45def088c7db" target="_blank">Pebble</a></mark>[^5]
 - <a href="https://signal.org" target="_blank">Signal</a>
-- <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></span></div>[^5]
+- <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a>[^6]
 - <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 
-[^6] I'm basically keeping this useless account open until one of us uses it for the birthday greeting. (The link is your unique invite code, by the way.)
+[^5]: I'm basically keeping this useless account open until one of us uses it for the birthday greeting. (The link is your unique invite code, by the way.)
+[^6]: Requires some Ethereum 🤓
 
 ![xkcd1810](https://imgs.xkcd.com/comics/chat_systems.png)
 
-[^5]: Requires an identity on the Ethereum blockchain 🤓
