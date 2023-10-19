@@ -22,7 +22,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | 2017-9-30 | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
 | 2017-3-31 | <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | PB→MB |
 | 2016-9-30 | <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
-| 2016-3-31 | &#127825; <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
+| 2016-3-31 | <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
 | 2015-9-30 | <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
 | 2014-3-31 | <a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a>[^2] | PB→MB |
 | 2010-9-30 | <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
@@ -36,10 +36,15 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 [^4]:The only reason I know the Facebook post is because I had email notifications enabled for wall posts back then 😄
 
 ## Eligible:
-- <div style="float:left;"><span style="display:inline;">🆕&nbsp;</span><span style="display:inline;"><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></span></div>[^5]
+- <mark><a href="https://pebble.is/i/45def088c7db" target="_blank">Pebble</a></mark>[^6]
+- <a href="https://signal.org" target="_blank">Signal</a>
+- <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></span></div>[^5]
+- <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
-- <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
-- <a href="https://signal.org" target="_blank">Signal</a>
+
+[^6] I'm basically keeping this useless account open until one of us uses it for the birthday greeting. (The link is your unique invite code, by the way.)
+
+![xkcd1810](https://imgs.xkcd.com/comics/chat_systems.png)
 
 [^5]: Requires an identity on the Ethereum blockchain 🤓
