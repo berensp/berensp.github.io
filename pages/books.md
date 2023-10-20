@@ -11,16 +11,15 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Recently completed
-- [*Atomic Habits*](https://www.google.com/books/edition/Atomic_Habits/XfFvDwAAQBAJ?hl=en&gbpv=00) by James Clear
+- [*One Hundred Years Of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
 
 ## Presently reading
 - [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
 
 ## On deck
-- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
+- [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
 
 ## Near-term reading list
-- [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
 - [*Range*](https://www.google.com/books/edition/Range/6nsmEAAAQBAJ?hl=en&gbpv=0) by David Epstein
 - [*The Life And Times Of The Thunderbolt Kid*](https://www.google.com/books/edition/The_Life_and_Times_of_the_Thunderbolt_Ki/W_WOEAAAQBAJ?hl=en) by Bill Bryson
 - [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
@@ -42,6 +41,7 @@ ogimage: bookshelf.bw.png
 - [*Pillars of the Earth*](https://www.google.com/books/edition/_/QYYQDAAAQBAJ?hl=en&sa=X&ved=2ahUKEwit84DyoZLwAhXxhK0KHY5bDaUQ7_IDMB16BAgNEAU) by Ken Follett
 - [*A Prayer for Owen Meany*](https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0) by John Irving
 - [*The Seven Storey Mountain*](https://www.google.com/books/edition/The_Seven_Storey_Mountain/SIZiPwAACAAJ?hl=en&kptab=overview) by Thomas Merton
+- [*Truman*](https://www.google.com/books/edition/Truman/8fp1A2s6aQwC?hl=en&gbpv=0) by David McCullough
 
 ## Books written by friends and family (that you should buy)
 - [*Animal Review*](https://www.google.com/books/edition/The_Animal_Review/ljqRVptXG-sC?hl=en&gbpv=0) by Jacob Lentz
