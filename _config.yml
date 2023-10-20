@@ -1,10 +1,10 @@
 title: B Ξ R Ξ N S
 description: Paul Berens
-url: "https://berensp.github.io"
+url: "https://berens.co"
 
-book_now_title: One Hundred Years Of Solitude
-book_now_author: Gabriel García Márquez
-book_now_url: https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0
+book_now_title: How Much of These Hills Is Gold
+book_now_author: C Pam Zhang
+book_now_url: https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
