@@ -5,7 +5,7 @@ layout: home
 
 ✌ Hi, I'm [Paul Berens](/infobox/). Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
 
-📚 Currently reading *{{ site.book_now_title }}* by {{ site.book_now_author }}. [(More books)](/books/)
+📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
 ✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}) on {{ site.posts.first.date | date: "%d-%b " }}.
 
