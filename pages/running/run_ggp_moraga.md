@@ -1,6 +1,6 @@
 ---
 layout: map_run
-title: 7th, GGP, Moraga Steps
+title: GGP Moraga Steps
 gpx_url: 7th_GGP_MoragaSteps.gpx
 id: ggp_moraga
 long: -13633369.275701
