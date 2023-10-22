@@ -12,7 +12,7 @@ Some favorite routes 👇
 
 ## San Francisco
 - [Twin Peaks Mt. Sutro](/twin-peaks-mt-sutro/)
-- [7th Ave GGP Moraga Steps](/ggp-moraga-steps/)
+- [GGP Moraga Steps](/ggp-moraga-steps/)
 - [Presidio Ecology Trail](/presidio/)
 - [Ferry Building via Embarcadero](/ferry-bldg/)
 - [One-way to the Marina](/marina/)
