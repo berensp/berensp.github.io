@@ -10,10 +10,10 @@ layout: home
 
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
-✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post | number_format: 2 }} days ago.{% endif %}
+✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post | format_large_number }} days ago.{% endif %}
 
 - start_date: {{ start_date }}
 - end_date: {{ end_date }}
-
+- days_since_last_post: {{ days_since_last_post }}
 
 📬 Get in touch at hey [at] [this domain] and [elsewhere](/contact/).
