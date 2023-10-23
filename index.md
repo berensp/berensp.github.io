@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-{% assign start_date = site.posts.first.date | date: "%s" | plus: 0 %}
-{% assign end_date = site.time | date: "%s" | plus: 0 %}
+{% assign start_date = site.posts.first.date | time %}
+{% assign end_date = site.time | time %}
 {% assign days_since_last_post = (end_date - start_date) | divided_by: 86400 %}
 <img src="/assets/images/pmb.avatar.tr.png" width="25%" height="25%">
 
@@ -10,7 +10,7 @@ layout: home
 
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
-✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post | format_large_number }} days ago.{% endif %}
+✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post }} days ago.{% endif %}
 
 - start_date: {{ start_date }}
 - end_date: {{ end_date }}
