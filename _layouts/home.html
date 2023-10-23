@@ -9,6 +9,17 @@ layout: default
   
 {{ content }}
 
+{% assign days_since_last_post = (now - site.posts.first.date) | days %}
+
+{% if days_since_last_post == 0 %}
+  today
+{% elsif days_since_last_post == 1 %}
+  yesterday
+{% else %}
+  {{ days_since_last_post }} days ago
+{% endif %}
+
+
 </main>
 
 {%- include footer.html -%}
