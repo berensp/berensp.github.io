@@ -11,6 +11,6 @@ layout: home
 - {{ site.time }}
 - {{ site.posts.first.date }}
 
-✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post }} days ago.{% endif %}
+✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post | number }} days ago.{% endif %}
 
 📬 Get in touch at hey [at] [this domain] and [elsewhere](/contact/).
