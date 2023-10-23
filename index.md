@@ -9,8 +9,6 @@ layout: home
 site.posts.first.date {{ site.posts.first.date }}
 site.time {{ site.time }}
 
-{{ site.posts.first.url }}){{ site.posts.first.url }})
-
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
 ✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post }} days ago.{% endif %}
