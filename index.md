@@ -1,13 +1,13 @@
 ---
 layout: home
 ---
-{% assign days_since_last_post = (now - site.posts.first.date) | days %}
+{% assign days_since_last_post = (site.time - site.posts.first.date) | days %}
 <img src="/assets/images/pmb.avatar.tr.png" width="25%" height="25%">
 
 ✌ Hi, I'm [Paul Berens](/infobox/). Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
 
 site.posts.first.date {{ site.posts.first.date }}
-now {{ now | date: "%Y-%m-%d %H:%M:%S" }}
+site.time {{ site.time }}
 
 {{ site.posts.first.url }}){{ site.posts.first.url }})
 
