@@ -1,9 +1,9 @@
 ---
 layout: home
 ---
-{% assign start_date = site.posts.first.date | time %}
-{% assign end_date = site.time | time %}
-{% assign days_since_last_post = (end_date - start_date) | divided_by: 86400 %}
+{% assign start_date = site.posts.first.date | date: "%s" | plus: 0 %}
+{% assign end_date = site.time | date: "%s" | plus: 0 %}
+{% assign days_since_last_post = end_date | minus: start_date | divided_by: 86400.0 %}
 <img src="/assets/images/pmb.avatar.tr.png" width="25%" height="25%">
 
 ✌ Hi, I'm [Paul Berens](/infobox/). Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
