@@ -8,9 +8,6 @@ layout: home
 
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
-- {{ site.time }}
-- {{ site.posts.first.date }}
-
 ✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published{% if days_since_last_post < 0 %} today.{% elsif days_since_last_post == 1 %} yesterday.{% else %} {{ days_since_last_post | number }} days ago.{% endif %}
 
 📬 Get in touch at hey [at] [this domain] and [elsewhere](/contact/).
