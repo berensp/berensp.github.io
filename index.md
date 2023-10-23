@@ -7,6 +7,6 @@ layout: home
 
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
-✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}) on {{ site.posts.first.date | date: "%d-%b " }}.
+✍ Occasionally assembling some of my thoughts in [essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published {{ days_since_last_post }}.
 
 📬 Get in touch at hey [at] [this domain] and [elsewhere](/contact/).
