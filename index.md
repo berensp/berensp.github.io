@@ -12,4 +12,4 @@ layout: home
 
 ✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published {% if days_since_last_post < 0 %} just today.{% elsif days_since_last_post == 1 %} just yesterday.{% else %} a mere {{ days_since_last_post | round }} days ago.{% endif %}
 
-📬 Get in touch at [a myriad of messengers and social platforms](/contact/).
+📬 Get in touch at a myriad of [messengers and social platforms](/contact/).
