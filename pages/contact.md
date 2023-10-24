@@ -8,13 +8,15 @@ description: Say hello on these apps, messengers, etc.
 Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target="_blank">messenger / app / platform of choice</a>:
 
 ## Messaging
+- hey [at] [this domain]
+- <a href="https://signal.org" target="_blank">Signal</a>
+- <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
-- <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
+- <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a> 
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
-- <a href="https://signal.org" target="_blank">Signal</a>
 - <mark><a href="https://join.status.im/u/0x04fef6e494c4db1d25d1b144f3914747cdf8164e5208dafe7fd1926d3d75e7b545ff02d0571ccf788ff0fff8065616967de51935e76d90a04a47df82cead041f57" target="_blank">Status</a></mark>
-- <a href="https://t.me/berensp" target="_blank">Telegram</a>
+
 
 ## Social / Other
 - <a href="https://angel.co/berens" target="_blank">AngelList</a>
