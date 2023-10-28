@@ -19,7 +19,7 @@ Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target
 
 
 ## Social / Other
-- <mark><a href="https://fcast.me/pmb" target="_blank">Farcaster</a></mark>
+- <mark><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></mark>
 - <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
