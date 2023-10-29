@@ -9,7 +9,6 @@ layout: default
   
 {{ content }}
 
-
 <div id="post-date" data-post-date="{{ site.first.post.date }}"></div>
 <div id="time-difference"></div>
 
@@ -18,9 +17,17 @@ layout: default
   function updateTimeDifference() {
     var postDate = new Date(document.getElementById("post-date").getAttribute("data-post-date"));
     var currentDate = new Date();
-    var timeDifference = currentDate - postDate;
-    var daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-    document.getElementById("time-difference").textContent = "Days since the post: " + daysDifference;
+    console.log("postDate: " + postDate); // Debug line
+    console.log("currentDate: " + currentDate); // Debug line
+
+    // Check if the date parsing was successful
+    if (!isNaN(postDate.getTime()) && !isNaN(currentDate.getTime())) {
+      var timeDifference = currentDate - postDate;
+      var daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+      document.getElementById("time-difference").textContent = "Days since the post: " + daysDifference;
+    } else {
+      document.getElementById("time-difference").textContent = "Error parsing date.";
+    }
   }
 
   // Call the function initially
