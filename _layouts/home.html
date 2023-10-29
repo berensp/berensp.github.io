@@ -16,9 +16,13 @@ layout: default
   // Function to calculate and update the time difference
   function updateTimeDifference() {
     var postDate = new Date(document.getElementById("post-date").getAttribute("data-post-date"));
+    
+    // Convert currentDate to UTC
     var currentDate = new Date();
-    console.log("postDate: " + postDate); // Debug line
-    console.log("currentDate: " + currentDate); // Debug line
+    currentDate.setMinutes(currentDate.getMinutes() - currentDate.getTimezoneOffset());
+    
+    console.log("postDate (UTC): " + postDate.toISOString());
+    console.log("currentDate (UTC): " + currentDate.toISOString());
 
     // Check if the date parsing was successful
     if (!isNaN(postDate.getTime()) && !isNaN(currentDate.getTime())) {
@@ -36,6 +40,7 @@ layout: default
   // Refresh the time difference calculation every minute
   setInterval(updateTimeDifference, 60000); // 60000 milliseconds = 1 minute
 </script>
+
 
 
 </main>
