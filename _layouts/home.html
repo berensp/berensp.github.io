@@ -9,19 +9,30 @@ layout: default
 
 {{ content }}
 
-// Convert the server-side date from UTC to PDT
-const serverDate = new Date('{{ site.first.post.date }}');
-const serverDatePDT = new Date(serverDate.getTime() - 7 * 60 * 60 * 1000); // UTC-7
+  <p id="timeDifference">Calculating...</p>
 
-// Get the current client-side time in PDT
-const currentDate = new Date();
-const currentDatePDT = new Date(currentDate.getTime() - currentDate.getTimezoneOffset() * 60 * 1000);
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // Replace the string below with your server-side date in UTC
+      // Example: '2023-10-30T12:00:00Z'
+      const serverDateString = '{{ site.first.post.date }}';
 
-// Calculate the time difference in days
-const timeDifference = (currentDatePDT - serverDatePDT) / (24 * 60 * 60 * 1000);
+      // Convert the server-side date from UTC to PDT (UTC-7)
+      const serverDateUTC = new Date(serverDateString);
+      const serverDatePDT = new Date(serverDateUTC.getTime() - 7 * 60 * 60 * 1000);
 
-console.log('Time difference in days: ', timeDifference);
+      // Get the current client-side time in PDT
+      const currentDate = new Date();
+      const offset = currentDate.getTimezoneOffset() / 60 + 7; // Convert to PDT offset
+      const currentDatePDT = new Date(currentDate.getTime() - offset * 60 * 60 * 1000);
 
+      // Calculate the time difference in days
+      const timeDifference = ((currentDatePDT - serverDatePDT) / (24 * 60 * 60 * 1000)).toFixed(2);
+
+      // Display the result
+      document.getElementById('timeDifference').textContent = `Time difference in days: ${timeDifference}`;
+    });
+  </script>
 
 </main>
 
