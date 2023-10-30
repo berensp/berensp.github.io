@@ -9,9 +9,6 @@ layout: default
   
 {{ content }}
 
-<div id="post-date" data-post-date="{{ site.first.post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}"></div>
-<div id="time-difference"></div>
-
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   // Function to calculate and update the time difference
@@ -43,7 +40,6 @@ document.addEventListener("DOMContentLoaded", function () {
   setInterval(updateTimeDifference, 60000); // 60000 milliseconds = 1 minute
 });
 </script>
-
 
 
 </main>
