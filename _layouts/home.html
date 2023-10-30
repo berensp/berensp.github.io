@@ -16,22 +16,24 @@ layout: default
 document.addEventListener("DOMContentLoaded", function () {
   // Function to calculate and update the time difference
   function updateTimeDifference() {
-    var postDate = new Date(document.getElementById("post-date").getAttribute("data-post-date"));
+    var postDateString = document.getElementById("post-date").getAttribute("data-post-date");
+    var postDate = new Date(postDateString);
+    
+    if (isNaN(postDate.getTime())) {
+      console.error("Invalid post date:", postDateString);
+      document.getElementById("time-difference").textContent = "Error: Invalid post date.";
+      return;
+    }
     
     // Convert currentDate to UTC
     var currentDate = new Date(new Date().toUTCString());
-    
+
     console.log("postDate (UTC): " + postDate.toISOString());
     console.log("currentDate (UTC): " + currentDate.toISOString());
 
-    // Check if the date parsing was successful
-    if (!isNaN(postDate.getTime()) && !isNaN(currentDate.getTime())) {
-      var timeDifference = currentDate - postDate;
-      var daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-      document.getElementById("time-difference").textContent = "Days since the post: " + daysDifference;
-    } else {
-      document.getElementById("time-difference").textContent = "Error parsing date.";
-    }
+    var timeDifference = currentDate - postDate;
+    var daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
+    document.getElementById("time-difference").textContent = "Days since the post: " + daysDifference;
   }
 
   // Call the function initially
@@ -41,6 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
   setInterval(updateTimeDifference, 60000); // 60000 milliseconds = 1 minute
 });
 </script>
+
 
 
 </main>
