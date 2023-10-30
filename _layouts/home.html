@@ -5,43 +5,23 @@ layout: default
   <h1>{{ site.title | escape }}</h1>
 </header>
 
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  // Function to calculate and update the time difference
-  function updateTimeDifference() {
-    var postDateString = document.getElementById("post-date").getAttribute("data-post-date");
-    var postDate = new Date(postDateString);
-    
-    if (isNaN(postDate.getTime())) {
-      console.error("Invalid post date:", postDateString);
-      document.getElementById("time-difference").textContent = "Error: Invalid post date.";
-      return;
-    }
-    
-    // Convert currentDate to UTC
-    var currentDate = new Date(new Date().toUTCString());
-
-    console.log("postDate (UTC): " + postDate.toISOString());
-    console.log("currentDate (UTC): " + currentDate.toISOString());
-
-    var timeDifference = currentDate - postDate;
-    var daysDifference = Math.floor(timeDifference / (1000 * 60 * 60 * 24));
-    document.getElementById("time-difference").textContent = "Days since the post: " + daysDifference;
-  }
-
-  // Call the function initially
-  updateTimeDifference();
-
-  // Refresh the time difference calculation every minute
-  setInterval(updateTimeDifference, 60000); // 60000 milliseconds = 1 minute
-});
-</script>
-
-
 <main>
 
 {{ content }}
+
+// Convert the server-side date from UTC to PDT
+const serverDate = new Date('{{ site.first.post.date }}');
+const serverDatePDT = new Date(serverDate.getTime() - 7 * 60 * 60 * 1000); // UTC-7
+
+// Get the current client-side time in PDT
+const currentDate = new Date();
+const currentDatePDT = new Date(currentDate.getTime() - currentDate.getTimezoneOffset() * 60 * 1000);
+
+// Calculate the time difference in days
+const timeDifference = (currentDatePDT - serverDatePDT) / (24 * 60 * 60 * 1000);
+
+console.log('Time difference in days: ', timeDifference);
+
 
 </main>
 
