@@ -9,13 +9,21 @@ layout: default
 
 {{ content }}
 
-  <p id="timeDifference">Calculating...</p>
+ <p id="timeDifference">Calculating...</p>
 
   <script>
     document.addEventListener('DOMContentLoaded', function () {
-      // Replace the string below with your server-side date in UTC
-      // Example: '2023-10-30T12:00:00Z'
-      const serverDateString = '{{ site.first.post.date }}';
+      // Attempt to get the server-side date in UTC format
+      // Ensure this line is processed by Liquid
+      const serverDateString = '{{ site.first.post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}';
+
+      console.log('Server date string:', serverDateString); // For debugging
+
+      // Check if the server date string is empty or not replaced
+      if (!serverDateString || serverDateString.includes('{{')) {
+        document.getElementById('timeDifference').textContent = 'Unable to retrieve server date';
+        return;
+      }
 
       // Convert the server-side date from UTC to PDT (UTC-7)
       const serverDateUTC = new Date(serverDateString);
@@ -33,6 +41,7 @@ layout: default
       document.getElementById('timeDifference').textContent = `Time difference in days: ${timeDifference}`;
     });
   </script>
+
 
 </main>
 
