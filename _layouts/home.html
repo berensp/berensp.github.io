@@ -9,35 +9,27 @@ layout: default
 
 {{ content }}
 
- <p id="timeDifference">Calculating...</p>
+  <p>Server Date (Liquid): {{ site.first.post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</p>
+  <p id="timeDifference">Calculating...</p>
 
   <script>
     document.addEventListener('DOMContentLoaded', function () {
-      // Attempt to get the server-side date in UTC format
-      // Ensure this line is processed by Liquid
       const serverDateString = '{{ site.first.post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}';
-
       console.log('Server date string:', serverDateString); // For debugging
 
-      // Check if the server date string is empty or not replaced
       if (!serverDateString || serverDateString.includes('{{')) {
         document.getElementById('timeDifference').textContent = 'Unable to retrieve server date';
         return;
       }
 
-      // Convert the server-side date from UTC to PDT (UTC-7)
       const serverDateUTC = new Date(serverDateString);
       const serverDatePDT = new Date(serverDateUTC.getTime() - 7 * 60 * 60 * 1000);
 
-      // Get the current client-side time in PDT
       const currentDate = new Date();
       const offset = currentDate.getTimezoneOffset() / 60 + 7; // Convert to PDT offset
       const currentDatePDT = new Date(currentDate.getTime() - offset * 60 * 60 * 1000);
 
-      // Calculate the time difference in days
       const timeDifference = ((currentDatePDT - serverDatePDT) / (24 * 60 * 60 * 1000)).toFixed(2);
-
-      // Display the result
       document.getElementById('timeDifference').textContent = `Time difference in days: ${timeDifference}`;
     });
   </script>
