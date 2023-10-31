@@ -6,28 +6,9 @@ layout: default
 </header>
 
 <main>
+
   {{ content }}
 
-  <p>Server Date (Liquid): {{ site.first.post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</p>
-  <p>Debug: {{ site.first.post | inspect }}</p> <!-- Add this line for debugging -->
-  <p id="timeDifference">Calculating...</p>
-
-  <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const serverDateString = '{{ site.first.post.date | date: "%Y-%m-%dT%H:%M:%SZ" }}';
-      console.log('Server date string:', serverDateString); // For debugging
-
-      if (!serverDateString || serverDateString.includes('{{')) {
-        document.getElementById('timeDifference').textContent = 'Unable to retrieve server date';
-        return;
-      }
-
-      const serverDate = new Date(serverDateString);
-      const timeDifferenceInMilliseconds = new Date() - serverDate;
-      const timeDifferenceInDays = (timeDifferenceInMilliseconds / (1000 * 60 * 60 * 24)).toFixed(2);
-      document.getElementById('timeDifference').textContent = `Time difference in days: ${timeDifferenceInDays}`;
-    });
-  </script>
 </main>
 
 {%- include footer.html -%}
