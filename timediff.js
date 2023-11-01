@@ -1,37 +1,36 @@
+// On load
 document.addEventListener('DOMContentLoaded', () => {
 
-  // Get element
   const postDateEl = document.querySelector('[data-post-date]');
 
-  // Set date 
   const currentDate = new Date();
+  
+  // Validate date format
   const isoDate = currentDate.toISOString();
-
-  console.log('Setting date to:', isoDate);
+  if (!isoDate.match(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z/)) {
+    console.error('Invalid ISO date:', isoDate);
+    return;
+  }  
 
   postDateEl.setAttribute('data-post-date', isoDate);
 
-  console.log('Element:', postDateEl);
-
 });
 
-// Get date 
+// Get date
 const postDateEl = document.querySelector('[data-post-date]');
 
-// Log attribute value
 const dateStr = postDateEl.getAttribute('data-post-date');
-console.log('Date string:', dateStr);
 
-// Parse into Date object
+// Log full date string 
+console.log(dateStr);
+
+// Parse date
 const postDate = Date.parse(dateStr);
 
-// Validate
+// Check for invalid date
 if (isNaN(postDate)) {
-
-  console.error('Invalid postDate:', dateStr);
-  
-  throw new Error('Invalid date string');
-
+  console.error('Invalid date:', dateStr);
+  return; 
 }
 
 console.log('Parsed date:', postDate); 
