@@ -1,45 +1,43 @@
 document.addEventListener('DOMContentLoaded', () => {
 
+  // Get element
   const postDateEl = document.querySelector('[data-post-date]');
 
+  // Set date 
   const currentDate = new Date();
-
-  // Log and validate date
   const isoDate = currentDate.toISOString();
-  console.log('ISO Date:', isoDate);
+
+  console.log('Setting date to:', isoDate);
 
   postDateEl.setAttribute('data-post-date', isoDate);
 
-  // Inspect attribute
   console.log('Element:', postDateEl);
 
-}); 
+});
 
-// Get date
+// Get date 
 const postDateEl = document.querySelector('[data-post-date]');
 
-// Log attribute value 
+// Log attribute value
 const dateStr = postDateEl.getAttribute('data-post-date');
-console.log('Date String:', dateStr);
+console.log('Date string:', dateStr);
 
-// Parse into date
+// Parse into Date object
 const postDate = Date.parse(dateStr);
 
 // Validate
 if (isNaN(postDate)) {
-  console.error('Invalid postDate');
+  console.error('Invalid postDate:', dateStr);
   return;
 }
 
-// Log date 
-console.log('Post date:', postDate);
+console.log('Parsed date:', postDate); 
 
 // Calculate difference
 const diffMs = Date.now() - postDate;
-const diffDays = diffMs / (1000 * 60 * 60 * 24); 
+const diffDays = diffMs / (1000 * 60 * 60 * 24);
 
-// Log difference
-console.log('Time difference in days:', diffDays);
+console.log('Difference in days:', diffDays);
 
 // Display difference
 const diffEl = document.querySelector('#timeDifference');
