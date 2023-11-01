@@ -27,8 +27,11 @@ const postDate = Date.parse(dateStr);
 
 // Validate
 if (isNaN(postDate)) {
+
   console.error('Invalid postDate:', dateStr);
-  return;
+  
+  throw new Error('Invalid date string');
+
 }
 
 console.log('Parsed date:', postDate); 
