@@ -1,33 +1,40 @@
 document.addEventListener('DOMContentLoaded', () => {
 
   const postDateEl = document.querySelector('[data-post-date]');
-
+  
   const currentDate = new Date();
 
-  // Validate date format
+  // Validate ISO format  
+  const isoRegex = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d{3})?Z$/; 
   const isoDate = currentDate.toISOString();
 
-  if (!isoDate.match(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z/)) {
+  if (!isoDate.match(isoRegex)) {
     console.error('Invalid ISO date:', isoDate);
-    throw new Error('Invalid date format'); 
+    throw new Error('Invalid ISO date format');
   }
 
   postDateEl.setAttribute('data-post-date', isoDate);
 
 });
 
-// Get date 
+// Get date
 const postDateEl = document.querySelector('[data-post-date]');
 
 const dateStr = postDateEl.getAttribute('data-post-date');
 
-// Parse date 
-const postDate = Date.parse(dateStr);
+// Check for valid ISO format
+if (!dateStr.match(isoRegex)) {
+  console.error('Invalid ISO date:', dateStr);
+  return;
+}
 
-// Handle invalid date
+// Parse date
+let postDate = Date.parse(dateStr); 
+
+// Handle invalid date 
 if (isNaN(postDate)) {
   console.error('Invalid date:', dateStr);
-  postDate = new Date(0); // default to Jan 1, 1970
+  postDate = new Date(0); 
 }
 
 // Calculate and display difference
