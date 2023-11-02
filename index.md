@@ -8,7 +8,7 @@ layout: home
 
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
-✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published <div id="timeDifference"></div>.
+✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published &lt;div id="timeDifference"&gt;&lt;/div&gt;.
 
 📬 Get in touch at a myriad of [messengers and social platforms](/contact/).
 
