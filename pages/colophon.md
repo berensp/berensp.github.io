@@ -5,11 +5,11 @@ permalink: /colophon/
 ---
 *"Explicit iste liber, scriptor sit crimine liber, Christus scriptorem custodiat ac det honorem."*
 
-This site is hosted on [GitHub Pages and built with Jekyll using Clio](/this-site), a template and theme designed by Dan Romero. And you know it's really me because it's verified on <a href="https://keybase.io/berens" target="_blank">Keybase</a> and <a href="https://nf.td/pmb" target="_blank">NF.TD</a>. So put that in your pipe.
+This site is hosted on [GitHub Pages and built with Jekyll using Clio](/this-site), a template and theme designed by Dan Romero. And you know it's really me because it's <a href="https://keybase.io/berens" target="_blank">web2</a>- and <a href="https://nf.td/pmb" target="_blank">web3</a>-verified.
 
-Sans-serif typefacing
+Sans-serif typefacing.
 
-Imprinted at San Francisco, California
+Imprinted at San Francisco, California.
 
 anno Domini MMXX
 
