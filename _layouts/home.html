@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
+<body>
+
 <header>
   <h1>{{ site.title | escape }}</h1>
 </header>
 
 <main>
-
   {{ content }}
-
 </main>
 
 {%- include footer.html -%}
+
+<script src="../timediff.js"></script>
+
+</body>
