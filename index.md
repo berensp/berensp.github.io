@@ -8,6 +8,6 @@ layout: home
 
 📚 Currently [reading](/books/) *{{ site.book_now_title }}* by {{ site.book_now_author }}.
 
-✍ Occasionally assembling thoughts in <a href="/blog/">mini-essay form</a> — most recently <a href="{{ site.posts.first.url }}">*</a>, published <div id="timeDifference" style="display: inline;"></div>.
+✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published <span id="timeDifferenceInline"></span>.
 
 📬 Get in touch at a myriad of [messengers and social platforms](/contact/).
