@@ -4,8 +4,8 @@
 </head>
 <body>
 
-  <p id="postDate" data-post-date></p>
-  <p id="timeDifference"></p>
+<div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
+<div id="timeDifference"></div>
 
   <script src="../timediff.js"></script>
 
