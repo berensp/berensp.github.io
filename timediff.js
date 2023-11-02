@@ -9,9 +9,9 @@ document.addEventListener('DOMContentLoaded', () => {
   const dateStr = postDateEl.getAttribute('data-post-date');
   const postDate = new Date(dateStr);
 
-  // Calculate and display difference
-  const diffMs = Date.now() - postDate;
-  const diffDays = diffMs / (1000 * 60 * 60 * 24);
+  // Calculate and display difference in UTC
+  const diffMs = Date.now() - postDate.getTime();
+  const diffDays = Math.round(diffMs / (1000 * 60 * 60 * 24));
 
   const timeDifferenceEl = document.getElementById('timeDifference');
   
@@ -20,5 +20,13 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
-  timeDifferenceEl.textContent = `Time difference: ${diffDays.toFixed(2)} days`;
+  // Update the content of the 'timeDifference' element based on the time difference
+  let message = `a mere ${diffDays} days ago`;
+  if (diffDays === 0) {
+    message = "just today";
+  } else if (diffDays === 1) {
+    message = "just yesterday";
+  }
+
+  timeDifferenceEl.textContent = message;
 });
