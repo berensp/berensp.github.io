@@ -13,14 +13,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const diffMs = Date.now() - postDate.getTime();
   const diffDays = Math.round(diffMs / (1000 * 60 * 60 * 24));
 
-  const timeDifferenceEl = document.getElementById('timeDifference');
+  const timeDifferenceEl = document.getElementById('timeDifferenceInline');
   
   if (!timeDifferenceEl) {
     console.error('Time difference element not found');
     return;
   }
 
-  // Update the content of the 'timeDifference' element based on the time difference
+  // Update the content of the 'timeDifferenceInline' element based on the time difference
   let message = `a mere ${diffDays} days ago`;
   if (diffDays === 0) {
     message = "just today";
