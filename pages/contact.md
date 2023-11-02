@@ -24,7 +24,7 @@ Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target
 - <mark><a href="https://friend.tech/berensp" target="_blank">friend.tech</a></mark>
 - <a href="https://angel.co/berens" target="_blank">AngelList</a>
 - <mark><a href="https://rainbow.me/berensp.eth" target="_blank">ENS</a></mark>
-- ~~<a href="https://pebble.is/pmb" target="_blank">Pebble</a>~~[^1]
+- ~~[Pebble](https://pebble.is/pmb)~~[^1]
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
 [^1]: died too young 😔
 
