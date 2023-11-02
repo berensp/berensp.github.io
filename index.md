@@ -12,10 +12,6 @@ layout: home
 
 <div id="timeDifference"></div>
 
-<div markdown="1">
-    Most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published <span id="timeDifference"></span>.
-</div>
-
 📬 Get in touch at a myriad of [messengers and social platforms](/contact/).
 
 
