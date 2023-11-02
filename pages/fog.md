@@ -9,4 +9,4 @@ description: the fog slips ghost-like into a thousand rooms
 
 Fog is the charm of [San Francisco](/sf/): rolling through the hills, hanging high in the eucalyptus trees, shrouding cityscapes, and keeping it nice 'n' cool for [running](/run/) and [cycling](/cycling/).
 
-<img src="/assets/og/ggb.jpg">
+![Golden Gate Bridge shrouded in fog](/assets/og/ggb.jpg)
