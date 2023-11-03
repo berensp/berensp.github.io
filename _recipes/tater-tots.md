@@ -6,7 +6,7 @@ cooktime: 50
 yield: 6 servings
 ---
 ## Ingredients:
-- potatos
+- potatoes!
 
 ## Directions:
 1. Put on a baking sheet
