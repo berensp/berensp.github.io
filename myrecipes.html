@@ -1,0 +1,24 @@
+---
+layout: default
+title: My Recipes
+permalink: /recipes/
+---
+
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+
+<main>
+  
+<h1>{{ page.title }}</h1>
+
+  {%- if site.recipes.size > 0 -%}
+    <ul class="more-space">
+      {%- for recipe in site.recipes -%}
+        <li><a class="recipe-link" href="{{ recipe.url | relative_url }}">{{ recipe.title | escape }}</a></li>
+      {%- endfor -%}
+    </ul>
+  {%- else -%}
+    <p>No recipes found!</p>
+  {%- endif -%}
+
+{%- include footer.html -%}
+</main>
