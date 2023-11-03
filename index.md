@@ -10,4 +10,4 @@ layout: home
 
 ✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), published <span id="timeDifferenceInline"></span>.
 
-📬 Get in touch at a myriad of [messengers and social platforms](/contact/).
+📬 Get in touch via a myriad of [messengers and social platforms](/contact/).
