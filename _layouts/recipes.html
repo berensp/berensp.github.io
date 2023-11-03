@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+
+{% assign totaltime = page.preptime | plus: page.cooktime %}
+
+<h1>{{ page.title | escape }}</h1>
+
+**Prep time:** {{ page.preptime }} min.
+**Cook time:** {{ page.preptime }} min.
+**Total time:** {{ totaltime }} min.
+**Yield:** {{ page.yield }}
+
+{{ content }}
+
+{%- include footer.html -%}
+
+  </body>
+</html>

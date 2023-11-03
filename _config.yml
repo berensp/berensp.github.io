@@ -6,6 +6,11 @@ book_now_title: How Much of These Hills Is Gold
 book_now_author: C Pam Zhang
 book_now_url: https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0
 
+collections:
+  recipes:
+    output: true
+    permalink: /recipes/:path/
+
 baseurl: ""
 permalink: /:categories/:title:output_ext
 markdown: kramdown
