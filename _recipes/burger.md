@@ -24,4 +24,5 @@ yield: 4 servings
 4. Make indentation in the middle to prevent the bulging!
 5. Cook 4-5 minutes per side. (You get one flip and one flip only.)
 6. Enjoy der 🍔
+
 [^2]: Be sure you don't overdo it with the mixing or your burgers may end up on the "tough" side.
