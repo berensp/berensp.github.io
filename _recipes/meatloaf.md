@@ -5,8 +5,6 @@ preptime: 15
 cooktime: 60
 yield: 4-5 servings
 ---
-Ain't as bad as it sounds.
-
 ## Meatloaf ingredients
 - 1 lb. ground turkey or ground beef
 - ½ cup crushed buttery round crackers
