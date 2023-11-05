@@ -9,18 +9,10 @@ description: fun facts
 <img src="/assets/images/pmb.portrait.png" alt="portrait" width="25%" height="25%">
 </center>
 
-<center>
-<span class="muted small">Potrait by my sister...a long time ago.</span>
-</center>
+<span class="muted small">Portrait by Liz Perry</span>
 
 <table>
-  <thead>
-    <tr>
-      <th colspan="2" style="text-align: left">Infobox</th>
-    </tr>
-  </thead>
   <tbody>
-    <!-- Subheader row that spans both columns -->
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Name</th>
     </tr>
