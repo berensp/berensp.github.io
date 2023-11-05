@@ -20,8 +20,8 @@ Steve Jobs, Mark Zuckerberg, et al. were on to something with walking meetings *
 
 [^1]: Erickson, Kirk I., et al. ["Exercise training increases size of hippocampus and improves memory."](https://www.pnas.org/doi/10.1073/pnas.1015950108) *Proceedings of the national academy of sciences* 108.7 (2011): 3017-3022.
 
-Happy Pi Day,
+Happy Pi Day.
 
-![initials](/assets/images/initials.pmb.71.56.png)
+— ᴘ. ᴍ. ʙ.
 
 <span class="muted small">Thanks to Lisa Berens and Matthew Brennan for reading a draft of this.</span>
