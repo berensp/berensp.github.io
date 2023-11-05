@@ -6,7 +6,7 @@ description: fun facts
 ---
 <p>
 <center>
-<img src="/assets/images/pmb.portrait.png" alt="portrait" width="50%" height="50%">
+<img src="/assets/images/pmb.portrait.png" alt="portrait" width="25%" height="25%">
 </center>
 
 <center>
@@ -22,7 +22,7 @@ description: fun facts
   <tbody>
     <!-- Subheader row that spans both columns -->
     <tr>
-      <th colspan="2" style="text-align: left">Name</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Name</th>
     </tr>
     <!-- Data rows under Subheader 1 -->
     <tr>
@@ -40,7 +40,7 @@ description: fun facts
     </tr>
 
     <tr>
-      <th colspan="2" style="text-align: left">Sporty Things</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sporty Things</th>
     </tr>
     <tr>
       <td style="text-align: left">Skydives</td>
@@ -55,7 +55,7 @@ description: fun facts
       <td style="text-align: left">188 cm</td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: left">Int'l Man of Mystery</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Int'l Man of Mystery</th>
     </tr>
     <!-- Data rows under Subheader 2 -->
     <tr>
@@ -85,7 +85,7 @@ description: fun facts
     </tr>
 
     <tr>
-      <th colspan="2" style="text-align: left">Cocktail Party Conversation</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Conversation</th>
     </tr>
     <!-- Data rows under Subheader 2 -->
     <tr>
