@@ -5,21 +5,13 @@ permalink: /infobox/
 description: fun facts
 ---
 <p>
-<center>
-<img src="/assets/images/pmb.portrait.png" alt="portrait" width="25%" height="25%">
-</center>
-
+<img src="/assets/images/pmb.portrait.png" alt="portrait" width="60%" height="60%">
 <span class="muted small">Portrait by Liz Perry</span>
 
 <table>
   <tbody>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Name</th>
-    </tr>
-    <!-- Data rows under Subheader 1 -->
-    <tr>
-      <td style="text-align: left">Name</td>
-      <td style="text-align: left">Paul M. Berens</td>
     </tr>
     <tr>
       <td style="text-align: left">Pronunication</td>
@@ -49,7 +41,6 @@ description: fun facts
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Int'l Man of Mystery</th>
     </tr>
-    <!-- Data rows under Subheader 2 -->
     <tr>
       <td style="text-align: left">Location</td>
       <td style="text-align: left"><a href="/sf/">San Francisco, CA</a></td>
@@ -75,11 +66,9 @@ description: fun facts
       <td style="text-align: left">Languages<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
       <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷</td>
     </tr>
-
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Conversation</th>
     </tr>
-    <!-- Data rows under Subheader 2 -->
     <tr>
       <td style="text-align: left">Religion</td>
       <td style="text-align: left">Catholicism</td>
@@ -94,15 +83,11 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Tíos<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
-      <td style="text-align: left"><a href="/countries/">12%</a></td>
+      <td style="text-align: left">19</td>
     </tr>
-
-    <!-- More data rows... -->
-    <!-- Repeat the pattern for additional subheaders and data rows -->
   </tbody>
 </table>
 
-<!-- Later in the document, after your main content -->
 <ol id="footnotes">
   <li id="fn1">Native, Conversant, Novice; respectively.<a href="#fnref1" title="Return to article">↩</a></li>
   <li id="fn2">To the extent humans can be put in a box.<a href="#fnref2" title="Return to article">↩</a></li>
