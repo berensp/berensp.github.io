@@ -7,7 +7,7 @@ description: Where all the women are strong, all the men are good-looking, and a
 ---
 *"Minnesota is a state of public-spirited and polite people, where you can get a good cappuccino and eat Thai food and find any book you want and yet live on a quiet tree-lined street with a backyard and send your kids to public school. When a state this good hits the jackpot, it can only be an inspiration to everybody."* (—Garrison Keillor)
 
-<img src="/assets/og/the.first.minnesota.png" alt="The First Minnesota Regiment" width="70%" height="70%">
+<img src="/assets/og/the.first.minnesota.png" alt="The First Minnesota Regiment">
 
 My running tally of what makes L'Étoile du Nord unique, interesting, valuable, loveable, and [happy](https://wallethub.com/edu/happiest-states/6959).
 

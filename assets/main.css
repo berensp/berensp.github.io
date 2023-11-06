@@ -15,20 +15,26 @@ header {
   float: left;
 }
 
+/* Base styles for images */
 img {
-  max-width: 100%;
-  height: auto;
+  max-width: 100%; /* Ensures the image is never wider than its container */
+  height: auto; /* Maintains the aspect ratio */
+  display: block; /* Prevents the default inline behavior which can cause spacing issues */
+  margin: 0 auto; /* Centers the image within its container */
 }
 
+/* Mobile devices */
 @media (max-width: 600px) {
   img {
-    width: 40%; /* Adjust as needed for mobile */
+    width: 100%; /* Makes images fill the container on small screens */
   }
 }
 
+/* Desktop and other devices */
 @media (min-width: 601px) {
   img {
-    width: 25%; /* Adjust as needed for desktop */
+    width: 75%; /* Adjust this value if you want smaller/larger images on larger screens */
+    margin: 0 auto; /* Centers the image if the container is wider */
   }
 }
 
