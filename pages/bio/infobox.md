@@ -41,21 +41,20 @@ description: fun facts
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Int'l Man of Mystery</th>
     </tr>
     <tr>
-      <td style="text-align: left">Location</td>
+      <td style="text-align: left">Residence</td>
       <td style="text-align: left"><a href="/sf/">San Francisco, CA</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Hometown</td>
-      <td style="text-align: left"><a href="/mn/">Saint Paul, MN</a></td>
+      <td style="text-align: left">Saint Paul, <a href="/mn/">MN</a></td>
     </tr>
-
     <tr>
       <td style="text-align: left">Countries visited</td>
-      <td style="text-align: left"><a href="/countries/">12%</a></td>
+      <td style="text-align: left"><a href="/countries/">█░░░░░░░░░ 11%</a></td>
     </tr>
     <tr>
       <td style="text-align: left">States visited</td>
-      <td style="text-align: left"><a href="/states/">94%</a></td>
+      <td style="text-align: left"><a href="/states/">█████████░ 94%</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Heritage</td>
@@ -66,7 +65,7 @@ description: fun facts
       <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷</td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Conversation</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Fodder</th>
     </tr>
     <tr>
       <td style="text-align: left">Religion</td>
