@@ -33,7 +33,6 @@ img {
 @media (min-width: 601px) {
   img {
     width: 75%; /* Adjust this value if you want smaller/larger images on larger screens */
-    margin: 0 auto; /* Centers the image if the container is wider */
   }
 }
 
