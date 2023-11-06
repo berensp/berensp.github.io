@@ -16,7 +16,7 @@ header {
 }
 
 img {
-  max-width: 100%; 
+  max-width: 100%; w
 }
 
 a {
@@ -85,6 +85,22 @@ blockquote {
 }
 blockquote p {
   display: inline-block;
+}
+
+/* CSS for mobile devices */
+@media (max-width: 600px) {
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* CSS for desktop */
+@media (min-width: 601px) {
+  img {
+    width: 50%;
+    height: auto;
+  }
 }
 
 
