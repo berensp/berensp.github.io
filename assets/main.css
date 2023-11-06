@@ -20,7 +20,6 @@ img {
   max-width: 100%; /* Ensures the image is never wider than its container */
   height: auto; /* Maintains the aspect ratio */
   display: block; /* Prevents the default inline behavior which can cause spacing issues */
-  margin: 0 auto; /* Centers the image within its container */
 }
 
 /* Mobile devices */
