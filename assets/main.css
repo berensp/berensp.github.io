@@ -22,7 +22,7 @@ img {
 
 @media (max-width: 600px) {
   img {
-    width: 75%; /* Adjust as needed for mobile */
+    width: 40%; /* Adjust as needed for mobile */
   }
 }
 
