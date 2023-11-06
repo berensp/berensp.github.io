@@ -4,9 +4,8 @@ title: Infobox
 permalink: /infobox/
 description: fun facts
 ---
-<p>
-<img src="/assets/images/pmb.portrait.png" alt="portrait" width="60%" height="60%">
-<span class="muted small">Portrait by Liz Perry</span>
+<p><img src="/assets/images/pmb.portrait.png" alt="portrait" width="50%" height="50%">
+<br><span class="muted small">Portrait by Liz Perry</span>
 
 <table>
   <tbody>
