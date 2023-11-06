@@ -2,7 +2,7 @@
 layout: home
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
-<img src="/assets/images/pmb.avatar.tr.png" width="25%" height="25%">
+<img src="/assets/images/pmb.avatar.tr.png" alt="PMB avatar">
 
 ✌ Hi, I'm [Paul Berens](/infobox/). Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
 

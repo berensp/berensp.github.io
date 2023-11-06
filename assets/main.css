@@ -15,28 +15,23 @@ header {
   float: left;
 }
 
-/* Base style for images */
 img {
-  max-width: 100%; /* This ensures that images are not larger than their containers */
-  height: auto; /* Maintain aspect ratio */
+  max-width: 100%;
+  height: auto;
 }
 
-/* CSS for mobile devices */
 @media (max-width: 600px) {
-  .image-container {
-    padding: 10px; /* This can add some space around the image if needed */
+  img {
+    width: 75%; /* Adjust as needed for mobile */
   }
 }
 
-/* CSS for desktop */
 @media (min-width: 601px) {
-  .image-container img {
-    max-width: 400px; /* Adjust this value to the maximum size you want your images to be */
-    margin: 0 auto; /* This will center the image if the container is wider */
+  img {
+    width: 25%; /* Adjust as needed for desktop */
   }
 }
 
-}
 
 a {
   color: #0074D9; 
