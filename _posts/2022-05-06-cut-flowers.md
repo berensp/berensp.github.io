@@ -61,4 +61,4 @@ At the end of the day, causal inference is difficult stuff (because the world is
 
 There you have it. A well-cultivated worldview *must* include [Cut Flowers Theory](https://twitter.com/hashtag/CutFlowersTheory).
 
-![initials](/assets/images/initials.pmb.71.56.png)
+— ᴘ. ᴍ. ʙ.
