@@ -32,7 +32,7 @@ img {
 /* Desktop and other devices */
 @media (min-width: 601px) {
   img {
-    width: 40%; /* Adjust this value if you want smaller/larger images on larger screens */
+    width: 75%; /* Adjust this value if you want smaller/larger images on larger screens */
   }
 }
 
