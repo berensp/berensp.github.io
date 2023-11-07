@@ -36,4 +36,4 @@ I suppose if I'm successful at upping my throughput (points #1 and #2) but the p
 
 The techie in me is occasionally impelled to get an e-reader, but I'm too bibliosmic to abandon hardcovers.
 
-![initials](/assets/images/initials.pmb.71.56.png)
+— ᴘ. ᴍ. ʙ.
