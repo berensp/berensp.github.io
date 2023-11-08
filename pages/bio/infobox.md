@@ -26,6 +26,10 @@ description: fun facts
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sporty Things</th>
     </tr>
     <tr>
+      <td style="text-align: left">Alpine skis</td>
+      <td style="text-align: left">188 cm</td>
+    </tr>
+    <tr>
       <td style="text-align: left">Skydives</td>
       <td style="text-align: left">2</td>
     </tr>
@@ -34,8 +38,8 @@ description: fun facts
       <td style="text-align: left"><a href="/centuries/">7</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Alpine skis</td>
-      <td style="text-align: left">188 cm</td>
+      <td style="text-align: left">Biggest ride</td>
+      <td style="text-align: left"><a href="https://i.seadn.io/s/raw/files/7221132be2a352f9b272023dfcfd8348.png">Levi's</a></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Int'l Man of Mystery</th>
@@ -50,7 +54,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Countries visited</td>
-      <td style="text-align: left"><a href="/countries/">█░░░░░░░░░ 11%</a></td>
+      <td style="text-align: left"><a href="/countries/">█░░░░░░░░░ 12%</a></td>
     </tr>
     <tr>
       <td style="text-align: left">States visited</td>
@@ -61,8 +65,8 @@ description: fun facts
       <td style="text-align: left"><a href="/ancestry/">🇩🇪 🇮🇪</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Languages<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
-      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷</td>
+      <td style="text-align: left">Languages</td>
+      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Fodder</th>
@@ -82,6 +86,10 @@ description: fun facts
     <tr>
       <td style="text-align: left">Tíos<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
       <td style="text-align: left">19</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Go-to knot</td>
+      <td style="text-align: left">Two half-hitches</td>
     </tr>
   </tbody>
 </table>
