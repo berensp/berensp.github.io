@@ -50,4 +50,4 @@ ogimage: bookshelf.bw.png
 - [*Max, the Bad-talking Parrot*](https://www.google.com/books/edition/Max_the_Bad_Talking_Parrot/jUazf0BTIHEC?hl=en&gbpv=0) by Patricia Demuth Brennan
 - [*Snow Day at the Zoo!*](https://www.laurenranalli.com/shop/snow-day-at-the-zoo) by Lauren Ranalli
 
-[^2]: Each of these authors has more than one book published; I'm just highlighting a recent or popular title.
+[^2]: Each of these authors has more than one book published; I'm just highlighting the recent or popular title.
