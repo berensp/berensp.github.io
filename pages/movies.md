@@ -9,10 +9,10 @@ permalink: /movies/
 ## Watchlist
 - *Once Were Brothers: Robbie Robertson and the Band* (2019) (Daniel Roher)
 
-## Some favorites
+## Some favorites (★★★★★)
 - *Fargo* (1996) (Coen Bros) - the banality of evil...and takes place in [MN](/mn/).
 - *The Shawshank Redemption* (1994) (Frank Darabont) - one of the most beautiful Christ-figure stories
-- *Life Is Beautiful* (1997) (Roberto Benigni) - I'm not crying; you're crying...
+- *Life Is Beautiful* (1997) (Roberto Benigni) - Non sto piangendo; stai piangendo...
 
 ## Movies written/produced by friends (that you should check out):
 - *Freelance* (2023) (Jacob Lentz)
