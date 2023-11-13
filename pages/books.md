@@ -43,9 +43,11 @@ ogimage: bookshelf.bw.png
 - [*The Seven Storey Mountain*](https://www.google.com/books/edition/The_Seven_Storey_Mountain/SIZiPwAACAAJ?hl=en&kptab=overview) by Thomas Merton
 - [*Truman*](https://www.google.com/books/edition/Truman/8fp1A2s6aQwC?hl=en&gbpv=0) by David McCullough
 
-## Books written by friends and family (that you should buy)
+## Books written by friends and family[^2] (that you should buy)
 - [*Animal Review*](https://www.google.com/books/edition/The_Animal_Review/ljqRVptXG-sC?hl=en&gbpv=0) by Jacob Lentz
 - [*Half American*](https://www.google.com/books/edition/Half_American/4UpTEAAAQBAJ?hl=en&gbpv=0) by Matthew Delmont
 - [*It's Even Worse Than It Looks*](https://www.google.com/books/edition/It_s_Even_Worse_Than_It_Looks/ycKCxduv3xEC) by By Thomas E. Mann, Norman J. Ornstein
-- [*Let's Meet on the Moon*](https://www.google.com/books/edition/Let_s_Meet_on_the_Moon/N7PIzQEACAAJ?hl=en) by Lauren Ranalli
-- [*Max, the Bad-talking Parrot*](https://www.google.com/books/edition/Max_the_Bad_Talking_Parrot/jUazf0BTIHEC?hl=en&gbpv=0) by Patricia Brennan
+- [*Max, the Bad-talking Parrot*](https://www.google.com/books/edition/Max_the_Bad_Talking_Parrot/jUazf0BTIHEC?hl=en&gbpv=0) by Patricia Demuth Brennan
+- [*Snow Day at the Zoo!*](https://www.laurenranalli.com/shop/snow-day-at-the-zoo) by Lauren Ranalli
+
+[^2]: Each of these authors has more than one book published; I'm just highlighting a recent or popular title.
