@@ -23,14 +23,14 @@ As for my part, I ain't got much reason to complain—quite the opposite, in fac
 [^2]: Thanks for the introduction, Uncle John.
 
 > Today I walked down the street I use to wander
-Yeah, shook my head and made myself a bet
-There was all these things that I don't think I remember
-Hey, how lucky can one man get.
-Hey, how lucky can one man get.
-Hey, how lucky can
-One...
-Man...
-Get.
+> Yeah, shook my head and made myself a bet
+> There was all these things that I don't think I remember
+> Hey, how lucky can one man get.
+> Hey, how lucky can one man get.
+> Hey, how lucky can
+> One...
+> Man...
+> Get.
 
 Happy Thanksgiving,
 
