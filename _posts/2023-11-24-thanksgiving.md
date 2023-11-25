@@ -6,7 +6,7 @@ author:	Paul Berens
 ---
 *Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.* (—Philippians 4:6)
 
-Thanksgiving gatherings during my childhood years were large gatherings (never fewer than a couple dozen) with all the traditional victuals (that could compete with the best Thanksgiving tables across the country), but were most memorable for the postprandial period when people set down their dessert forks, the music was turned off, and we'd go around the table and offer up a word of thanks. And by word I mean many words, because
+Thanksgiving gatherings at my parents' home were and still are large gatherings (never fewer than a couple dozen) with all the traditional victuals (that could compete with the best Thanksgiving tables across the country), but were most memorable for the postprandial period when people set down their dessert forks, the music was turned off, and we'd go around the table and offer up a word of thanks. And by word I mean many words, because
 1. this is the Irish side of the family, and provide these folks a platform and out come the memories and wistful stories and political musings and jokes and so on; and
 2. every person two years and up was ~~pressured~~ invited to "gave thanks" and so this sharing of what you were thankful for would take the better part of an hour.
 
@@ -22,15 +22,15 @@ As for my part, I ain't got much reason to complain—quite the opposite, in fac
 
 [^2]: Thanks for the introduction, Uncle John.
 
-> Today I walked down the street I use to wander
-Yeah, shook my head and made myself a bet
-There was all these things that I don't think I remember
-Hey, how lucky can one man get.
-Hey, how lucky can one man get.
-Hey, how lucky can
-One...
-Man...
-Get.
+> Today I walked down the street I use to wander  
+> Yeah, shook my head and made myself a bet  
+> There was all these things that I don't think I remember  
+> Hey, how lucky can one man get.  
+> Hey, how lucky can one man get.  
+> Hey, how lucky can  
+> One...  
+> Man...  
+> Get.  
 
 Happy Thanksgiving,
 
