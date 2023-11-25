@@ -14,11 +14,11 @@ Thanksgiving gatherings during my childhood years were large gatherings (never f
 
 She's since come to appreciate and love it, and we've carried on the tradition now in our home, because we think it important to pause and reflect, and when you utter these thanks aloud to a group they seem to ascend from nice sentiments to actual prayers.
 
-And sure, you always hear gratitude for *family, friends, health, and jobby job—please pass the gravy,* but if the environment is relatively "safe"[^1], people will share something from below the surface. In fact it happened this year that someone in our party discussed his thankfulness for certain struggles this year and the effects of these struggles, which reminded me of C. S. Lewis' aphorism: "We ought to give thanks for all fortune: if it is 'good,' because it is good; if 'bad' because it works in us patience, humility, and hope." Easier said than done, of course, but I certainly aspire to live that way: where all is gift in one way or another…or in the words of the great Flannery O'Connor who was brilliant and so wise on this stuff: "I can, with one eye squinted, take it all as a blessing."
+And sure, you always hear gratitude for *family, friends, health, and jobby job—please pass the gravy,* but if the environment is relatively "safe"[^1], some people will share something from below the surface. In fact it happened this year that someone in our party discussed his thankfulness for certain recent struggles in his life, which reminded me of C. S. Lewis' aphorism: "We ought to give thanks for all fortune: if it is 'good,' because it is good; if 'bad' because it works in us patience, humility, and hope." Easier said than done, of course, but I certainly aspire to live that way: where all is gift in one way or another…or in the words of Flannery O'Connor who was brilliant and so wise on this stuff: "I can, with one eye squinted, take it all as a blessing."
 
 [^1]: Apologies for the woke terminology.
 
-As for my part, I ain't got much reason to complain, and so in the near-term I'll employ [John Prine's words](https://www.youtube.com/watch?v=TNDmIrh1Cwo)[^2] as my thanksgiving:
+As for my part, I ain't got much reason to complain—quite the opposite, in fact—and so in the near-term I'll employ [John Prine's words](https://www.youtube.com/watch?v=TNDmIrh1Cwo)[^2] as my thanksgiving:
 
 [^2]: Thanks for the introduction, Uncle John.
 
