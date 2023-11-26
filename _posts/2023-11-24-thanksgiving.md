@@ -6,9 +6,9 @@ author:	Paul Berens
 ---
 *Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.* (—Philippians 4:6)
 
-Thanksgiving gatherings at my parents' home were and still are large gatherings (never fewer than a couple dozen) with all the traditional victuals (that could compete with the best Thanksgiving tables across this land), but were most memorable for the postprandial period when people set down their dessert forks, the music was turned off, and we'd go around the table and offer up a word of thanks. And by word I mean many words, because
-1. this is the Irish side of the family, and provide these folks a platform and out come the amusing stories and wistful memories and political musings and so on; and
-2. every person two years and up was invited to "gave thanks" and so this sharing of what you were thankful for would take the better part of an hour.
+Thanksgiving gatherings at my parents' home were and still are large gatherings (never fewer than a couple dozen) with all the traditional victuals (that could compete with the best Thanksgiving tables across this land), but are most memorable for the postprandial period when people set down their dessert forks, the music is turned off, and we go around the table and offer up a word of thanks. And by word I mean many words, because
+1. this is the Irish side of the family, and so if you provide a platform, out will come the amusing stories and wistful memories and political musings and so on; and
+2. every person two years old and up is invited to "gave thanks" and so this sharing of what you are thankful for takes the better part of an hour.
 
 (Lisa survived this tradition early in our courtship, and immediately afterward I got a mild reproof for not forewarning her that there'd be public speaking involved in coming to the Berens Family Thanksgiving.)
 
