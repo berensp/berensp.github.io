@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target="_blank">messenger / app / platform of choice</a>:
+Say hello on your messenger / app / platform of choice:
 
 ## Messaging
 - <a href="mailto:hey@berens.co">hey@berens.co</a>
@@ -35,5 +35,5 @@ Say hello on your <a href="https://imgs.xkcd.com/comics/chat_systems.png" target
 
 <mark><span class="muted small">web3</span></mark>
 
-## I need help deciding...
-[![comms decision tree](/assets/images/comms.png)](/assets/images/comms.png)
+## Why so many bloody apps?
+![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
