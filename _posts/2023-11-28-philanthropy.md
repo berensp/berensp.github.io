@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Giving
+title: Intentional Philanthropy
 date: 2023-11-28
 author:	Paul Berens
 ---
