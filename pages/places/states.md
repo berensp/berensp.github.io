@@ -61,4 +61,6 @@ description: Just three to go
 [^2]: A drive-through. College World Series (~'07) was the first destination trip.
 <mark><span class="muted small">National park/monument trip 🥾</span></mark><span class="muted small"> | </span><mark_paleturquoise><span class="muted small">Ski trip ⛷</span></mark_paleturquoise>
 
+![states level 195](/assets/images/pmb.states.level195.nobg.20231125.png)
+
 (See also [Countries visited](/countries/).)
