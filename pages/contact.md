@@ -8,7 +8,7 @@ description: Say hello on these apps, messengers, etc.
 Say hello on your messenger / app / platform of choice:
 
 ## Messaging
-- <a href="mailto:hey@berens.co">hey@berens.co</a>
+- <a href="mailto:hey@berens.co?subject=Hey%2C%20Paul%20%F0%9F%91%8B">hey@berens.co</a>
 - <a href="https://signal.org" target="_blank">Signal</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
