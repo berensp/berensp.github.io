@@ -1,5 +1,5 @@
 ---
-layout: map_run
+layout: map_ride
 title: Pantoll Stinson
 gpx_url: Pantoll_Stinson.gpx
 id: pantoll
