@@ -62,5 +62,6 @@ description: Just three to go
 <mark><span class="muted small">National park/monument trip 🥾</span></mark><span class="muted small"> | </span><mark_paleturquoise><span class="muted small">Ski trip ⛷</span></mark_paleturquoise>
 
 ![states level 195](/assets/images/pmb.states.level195.nobg.20231125.png)
+<span class="muted small">You can play, too—</span><a class="muted small" href="https://tenpages.github.io/us-level/us.html" target="_blank">click here!</a>
 
 (See also [Countries visited](/countries/).)

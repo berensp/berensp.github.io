@@ -31,7 +31,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Biggest ride</td>
-      <td style="text-align: left"><a href="https://i.seadn.io/s/raw/files/7221132be2a352f9b272023dfcfd8348.png">Levi's</a></td>
+      <td style="text-align: left"><a href="https://www.receipts.xyz/mints/id/53">Levi's</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Centuries</td>
