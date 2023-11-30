@@ -6,7 +6,7 @@ description: I want to ride my bicycle; I want to ride my bike.
 ---
 <img src="/assets/og/marin.ride.bw.png" width="50%" height="50%">
 
-My preferred means of soaking in the great outdoors whilst spiking serotonin and dopamine.
+My preferred means of soaking in the great outdoors whilst spiking serotonin and dopamine. (Alas, I don't allocate the time for it these days and so I end up [running](/run/).)
 
 ## Some favorite rides
 - [Alpine Dam](/alpine-dam/)
