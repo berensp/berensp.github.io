@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMZNFRB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+
+<script src="https://openlayers.org/en/v6.0.1/build/ol.js"></script>
+
+<h1>{{ page.title | escape }}</h1>
+
+<mark>{{ page.distance }}</mark> | <mark>{{ page.elevation }}</mark> | <mark>{{ page.difficulty }}</mark>
+
+{{ content }}
+
+    <div id="{{ page.id }}" class="map" style="height: 300px; width: 100%;"></div>
+    <script>
+      var vectorLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          url: '/assets/maps/{{ page.gpx_url }}',
+          format: new ol.format.GPX()
+        }),
+        style: new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: 'red',
+            width: 3
+          })
+        })
+      });
+
+      var {{ page.id }} = new ol.Map({
+        target: '{{ page.id }}',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          vectorLayer
+        ],
+        view: new ol.View({
+	    center: [{{ page.long }},{{ page.lat }}],
+	    zoom: {{ page.zoom }},
+	    maxZoom: 19,
+	    minZoom: 5
+        })
+      });
+    </script>
+
+<p><a class="muted small" href="/cycling/">← back to all rides</a>
+
+{%- include footer.html -%}
+
+  </body>
+</html>
