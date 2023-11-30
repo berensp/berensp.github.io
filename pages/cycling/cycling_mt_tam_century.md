@@ -1,5 +1,5 @@
 ---
-layout: map_run
+layout: map_ride
 title: Mt. Tam Century
 gpx_url: Mt_Tam_Century.gpx
 id: mt_tam

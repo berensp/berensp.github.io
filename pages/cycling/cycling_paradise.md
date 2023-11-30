@@ -1,5 +1,5 @@
 ---
-layout: map_run
+layout: map_ride
 title: Paradise
 gpx_url: Paradise.gpx
 id: paradise

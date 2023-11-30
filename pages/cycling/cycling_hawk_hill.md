@@ -1,5 +1,5 @@
 ---
-layout: map_run
+layout: map_ride
 title: Hawk Hill
 gpx_url: Hawk_Hill.gpx
 id: hawk

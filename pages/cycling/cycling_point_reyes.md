@@ -1,5 +1,5 @@
 ---
-layout: map_run
+layout: map_ride
 title: Nicasio Point Reyes Stinson
 gpx_url: Nicasio_Point_Reyes_Stinson.gpx
 id: ptreyes
@@ -11,4 +11,4 @@ elevation: 5,226 ft
 difficulty: moderate/hard
 permalink: /point-reyes/
 ---
-All manner of terrain makes this a spectacular [ride](/cycling/). The very first rides I did when I first came out to the Bay Area were from Mike's Bikes of Sausalito (Marin City) to Nicasio and back (~21 miles of this loop).
+All manner of terrain makes this a spectacular ride. The very first rides I did when I first came out to the Bay Area were from Mike's Bikes of Sausalito (Marin City) to Nicasio and back (~21 miles of this loop).
