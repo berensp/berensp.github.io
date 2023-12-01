@@ -24,3 +24,12 @@ My constructivist continuing education (i.e. tinkering):
 
 ## Earlier Enterprises
 - kite-surfing
+
+💭 = General Thought
+🛠️ = New Tool
+🧪 = Experiment 
+💪 = Health/Fitness
+🛒 = Recent Purchase
+✔️ Helpful Hack
+📖 = Self Education
+🆕 = General Update
