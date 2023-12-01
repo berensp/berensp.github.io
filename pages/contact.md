@@ -14,6 +14,7 @@ Say hello on your messenger / app / platform of choice:
 - <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a> 
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
+- <a href="https://matrix.to/#/@berens:matrix.org" target="_blank">Matrix</a>
 - <mark><a href="https://join.status.im/u/0x04fef6e494c4db1d25d1b144f3914747cdf8164e5208dafe7fd1926d3d75e7b545ff02d0571ccf788ff0fff8065616967de51935e76d90a04a47df82cead041f57" target="_blank">Status</a></mark>
 
 ## Social / Other
