@@ -7,5 +7,5 @@ permalink: /now/
 - 📝 Quote I'm contemplating: 
 - 📻 On my recordplayer: 
 - 🌱 What I'm trying to learn: 
-- Goals: 
+- goalGoals: 
 - 📆 Event I'm looking forward to: 
