@@ -8,17 +8,17 @@ A collection of pretty much every 45 we had as well as a sampling of tracks from
 
 | Year | Song | Artist | Format |
 | :--- | :--- | :--- | :----: |
-| 1956 | Hound Dog | Elvis Presley | 45 |
-| 1978 | Greased Lightnin' | John Travolta | LP |
-| 1980 | 9 to 5 | Dolly Parton | 45 |
-| 1980 | Celebration | Kool & The Gang | 45 |
-| 1980 | Shaddap Your Face | Joe Dolce | 45 |
-| 1980 | Good Ol' Boys | Waylon Jennings | 45 |
-| 1980 | You May Be Right | Billy Joel | LP |
-| 1981 | Believe It or Not | Joey Scarbury | 45 |
-| 1981 | Elvira | Oak Ridge Boys | 45 |
-| 1981 | Morning Train | Sheena Easton | 45 |
-| 1982 | Thriller | Michael Jackson | LP |
-| 1983 | All Night Long | Lionel Richie | LP |
-| 1983 | Hold Me Now | Thompson Twins | LP |
+| '56 | Hound Dog | Elvis Presley | 45 |
+| '78 | Greased Lightnin' | John Travolta | LP |
+| '80 | 9 to 5 | Dolly Parton | 45 |
+| '80 | Celebration | Kool & The Gang | 45 |
+| '80 | Shaddap Your Face | Joe Dolce | 45 |
+| '80 | Good Ol' Boys | Waylon Jennings | 45 |
+| '80 | You May Be Right | Billy Joel | LP |
+| '81 | Believe It or Not | Joey Scarbury | 45 |
+| '81 | Elvira | Oak Ridge Boys | 45 |
+| '81 | Morning Train | Sheena Easton | 45 |
+| '82 | Thriller | Michael Jackson | LP |
+| '83 | All Night Long | Lionel Richie | LP |
+| '83 | Hold Me Now | Thompson Twins | LP |
 
