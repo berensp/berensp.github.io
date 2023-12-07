@@ -3,7 +3,9 @@ layout: page
 title: Favourites
 permalink: /favourites/
 ---
-- movies
-- books
+- 🍿 [movies](/movies/)
+- 📚 [books](/books/)
+- 🏃‍♂️ [runs](/run/)
+- 🚴‍♂️ [rides](/cycling)
 - quotes
-- 
+- purchases
