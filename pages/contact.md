@@ -32,7 +32,7 @@ Say hello on your messenger / app / platform of choice:
 ## No se puede
 - ~~[Pebble](https://pebble.is/pmb)[^1]~~
 - ~~[iMessage](/phones/)~~
-- ~~[Meta products](/fb/)~~
+- ~~[Meta products](../fb)~~
 
 <mark><span class="muted small">web3</span></mark>
 
