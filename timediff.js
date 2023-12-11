@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Calculate and display difference in UTC
   const diffMs = Date.now() - postDate.getTime();
-  const diffDays = Math.round(diffMs / (1000 * 60 * 60 * 24));
+  const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
 
   const timeDifferenceEl = document.getElementById('timeDifferenceInline');
   
