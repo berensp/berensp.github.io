@@ -49,10 +49,16 @@ document.addEventListener('DOMContentLoaded', () => {
       message = "one week ago today";
       break;
     case 8:
-      message = "a mere eight days ago";
+      message = "eight days ago";
       break;
     case 9:
-      message = "a mere nine days ago";
+      message = "nine days ago";
+      break;
+    case 14:
+      message = "a fortnight ago";
+      break;
+    case 21:
+      message = "three weeks ago";
       break;
     default:
       message = `a mere ${diffDays} days ago`;
