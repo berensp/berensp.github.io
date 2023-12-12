@@ -10,6 +10,9 @@ collections:
   recipes:
     output: true
     permalink: /recipes/:path/
+  prayers:
+    output: true
+    permalink: /prayers/:path/
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
