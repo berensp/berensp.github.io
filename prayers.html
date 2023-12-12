@@ -13,7 +13,7 @@ Prayers I've collected over time that I've prayed at least once and it went at l
 
   {%- if site.prayers.size > 0 -%}
     <ul class="more-space">
-      {%- for prayer in site.prayer -%}
+      {%- for prayer in site.prayers -%}
         <li><a class="prayer-link" href="{{ prayer.url | relative_url }}">{{ prayer.title | escape }}</a></li>
       {%- endfor -%}
     </ul>
