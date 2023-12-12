@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+
+<h1>{{ page.title | escape }}</h1>
+
+<i>{{ content }}</i>
+
+<p><a class="muted small" href="/prayers/">← back to all prayers</a>
+
+{%- include footer.html -%}
+
+  </body>
+</html>
