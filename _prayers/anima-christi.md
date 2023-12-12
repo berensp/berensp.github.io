@@ -2,7 +2,7 @@
 layout: prayer
 title: Anima Christi
 ---
-Anima Christi, sanctifica me. 
+Anima Christi, sanctifica me.
 Corpus Christi, salva me.
 Sanguis Christi, inebria me.
 Aqua lateris Christi, lava me.
