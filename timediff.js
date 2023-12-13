@@ -6,15 +6,14 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
-  // Ensure the date string is in the correct format (e.g., 'YYYY-MM-DD')
-  const dateStr = postDateEl.getAttribute('data-post-date');
-  const adjustedDateStr = dateStr + 'T12:00:00-08:00';
+  // Extracting only the date part from dateStr
+  const dateStr = postDateEl.getAttribute('data-post-date').split('T')[0];
+  const adjustedDateStr = dateStr + 'T12:00:00-08:00'; // Set to 12:00 PM PST
   console.log("Adjusted Date String:", adjustedDateStr);
 
   const postDate = new Date(adjustedDateStr);
 
-  // Check if the date is valid
-  if (isNaN(postDate)) {
+  if (isNaN(postDate.getTime())) {
     console.error('Invalid post date:', adjustedDateStr);
     return;
   }
