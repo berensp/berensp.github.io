@@ -9,14 +9,25 @@ document.addEventListener('DOMContentLoaded', () => {
   const dateStr = postDateEl.getAttribute('data-post-date');
   const postDate = new Date(dateStr);
 
+  // Log the post date in both local and UTC formats
+  console.log("Post Date (local):", postDate.toString());
+  console.log("Post Date (UTC):", postDate.toUTCString());
+
   // Get the current time in Pacific Time
   const currentTime = new Date();
-  const timezoneOffset = currentTime.getTimezoneOffset() + 480; // PST is UTC-8 hours (480 minutes)
+  const timezoneOffset = currentTime.getTimezoneOffset() + 480; // PST is UTC-8 hours
   const pacificTime = new Date(currentTime.getTime() + timezoneOffset * 60000);
+
+  // Log the current time in both local and Pacific Time formats
+  console.log("Current Time (local):", currentTime.toString());
+  console.log("Current Time (Pacific):", pacificTime.toString());
 
   // Calculate difference in Pacific Time
   const diffMs = pacificTime - postDate.getTime();
   const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+  // Log the calculated time difference in days
+  console.log("Difference in days:", diffDays);
 
   const timeDifferenceEl = document.getElementById('timeDifferenceInline');
   
