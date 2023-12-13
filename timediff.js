@@ -7,8 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // Extracting only the date part from dateStr
-  const dateStr = postDateEl.getAttribute('data-post-date').split('T')[0];
-  const adjustedDateStr = dateStr + 'T12:00:00-08:00'; // Set to 12:00 PM PST
+  // Assuming dateStr is in the format 'YYYY-MM-DDTHH:MM:SSZ'
+  const datePart = postDateEl.getAttribute('data-post-date').split('T')[0];
+  const adjustedDateStr = datePart + 'T12:00:00-08:00'; // Set to 12:00 PM PST
   console.log("Adjusted Date String:", adjustedDateStr);
 
   const postDate = new Date(adjustedDateStr);
