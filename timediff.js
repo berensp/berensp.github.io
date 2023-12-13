@@ -6,24 +6,26 @@ document.addEventListener('DOMContentLoaded', () => {
     return;
   }
 
-  // Adjust the post date to include 12:00 PM PST
-  const dateStr = postDateEl.getAttribute('data-post-date') + 'T12:00:00-08:00';
-  const postDate = new Date(dateStr);
+  // Ensure the date string is in the correct format (e.g., 'YYYY-MM-DD')
+  const dateStr = postDateEl.getAttribute('data-post-date');
+  const adjustedDateStr = dateStr + 'T12:00:00-08:00';
+  console.log("Adjusted Date String:", adjustedDateStr);
 
-  // Log the adjusted post date (PST)
-  console.log("Adjusted Post Date (PST):", postDate.toString());
+  const postDate = new Date(adjustedDateStr);
 
-  // Get the current time
+  // Check if the date is valid
+  if (isNaN(postDate)) {
+    console.error('Invalid post date:', adjustedDateStr);
+    return;
+  }
+
+  console.log("Calculated Post Date (PST):", postDate.toString());
+
   const currentTime = new Date();
-
-  // Log the current time
   console.log("Current Time (local):", currentTime.toString());
 
-  // Calculate difference in local time
   const diffMs = currentTime - postDate.getTime();
   const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-
-  // Log the calculated time difference in days
   console.log("Difference in days:", diffDays);
 
   const timeDifferenceEl = document.getElementById('timeDifferenceInline');
