@@ -4,7 +4,7 @@ title: We Need A Little Christmas Now
 date: 2023-12-15
 author:	Paul Berens
 ---
-Like so many others I do love the yuletide season; the happy, hygge feelings and experiences of my youth playing no small part, I’m sure. I was [recently delving into the amazing power of the hippocampus](/solvitur-currendo.html) and its ability to construct and preserve narrative memories—and the amygdala to encode the emotion—and so for childhood memories as indelible as those of Christmas, the associations surely span the senses: the visual (lights and decorations), the olfactory (the wonderful smells emanating from the kitchen), and perhaps most powerfully for me: the auditory (the Christmas songs of olde)[^1].
+Like so many others I do love the yuletide season; the happy, *hygge* feelings and experiences of my youth playing no small part, I’m sure. I was [recently delving into the amazing power of the hippocampus](/solvitur-currendo.html) and its ability to construct and preserve narrative memories—and the amygdala to encode the emotion—and so for childhood memories as indelible as those of Christmas, the associations surely span the senses: the visual (lights and decorations), the olfactory (the wonderful smells emanating from the kitchen), and perhaps most powerfully for me: the auditory (the Christmas songs of olde)[^1].
 
 [^1]:Apparently when memories of multisensory (i.e. various sensory experiences being intertwined) there may be better encoding, facilitating memory recall and enhancing the clarity of the memories. 
 
@@ -23,7 +23,7 @@ Without further ado: my Christmas essentials in five YouTube Music playlists:
 - [🎹 Traditional/Oldies](https://music.youtube.com/playlist?list=PL_64Fz1c-ODKOXnA_3WqyULSXcBY_WMOb) – bring on the nostalgia with Andy Williams, Bing Crosby, Ol' Blue Eyes, et al. I've got many of the essentials in here (e.g., Burl Ives' [*A Holly Jolly Christmas*](https://music.youtube.com/playlist?list=OLAK5uy_kiyNpybro_snrUqF4hQ6dU0Q4NjHphkRw), Johnny Mathis' [*We Need A Little Christmas*](https://music.youtube.com/watch?v=fTrCepaqffY&sq=1&si=CYaW1cGiHVlAbZg3), Sinatra's [*Christmas Waltz*](https://music.youtube.com/watch?v=OfmcEok4mkE&sq=1&si=a03fqHbMKJ9_rCoY)).
 - [🥁 Soul/R&B/Motown](https://music.youtube.com/playlist?list=PL_64Fz1c-ODK5lz-j4L4OSBFzZ7B_sq1g) – just what it sounds like: carols with a little soul. It spans the decades so I may be taking a little liberty with genre, because we’ve got the Temptations' rendition of [*Rudolph*](https://music.youtube.com/watch?v=zB3Ldec54K4&sq=1&si=JnxVbkzfBCCvwsy8) but also David Archuleta's [*The First Noel*](https://music.youtube.com/watch?v=iqQuanlQbFg&sq=1&si=gqrl5H87sQtKwYfu).
 
-I make no guarantees these don't shift and evole over time. So what did I miss? And/or which awful early 2000s track should be buried with the ghost of Christmas past?
+I make no guarantees these don't shift and evolve over time—or even on a whim. So that means input is welcome: what did I miss; which tracks should be tossed out with the fruitcake?
 
 Merry Christmas,
 
