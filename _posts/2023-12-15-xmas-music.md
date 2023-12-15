@@ -27,6 +27,4 @@ What did I miss? Which awful early 2000s track should be buried with the ghost o
 
 Merry Christmas,
 
-Paul
-
-[ ] farcaster but I posted on my blog to drive engagement
+— ᴘ. ᴍ. ʙ.
