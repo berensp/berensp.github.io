@@ -19,13 +19,12 @@ Deloitte has an event called Impact Day, which was one day per year set aside fo
 
 - **Use the charity evaluators (GiveWell, Charity Navigator, etc.) as input, but *caveat emptor:***
     - Don’t fall into the minimize overhead metric obsession: this weird idea that ideally 100% of donated dollars would go to programs and $0 to overhead, which is problematic because charities and nonprofits and NGOs require talent and capital just like the for-profit world to produce the effective outcomes we're all hoping for. I think people are increasingly aware of this $0 overhead fallacy and there have been some shifts in thinking, but it persists.[^1]
-
-[^1]: [*How Much Do Donors Really Care About Overhead Spending*, (Feb, 2018)](https://greymatterresearch.com/overhead-ratios/)
-
     - We don’t all need to exclusively invest in mosquito nets even if effective altruism suggests that as the optimal resource allocation. Yes, GiveWell will show you that the highest ROI investments will nearly always be outside the US (due to the cost side of the equation) and in certain areas of need, which is wonderful. But we should honor our unique proclivities, and would do well to remember Mother Teresa’s words:
 	> Stay where you are. Find your own Calcutta. Find the sick, the suffering, and the lonely, right where you are — in your own homes and in your own families, in homes and in your workplaces and in your schools. You can find Calcutta all over the world, if you have eyes to see. Everywhere, wherever you go, you find people who are unwanted, unloved, uncared for, just rejected by society — completely forgotten, completely left alone.
     - It's not always about the metrics. There is this organization in San Francisco called At the Crossroads that a friend of mine was involved with. They do street outreach in the TL and elsewhere, focusing on youth. But what's striking is that they take on the toughest cases and then work with these clientele indefinitely (no "aging out" of the program), which is sure to torpedo their metrics, however their "unconditional support" model is a beautiful one and to me very Christ-like.
 - **Eliminate slacktivist causes so you don’t trick your brain into thinking you're off the hook on actual charitable giving.** The jury is out on this from a research perspective, but it's possible that the "warm glow" associated with charitable giving can be activated just as easily by *slacktivism*, causing one to pass on real activism/philanthropy since that psychological need has already been satisfied. That would be a shame. The worst of these, in my opinion, was AmazonSmile in which customers to donate 0.5% of their eligible purchases to a charity of their choice. Do the maths: it amounted to nothing.[^2]
+
+[^1]: [*How Much Do Donors Really Care About Overhead Spending*, (Feb, 2018)](https://greymatterresearch.com/overhead-ratios/)
 
 [^2]: [*AmazonSmile is not a fundraising campaign*](https://www.giantsquidgroup.com/blog/amazonsmile-is-not-a-fundraising-campaign); [*No, Don't Smile*](https://www.alancantorconsulting.com/2014/12/no-dont-smile/)
 
