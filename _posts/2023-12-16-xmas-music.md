@@ -3,6 +3,7 @@ layout: post
 title: Songs of Good Cheer
 date: 2023-12-16
 author:	Paul Berens
+ogimage: mom.at.piano.png
 ---
 Some of the most delightful, most *hygge* memories of the Christmases of my youth are anchored in yuletide music[^1], because for many years the centerpiece of my family's Christmas preparation was a large, multigenerational caroling party the week before Christmas, featuring Mom at the piano. She's sitting up as tall as can be on the bench, an enormous smile on her face, reflecting the joy of the season, but also in knowing she's giving people something nearly no one else can. "Here we go, Everyone!" She isn't waiting for a suggestion or cue; she's the pianist and entertainer, but also very much the director. Mom is a very fine pianist in her own right, but where she really excels is in getting people singing by keeping it lively, transposing to the key that works for the majority of male and female voices, knowing when to cut it short and move to the next number, etc. (essentially a musical EQ or musical nunchi [눈치]). And so you were carried along with the spirit of it—even if caroling wasn't your bag (e.g., some of my buds during our high school years)—to the point where each of us so looked forward to and came to rely upon this event as an indispensable part of our Christmas: joining voices with friends and neighbors and letting the exultant and solemn hymns wash over us again.
 
