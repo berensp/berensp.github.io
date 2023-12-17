@@ -34,6 +34,8 @@ Of course there are two sides to this equation, the acquisition side and the con
 
 I suppose if I'm successful at upping my throughput (points #1 and #2) but the public library doesn't pick up most of that incremental volume (point #3), some pruning is going to be in order now and again, which (happily) implies [lending](https://electricliterature.com/what-are-the-rules-for-lending-your-books-to-friends/) and [donating](https://littlefreelibrary.org).
 
-The techie in me is occasionally impelled to get an e-reader, but I'm too bibliosmic to abandon hardcovers.
+The techie in me is occasionally impelled to get an e-reader, but I'm too bibliosmic to abandon hardcovers, and some research suggests comprehension is 6-8x better on paper than on a digital screen[^2].
+
+[^2]: Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. *Review of Educational Research, 0*(0). [https://doi.org/10.3102/00346543231216463](https://doi.org/10.3102/00346543231216463).
 
 — ᴘ. ᴍ. ʙ.
