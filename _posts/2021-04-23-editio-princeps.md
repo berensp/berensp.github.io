@@ -36,6 +36,6 @@ I suppose if I'm successful at upping my throughput (points #1 and #2) but the p
 
 The techie in me is occasionally impelled to get an e-reader, but I'm too bibliosmic to abandon hardcovers, and some research suggests comprehension is 6-8x better on paper than on a digital screen[^2].
 
-[^2]: Altamura, L., Vargas, C., & Salmerón, L. (2023). Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension. *Review of Educational Research, 0*(0). [https://doi.org/10.3102/00346543231216463](https://doi.org/10.3102/00346543231216463).
+[^2]: Altamura, L., Vargas, C., & Salmerón, L. (2023). [Do New Forms of Reading Pay Off? A Meta-Analysis on the Relationship Between Leisure Digital Reading Habits and Text Comprehension](https://doi.org/10.3102/00346543231216463). *Review of Educational Research, 0*(0).
 
 — ᴘ. ᴍ. ʙ.
