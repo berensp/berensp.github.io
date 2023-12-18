@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger / app / platform of choice:
+## Say hello on your messenger / app / platform of choice:
 
 | App | 💬 | 🖧 |
 | :--- | :----: | :----: |
