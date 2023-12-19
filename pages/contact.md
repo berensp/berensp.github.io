@@ -21,7 +21,7 @@ Say hello on your messenger / app / platform of choice:
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
 
-<mark><span class="muted small">web3</span></mark>
+	<mark><span class="muted small">web3</span></mark>
 
 ## No se puede
 - ~~[Pebble](https://pebble.is/pmb)[^1]~~
