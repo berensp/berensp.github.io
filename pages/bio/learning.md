@@ -9,21 +9,19 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- The world of web3, Ethereum, <a href="https://gallery.so/pb" target="_blank">NFTs</a>
-- <a href="https://notion.so" target="_blank">Notion</a>
-- Large language models (so 2023)
-- [This site: Jekyll / Liquid / GitHub Pages](/colophon/)
-- [Investing](/invest/)
-- Korean (한국말)
+- 📖 The world of web3, Ethereum, <a href="https://gallery.so/pb" target="_blank">NFTs</a>
+- 🛠️ <a href="https://notion.so" target="_blank">Notion</a>
+- 📖 Large language models (so 2023)
+- 🛠️ front-end stuff (Jekyll, Liquid, JavaScript)
+- 📖 [Investing](/invest/)
+- 📖 Korean (한국말)
+- 🛠️ Audacity for home recording
 
 ## Expected Endeavours
-- <a href="https://obsidian.md/" target="_blank">Obsidian</a> (and backing up to GitHub Pages)
-- [Using Airtable as a Jekyll website db](https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
-- Piano (why did I ever stop? 😣)
-- [Genealogy](/ancestry/)
-
-## Earlier Enterprises
-- kite-surfing
+- 🛠️ <a href="https://obsidian.md/" target="_blank">Obsidian</a> (and backing up to GitHub Pages)
+- 🛠️ [Using Airtable as a Jekyll website db](https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
+- 📖 Piano (why did I ever stop? 😣)
+- 📖 [Genealogy](/ancestry/)
 
 💭 = General Thought
 🛠️ = New Tool
