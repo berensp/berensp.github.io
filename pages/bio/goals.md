@@ -10,4 +10,5 @@ permalink: /goals/
   <li><input type="checkbox"/>👨‍🍳 1 new recipe per quarter</li>
   <li><input type="checkbox"/>🇬🇧 Visit Great Britian</li>
   <li><input type="checkbox"/>💑 1 date night per mensem</li>
+learn bridge
 </ul>

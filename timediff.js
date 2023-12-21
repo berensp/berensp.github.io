@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
       message = "a mere two days ago";
       break;
     case 3:
-      message = "a mere three days ago";
+      message = "several days ago";
       break;
     case 4:
       message = "a mere four days ago";
@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
       message = "a mere five days ago";
       break;
     case 6:
-      message = "a mere six days ago";
+      message = "a half dozen days ago";
       break;
     case 7:
       message = "one week ago today";
