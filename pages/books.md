@@ -11,13 +11,13 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Recently completed
-- [*One Hundred Years Of Solitude*](https://www.google.com/books/edition/One_Hundred_Years_of_Solitude/pgPWOaOctq8C?hl=en&gbpv=0) by Gabriel García Márquez
+- [*How Much of These Hills Is Gold*](https://www.google.com/books/edition/How_Much_of_These_Hills_Is_Gold/LwcmEAAAQBAJ?hl=en&gbpv=0) by C Pam Zhang
 
 ## Presently reading
 - [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
 
 ## On deck
-- [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
+- [*Man's Search for Meaning*](https://www.google.com/books/edition/_/F-Q_xGjWBi8C?hl=en&sa=X&ved=2ahUKEwjbxKbXq7CDAxVLhIkEHZEoCFAQre8FegUIAxDXAQ) by Viktor Frankl
 
 ## Near-term reading list
 - [*Range*](https://www.google.com/books/edition/Range/6nsmEAAAQBAJ?hl=en&gbpv=0) by David Epstein
