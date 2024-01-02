@@ -11,4 +11,5 @@ description: La música
 Music is such a big topic that this needs to be a hub with subpages:
 - [My Music Odyssey](/musicbio/)
 - [Recordings](/recordings/)
+- [Childhood Vinyl](/vinyl/)
 - My desert island discs (and other sundry musical opinions) *(forthcoming)*
