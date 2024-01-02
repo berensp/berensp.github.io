@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Walk On The Ocean
-permalink: /walk-ocean/
 description: Trust is a joke
 ---
 **Original Artist**: Toad the Wet Sprocket<br>
@@ -52,3 +51,5 @@ As we slowly grow old
 
 <span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/lyrics/Toad-the-Wet-Sprocket/Walk-on-the-Ocean" target="_blank">Musixmatch</a><br>
 <span class="muted small">Songwriters: Dean Dinning, Todd Nichols, Randal Guss, Glenn Phillips</span>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>

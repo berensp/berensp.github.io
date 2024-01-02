@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Give Me Time
-permalink: /give-me-time/
 description: If there's one thing you could give
 ---
 **Original Artist**: Dawes<br>
@@ -39,3 +38,5 @@ Give me time
 
 <span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/lyrics/Dawes/Give-Me-Time" target="_blank">Musixmatch</a><br>
 <span class="muted small">Songwriter: Taylor Goldsmith</span><br>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>

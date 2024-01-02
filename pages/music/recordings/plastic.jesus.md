@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Plastic Jesus / Spring Wind
-permalink: /plastic-jesus/
 description: Trust is a joke
 ---
 **Original Artist**: Ed Rush, George Cromarty *(Plastic Jesus)*; Greg Brown *(Spring Wind)*<br>
@@ -51,3 +50,5 @@ A spring blew my list of things to do away.<br>
 
 <span class="muted small">Source: </span><a class="muted small" href="https://genius.com/Greg-brown-spring-wind-lyrics" target="_blank">Genius</a><br>
 <span class="muted small">Songwriters: Ed Rush and George Cromarty (Plastic Jesus); Greg Brown (Spring Wind)</span>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>

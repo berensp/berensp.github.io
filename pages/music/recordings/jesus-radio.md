@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Jesus On The Radio
-permalink: /jesus-radio/
 description: You took a photograph of me
 ---
 **Original Artist**: Guster<br>
@@ -33,3 +32,5 @@ To get through to go around
 <span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/lyrics/Guster/Jesus-on-the-Radio" target="_blank">Musixmatch</a><br>
 <span class="muted small">Songwriters: Ryan Miller / Adam Gardner / Joseph V. Pisapia / Brian Rosenworcel</span><br>
 <span class="muted small">Jesus on the Radio lyrics © Low Crawl Music</span>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>

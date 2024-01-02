@@ -1,7 +1,6 @@
 ---
 layout: page
 title: We Belong
-permalink: /we-belong/
 description: Trust is a joke
 ---
 **Original Artist**: Lowen & Navarro<br>
@@ -72,3 +71,5 @@ We belong together
 <span class="muted small">Source: </span><a class="muted small" href="https://www.flashlyrics.com/lyrics/lowen-navarro/we-belong-30" target="_blank">FlashLyrics</a><br>
 <span class="muted small">Songwriters: Daniel Anthony Navarro / David Eric Lowen</span><br>
 <span class="muted small">We Belong lyrics © Sony/ATV Music Publishing LLC</span>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>
