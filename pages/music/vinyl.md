@@ -21,3 +21,5 @@ A collection of pretty much every 45 we had as well as a sampling of tracks from
 | '82 | [Thriller](https://music.youtube.com/watch?v=Z85lxckrtzg) | Michael Jackson | LP |
 | '83 | [All Night Long](https://music.youtube.com/watch?v=BBaZEnYv-HM) | Lionel Richie | LP |
 | '83 | [Hold Me Now](https://music.youtube.com/watch?v=_Rf8prOU5yw) | Thompson Twins | LP |
+
+<p><a class="muted small" href="/music/">← back to music</a>
