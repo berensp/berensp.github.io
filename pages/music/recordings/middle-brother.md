@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Middle Brother
-permalink: /middle-brother/
 description: A cat couldn't scratch
 ---
 **Original Artist**: Middle Brother<br>
@@ -62,3 +61,5 @@ And sell my soul to a whole new crowd
 
 <span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/lyrics/Middle-Brother/Middle-Brother" target="_blank">Musixmatch</a><br>
 <span class="muted small">Songwriter: John Joseph McCauley III</span>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Only the Wine
-permalink: /only-wine/
 description: Head spinnin', mouth open
 ---
 **Original Artist**: David Gray<br>
@@ -49,3 +48,5 @@ Home
 <span class="muted small">Source: </span><a class="muted small" href="https://www.musixmatch.com/lyrics/David-Gray/Only-The-Wine" target="_blank">Musixmatch</a><br>
 <span class="muted small">Songwriter: David Gray</span>
 <span class="muted small">Only the Wine lyrics © BMG Rights Management</span>
+
+<p><a class="muted small" href="/recordings/">← back to recordings</a>
