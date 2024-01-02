@@ -32,4 +32,4 @@ I moved to Chicago and on the one hand was a part of a church choir that really 
 
 In California, I filled the music need with various jam sessions: my friend Patricia Ang's Musical Playground, a monthly get-togeher at a member's living room filled with instruments and harmonies and improvisation; Nolan Love's "Harvest Party" in Petaluma... pretty hippie-sounding and so fun. And there was an annual "Coffeehouse" (open mic night/talent show thing) that was always fun. But the *most* importantly, I picked up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey.
 
-[(Jump back to /Music)](/music)
+<p><a class="muted small" href="/music/">← back to music</a>
