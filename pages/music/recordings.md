@@ -19,4 +19,4 @@ description: A few jams.
 
 (More to come...hopefully...)
 
-[(Jump back to /Music)](/music)
+<p><a class="muted small" href="/music/">← back to music</a>
