@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jesus On The Radio
+permalink: /jesus-radio/
 description: You took a photograph of me
 ---
 **Original Artist**: Guster<br>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Middle Brother
+permalink: /middle-brother/
 description: A cat couldn't scratch
 ---
 **Original Artist**: Middle Brother<br>

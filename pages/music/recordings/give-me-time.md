@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Give Me Time
+permalink: /give-me-time/
 description: If there's one thing you could give
 ---
 **Original Artist**: Dawes<br>

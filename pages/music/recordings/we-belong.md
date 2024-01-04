@@ -1,6 +1,7 @@
 ---
 layout: page
 title: We Belong
+permalink: /we-belong/
 description: Trust is a joke
 ---
 **Original Artist**: Lowen & Navarro<br>

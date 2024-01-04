@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Only the Wine
+permalink: /only-wine/
 description: Head spinnin', mouth open
 ---
 **Original Artist**: David Gray<br>
