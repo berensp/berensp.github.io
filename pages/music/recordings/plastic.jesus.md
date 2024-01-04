@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Plastic Jesus / Spring Wind
+permalink: /plastic-jesus/
 description: Trust is a joke
 ---
 **Original Artist**: Ed Rush, George Cromarty *(Plastic Jesus)*; Greg Brown *(Spring Wind)*<br>

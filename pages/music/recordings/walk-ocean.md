@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Walk On The Ocean
+permalink: /walk-ocean/
 description: Trust is a joke
 ---
 **Original Artist**: Toad the Wet Sprocket<br>
