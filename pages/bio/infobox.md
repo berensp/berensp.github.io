@@ -38,6 +38,10 @@ description: fun facts
       <td style="text-align: left"><a href="/centuries/">7</a></td>
     </tr>
     <tr>
+      <td style="text-align: left">Marathons<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
+      <td style="text-align: left">1</td>
+    </tr>
+    <tr>
       <td style="text-align: left">Miles ridden</td>
       <td style="text-align: left"><a href="https://www.receipts.xyz/mints/id/24">>3861</a></td>
     </tr>
@@ -74,7 +78,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Languages</td>
-      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
+      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Fodder</th>
@@ -88,11 +92,11 @@ description: fun facts
       <td style="text-align: left">be less tribal</td>
     </tr>
     <tr>
-      <td style="text-align: left">MBTI®<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
+      <td style="text-align: left">MBTI®<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
       <td style="text-align: left">INTP</td>
     </tr>
     <tr>
-      <td style="text-align: left">Tíos<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
+      <td style="text-align: left">Tíos<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
       <td style="text-align: left">19</td>
     </tr>
     <tr>
@@ -103,7 +107,8 @@ description: fun facts
 </table>
 
 <ol id="footnotes">
-  <li id="fn1">Native, Conversant, Novice; respectively.<a href="#fnref1" title="Return to article">↩</a></li>
-  <li id="fn2">To the extent humans can be put in a box.<a href="#fnref2" title="Return to article">↩</a></li>
-  <li id="fn3">consanguineous<a href="#fnref3" title="Return to article">↩</a></li>
+  <li id="fn1">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref1" title="Return to article">↩</a></li>
+  <li id="fn2">Native, Conversant, Novice; respectively.<a href="#fnref2" title="Return to article">↩</a></li>
+  <li id="fn3">To the extent humans can be put in a box.<a href="#fnref3" title="Return to article">↩</a></li>
+  <li id="fn4">consanguineous<a href="#fnref4" title="Return to article">↩</a></li>
 </ol>
