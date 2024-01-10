@@ -8,7 +8,7 @@ permalink: /goals/
   <li><input type="checkbox"/>⏲ deep work (1:30)</li>
   <li><input type="checkbox"/>🇰🇷 study Korean (0:15)</li>
   <li><input type="checkbox"/>💪 pushups (30x)</li>
-  <li><input type="checkbox"/>📖 <a href="/books/">read <i>{{ site.book_now_title }}</i></a> (0:30)</li>
+  <li><input type="checkbox"/>📖 <a href="/books/">read</a> <i>{{ site.book_now_title }}</i> (0:30)</li>
   <li><input type="checkbox"/>🙏 <a href="/prayers/">pray</a> (0:15)</li>
   <li><input type="checkbox"/>😴 sleep (8:00)</li>
 </ul>
