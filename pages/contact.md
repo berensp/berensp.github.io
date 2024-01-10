@@ -12,6 +12,7 @@ Say hello on your messenger / app / platform of choice:
 - <mark><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></mark>
 - <mark><a href="https://friend.tech/berensp" target="_blank">friend.tech</a></mark>
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
+- <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <a href="https://matrix.to/#/@berens:matrix.org" target="_blank">Matrix</a>
@@ -20,15 +21,18 @@ Say hello on your messenger / app / platform of choice:
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
+- <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^1]
+
+[^1]: Not my fave, but Android users shouldn't be choosers.
 
 	<mark><span class="muted small">web3</span></mark>
 
 ## No se puede
-- ~~[Pebble](https://pebble.is/pmb)[^1]~~
+- ~~[Pebble](https://pebble.is/pmb)[^2]~~
 - ~~[iMessage](/phones/)~~
 - ~~[Meta products](../fb)~~
 
-[^1]: died too young 😔
+[^2]: died too young 😔
 
 ## Why so many bloody apps?
-![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
+	![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
