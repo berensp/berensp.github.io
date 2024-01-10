@@ -13,8 +13,6 @@ permalink: /goals/
   <li><input type="checkbox"/>😴 sleep (8:00)</li>
 </ul>
 
-[]()
-
 ## Quarterly
 <ul style="list-style:none">
   <li><input type="checkbox" checked/>🏃‍♂️ <a href="/run/">run</a> (25x)</li>
