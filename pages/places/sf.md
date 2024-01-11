@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sf
 title: San Francisco — Hic Manebimus Optime
 permalink: /sf/
 ogimage: ggb.baker.jpg
