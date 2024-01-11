@@ -25,14 +25,11 @@ Say hello on your messenger / app / platform of choice:
 
 	<mark><span class="muted small">web3</span></mark>
 
-[^1]: Not my fave, but Android users shouldn't be choosers.
+[^1]: Not my fave, but Android users shan't be choosers.
 
 ## No se puede
-- ~~[Pebble](https://pebble.is/pmb)[^2]~~
 - ~~[iMessage](/phones/)~~
 - ~~[Facebook/Instagram](../fb)~~
-
-[^2]: died too young 😔
 
 ## Why so many bloody apps?
 
