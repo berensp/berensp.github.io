@@ -30,10 +30,10 @@ Say hello on your messenger / app / platform of choice:
 ## No se puede
 - ~~[Pebble](https://pebble.is/pmb)[^2]~~
 - ~~[iMessage](/phones/)~~
-- ~~[Meta products](../fb)~~
+- ~~[Facebook/Instagram](../fb)~~
 
 [^2]: died too young 😔
 
 ## Why so many bloody apps?
 
-	![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
+![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
