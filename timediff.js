@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   console.log("Current Time (local):", currentTime.toString());
 
   const diffMsSF = currentTime - SFArrival.getTime();
-  const TimeInSF = Math.round((diffMsSF / (1000 * 60 * 60 * 24 * 365)) * 10) / 10; 
+  const TimeInSF = (Math.round((diffMsSF / (1000 * 60 * 60 * 24 * 365)) * 10) / 10).toFixed(1);
   console.log("Time in SF (years):", TimeInSF);
 
   const timeInSFEl = document.getElementById('TimeinSF');
