@@ -5,7 +5,7 @@ permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
-I treasure San Francisco for its beauty and <a href="/fog">fog</a> and distinctiveness, while, at the same time, I lament its deterioration[^1][^2][^3][^4]. What can one do—apart from leaving—but accentuate the positive and vote?
+SF has been home for the last <span id="TimeinSF"></span> years. I love San Francisco for its beauty and <a href="/fog">fog</a> and distinctiveness (despite its many blemishes[^1][^2][^3][^4]).
 
 ![Golden Gate Bridge from Baker Beach](/assets/og/ggb.baker.jpg)
 
@@ -14,7 +14,7 @@ I treasure San Francisco for its beauty and <a href="/fog">fog</a> and distincti
 [^3]: Moritz, Michael, <a href="https://www.nytimes.com/2023/02/26/opinion/san-francisco-democrats-board-of-supervisors.html" target="_blank">"Even Democrats Like Me Are Fed Up With San Francisco"</a>, *New York Times*, Feb. 26, 2023
 [^4]: Heller, Nathan, <a href="https://www.newyorker.com/magazine/2023/10/23/what-happened-to-san-francisco-really" target="_blank">"What Happened to San Francisco, Really?"</a>, *The New Yorker*, Oct. 16, 2023
 
-## A few favourites:
+## A few favourites/recos for visitors:
 - **Hikes/walks:** Lands End Trail, Twin Peaks, Angel Island, [Presidio-Ecology Trail Loop™](/presidio/)
 - **Points of interest:** Golden Gate Bridge, Chinatown, Chrissy Field, Ferry Building[^5], City Lights book store
 - **Activities:** ride the Hyde St. cablecar; bicycle over the bridge to Sausalito and ferry back, stroll up Fillmore St.
