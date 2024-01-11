@@ -28,6 +28,19 @@ document.addEventListener('DOMContentLoaded', () => {
   const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
   console.log("Difference in days:", diffDays);
 
+  // New calculation for Time in SF
+  const SFArrival = new Date('2010-01-13');
+  console.log("SF Arrival Date:", SFArrival.toString());
+
+  const diffMsSF = postDate - SFArrival.getTime();
+  const TimeInSF = Math.round((diffMsSF / (1000 * 60 * 60 * 24 * 365)) * 10) / 10; 
+  console.log("Time in SF (years):", TimeInSF);
+
+  const timeInSFEl = document.getElementById('TimeinSF');
+  if (timeInSFEl) {
+    timeInSFEl.textContent = `${TimeInSF} years`;
+  }
+
   const timeDifferenceEl = document.getElementById('timeDifferenceInline');
   
   if (!timeDifferenceEl) {
