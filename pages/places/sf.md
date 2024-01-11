@@ -5,7 +5,7 @@ permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
-SF has been home for the last <span id="TimeinSF"></span> years. I love San Francisco for its beauty and <a href="/fog">fog</a> and distinctiveness (despite its many blemishes[^1][^2][^3][^4]).
+SF has been home for the last <span id="TimeinSF"></span>. I love San Francisco for its beauty and <a href="/fog">fog</a> and distinctiveness (despite its many blemishes[^1][^2][^3][^4]).
 
 ![Golden Gate Bridge from Baker Beach](/assets/og/ggb.baker.jpg)
 
