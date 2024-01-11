@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Time in SF calculation
-  const SFArrival = new Date('2010-01-13'); // SF Arrival date
+  const SFArrival = new Date('2010-01-14'); // SF Arrival date
   console.log("SF Arrival Date:", SFArrival.toString());
 
   const currentTime = new Date();
