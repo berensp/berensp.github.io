@@ -5,7 +5,7 @@ permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
-SF has been home for the last <span id="TimeinSF"></span>. I love San Francisco for its beauty and <a href="/fog">fog</a> and distinctiveness (despite its many blemishes[^1][^2][^3][^4]).
+SF has been home for the last <span id="TimeinSF"></span>. I love it for its beauty and <a href="/fog">fog</a> and distinctiveness...while I also lament its many problems[^1][^2][^3][^4]).
 
 ![Golden Gate Bridge from Baker Beach](/assets/og/ggb.baker.jpg)
 
@@ -17,8 +17,8 @@ SF has been home for the last <span id="TimeinSF"></span>. I love San Francisco 
 ## A few favourites/recos for visitors:
 - **Hikes/walks:** Lands End Trail, Twin Peaks, Angel Island, [Presidio-Ecology Trail Loop™](/presidio/)
 - **Points of interest:** Golden Gate Bridge, Chinatown, Chrissy Field, Ferry Building[^5], City Lights book store
-- **Activities:** ride the Hyde St. cablecar; bicycle over the bridge to Sausalito and ferry back, stroll up Fillmore St.
+- **Activities:** ride the Hyde Street cablecar; bicycle over the bridge to Sausalito and ferry back, stroll up Fillmore Street
 - **Restaurants:** at our life/family stage, I definitely don't know what's cool, but some good experiences/meals at Frascati, Plow
-- **Coffeehouse:** Farley's, Sightglass
+- **Coffeehouses:** Farley's, Sightglass, Sextant Coffee Roasters, Ritual Roasters
 
 [^5]: A little touristy but you'll survive.
