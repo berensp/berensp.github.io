@@ -23,9 +23,9 @@ Say hello on your messenger / app / platform of choice:
 - <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
 - <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^1]
 
-[^1]: Not my fave, but Android users shouldn't be choosers.
-
 	<mark><span class="muted small">web3</span></mark>
+
+[^1]: Not my fave, but Android users shouldn't be choosers.
 
 ## No se puede
 - ~~[Pebble](https://pebble.is/pmb)[^2]~~
@@ -35,4 +35,5 @@ Say hello on your messenger / app / platform of choice:
 [^2]: died too young 😔
 
 ## Why so many bloody apps?
+
 	![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
