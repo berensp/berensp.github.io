@@ -22,6 +22,3 @@ I treasure San Francisco for its beauty and <a href="/fog">fog</a> and distincti
 - **Coffeehouse:** Farley's, Sightglass
 
 [^5]: A little touristy but you'll survive.
-
-- [Other places I've lived](/abodes/)
-- [Where I've traveled](/travels/)
