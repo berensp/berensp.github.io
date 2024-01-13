@@ -5,7 +5,7 @@ permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
-SF has been home for the last <span id="TimeinSF"></span>. I can simultaneously appreciate its beauty and <a href="/fog">fog</a> and distinctiveness, and lament its problems[^1][^2][^3][^4].
+SF has been home for the last <span id="TimeinSF"></span>. I simultaneously appreciate its beauty and <a href="/fog">fog</a> and distinctiveness, and lament its problems[^1][^2][^3][^4].
 
 ![Golden Gate Bridge from Baker Beach](/assets/og/ggb.baker.jpg)
 <span class="muted small">Baker Beach, December 2013.</span>
@@ -19,10 +19,10 @@ SF has been home for the last <span id="TimeinSF"></span>. I can simultaneously 
 - **Hikes/walks/runs:** Lands End Trail, Twin Peaks, Angel Island, [Presidio-Ecology Trail Loop™](/presidio/)
 - **Points of interest:** Golden Gate Bridge, Chinatown, Chrissy Field, Ferry Building[^6], City Lights book store
 - **Activities:** ride the Hyde Street cablecar; bicycle over the bridge to Sausalito and ferry back, stroll up Fillmore Street, 
-- **Restaurants:** , but: Frascati, Plow (🥞), Pancho Villa (🌯), Pizzetta 211 (🍕). 
+- **Restaurants:** Frascati (🍝), Plow (🥞), Pancho Villa (🌯), Pizzetta 211 (🍕). 
 - **Coffeehouses:** Farley's, Sightglass, Sextant Coffee Roasters, Ritual Roasters, surprisingly good coffee served at Park Tavern (as recently as 2015!).
-- **Bars:** The Social Study, Third Rail, Southern Pacific Brewing, Standard Deviant
+- **Bars:** The Social Study, Third Rail, Southern Pacific Brewing, Standard Deviant.
 - **Live Music:** Bottom of the Hill, The Chapel, The Fillmore, Cafe Du Nord, The Independent, The Greek Theater (Berkeley)
 
-[^5]: At our life/family stage, I definitely don't know what's cool (or even still operating)
+[^5]: At our life/family stage, I definitely don't know what's cool (or even still operating).
 [^6]: A little touristy but you'll survive.
