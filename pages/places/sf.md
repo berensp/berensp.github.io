@@ -5,7 +5,7 @@ permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
-SF has been home for the last <span id="TimeinSF"></span>. I simultaneously appreciate its beauty and <a href="/fog">fog</a> and distinctiveness, and lament its problems[^1][^2][^3][^4].
+SF has been home for the last <span id="TimeinSF"></span>. I can both appreciate its beauty and <a href="/fog">fog</a> and distinctiveness, and at the same time lament its problems[^1][^2][^3][^4].
 
 ## A few favourites/recos for visitors[^5]:
 - **Hikes/walks/runs:** Lands End Trail, Twin Peaks, Angel Island, [Presidio-Ecology Trail Loop™](/presidio/)
