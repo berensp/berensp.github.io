@@ -11,7 +11,7 @@ Sans-serif typefacing.
 
 Imprinted at San Francisco, California.
 
-anno Domini MMXX
+Anno Domini MMXX. Omnia iura reservata.
 
 <p>
 <center>
