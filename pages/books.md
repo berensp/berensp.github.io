@@ -46,8 +46,9 @@ ogimage: bookshelf.bw.png
 ## Books written by friends and family[^2] (that you should buy)
 - [*Animal Review*](https://www.google.com/books/edition/The_Animal_Review/ljqRVptXG-sC?hl=en&gbpv=0) by Jacob Lentz
 - [*Half American*](https://www.google.com/books/edition/Half_American/4UpTEAAAQBAJ?hl=en&gbpv=0) by Matthew Delmont
-- [*It's Even Worse Than It Looks*](https://www.google.com/books/edition/It_s_Even_Worse_Than_It_Looks/ycKCxduv3xEC) by By Thomas E. Mann, Norman J. Ornstein
+- [*It's Even Worse Than It Looks*](https://www.google.com/books/edition/It_s_Even_Worse_Than_It_Looks/ycKCxduv3xEC) by Thomas Mann[^3], Norman Ornstein
 - [*Max, the Bad-talking Parrot*](https://www.google.com/books/edition/Max_the_Bad_Talking_Parrot/jUazf0BTIHEC?hl=en&gbpv=0) by Patricia Demuth Brennan
 - [*Snow Day at the Zoo!*](https://www.laurenranalli.com/shop/snow-day-at-the-zoo) by Lauren Ranalli
 
 [^2]: Each of these authors has more than one book published; I'm just highlighting the recent or popular title.
+[^3]: No, not that Thomas Mann; the other one.
