@@ -85,7 +85,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Religion</td>
-      <td style="text-align: left">Catholicism</td>
+      <td style="text-align: left"><a href="/catholic/">Catholicism</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Politics</td>
@@ -110,5 +110,5 @@ description: fun facts
   <li id="fn1">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref1" title="Return to article">↩</a></li>
   <li id="fn2">Native, Conversant, Novice; respectively.<a href="#fnref2" title="Return to article">↩</a></li>
   <li id="fn3">To the extent humans can be put in a box.<a href="#fnref3" title="Return to article">↩</a></li>
-  <li id="fn4">consanguineous<a href="#fnref4" title="Return to article">↩</a></li>
+  <li id="fn4">consanguíneos<a href="#fnref4" title="Return to article">↩</a></li>
 </ol>
