@@ -5,7 +5,9 @@ permalink: /catholic/
 ---
 *"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else."* (—C.S. Lewis)
 
-C.S. Lewis' words resonate with this "cradle Catholic" for whom it's difficult to stand outside Catholicism and look back upon it as it's woven into my upbringing—not just at Mass and holidays, but in everyday life in ways that are probably too ordinary to make an indelible memory. But if I had to summarize what's truly special and inimitable about Catholicism, I'd say:
+C.S. Lewis' words resonate with this "cradle Catholic" for whom it's difficult to stand outside the Faith and look back upon it when it's naturally woven into my upbringing—not just at Mass and holidays, but in everyday life in ways too ordinary to make indelible memories.
+
+But if I had to summarize what's truly special and inimitable about Catholicism, I'd say:
 1. **Sacramentality.** (Amazing) Grace breaking through the veil: Baptism, Penance, Eucharist et cetera.
 2. **Historical Continuity.** From the Apostles through antiquity to the Middle Ages to the modern period; through Her victories and saints, Her failures and sinners; the Church has endured for two millenia uninterrupted (against all odds).[^1]
 3. **Doctrinal Steadfastness.** On the whole, the Church isn't trying to win a popularity contest, and so does not modify its teachings and pronouncements in response to the whims of popular culture, and I quite respect this.
