@@ -3,14 +3,14 @@ layout: page
 title: Why I'm Catholic
 permalink: /catholic/
 ---
-*"The difficulty explaining why I am Catholic is that there are ten thousand reasons all amounting to one reason: that Catholicism is [true](/apologia/)."* (—G.K. Chesterton, *Twelve Modern Apostles and Their Creeds*, 1926)
+*"Always be ready to give an explanation to anyone who asks you for a reason for your hope..."* (—1 Peter 3:15)
 
 ## TL;DR: The Inimitability of Catholicism
 1. **Sacramentality.** (Amazing) Grace breaking through the veil: Baptism, Penance, Eucharist et cetera.
 2. **Historical Continuity.** From the Apostles through antiquity to the Middle Ages to the modern period; through Her victories and saints, Her failures and sinners; the Church has endured for two millenia uninterrupted (against all odds).[^1]
 3. **Doctrinal Steadfastness.** On the whole, the Church isn't trying to win a popularity contest, and so does not modify its teachings and pronouncements in response to the whims of popular culture, and I quite respect this.
 
-[^1]: It's a reason to love Catholicism ([Mt 16:18](https://bible.usccb.org/bible/matthew/16?18)), but also good evidence for it being guided by the H.S. as every other institution and empire has fallen over the centuries.
+[^1]: It's a reason to love Catholicism ([Mt 16:18](https://bible.usccb.org/bible/matthew/16?18)), but also [good evidence](/apologia/) for it being guided by the H.S. as every other institution and empire has fallen over the centuries.
 
 ## Growin' Up
 The first and simplest answer of why I'm Catholic is that I was "brought up" in the Faith, which I'm proud of *(fidei donum)* but also a touch self-conscious about—or shall I say I'm defensive against the tacit assumption that faith is a mere function of upbringing and where the Fates had you be born[^2] as I'd characterize this as a genetic fallacy. It also holds less water as society secularizes and it's not so fashionable to practice Catholicism. But, as I say, it was a gift: Mass every Sunday with Mom at the piano, leading the congregation in sung prayer, as Dad ensured we didn't screw around and participated (sang). They were carrying a tradition passed down from their parents and so on. This is more than my immediate family: four grandparents[^3] (one a convert), 19 biological aunts and uncles, family friends, et al. Kindergarten through third grade, and then eighth through twelfth grades were Catholic schooling, and while it was maybe catechetically unremarkable, I was surrounded by many people living out their faith to the best of their ability (which carries a lot of weight).
