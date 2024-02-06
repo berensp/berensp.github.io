@@ -3,9 +3,9 @@ layout: page
 title: Why I'm Catholic
 permalink: /catholic/
 ---
-*"Always be ready to give an explanation to anyone who asks you for a reason for your hope..."* (—1 Peter 3:15)
+*"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else."* (—C.S. Lewis)
 
-## TL;DR: The Inimitability of Catholicism
+C.S. Lewis' words resonate with this "cradle Catholic" for whom it's difficult to stand outside Catholicism and look back upon it as it's woven into my upbringing—not just at Mass and holidays, but in everyday life in ways that are probably too ordinary to make an indelible memory. But if I had to summarize what's truly special and inimitable about Catholicism, I'd say:
 1. **Sacramentality.** (Amazing) Grace breaking through the veil: Baptism, Penance, Eucharist et cetera.
 2. **Historical Continuity.** From the Apostles through antiquity to the Middle Ages to the modern period; through Her victories and saints, Her failures and sinners; the Church has endured for two millenia uninterrupted (against all odds).[^1]
 3. **Doctrinal Steadfastness.** On the whole, the Church isn't trying to win a popularity contest, and so does not modify its teachings and pronouncements in response to the whims of popular culture, and I quite respect this.
@@ -18,10 +18,14 @@ The first and simplest answer of why I'm Catholic is that I was "brought up" in 
 [^2]: This is frequently hauled out by the atheists (e.g., "How thoughtful of God to arrange matters so that, wherever you happen to be born, your local religion turns out to be the true one" —Richard Dawkins).
 [^3]: Maybe for another post, but there's a story to be told on how my maternal grandmother's tireless efforts can be credited with cultivating the faith of the next generations.
 
-## Claiming it
+## Claiming It
 My formation in Christianity and Catholicism was multifaceted with many lovely people playing parts, but it also lacked some rigor—for which I take full responsibility as I was at wonderful schools and surrounded by marvelous teachers. High school was diocesan, and so it was my Uncle John who turned me on to the Jesuits (he having been formed in the tradition for the better part of a decade before deciding to exit). And so I chose Boston College for college, its (Jesuit) Catholicity no small factor, and once there my faith indeed expanded...in the classroom certainly (e.g., with [Fr. Michael Himes](/frhimes.html)), through various retreats and activities, but also through many late-night discussions and debates with clever friends[^4]. Kairos VIII impacted me enough that I joined the leadership team of a subsequent one; but theologically it only went ankle-deep, and so it demanded I take the next step on my own, which I failed to do...at least at that time. In my mid-20s I did deviate from the Faith when Protestantism directly challenged it and I lacked the theological foundations to overcome. However that detour ended up being profitable to my faith overall, and ultimately, I appreciated the shake because it sent me on a path of greater inquiry. I became hungry for theology and several texts had an oversized influence on me, *Seven Storey Mountain* by Thomas Merton being among the most important. Later the Word on Fire institute and EWTN were very helpful to my formation and growth.
 
 [^4]: It's funny: among my five roommates senior year, two became priests: [@jzipple](https://twitter.com/jzipple) and [@FrDaveNix](https://twitter.com/FrDaveNix), on diametric opposite ends of the conservative-liberal spectrum.
 
-## Love & Marriage
+## Love and Marriage
 I married "up" in many senses, but faith was certainly one: Lisa's itself but also that of her family: earnest, natural, bold, everpresent—possibly a gift from the Korean martyrs. We met in the contemporary choir of St. Dominic's, me a guitarist and vocalist; she a pianist. Faith occupied an important part of our relationship (e.g., weekly Lectio Divina with friends), and it eventually led us to Star of the Sea which has been a solid spiritual home for the past several years.
+
+Crescamus in Illo per omnia,
+
+— ᴘ. ᴍ. ʙ.
