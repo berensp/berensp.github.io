@@ -23,8 +23,8 @@ permalink: /apologia/
 [^1]: Although I'd argue most people don't have the Broadway-level acting ability to fool the masses.
 
 ## Best Arguments Against God / Faith
-- **Theodicy.** a.k.a. "The Problem of Evil" (e.g., "How could a good God allow bone cancer in a two-year-old child?"). One of the most difficult counterarguments—in fact, I believe Aquinas admitted that— as it is emotionally compelling, but can be convincingly argued against.
-- **Faith vs. Reason / Faith vs. Science.** This is a falsely-aporetic conflict. Using the scientific method to try to prove the existence of God is self-refuting.
+- **Theodicy.** a.k.a. "The Problem of Evil" (e.g., "How could a good God allow bone cancer in a two-year-old child?"). One of the most difficult counterarguments—in fact, I believe Aquinas admitted that— as it is emotionally gripping, but can be convincingly argued against.
+- **Faith vs. Reason / Faith vs. Science.** I know this is popular nowadays, but it's a remarkably bad argument. Firstly it's a falsely-aporetic conflict. Then looking to the scientific method to prove or disprove the existence of God is self-refuting.
 - **Hypocriticism.** This one grabs me: if Christianity is true, it should make its adherents good, and the world should recognize the veracity of the Faith by the works produced by these people, and yet, to quote Fr. Lupe from my friend Fr. Zipple's article[^2], "I've had a deep conviction that most middle-class Catholics are phony Christians, just as materialistic and self-seeking, and as liable to go along with others, as any non-Christian, and often more so." So true. But as Frank Turek says, "when someone plays Beethoven purely who don't blame Beethoven, you blame the player." Ergo the Church is a "hospital for sinners, not a museum of saints."
 
 [^2]: Fr. Jeremy Zipple, S.J., "[Remembering 'Father Lupe': A radical Jesuit, rebel armies, the CIA and a mysterious disappearance](https://www.americamagazine.org/politics-society/2023/09/20/james-carney-jesuit-revolutionary-honduras-martyr-246126)," *America Magazine*, September 20, 2023.
