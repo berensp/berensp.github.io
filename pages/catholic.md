@@ -1,14 +1,22 @@
 ---
 layout: page
-title: Why I'm Catholic
+title: Why I Am A Catholic
 permalink: /catholic/
 ---
 *"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else."* (—C.S. Lewis)
 
-C.S. Lewis' words resonate with this "cradle Catholic" for whom it's difficult to stand outside the Faith and look back upon it when it's naturally woven into my upbringing—not just at Mass and holidays, but in everyday life in ways too ordinary to make indelible memories.
+This line from C.S. Lewis resonates with me, but I suppose I ought to articulate why Catholicism at all. The Council of Nicæa did it better but here's how I'd summarize it in my own words:
 
-But if I had to summarize what's truly special and inimitable about Catholicism, I'd say:
-1. **Sacramentality.** (Amazing) Grace breaking through the veil: Baptism, Penance, Eucharist et cetera.
+## Credo
+
+I believe that the eternal, omnipotent, omniscient, omnibenevolent God created us out of sheer love, and also granted us free will, which we took and abused (original sin). And so He pursued us like the Hound of Heaven—because He's madly in love with us—through the centuries via prophets and kings and through a special people (Israel) and finally through His only son, Jesus Christ, to save us from ourselves (because addicts can't just pull themselves up out of their addiction "by their bootstraps"), which He did by being horrifically crucified, though innocent, on a cross in order to expiate the past, present, and future sin of the world. He founded and left us His Church to make sure everyone could be saved through that sacrifice.
+
+Ergo, I'm Catholic because that's the gameplan...and it being the whole fountainhead of truth and God's grace and so forth.
+
+## The Inimitability of Catholicism
+
+But serioulsy, if I had to summarize what's truly special and unique about Catholicism, I'd say a few things rise to the very top:
+1. **Sacramentality.** (Amazing) Grace breaking through the veil: Baptism, Penance, Eucharist, et cetera.
 2. **Historical Continuity.** From the Apostles through antiquity to the Middle Ages to the modern period; through Her victories and saints, Her failures and sinners; the Church has endured for two millenia uninterrupted (against all odds).[^1]
 3. **Doctrinal Steadfastness.** On the whole, the Church isn't trying to win a popularity contest, and so does not modify its teachings and pronouncements in response to the whims of popular culture, and I quite respect this.
 
