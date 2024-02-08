@@ -23,10 +23,11 @@ Say hello on your messenger / app / platform of choice[^1]:
 - <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
 - <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^2]
 
+	<mark><span class="muted small">web3</span></mark>
+
+
 [^1]: Q: Why so many bloody apps? [Answer](https://imgs.xkcd.com/comics/chat_systems.png).
 [^2]: Not my fave, but Android users shan't be choosers.
-
-	<mark><span class="muted small">web3</span></mark>
 
 ## No se puede
 - ~~[iMessage](/phones/)~~
