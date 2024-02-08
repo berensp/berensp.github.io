@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger / app / platform of choice:
+Say hello on your messenger / app / platform of choice[^1]:
 - <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
 - <a href="mailto:hey@berens.co?subject=Hey%2C%20Paul%20%F0%9F%91%8B">Email</a>
@@ -21,16 +21,12 @@ Say hello on your messenger / app / platform of choice:
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <a href="https://twitter.com/berensp" target="_blank">Twitter / X</a>
-- <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^1]
+- <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^2]
 
 	<mark><span class="muted small">web3</span></mark>
-
-[^1]: Not my fave, but Android users shan't be choosers.
+[^1]: Q: Why so many bloody apps? [Answer](https://imgs.xkcd.com/comics/chat_systems.png).
+[^2]: Not my fave, but Android users shan't be choosers.
 
 ## No se puede
 - ~~[iMessage](/phones/)~~
 - ~~[Facebook/Instagram](../fb)~~
-
-## Why so many bloody apps?
-
-![xkcd 1810](https://imgs.xkcd.com/comics/chat_systems.png)
