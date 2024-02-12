@@ -25,7 +25,7 @@ There are frontmen and frontwomen who have great style and showmanship but not n
 *Honorable Mentions: Jeff Buckley, [Peter Cetera](https://music.youtube.com/watch?v=auYCscvUVyo&feature=share), Kurt Cobain, Phil Collins, [Chris Cornell](https://music.youtube.com/watch?v=TOqG_tCupeA&feature=share), Roger Daltrey, [Brad Delp (Boston)](https://music.youtube.com/watch?v=bZ_0_CWFk4c&feature=share), [John Fogerty](https://music.youtube.com/watch?v=peggPraZfxk&feature=share), Elton John, Bobby Kimball (Toto), Mick Jagger, Jim Morrison, Steven Tyler, Eddie Vedder.*
 
 ## Top Female Rock Vocalists
-1. **Ann Wilson** - my #1...and like a fine wine, her voice just got better: just check this [live version of *Alone*](https://music.youtube.com/watch?v=gZ1ClKVZKxI&feature=share) or her live performance of [*Stairway to Heaven*](https://youtu.be/2cZ_EFAmj08)
+1. **Ann Wilson** – my unwavering #1...and like a fine wine, her voice just got better; exempli gratia: [live version of *Alone*](https://music.youtube.com/watch?v=gZ1ClKVZKxI&feature=share) or her live performance of [*Stairway to Heaven*](https://youtu.be/2cZ_EFAmj08)
 2. **Janis Joplin** – she brought the blues to rock 'n' roll. Inimitable.
 3. **Tina Turner**
 4. **Stevie Nicks**
