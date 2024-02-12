@@ -4,11 +4,13 @@ title: Top Rock Vocalists
 date: 2024-02-12
 author:	Paul Berens
 ---
-I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those superstars coming together in one place on one night—about that essential question I ruminate on from time to time (especially as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
+I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those superstars coming together in one place on one night[^1]—about that essential question I ruminate on from time to time (especially as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
 
-There are frontmen and frontwomen who have great style and showmanship but not necessarily top vocal prowess[^1], which is what I'm trying to get at. (In some cases isolated vocal tracks help tease this out.) Okay, the definitive list (which I reserve the right to readjust and edit on a whim):
+[^1]: Actually, it's the part of *We are the World* when the sequence is Kenny Loggins to Steve Perry to Daryl Hall to Michael Jackson, and you think: wow, that's the varsity squad of mid-80s rock.
 
-[^1]: A good example of this, in my humble opinion, is Mick Jagger, undisputedly one of the greatest lead singers of all time, and even though he has an incredibly powerful voice with a distinctive sound, for my money he doesn't crack the top ten.
+There are frontmen and frontwomen who have great style and showmanship but not necessarily top vocal prowess[^2], which is what I'm trying to get at. (In some cases isolated vocal tracks help tease this out.) Okay, the definitive list (which I reserve the right to readjust and edit on a whim):
+
+[^2]: A good example of this, in my humble opinion, is Mick Jagger, undisputedly one of the greatest lead singers of all time, and even though he has an incredibly powerful voice with a distinctive sound, for my money he doesn't crack the top ten.
 
 ## Top Male Rock Vocalists
 1. **Freddie Mercury** – Decidedly #1 with his [full four-octave vocal range](https://music.youtube.com/watch?v=KHYjIIJ14MI&feature=share). I guess more rock vocalists ought to be opera-trained.
