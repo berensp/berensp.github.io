@@ -20,9 +20,9 @@ There are frontmen and frontwomen who have great style and showmanship but not n
 7. **Sting** – [*Englishman In New York (isolated vocals)*](https://music.youtube.com/watch?v=NnMlmREHTFQ&feature=share)
 8. **Steve Perry** – [*Open Arms* (isolated vocals)](https://music.youtube.com/watch?v=OVTnzvJ4en4&si=TLLy4bKSSQBCvOoB)
 9. **Bono Vox** – [*With or Without You* (isolated vocals)](https://music.youtube.com/watch?v=OWtVX2gbi4g&si=fdkBQ0X8UTXcbu1a).
-10. **Van the Man** - incredibly versatile https://www.melophobemusic.com/post/top-100-greatest-rock-vocalists-of-all-time#google_vignette
+10. **Van the Man** - incredibly versatility and power. [*Brown-eyed Girl* (isolated vocals)](https://music.youtube.com/watch?v=pTcMgBsXHPc&si=vAOtAb-iL_A9ljI2).
 
-Honorable Mentions: Jeff Buckley, [Peter Cetera](https://music.youtube.com/watch?v=auYCscvUVyo&feature=share), Kurt Cobain, Phil Collins, [Chris Cornell](https://music.youtube.com/watch?v=TOqG_tCupeA&feature=share), Roger Daltrey, [Brad Delp (Boston)](https://music.youtube.com/watch?v=bZ_0_CWFk4c&feature=share), [John Fogerty](https://music.youtube.com/watch?v=peggPraZfxk&feature=share), Elton John, Bobby Kimball (Toto), Mick Jagger, Jim Morrison, Steven Tyler, Eddie Vedder.
+*Honorable Mentions: Jeff Buckley, [Peter Cetera](https://music.youtube.com/watch?v=auYCscvUVyo&feature=share), Kurt Cobain, Phil Collins, [Chris Cornell](https://music.youtube.com/watch?v=TOqG_tCupeA&feature=share), Roger Daltrey, [Brad Delp (Boston)](https://music.youtube.com/watch?v=bZ_0_CWFk4c&feature=share), [John Fogerty](https://music.youtube.com/watch?v=peggPraZfxk&feature=share), Elton John, Bobby Kimball (Toto), Mick Jagger, Jim Morrison, Steven Tyler, Eddie Vedder.*
 
 ## Top Female Rock Vocalists
 1. **Ann Wilson** - my #1...and like a fine wine, her voice just got better: just check this [live version of *Alone*](https://music.youtube.com/watch?v=gZ1ClKVZKxI&feature=share) or her live performance of [*Stairway to Heaven*](https://youtu.be/2cZ_EFAmj08)
@@ -36,7 +36,7 @@ Honorable Mentions: Jeff Buckley, [Peter Cetera](https://music.youtube.com/watch
 9. **Gwen Stefani** – again, we're in some gray areas with respect to genre as she moves among rock and pop and ska.
 10. **Rachael Price** (Lake Street Dive) – going to get one contemporary vocalist in this list
 
-Honorable Mentions: Brandi Carlisle, Joan Jett, Melissa Ethridge.
+*Honorable Mentions: Brandi Carlisle, Joan Jett, Melissa Ethridge.*
 
 🤘,
 
