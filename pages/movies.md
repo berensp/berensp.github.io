@@ -4,6 +4,7 @@ title: 🎦 Movies
 permalink: /movies/
 ---
 ## Recently watched
+- *The Greatest Night in Pop* (2024) (Alejandro Gómez Monteverde)
 - *Sound of Freedom* (2023) (Alejandro Gómez Monteverde)
 
 ## Watchlist
