@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const postDateEl = document.querySelector('#postDate');
   if (postDateEl) {
     const datePart = postDateEl.getAttribute('data-post-date').split('T')[0];
-    const adjustedDateStr = datePart + 'T10:00:00-08:00'; // Assuming date is in PST
+    const adjustedDateStr = datePart + 'T02:30:00-08:00'; // Assuming date is in PST
     console.log("Adjusted Date String:", adjustedDateStr);
 
     const postDate = new Date(adjustedDateStr);
