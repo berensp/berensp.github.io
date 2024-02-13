@@ -4,13 +4,13 @@ title: Top Rock Vocalists
 date: 2024-02-12
 author:	Paul Berens
 ---
-I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those superstars coming together in one place on one night[^1]—about that essential question I ruminate on from time to time (especially as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
+I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those rockstars coming together in one place on one night[^1]—about that essential question I ruminate on from time to time (especially as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
 
-[^1]: Actually, it's the sequence in *We are the World* of Kenny Loggins to Steve Perry to Daryl Hall and back to Michael Jackson, and you think: wow, that's the varsity squad of mid-80s rock. (Footnote to this footnote: I excluded MJ on a categorical technicality since he is the King of *Pop*.)
+[^1]: Actually, it's the sequence in *We are the World* of Kenny Loggins to Steve Perry to Daryl Hall and back to Michael Jackson, and you think: wow, that's the varsity squad of mid-80s rock. (Footnote to this footnote: I excluded MJ on a categorical technicality since he is the King of *Pop*; not *Rock*.)
 
 There are frontmen and frontwomen who have great style and showmanship but not necessarily top vocal prowess[^2], which is what I'm trying to get at. (In some cases isolated vocal tracks help tease this out.) Okay, the definitive lists (which I reserve the right to readjust and edit on a whim):
 
-[^2]: A good example of this, in my humble opinion, is Mick Jagger, undisputedly one of the greatest lead singers of all time, because even though he has a legendary voice (powerful, versatile, distinctive), for my money he doesn't crack the top ten.
+[^2]: A good example of this, in my humble opinion, is Mick Jagger, undisputedly one of the greatest lead singers of all time; because even though he has a legendary voice (powerful, versatile, distinctive), for my money he doesn't quite crack the top ten.
 
 ## Top Male Rock Vocalists
 1. **Freddie Mercury** – Decidedly #1 with his [full four-octave vocal range](https://music.youtube.com/watch?v=KHYjIIJ14MI&feature=share) and [atypical vocal fingerprint](https://www.npr.org/2016/04/25/475611808/why-freddie-mercurys-voice-was-so-great-as-explained-by-science).
@@ -22,7 +22,7 @@ There are frontmen and frontwomen who have great style and showmanship but not n
 7. **Sting** – [*Englishman In New York* (isolated vocals)](https://music.youtube.com/watch?v=NnMlmREHTFQ&feature=share)
 8. **Steve Perry** – [*Open Arms* (isolated vocals)](https://music.youtube.com/watch?v=OVTnzvJ4en4&si=TLLy4bKSSQBCvOoB)
 9. **Bono** – [*With or Without You* (isolated vocals)](https://music.youtube.com/watch?v=OWtVX2gbi4g&si=fdkBQ0X8UTXcbu1a).
-10. **Van the Man** - remarkable versatility and clarity. [*Brown-eyed Girl* (isolated vocals)](https://music.youtube.com/watch?v=pTcMgBsXHPc&si=vAOtAb-iL_A9ljI2).
+10. **Van the Man** – remarkable versatility and clarity. [*Brown-eyed Girl* (isolated vocals)](https://music.youtube.com/watch?v=pTcMgBsXHPc&si=vAOtAb-iL_A9ljI2).
 
 *Honorable Mentions: Jeff Buckley, [Peter Cetera](https://music.youtube.com/watch?v=auYCscvUVyo&feature=share), Kurt Cobain, Phil Collins, [Chris Cornell](https://music.youtube.com/watch?v=TOqG_tCupeA&feature=share), Roger Daltrey, [Brad Delp](https://music.youtube.com/watch?v=bZ_0_CWFk4c&feature=share), [John Fogerty](https://music.youtube.com/watch?v=peggPraZfxk&feature=share), Elton John, Bobby Kimball, Mick Jagger, Jim Morrison, Steven Tyler, Eddie Vedder.*
 
