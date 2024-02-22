@@ -16,7 +16,7 @@ Say hello on your messenger / app / platform of choice[^1]:
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <a href="https://matrix.to/#/@berens:matrix.org" target="_blank">Matrix</a>
-- <a href="https://signal.org" target="_blank">Signal</a>
+- <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a>
 - <mark><a href="https://join.status.im/u/0x04fef6e494c4db1d25d1b144f3914747cdf8164e5208dafe7fd1926d3d75e7b545ff02d0571ccf788ff0fff8065616967de51935e76d90a04a47df82cead041f57" target="_blank">Status</a></mark>
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
