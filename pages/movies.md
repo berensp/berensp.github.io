@@ -4,7 +4,7 @@ title: 🎦 Movies
 permalink: /movies/
 ---
 ## Recently watched
-- *The Greatest Night in Pop* (2024) (Alejandro Gómez Monteverde)
+- *The Greatest Night in Pop* (2024) (Bao Nguyen)
 - *Sound of Freedom* (2023) (Alejandro Gómez Monteverde)
 
 ## Watchlist
@@ -14,6 +14,8 @@ permalink: /movies/
 - *Fargo* (1996) (Coen Bros) - the banality of evil...and takes place in [MN](/mn/).
 - *The Shawshank Redemption* (1994) (Frank Darabont) - one of the most beautiful Christ-figure stories
 - *Life Is Beautiful* (1997) (Roberto Benigni) - Non sto piangendo; stai piangendo...
+- *Rushmore* (1998) (Wes Anderson)
+- *Waiting for Guffman* (1996) (Christopher Guest)
 
 ## Movies written/produced by friends (that you should check out):
 - *Freelance* (2023) (Jacob Lentz)

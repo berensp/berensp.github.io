@@ -4,11 +4,13 @@ title: Top Rock Vocalists
 date: 2024-02-12
 author:	Paul Berens
 ---
-I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those rockstars coming together in one place on one night[^1]—about that essential question I ruminate on from time to time (especially as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
+I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those rockstars coming together in one place on one night[^1]—about that essential question I ruminate on from time to time (as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
 
 [^1]: Actually, it's the sequence in *We are the World* of Kenny Loggins to Steve Perry to Daryl Hall and back to Michael Jackson, and you think: wow, that's the varsity squad of mid-80s rock. (Footnote to this footnote: I excluded MJ on a categorical technicality since he is the King of *Pop*; not *Rock*.)
 
-There are frontmen and frontwomen who have great style and showmanship but not necessarily top vocal prowess[^2], which is what I'm trying to get at. (In some cases isolated vocal tracks help tease this out.) Okay, the definitive lists (which I reserve the right to readjust and edit on a whim):
+There are frontmen and frontwomen who have great style and showmanship but not necessarily preeminent vocal prowess[^2], which is what I'm trying to get at. (In some cases isolated vocal tracks help tease this out.)
+
+Okay, the definitive lists...which I reserve the right to readjust and edit on a whim:
 
 [^2]: A good example of this, in my humble opinion, is Mick Jagger, undisputedly one of the greatest lead singers of all time; because even though he has a legendary voice (powerful, versatile, distinctive), for my money he doesn't quite crack the top ten.
 
