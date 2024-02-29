@@ -29,7 +29,7 @@ It occurred to me as she was talking that a good portion of the delta in life ex
 [^4]: Jessica Y Ho, [Causes of America's Lagging Life Expectancy: An International Comparative Perspective](https://doi.org/10.1093/geronb/gbab129), *The Journals of Gerontology: Series B*, Volume 77, Issue Supplement_2, May 2022, Pages S117–S126.
 
 ![16 causes](/assets/images/16contributors.jpeg)
-<span class="muted small">Contribution of 16 causes of death to the U.S. life expectancy shortfall in 2016.</span>
+<p><span class="muted small">Contribution of 16 causes of death to the U.S. life expectancy shortfall in 2016.</span></p>
 
 And so, of course, the US healthcare system plays a significant role in the prevention, detection/diagnosis, and treatment of the circulatory, cardiovascular, and respiratory diseases, for example; but when you come to drug overdoses, firearm-related deaths, homicides, motor vehicle-related deaths[^5]; even if the broader healthcare system can play a role (e.g., mental health, community-based healthcare), there are decidedly other factors at play.
 
