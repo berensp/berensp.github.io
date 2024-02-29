@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Suprious Relationship: 
+title: A Sspurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
