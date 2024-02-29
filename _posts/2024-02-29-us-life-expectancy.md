@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Sspurious Relationship
+title: A Spurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
