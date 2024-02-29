@@ -4,9 +4,9 @@ title: A Sspurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
-(I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back and improve it, because starting now, instead of polishing writing ad nauseum I'm going to hit `publish` on a post like this in a half-baked state, and come back and revise per Nick Yoder's 10-point scale\[^1]\.)
+(I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back and improve it, because starting now, instead of polishing writing ad nauseum I'm going to hit `publish` on a post like this in a half-baked state, and come back and revise per Nick Yoder's 10-point scale[^1]\.)
 
-[^1] I discovered [Nick's concept of the 10-point scale](https://nickyoder.com/perfectionism/) (his response to his own perfectionism) where a 0/10 is "title only" and a 10/10 is "complete thought" and nine gradations in between.
+[^1]: I discovered [Nick's concept of the 10-point scale](https://nickyoder.com/perfectionism/) (his response to his own perfectionism) where a 0/10 is "title only" and a 10/10 is "complete thought" and nine gradations in between.
 
 I attended a talk yesterday on health economics in the US market, and the lecturer trots out this sequence of slides that shows how much the US spends on healthcare (in total and per capita) and how our life expectancy is mediocre to below average (especially when compared with wealthier peer countries).
 
