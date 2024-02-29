@@ -4,7 +4,7 @@ title: A Suprious Relationship:
 date: 2024-02-29
 author:	Paul Berens
 ---
-(I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back and improve it, because starting now, instead of polishing writing ad nauseum I'm going to hit `publish` on a post like this in a half-baked state, and come back and revise per Nick Yoder's 10-point scale[^1].)
+(I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back and improve it, because starting now, instead of polishing writing ad nauseum I'm going to hit `publish` on a post like this in a half-baked state, and come back and revise per Nick Yoder's 10-point scale[^1]\.)
 
 [^1] I discovered [Nick's concept of the 10-point scale](https://nickyoder.com/perfectionism/) (his response to his own perfectionism) where a 0/10 is "title only" and a 10/10 is "complete thought" and nine gradations in between.
 
@@ -28,7 +28,7 @@ It occurred to me as she was talking that a good portion of the delta in life ex
 
 [^4]: Jessica Y Ho, [Causes of America's Lagging Life Expectancy: An International Comparative Perspective](https://doi.org/10.1093/geronb/gbab129), *The Journals of Gerontology: Series B*, Volume 77, Issue Supplement_2, May 2022, Pages S117–S126.
 
-![Contribution of 16 causes of death to the U.S. life expectancy shortfall in 2016](/assets/images/16contributors.jpg)
+![16 causes](/assets/images/16contributors.jpeg)
 <span class="muted small">Contribution of 16 causes of death to the U.S. life expectancy shortfall in 2016.</span>
 
 And so, of course, the US healthcare system plays a significant role in the prevention, detection/diagnosis, and treatment of the circulatory, cardiovascular, and respiratory diseases, for example; but when you come to drug overdoses, firearm-related deaths, homicides, motor vehicle-related deaths[^5]; even if the broader healthcare system can play a role (e.g., mental health, community-based healthcare), there are decidedly other factors at play.
