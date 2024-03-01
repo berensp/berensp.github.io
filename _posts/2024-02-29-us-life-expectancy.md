@@ -46,8 +46,8 @@ Mauricio Avendano and Ichiro Kawachi address this in their 2014 Annual Review of
 
 > Nevertheless, regardless of cross-national differences in access to quality medical care, the fact remains that the overwhelming contributors to the incidence of disease (e.g. poor health behaviors) operate largely outside the influence of medical care.
 
-And so, yes, there's much to be desired for our healthcare system—I'm for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's.
+And so, yes, there's much to be desired for our healthcare system—I'm for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's. *Cum hoc ergo propter hoc*.
 
-Cum hoc ergo propter hoc,
+Happy Leap Day,
 
 — ᴘ. ᴍ. ʙ.
