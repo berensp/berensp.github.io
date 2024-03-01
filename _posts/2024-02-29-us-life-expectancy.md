@@ -10,7 +10,7 @@ I attended a talk yesterday on health economics in the US market, and the lectur
 
 ![Life expectancy vs. health expenditure (1970-2018)](/assets/images/life-expectancy-vs-health-expenditure-1970-to-2018_1874.png)
 
-We often hear this astounding pair of facts: that the U.S. has the lowest life expectancy amongst its wealthier peer countries while it far outspends them on healthcare. And it's not just this professor; the CDC puts it this way[^1]\:
+These two sad facts often come as a pair: that the U.S. has the lowest life expectancy amongst its wealthier peer countries while it far outspends them on healthcare. And it's not just this professor; the CDC links them as well[^1]\:
 
 [^1]: *[U.S. Health Disadvantage: Causes and Potential Solutions](https://www.cdc.gov/policy/chep/health/index.html)*, Centers for Disease Control and Prevention, Office of Policy, Performance, and Evaluation; Last Reviewed: January 7, 2022.
 
