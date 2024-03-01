@@ -4,13 +4,13 @@ title: A Spurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
-<mark_lightgray>I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back and improve it, because starting now, instead of polishing my writing *ad nauseum* I'm going to hit [publish] on a post like this in a half-baked state, and come back and revise per [Nick Yoder's 10-point scale](https://nickyoder.com/perfectionism/).</mark_lightgray>
+<mark_lightgray>I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing *ad nauseum* I'm going to hit [publish] on a post like this in a half-baked state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently learned about and love.</mark_lightgray>
 
 I attended a talk yesterday on health economics in the US market, and the lecturer trots out this sequence of slides that shows how much the US spends on healthcare (in total and per capita) and then how our life expectancy is mediocre to below average (especially when compared with wealthier peer countries).
 
 ![Life expectancy vs. health expenditure (1970-2018)](/assets/images/life-expectancy-vs-health-expenditure-1970-to-2018_1874.png)
 
-We often hear this astounding pair of facts: that the U.S. has the lowest life expectancy amongst its wealthier peer countries while it far outspends them on healthcare. Or as the CDC puts it[^1]\:
+We often hear this astounding pair of facts: that the U.S. has the lowest life expectancy amongst its wealthier peer countries while it far outspends them on healthcare. And it's not just this professor; the CDC puts it this way[^1]\:
 
 [^1]: *[U.S. Health Disadvantage: Causes and Potential Solutions](https://www.cdc.gov/policy/chep/health/index.html)*, Centers for Disease Control and Prevention, Office of Policy, Performance, and Evaluation; Last Reviewed: January 7, 2022.
 
@@ -28,7 +28,7 @@ You can see certain social determinants of health[^2] occupying their own spots 
 [^2]: Rabah Kamal, Cynthia Cox, and Erik Blumenkranz. ["What do we know about social determinants of health in the U.S. and comparable countries?"](https://www.healthsystemtracker.org/chart-collection/know-social-determinants-health-u-s-comparable-countries/) *KFF*, November 21, 2017.
 [^3]: "Injuries (drug overdose, firearm-related deaths, motor vehicle accidents, homicide), circulatory diseases, and mental disorders/nervous system diseases (including Alzheimer's disease) account for 86% and 67% of American men's and women's life expectancy shortfall, respectively." Jessica Y Ho, [Causes of America's Lagging Life Expectancy: An International Comparative Perspective](https://doi.org/10.1093/geronb/gbab129), *The Journals of Gerontology: Series B*, Volume 77, Issue Supplement_2, May 2022, Pages S117–S126.
 
-But then these and other social determinants of health feed back into the circulatory, respiratory, and diabetes slices:
+But then these and other social determinants of health also feed back into the circulatory, respiratory, and diabetes slices. For example:
 - Obesity – which then feeds back into cardiovascular disease via diabetes[^4]
 - Sedentary lifestyle – also increasing likelihood of heart disease
 - Income inequality (Gini coefficient) – could affect access to care, but this is also linked to education which influences lifestyle choices
