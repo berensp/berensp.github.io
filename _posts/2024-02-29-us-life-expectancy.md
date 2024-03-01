@@ -4,7 +4,7 @@ title: A Spurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
-<mark_lightgray>I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing <i>ad nauseam</i> I'm going to hit [publish] on a post like this in a work-in-progress state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently come across and love.</mark_lightgray>
+<mark_lightgray>I'm hastening to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing <i>ad nauseam</i> I'm going to hit [publish] on a post like this in a work-in-progress state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently come across and love.</mark_lightgray>
 
 I attended a talk yesterday on health economics in the US market, and the lecturer trots out this sequence of slides that shows how much the US spends on healthcare (in total and per capita) and then how our life expectancy is mediocre to below average (especially when compared with wealthier peer countries).
 
@@ -16,12 +16,12 @@ We often hear this astounding pair of facts: that the U.S. has the lowest life e
 
 > People in the United States have poorer health, more illness, and shorter lives than people in other wealthy countries. Americans pay too much for healthcare and lack adequate access to healthcare. This is called the U.S. health disadvantage.
 
-But as she spoke I wondered: is it a causal relationship? Or what portion of the delta in life expectancy can be explained by our healthcare system and Americans' participation in it versus factors outside of it?
+But as she spoke I wondered: is this a causal relationship? Or what portion of the delta in life expectancy can be explained by our healthcare system and Americans' participation in it versus factors outside of it?
 
 So I had to look into it, and what you find is a complex, multifactorial situation:
 
 ![16 causes](/assets/images/16contributors.jpeg)
-<span class="muted small">Contribution of 16 causes of death to the U.S. life expectancy shortfall in 2016.</span>
+<span class="muted small">Contribution of 16 causes of death (years) to the U.S. shortfall in life expectancy at birth, men (A) and women (B), 2016.</span>
 
 You can see certain social determinants of health[^2] occupying their own spots on the above graph with, for example, injuries — i.e., drug overdose, firearm-related deaths, motor vehicle accidents — accounting for 43% of American men's life expectancy gap[^3].
 
@@ -46,7 +46,7 @@ Mauricio Avendano and Ichiro Kawachi address this in their 2014 article[^6]\:
 
 > Nevertheless, regardless of cross-national differences in access to quality medical care, the fact remains that the overwhelming contributors to the incidence of disease (e.g. poor health behaviors) operate largely outside the influence of medical care.
 
-And so, yes, there's much to be desired for our healthcare system—I'm for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's.
+There's much to be desired for the U.S. healthcare system—I, for one, am for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's.
 
 *Cum hoc ergo propter hoc*.
 
