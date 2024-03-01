@@ -4,7 +4,7 @@ title: A Spurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
-<mark_lightgray>I'm hastening to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing <i>ad nauseam</i> I'm going to hit [publish] on a post like this in a work-in-progress state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently come across and love.</mark_lightgray>
+<mark_lightgray>I'm hastening to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing <i>ad nauseam</i> I'm going to hit [publish] on a post like this in a work-in-progress state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently come across and dig.</mark_lightgray>
 
 I attended a talk yesterday on health economics in the US market, and the lecturer trots out this sequence of slides that shows how much the US spends on healthcare (in total and per capita) and then how our life expectancy is mediocre to below average (especially when compared with wealthier peer countries).
 
