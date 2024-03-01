@@ -82,8 +82,8 @@ hr {
 
 .small {
   font-size: .8em; 
+  line-height: 1.1em;
 }
-
 
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
