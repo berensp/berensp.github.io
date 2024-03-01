@@ -4,7 +4,7 @@ title: A Spurious Relationship
 date: 2024-02-29
 author:	Paul Berens
 ---
-<mark_lightgray>I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing *ad nauseum* I'm going to hit [publish] on a post like this in a half-baked state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently learned about and love.</mark_lightgray>
+<mark_lightgray>I'm rushing to publish this on leap day—because it's a once in a four-year opportunity—but I'll come back later and improve it, because starting TODAY, instead of polishing my writing <i>ad nauseam</i> I'm going to hit [publish] on a post like this in a work-in-progress state, and come back and revise per <a href="https://nickyoder.com/perfectionism/" target="_blank">Nick Yoder's 10-point scale</a>, which I've recently come across and love.</mark_lightgray>
 
 I attended a talk yesterday on health economics in the US market, and the lecturer trots out this sequence of slides that shows how much the US spends on healthcare (in total and per capita) and then how our life expectancy is mediocre to below average (especially when compared with wealthier peer countries).
 
@@ -40,13 +40,15 @@ So then the question is how much of the gap can be explained by access to care a
 
 [^5]: Wilper, Andrew P., Steffie Woolhandler, Karen E. Lasser, Danny McCormick, David H. Bor, and David U. Himmelstein. 2009. ["Health Insurance and Mortality in US Adults."](https://doi.org/10.2105/AJPH.2008.157685) *American Journal of Public Health* 99(12): 2289–2295. doi:10.2105/AJPH.2008.157685.
 
-Mauricio Avendano and Ichiro Kawachi address this in their 2014 Annual Review of Public Health article[^6]\:
+Mauricio Avendano and Ichiro Kawachi address this in their 2014 article[^6]\:
 
 [^6]: Avendano, Mauricio, and Ichiro Kawachi. "Why do Americans have shorter life expectancy and worse health than do people in other high-income countries?" *Annual Review of Public Health* vol. 35 (2014): 307-25. doi:10.1146/annurev-publhealth-032013-182411
 
 > Nevertheless, regardless of cross-national differences in access to quality medical care, the fact remains that the overwhelming contributors to the incidence of disease (e.g. poor health behaviors) operate largely outside the influence of medical care.
 
-And so, yes, there's much to be desired for our healthcare system—I'm for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's. *Cum hoc ergo propter hoc*.
+And so, yes, there's much to be desired for our healthcare system—I'm for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's.
+
+*Cum hoc ergo propter hoc*.
 
 Happy Leap Day,
 
