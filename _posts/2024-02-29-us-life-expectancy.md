@@ -38,13 +38,21 @@ But then these and other social determinants of health also feed back into the c
 
 [^4]: "Recent estimates based on macro-level data suggest that obesity might explain as much as two thirds of the US shortfall in male life expectancy and two fifths of the US female life expectancy disadvantage." (Preston SH, Stokes A. [Contribution of Obesity to International Differences in Life Expectancy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222401/). *Am J Public Health*. November 2011.
 
-So then the question is how much of the gap can be explained by access to care and the efficacy of our healthcare system (in prevention, detection/diagnosis, and treatment) vis-à-vis the healthcare systems of peer countries? It's certainly not zero: one particular 2009 study indicated that somewhere between 0.8 to 1.8 percent of deaths of Americans 25-65 could be attributed to the lack of health insurance[^5].
+So then the question is how much of the gap can be explained by access to care and the efficacy of our healthcare system (in prevention, detection/diagnosis, and treatment) vis-à-vis the healthcare systems of peer countries?
+
+It's certainly not zero: one particular 2009 study indicated that somewhere between 0.8 to 1.8 percent of deaths of Americans 25-65 could be attributed to the lack of health insurance[^5].
 
 [^5]: Wilper, Andrew P., Steffie Woolhandler, Karen E. Lasser, Danny McCormick, David H. Bor, and David U. Himmelstein. 2009. ["Health Insurance and Mortality in US Adults."](https://doi.org/10.2105/AJPH.2008.157685) *American Journal of Public Health* 99(12): 2289–2295.
 
-Mauricio Avendano and Ichiro Kawachi address this in their 2014 article[^6]\:
+You'd think that number would be higher, and here you might say, well, if the US healthcare system weren't fee-for-service (which doesn't incent preventive care), then maybe there would be a larger gap between the insured and the uninsured, but interestingly, two recent studies demonstrate that while general health checks yielded good fruit (in increased chronic disease recognition and treatment and patient-reported outcomes, for example), they had "little or no effect on total mortality"[^6][^7].
 
-[^6]: Avendano, Mauricio, and Ichiro Kawachi. ["Why do Americans have shorter life expectancy and worse health than do people in other high-income countries?"](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-032013-182411) *Annual Review of Public Health* vol. 35 (2014): 307-25.
+[^6]: Krogsbøll LT, Jørgensen KJ, Gøtzsche PC. ["General health checks in adults for reducing morbidity and mortality from disease."](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009009.pub3/full) *The Cochrane Database of Systematic Reviews.* 2019 Jan;1:CD009009.
+
+[^7]: Liss DT, Uchida T, Wilkes CL, Radakrishnan A, Linder JA. ["General Health Checks in Adult Primary Care: A Review."](https://jamanetwork.com/journals/jama/article-abstract/2780614) *JAMA.* 2021;325(22):2294–2306. doi:10.1001/jama.2021.6524
+
+Mauricio Avendano and Ichiro Kawachi address this in their 2014 article[^8]\:
+
+[^8]: Avendano, Mauricio, and Ichiro Kawachi. ["Why do Americans have shorter life expectancy and worse health than do people in other high-income countries?"](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-032013-182411) *Annual Review of Public Health* vol. 35 (2014): 307-25.
 
 > Nevertheless, regardless of cross-national differences in access to quality medical care, the fact remains that the overwhelming contributors to the incidence of disease (e.g. poor health behaviors) operate largely outside the influence of medical care.
 
