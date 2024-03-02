@@ -31,7 +31,7 @@ You can see certain social determinants of health[^2] occupying their own spots 
 [^3]: "Injuries (drug overdose, firearm-related deaths, motor vehicle accidents, homicide), circulatory diseases, and mental disorders/nervous system diseases (including Alzheimer's disease) account for 86% and 67% of American men's and women's life expectancy shortfall, respectively." Jessica Y Ho, [Causes of America's Lagging Life Expectancy: An International Comparative Perspective](https://doi.org/10.1093/geronb/gbab129), *The Journals of Gerontology: Series B*, Volume 77, Issue Supplement_2, May 2022, Pages S117–S126.
 
 But then these and other social determinants of health also feed back into the circulatory, respiratory, and diabetes slices. For example:
-- **Obesity** – which then feeds back into cardiovascular disease via diabetes[^4]
+- **Obesity** – leading to cardiovascular disease via diabetes[^4]
 - **Sedentary lifestyle** – also increasing likelihood of heart disease
 - **Income inequality** (Gini coefficient) – could affect access to care, but this is also linked to education which influences lifestyle choices
 - **Environmental factors** – pollution, occupational risks, agricultural methods, climate change, and food contamination
