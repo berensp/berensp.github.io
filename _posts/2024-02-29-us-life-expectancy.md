@@ -44,13 +44,13 @@ It's certainly not zero: one particular 2009 study indicated that somewhere betw
 
 [^5]: Wilper, Andrew P., Steffie Woolhandler, Karen E. Lasser, Danny McCormick, David H. Bor, and David U. Himmelstein. 2009. ["Health Insurance and Mortality in US Adults."](https://doi.org/10.2105/AJPH.2008.157685) *American Journal of Public Health* 99(12): 2289–2295.
 
-You'd think that number would be higher, and here you might say, well, if the US healthcare system weren't fee-for-service (which doesn't incent preventive care), then maybe there would be a larger gap between the insured and the uninsured, but interestingly, two recent studies demonstrate that while general health checks yielded good fruit (in increased chronic disease recognition and treatment and patient-reported outcomes, for example), they had "little or no effect on total mortality"[^6][^7].
+You'd think that number would be higher, and here you might say, well, if the US healthcare system weren't fee-for-service and actually incented preventive care, then maybe there would be a larger gap between the insured and the uninsured, but interestingly, two recent studies demonstrate that while general health checks yielded good fruit (in increased chronic disease recognition and treatment and patient-reported outcomes, for example), they had "little or no effect on total mortality"[^6][^7].
 
-[^6]: Krogsbøll LT, Jørgensen KJ, Gøtzsche PC. ["General health checks in adults for reducing morbidity and mortality from disease."](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009009.pub3/full) *The Cochrane Database of Systematic Reviews.* 2019 Jan;1:CD009009.
+[^6]: Krogsbøll LT, Jørgensen KJ, Gøtzsche PC. ["General health checks in adults for reducing morbidity and mortality from disease."]() *The Cochrane Database of Systematic Reviews.* 2019 Jan;1:CD009009.
 
 [^7]: Liss DT, Uchida T, Wilkes CL, Radakrishnan A, Linder JA. ["General Health Checks in Adult Primary Care: A Review."](https://jamanetwork.com/journals/jama/article-abstract/2780614) *JAMA.* 2021;325(22):2294–2306. doi:10.1001/jama.2021.6524
 
-Mauricio Avendano and Ichiro Kawachi address this in their 2014 article[^8]\:
+Mauricio Avendano and Ichiro Kawachi summarily declare in their 2014 article[^8]\:
 
 [^8]: Avendano, Mauricio, and Ichiro Kawachi. ["Why do Americans have shorter life expectancy and worse health than do people in other high-income countries?"](https://www.annualreviews.org/doi/10.1146/annurev-publhealth-032013-182411) *Annual Review of Public Health* vol. 35 (2014): 307-25.
 
