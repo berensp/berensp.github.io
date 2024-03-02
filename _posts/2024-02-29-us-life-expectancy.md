@@ -56,7 +56,7 @@ Mauricio Avendano and Ichiro Kawachi summarily declare in their 2014 article[^8]
 
 > Nevertheless, regardless of cross-national differences in access to quality medical care, the fact remains that the overwhelming contributors to the incidence of disease (e.g. poor health behaviors) operate largely outside the influence of medical care.
 
-There's much to be desired for the U.S. healthcare system—I, for one, am for single payer (even in the form of continued medicare expansion)—but it seems to have a lot less explanatory power on life expectancy than guns, drugs, and McDonald's.
+There's much to be desired for the U.S. healthcare system—I, for one, am for single payer (even in the form of continued medicare expansion)—but in the final analysis it seems to have a lot less explanatory power on life expectancy than do guns, drugs, and McDonald's.
 
 *Cum hoc ergo propter hoc*.
 
