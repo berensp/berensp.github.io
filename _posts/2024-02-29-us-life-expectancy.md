@@ -8,7 +8,9 @@ author:	Paul Berens
 
 I attended a talk yesterday on health economics in the US market, and the lecturer trots out this sequence of slides that first show how much the US spends on healthcare (in total and per capita) and then our below-average life expectancy (when compared with wealthier peer countries).
 
-These two regrettable facts often come as a pair: that the U.S. has the lowest life expectancy amongst its wealthier peer countries and that it far outspends them on healthcare; the implication being that our healthcare system is *so* broken, we can't even spend our way out of mediocrity.
+But as she spoke I wondered: is this actually a *causal relationship?* Or what portion of the delta in life expectancy can be explained by our healthcare system and Americans' participation in it versus factors outside of it?
+
+So I had to look into it, and firstly, it is true that these two regrettable facts often come as a pair: that the U.S. has the lowest life expectancy amongst its wealthier peer countries and that it far outspends them on healthcare; the implication being that our healthcare system is *so* broken, we can't even spend our way out of mediocrity.
 
 ![Life expectancy vs. health expenditure (1970-2018)](/assets/images/life-expectancy-vs-health-expenditure-1970-to-2018_1874.png)
 
@@ -18,9 +20,7 @@ And it's not just this professor; the CDC links them as well, and defines the in
 
 > People in the United States have poorer health, more illness, **and shorter lives** than people in other wealthy countries. Americans **pay too much for healthcare** and lack adequate access to healthcare. This is called the U.S. health disadvantage.
 
-But as she spoke I wondered: is this a *causal relationship?* Or what portion of the delta in life expectancy can be explained by our healthcare system and Americans' participation in it versus factors outside of it?
-
-So I had to look into it, and what you find is a complex, multifactorial situation:
+But when you investigate the causes what you find is a complex, multifactorial situation:
 
 ![16 causes](/assets/images/16contributors.jpeg)
 <span class="muted small">Contribution of 16 causes of death (years) to the U.S. shortfall in life expectancy at birth, men (A) and women (B), 2016.</span>
