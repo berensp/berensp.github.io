@@ -14,6 +14,7 @@ Say hello on your messenger / app / platform of choice[^1]:
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
+- <a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">Marco Polo</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <a href="https://matrix.to/#/@berens:matrix.org" target="_blank">Matrix</a>
 - <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a>
