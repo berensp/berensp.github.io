@@ -13,7 +13,7 @@ description: You took a photograph of me
 </audio>
 
 ## Lyrics
-5a.m. March 16<br>
+5 a.m. March 16<br>
 Jesus on the radio<br>
 You took a photograph of me<br>
 On your yellow bucket seat<br>
