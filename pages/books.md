@@ -15,12 +15,12 @@ ogimage: bookshelf.bw.png
 
 ## Presently reading
 - [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
+- [*Man's Search for Meaning*](https://www.google.com/books/edition/_/F-Q_xGjWBi8C?hl=en&sa=X&ved=2ahUKEwjbxKbXq7CDAxVLhIkEHZEoCFAQre8FegUIAxDXAQ) by Viktor E. Frankl
 
 ## On deck
-- [*Read Write Own*](https://www.google.com/books/edition/Read_Write_Own/rmvFEAAAQBAJ?hl=en&gbpv=0) by Chris Dixon
+- [*Horse*](https://www.google.com/books/edition/Horse/xd5CEAAAQBAJ?hl=en&gbpv=0) by Geraldine Brooks
 
 ## Near-term reading list
-- [*Horse*](https://www.google.com/books/edition/Horse/xd5CEAAAQBAJ?hl=en&gbpv=0) by Geraldine Brooks
 - [*Range*](https://www.google.com/books/edition/Range/6nsmEAAAQBAJ?hl=en&gbpv=0) by David Epstein
 - [*The Life And Times Of The Thunderbolt Kid*](https://www.google.com/books/edition/The_Life_and_Times_of_the_Thunderbolt_Ki/W_WOEAAAQBAJ?hl=en) by Bill Bryson
 - [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
