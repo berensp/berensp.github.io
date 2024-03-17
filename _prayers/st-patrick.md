@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: Lorica of St. Patrick
+title: St. Patrick's Lorica
 ---
 I.  
 I bind to myself today  
