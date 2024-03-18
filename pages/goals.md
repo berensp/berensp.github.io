@@ -5,7 +5,7 @@ permalink: /goals/
 ---
 ## Quotidie
 <ul style="list-style:none">
-  <li><input type="checkbox"/>🙏 <a href="/prayers/st-joseph-worker/">Orate Ante Labori</a> (0:01)</li>
+  <li><input type="checkbox"/>🙏 <a href="/prayers/orate-ante-labori/">Orate Ante Labori</a> (0:01)</li>
   <li><input type="checkbox"/>⏲ deep work (1:30)</li>
   <li><input type="checkbox"/>🇰🇷 study Korean (0:15)</li>
   <li><input type="checkbox"/>💪 pushups (30x)</li>
