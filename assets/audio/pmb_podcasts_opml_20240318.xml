@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="WorkLife with Adam Grant" xmlUrl="https://feeds.feedburner.com/WorklifeWithAdamGrant" />
+      <outline type="rss" text="Criminal" xmlUrl="https://feeds.megaphone.fm/VMP7924981569" />
+      <outline type="rss" text="The Tim Ferriss Show" xmlUrl="https://rss.art19.com/tim-ferriss-show" />
+      <outline type="rss" text="Hidden Brain" xmlUrl="https://feeds.simplecast.com/kwWc0lhf" />
+      <outline type="rss" text="Broken Record with Rick Rubin, Malcolm Gladwell, Bruce Headlam and Justin Richmond" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/ff0ba2f2-f33c-4193-aba2-ae32006cd633/11c188a1-cb86-4869-9c57-ae32006cd63c/podcast.rss" />
+      <outline type="rss" text="Bio Eats World" xmlUrl="https://feeds.simplecast.com/BXDamaKF" />
+      <outline type="rss" text="Bankless" xmlUrl="https://bankless.libsyn.com/rss" />
+      <outline type="rss" text="Phoebe Reads a Mystery" xmlUrl="https://feeds.megaphone.fm/VMP1850856004" />
+      <outline type="rss" text="Lex Fridman Podcast" xmlUrl="https://lexfridman.com/feed/podcast/" />
+      <outline type="rss" text="After Hours" xmlUrl="https://feeds.feedburner.com/AfterHours_TAC" />
+      <outline type="rss" text="Hard Fork" xmlUrl="https://feeds.simplecast.com/l2i9YnTd" />
+      <outline type="rss" text="Your Undivided Attention" xmlUrl="https://feeds.simplecast.com/rZ0cYk12" />
+      <outline type="rss" text="Desert Island Discs" xmlUrl="https://podcasts.files.bbci.co.uk/b006qnmr.rss" />
+      <outline type="rss" text="Invest Like the Best with Patrick O'Shaughnessy" xmlUrl="https://feeds.megaphone.fm/CLS2859450455" />
+      <outline type="rss" text="Bay Curious" xmlUrl="https://feeds.megaphone.fm/KQINC4698044094" />
+      <outline type="rss" text="The TED Interview" xmlUrl="https://feeds.feedburner.com/TedInterview" />
+      <outline type="rss" text="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" />
+      <outline type="rss" text="Lenny's Podcast: Product | Growth | Career" xmlUrl="https://api.substack.com/feed/podcast/10845.rss" />
+      <outline type="rss" text="Conversations with Tyler" xmlUrl="http://cowenconvos.libsyn.com/rss" />
+      <outline type="rss" text="Huberman Lab" xmlUrl="https://feeds.megaphone.fm/hubermanlab" />
+      <outline type="rss" text="The Last Archive" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/podcast.rss" />
+      <outline type="rss" text="No Stupid Questions" xmlUrl="https://feeds.simplecast.com/dfh_verV" />
+      <outline type="rss" text="Modern Wisdom" xmlUrl="https://feeds.megaphone.fm/SIXMSB5088139739" />
+      <outline type="rss" text="HBR IdeaCast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" />
+      <outline type="rss" text="Bishop Barron’s Sunday Sermons - Catholic Preaching and Homilies" xmlUrl="https://feed.podbean.com/wordonfire/feed.xml" />
+      <outline type="rss" text="The Knowledge Project with Shane Parrish" xmlUrl="https://theknowledgeproject.libsyn.com/rss" />
+      <outline type="rss" text="Humans of Farcaster" xmlUrl="https://feeds.simplecast.com/k8waDMss" />
+      <outline type="rss" text="The Peter Attia Drive" xmlUrl="https://peterattiadrive.libsyn.com/rss" />
+      <outline type="rss" text='"Moment of Zen"' xmlUrl="https://feeds.megaphone.fm/RINTP4155988644" />
+      <outline type="rss" text="Positioning with April Dunford" xmlUrl="https://anchor.fm/s/df0a00ac/podcast/rss" />
+      <outline type="rss" text="Song Exploder" xmlUrl="http://feed.songexploder.net/SongExploder" />
+      <outline type="rss" text="Padre Peregrino" xmlUrl="https://padreperegrino.org/category/podcasts/talks/feed/" />
+      <outline type="rss" text="Philosophize This!" xmlUrl="https://feeds.megaphone.fm/QCD6036500916" />
+      <outline type="rss" text="The World in Brief from The Economist" xmlUrl="https://access.acast.com/rss/theeconomistmorningbriefing/default" />
+      <outline type="rss" text="Tetragrammaton with Rick Rubin" xmlUrl="https://feeds.megaphone.fm/tetragrammaton" />
+      <outline type="rss" text="Art of Investing" xmlUrl="https://feeds.megaphone.fm/aoi" />
+      <outline type="rss" text="Church of Saint Agnes" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:797665711/sounds.rss" />
+      <outline type="rss" text="Fresh Air" xmlUrl="https://feeds.npr.org/381444908/podcast.xml" />
+      <outline type="rss" text="The Analytics Power Hour" xmlUrl="https://analyticshour.libsyn.com/rss" />
+      <outline type="rss" text="A Slight Change of Plans" xmlUrl="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/podcast.rss" />
+      <outline type="rss" text="Healthcare Perspectives" xmlUrl="https://feeds.acast.com/public/shows/624cbb7ce45d6e0012a8cfef" />
+      <outline type="rss" text="Intelligence Squared" xmlUrl="https://feeds.megaphone.fm/NSR6363847171" />
+      <outline type="rss" text="The Exorcist Files" xmlUrl="https://feeds.simplecast.com/kL9pVL1p" />
+      <outline type="rss" text="KQED's Forum" xmlUrl="https://feeds.megaphone.fm/KQINC9557381633" />
+      <outline type="rss" text="Life Kit" xmlUrl="https://feeds.npr.org/510338/podcast.xml" />
+      <outline type="rss" text="The New Yorker Radio Hour" xmlUrl="https://feeds.simplecast.com/TRuO_SRo" />
+      <outline type="rss" text="Think Fast, Talk Smart: Communication Techniques" xmlUrl="https://rss.art19.com/think-fast-talk-smart" />
+      <outline type="rss" text="web3 with a16z crypto" xmlUrl="https://feeds.simplecast.com/XPOpH7r4" />
+      <outline type="rss" text="The Word on Fire Show - Catholic Faith and Culture" xmlUrl="https://wordonfire.libsyn.com/rss" />
+      <outline type="rss" text="Throughline" xmlUrl="https://feeds.npr.org/510333/podcast.xml" />
+      <outline type="rss" text="Curious Minnesota" xmlUrl="https://feeds.megaphone.fm/STB1320741359" />
+      <outline type="rss" text="The McKinsey Podcast" xmlUrl="https://www.omnycontent.com/d/playlist/708664bd-6843-4623-8066-aede00ce0c8a/3f6f52af-fba1-496d-b11b-af040139456a/bfe0b44a-082f-495a-952a-af0401394590/podcast.rss" />
+      <outline type="rss" text="Catholic Answers Live" xmlUrl="https://feeds.feedburner.com/catholic/cal" />
+      <outline type="rss" text="Quillette Podcast" xmlUrl="https://feeds.megaphone.fm/QLTUL2757454477" />
+    </outline>
+  </body>
+</opml>
