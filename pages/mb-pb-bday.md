@@ -13,9 +13,9 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
 | 2010-9-30 | <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
-| 2014-3-31 | <a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a> | PB→MB |
-| 2015-9-30 | <a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a> | MB→PB |
-| 2016-3-31 | <a href="http://peach.cool/" target="_blank">Peach</a> | PB→MB |
+| <mark>2014-3-31</mark> | <mark><a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a></mark> | <mark>PB→MB</mark> |
+| <mark>2015-9-30</mark> | <mark><a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a></mark> | <mark>MB→PB</mark> |
+| <mark>2016-3-31</mark> | <mark><a href="https://en.wikipedia.org/wiki/Peach_(social_network)" target="_blank">Peach</a></mark> | <mark>PB→MB</mark> |
 | 2016-9-30 | <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
 | 2017-3-31 | <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | PB→MB |
 | 2017-9-30 | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | MB→PB |
@@ -30,9 +30,9 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 [^3]: First blockchain-enabled birthday salute.
 
 ## Ineligible:
-- **Google Products:** Google+, Allo, Buzz, Wave...
+- **Google Products:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
 - **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited (with the exception of regular Facebook [because I had email notifications enabled for wall posts back then 😄]), but I [deep-sixed all Meta accounts in September 2021](/fb).
-- **Other Products:** <a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble[^4]
+- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a><mark>[^4]
 
 [^4]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
@@ -42,5 +42,6 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 
-![xkcd1810](https://imgs.xkcd.com/comics/chat_systems.png)
+	<mark><span class="muted small">defunct</span></mark>
+
 
