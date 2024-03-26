@@ -42,6 +42,6 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 
-	<mark><span class="muted small">defunct</span></mark>
+<mark><span class="muted small">defunct</span></mark>
 
 
