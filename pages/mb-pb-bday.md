@@ -31,16 +31,17 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 
 ## Ineligible:
 - **Google Products:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
-- **Facebook Products:** FB Messenger, Instagram, WhatsApp – can't recall which of these we've exploited (with the exception of regular Facebook [because I had email notifications enabled for wall posts back then 😄]), but I [deep-sixed all Meta accounts in September 2021](/fb).
-- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a><mark>[^4]
+- **Facebook Products:** FB Messenger, Instagram, WhatsApp[^4]
+- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a><mark>[^5]
 
-[^4]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
+[^4]: Can't recall which of these we've exploited—with the exception of regular Facebook (because I had email notifications enabled for wall posts back then 😄)—but I [deep-sixed all Meta accounts in September 2021](/fb).
+[^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
 ## Eligible:
-- <a href="https://signal.org" target="_blank">Signal</a>
-- <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
+- <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>
+- <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
 
 <mark><span class="muted small">defunct</span></mark>
 
