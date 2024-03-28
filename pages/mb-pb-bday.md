@@ -32,7 +32,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 ## Ineligible:
 - **Google Products:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
 - **Facebook Products:** FB Messenger, Instagram, WhatsApp[^4]
-- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a><mark>[^5]
+- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a></mark>[^5]
 
 [^4]: Can't recall which of these we've exploited—with the exception of regular Facebook (because I had email notifications enabled for wall posts back then 😄)—but I [deep-sixed all Meta accounts in September 2021](/fb).
 [^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
