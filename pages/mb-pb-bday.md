@@ -24,7 +24,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | 2022-11-5 | <a href="https://plex.tv/" target="_blank">Plex</a>[^2] | MB→PB |
 | 2023-3-31 | <a href="https://t.me/berensp" target="_blank">Telegram</a> | PB→MB |
 | 2023-9-29 | <a href="https://mas.to/@mbirney@fosstodon.org/111150123297043833" target="_blank">Mastodon</a> | MB→PB |
-| 2024-3-31 | <a href="https://warpcast.com/pmb" target="_blank">Farcaster</a>[^3] | PB→MB |
+| 2024-3-31 | <a href="https://warpcast.com/pmb/0x28ae5363" target="_blank">Farcaster</a>[^3] | PB→MB |
 
 [^2]: A stretch to qualify, but I definitely 'preciate you sharing your trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
