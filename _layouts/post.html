@@ -6,7 +6,6 @@ layout: default
 {{ content }}
 
 <p><span class="muted small">First published: {{ page.date | date: "%Y-%m-%d" }} | </span><a class="muted small" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&amp;url={{ site.url }}{{ page.url | url_encode }}&amp;via=berensp&amp;" target="_blank" aria-label="Tweet this page">tweet</a></span><span class="muted small"> | </span><span><a class="muted small" href="https://warpcast.com/~/compose?text=Just%20read%20this%20one%20by%20%40pmb%3A%20&{{ page.title | url_encode }}&embeds[]={{ site.url }}{{ page.url | url_encode }}&text=%20by" target="_blank" aria-label="Cast this page">cast</a></span></p>
-
 <p><a class="muted small" href="/blog/">← back to all posts</a></p>
 
 {%- include footer.html -%}
