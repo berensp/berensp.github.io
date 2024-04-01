@@ -14,7 +14,7 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | :---    | :---  | :---  |
 | 2010-9-30 | <a href="https://facebook.com" target="_blank">Facebook</a> | MB→PB |
 | <mark>2014-3-31</mark> | <mark><a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a></mark> | <mark>PB→MB</mark> |
-| <mark>2015-9-30</mark> | <mark><a href="https://ello.co/birney/post/mmmcxjyhytucpmfuaxj4za" target="_blank">Ello</a></mark> | <mark>MB→PB</mark> |
+| <mark>2015-9-30</mark> | <mark><a href="https://en.wikipedia.org/wiki/Ello_(social_network)" target="_blank">Ello</a></mark> | <mark>MB→PB</mark> |
 | <mark>2016-3-31</mark> | <mark><a href="https://en.wikipedia.org/wiki/Peach_(social_network)" target="_blank">Peach</a></mark> | <mark>PB→MB</mark> |
 | 2016-9-30 | <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | MB→PB |
 | 2017-3-31 | <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | PB→MB |
