@@ -4,8 +4,8 @@ title: Rosary
 ---
 1. Sign of the Cross
 2. [Apostles' Creed](/prayers/apostles-creed/)
-3. Our Father
-4. Hail Mary (×3)
+3. [Our Father](/prayers/pater-noster/)
+4. [Hail Mary](/prayers/ave-maria/) (×3)
 5. Glory Be
 6. [Announce Mystery]
 	- **Joyful** (M,Sa):
