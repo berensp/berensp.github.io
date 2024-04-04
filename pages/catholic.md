@@ -9,7 +9,7 @@ This line from Lewis resonates with me, but I suppose I first ought to express *
 
 > I believe that the eternal, omnipotent, omniscient, omnibenevolent, perfectly-just God created us out of sheer *agape*, and also granted us free will, which we took and abused (original sin). And so He pursued us like the Hound of Heaven—being madly in love with us—through the centuries via prophets and kings and through a special people (Israel) and finally through His only son, Jesus Christ, to save us from ourselves (because addicts can't just pull themselves up out of their addiction "by their bootstraps"), which He did by being horrifically crucified, though innocent, on a cross in order to expiate the past, present, and future sin of the world. He founded and left us His Church to give all the means to be saved through that sacrifice.
 
-Ergo, I'm Catholic because that's the gameplan...and it being the fountainhead of Truth and God's Grace.
+Ergo, I'm Catholic because that's the divine gameplan...and it being the fountainhead of Truth and God's Grace.
 
 ## The Inimitability of Catholicism
 

@@ -19,7 +19,7 @@ permalink: /apologia/
 ## The Best Arguments for the Christian God / Jesus Christ
 - **C.S. Lewis' "Liar, Lunatic, Lord" Paradigm.** People like the idea of saying that Jesus was "good moral teacher who was bringing a message of peace and forgiveness to the world yadda yadda" but Lewis makes the case that He didn't leave open that possibility as His claims and assertions (about being God)—remember that's why he was crucified?—were either true or else blasphemous whether *knowingly* (liar) or *unknowingly* (lunatic). 
 - **The longevity of the Church.** The idea that the Church, run by broken, sinful, misguided humans has outlasted the Roman Empire by one and a half millenia is incredible. It should've been run aground long ago. It's almost as if it's being guided by an invisible hand.
-- **Miracles / Apparitions / Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^2]; but in my estimation it's a small percentage and doesn't explain away all accounts.
+- **Miracles / Apparitions / Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^2]; but in my estimation it's a small percentage and doesn't explain away all accounts...that have, by the way, remarkable consistencies.
 
 [^2]: Although I'd argue most people don't have the Broadway-level acting ability to fool the masses.
 
