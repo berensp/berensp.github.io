@@ -3,10 +3,10 @@ layout: prayer
 title: Ave Maria
 ---
 Ave Maria, gratia plena,  
-Dominus tecum.  
-Benedicta tu in mulieribus,  
-et benedictus fructus ventris tui, Iesus.  
-Sancta Maria, Mater Dei,  
-ora pro nobis peccatoribus,  
-nunc, et in hora mortis nostrae.  
+Dóminus tecum.  
+Benedícta tu in muliéribus,  
+et benedíctus fructus ventris tui, Iesus.  
+Sancta María, Mater Dei,  
+ora pro nobis peccatóribus,  
+nunc, et in hora mortis nostræ.  
 Amen.
