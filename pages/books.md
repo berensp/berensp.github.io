@@ -38,6 +38,7 @@ ogimage: bookshelf.bw.png
 - [*The Devil in the White City*](https://www.google.com/books/edition/_/my26rbCgjlYC?hl=en&sa=X&ved=2ahUKEwjjt_Wrhqv5AhUOjIkEHZliAsAQre8FegQIAxBZ) by Erik Larson
 - [*Confederacy of Dunces*](https://www.google.com/books/edition/A_Confederacy_of_Dunces/WM6OztAsYWQC?hl=en&gbpv=0) by John Kennedy Toole
 - [*The Count of Monte Cristo*](https://www.google.com/books/edition/The_Count_of_Monte_Cristo/RyEEAAAAQAAJ?hl=en&gbpv=0) by Alexandre Dumas
+- [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
 - [*Pillars of the Earth*](https://www.google.com/books/edition/_/QYYQDAAAQBAJ?hl=en&sa=X&ved=2ahUKEwit84DyoZLwAhXxhK0KHY5bDaUQ7_IDMB16BAgNEAU) by Ken Follett
 - [*A Prayer for Owen Meany*](https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0) by John Irving
 - [*The Seven Storey Mountain*](https://www.google.com/books/edition/The_Seven_Storey_Mountain/SIZiPwAACAAJ?hl=en&kptab=overview) by Thomas Merton
