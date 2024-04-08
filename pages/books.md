@@ -11,11 +11,10 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Recently completed
-- [*Founding Brothers*](https://www.google.com/books/edition/Founding_Brothers/QW-PDQAAQBAJ?hl=en&gbpv=0) by Joseph Ellis
+- [*Man's Search for Meaning*](https://www.google.com/books/edition/_/F-Q_xGjWBi8C?hl=en&sa=X&ved=2ahUKEwjbxKbXq7CDAxVLhIkEHZEoCFAQre8FegUIAxDXAQ) by Viktor E. Frankl
 
 ## Presently reading
 - [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
-- [*Man's Search for Meaning*](https://www.google.com/books/edition/_/F-Q_xGjWBi8C?hl=en&sa=X&ved=2ahUKEwjbxKbXq7CDAxVLhIkEHZEoCFAQre8FegUIAxDXAQ) by Viktor E. Frankl
 
 ## On deck
 - [*Horse*](https://www.google.com/books/edition/Horse/xd5CEAAAQBAJ?hl=en&gbpv=0) by Geraldine Brooks
