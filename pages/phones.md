@@ -7,6 +7,7 @@ description: my cellular history
 
 | Mfr | Model | Carrier | Year |
 | :---  | :---  | :--- | :---  |
+| Google | Pixel 8 Pro | AT&T | 2024 |
 | Samsung | Galaxy S21 | T-Mobile | 2021 |
 | Google | Pixel 3 | <a href="https://fi.google.com/" target="_blank">Google</a> | 2019 |
 | Apple | iPhone 6S | Sprint | 2016 |
