@@ -32,6 +32,7 @@ description: ~88% yet to explore
 | 22 | 🇵🇪 | Lima, Machu Picchu |
 | 23 | 🇵🇷[^1] | Bahia Beach |
 | 24 | 🇮🇳 | Pune |
+| 25 | 🇬🇧 | Glasgow |
 
 [^1]: Unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
 
