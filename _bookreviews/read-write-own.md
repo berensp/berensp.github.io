@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: bookreview
 title: Read Write Own
 author: Chris Dixon
 finish_date: 2024-05-07
