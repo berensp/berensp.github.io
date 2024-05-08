@@ -6,8 +6,9 @@ layout: default
 <h1>{{ page.title | escape }}</h1>
 
 {% if page.og_image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.og_image | prepend: '/og/' | relative_url }}">
-  <meta property="og:url" content="{{ page.book_url }}">
+  <a href="{{ page.book_url }}">
+    <img src="{{ site.url }}/assets/og/{{ page.ogimage | relative_url }}" alt="book image">
+  </a>
 {% endif %}
 
 {{ content }}
