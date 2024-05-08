@@ -13,7 +13,7 @@ collections:
   prayers:
     output: true
     permalink: /prayers/:path/
-  book-reviews:
+  bookreviews:
     output: true
     permalink: /book-reviews/:path/
 
