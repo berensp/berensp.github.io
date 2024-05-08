@@ -4,9 +4,9 @@ title: Books
 permalink: /books/
 ogimage: bookshelf.bw.png
 ---
-<i>"Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo."</i> (—Giordano Bruno)
+<p><i>"Gutta cavat lapidem non bis, sed saepe cadendo; sic homo fit sapiens non bis, sed saepe legendo."</i> (—Giordano Bruno)</p>
 
-<img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
+<p><img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%"></p>
 
 {% assign categories = "Just Finished,Presently Reading,On Deck,Near Term,Favourites,Reviews,Books by Family/Friends" | split: "," %}
 
