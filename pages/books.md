@@ -29,7 +29,7 @@ ogimage: bookshelf.bw.png
 - [*Shipping News*](https://www.google.com/books/edition/The_Shipping_News/jHp8VHqgCmQC?hl=en&gbpv=0) by Annie Proulx
 - [*Avenue of Mysteries*](https://www.google.com/books/edition/Avenue_of_Mysteries/jH_RCgAAQBAJ?hl=en) by John Irving
 
-## Reviews / Notes
+<h2>Reviews / Notes</h2>
   {%- if site.bookreviews.size > 0 -%}
     <ul class="more-space">
       {%- for bookreview in site.bookreviews -%}
