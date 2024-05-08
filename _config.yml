@@ -2,9 +2,9 @@ title: Paul Berens
 description: Paul Berens
 url: "https://berens.co"
 
-book_now_title: Read Write Own
-book_now_author: Chris Dixon
-book_now_url: https://www.google.com/books/edition/Read_Write_Own/rmvFEAAAQBAJ?hl=en&gbpv=0
+book_now_title: The Road
+book_now_author: Cormac McCarthy
+book_now_url: https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0
 
 collections:
   recipes:
@@ -13,6 +13,9 @@ collections:
   prayers:
     output: true
     permalink: /prayers/:path/
+  book-reviews:
+    output: true
+    permalink: /book-reviews/:path/
 
 baseurl: ""
 permalink: /:categories/:title:output_ext

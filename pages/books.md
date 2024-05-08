@@ -11,7 +11,7 @@ ogimage: bookshelf.bw.png
 <img src="/assets/og/bookshelf.bw.png" alt="bookshelf" width="70%" height="70%">
 
 ## Recently completed
-- [*Man's Search for Meaning*](https://www.google.com/books/edition/_/F-Q_xGjWBi8C?hl=en&sa=X&ved=2ahUKEwjbxKbXq7CDAxVLhIkEHZEoCFAQre8FegUIAxDXAQ) by Viktor E. Frankl
+- [*Read Write Own*](https://www.google.com/books/edition/Read_Write_Own/rmvFEAAAQBAJ?hl=en&gbpv=0) by Chris Dixon
 
 ## Presently reading
 - [*{{ site.book_now_title }}*]({{ site.book_now_url }}) by {{ site.book_now_author }}
@@ -24,9 +24,7 @@ ogimage: bookshelf.bw.png
 - [*The Life And Times Of The Thunderbolt Kid*](https://www.google.com/books/edition/The_Life_and_Times_of_the_Thunderbolt_Ki/W_WOEAAAQBAJ?hl=en) by Bill Bryson
 - [*The Brothers Karamazov*](https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0) by Fyodor Dostoevsky
 - [*Bridge Of Sighs*](https://www.google.com/books/edition/Bridge_of_Sighs/OiNGhdlc0CIC?hl=en&gbpv=0) by Richard Russo
-- [*The Road*](https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0) by Cormac McCarthy
 - [*The Book of Unknown Americans*](https://www.google.com/books/edition/The_Book_of_Unknown_Americans/jixPAgAAQBAJ?hl=en&gbpv=0) by Christina Henriquez
-- [*A Portrait of the Artist as a Young Man*](https://www.google.com/books/edition/A_Portrait_of_the_Artist_as_a_Young_Man/r_w7EAAAQBAJ?hl=en&gbpv=0) by James Joyce
 - [*An Interrupted Life and Letters from Westerbork*](https://www.google.com/books/edition/Etty_Hillesum/HxfMzAEACAAJ?hl=en) by Etty Hillesum
 - [*Shipping News*](https://www.google.com/books/edition/The_Shipping_News/jHp8VHqgCmQC?hl=en&gbpv=0) by Annie Proulx
 - [*Avenue of Mysteries*](https://www.google.com/books/edition/Avenue_of_Mysteries/jH_RCgAAQBAJ?hl=en) by John Irving
