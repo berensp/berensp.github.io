@@ -29,6 +29,17 @@ ogimage: bookshelf.bw.png
 - [*Shipping News*](https://www.google.com/books/edition/The_Shipping_News/jHp8VHqgCmQC?hl=en&gbpv=0) by Annie Proulx
 - [*Avenue of Mysteries*](https://www.google.com/books/edition/Avenue_of_Mysteries/jH_RCgAAQBAJ?hl=en) by John Irving
 
+## Reviews / Notes
+  {%- if site.bookreviews.size > 0 -%}
+    <ul class="more-space">
+      {%- for bookreview in site.bookreviews -%}
+        <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
+      {%- endfor -%}
+    </ul>
+  {%- else -%}
+    <p>No book reviews found!</p>
+  {%- endif -%}
+
 ## Some favorites
 - [*Alice in Wonderland*](https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0) by Lewis Carroll
 - [*Bad Land*](https://www.google.com/books/edition/Bad_Land/ZbiNJcYeM6gC?hl=en&gbpv=0) by Jonathan Raban
