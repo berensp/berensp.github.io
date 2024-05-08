@@ -10,6 +10,7 @@ ogimage: bookshelf.bw.png
 
 {% assign categories = "Just Finished,Presently Reading,On Deck,Near Term,Favourites,Reviews,Books by Family/Friends" | split: "," %}
 
+{% raw %}
 {% for category in categories %}
   {% assign books_in_category = site.bookreviews | where: "category", category %}
   {% if books_in_category.size > 0 %}
@@ -21,3 +22,4 @@ ogimage: bookshelf.bw.png
     </ul>
   {% endif %}
 {% endfor %}
+{% endraw %}
