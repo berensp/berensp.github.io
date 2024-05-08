@@ -6,7 +6,7 @@ title: Rosary
 2. [Apostles' Creed](/prayers/apostles-creed/)
 3. [Our Father](/prayers/pater-noster/)
 4. [Hail Mary](/prayers/ave-maria/) (×3)
-5. Glory Be
+5. [Glory Be](/prayers/gloria-patri/)
 6. [Announce Mystery]
 	- **Joyful** (M,Sa):
 		- The Annunciation
@@ -32,9 +32,9 @@ title: Rosary
 		- The Coming of the Holy Spirit
 		- The Assumption of Mary
 		- The Coronation of Mary
-7. Our Father
-8. Hail Mary (×10)
-9. Glory Be + Fatima Prayer
+7. [Our Father](/prayers/pater-noster/)
+8. [Hail Mary](/prayers/ave-maria/) (×10)
+9. [Glory Be](/prayers/gloria-patri/) + Fatima Prayer
 10. [Repeat] (×5)
 11. [Hail, Holy Queen](/prayers/salve-regina/)
 
