@@ -11,10 +11,10 @@ permalink: /book-reviews/
 <h1>{{ page.title }}</h1>
 Thoughts on books I've read lest I forget.
 
-  {%- if site.book-reviews.size > 0 -%}
+  {%- if site.bookreviews.size > 0 -%}
     <ul class="more-space">
-      {%- for bookreview in site.book-reviews -%}
-        <li><a class="book-review-link" href="{{ book-review.url | relative_url }}">{{ book-review.title | escape }}</a></li>
+      {%- for bookreview in site.bookreviews -%}
+        <li><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></li>
       {%- endfor -%}
     </ul>
   {%- else -%}
