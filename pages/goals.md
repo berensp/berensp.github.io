@@ -3,6 +3,7 @@ layout: page
 title: Goals
 permalink: /goals/
 ---
+{% assign currently_reading = site.bookreviews | where: "category", "Presently Reading" | first %}
 ## Quotidie
 <ul style="list-style:none">
   <li><input type="checkbox"/>🙏 <a href="/prayers/orate-ante-labori/">Orate Ante Labori</a> (0:01)</li>
