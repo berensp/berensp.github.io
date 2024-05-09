@@ -2,7 +2,7 @@
 layout: bookreview
 title: Brideshead Revisited
 author: Evelyn Waugh
-category: Reviews
+category: Other Reviews
 book_url: https://www.google.com/books/edition/Brideshead_Revisited/mAjbDwAAQBAJ
 ogimage: bkreview_brideshead.jpg
 ---
