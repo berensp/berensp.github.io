@@ -12,7 +12,7 @@ permalink: /goals/
   <li><input type="checkbox"/>📋 thing #3: <input type="text" id="taskInput" name="task"></li>
   <li><input type="checkbox"/>🇰🇷 study Korean (0:15)</li>
   <li><input type="checkbox"/>💪 pushups (30x)</li>
-  <li><input type="checkbox"/>📖 <a href="/books/">read</a> <i>{{ site.book_now_title }}</i> (0:30)</li>
+  <li><input type="checkbox"/>📖 <a href="/books/">read</a> <i>{{ currently_reading.title }}</i> (0:30)</li>
   <li><input type="checkbox"/>🙏 <a href="/prayers/">pray</a> (0:15)</li>
   <li><input type="checkbox"/>😴 sleep (8:00)</li>
 </ul>
@@ -27,6 +27,6 @@ permalink: /goals/
 
 ## Quotannis
 <ul style="list-style:none">
-  <li><input type="checkbox"/>🇬🇧 visit Great Britian</li>
+  <li><input type="checkbox" checked/>🇬🇧 visit Great Britian</li>
   <li><input type="checkbox"/>📋 annual review</li>
 </ul>
