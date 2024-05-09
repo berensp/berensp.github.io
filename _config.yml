@@ -2,10 +2,6 @@ title: Paul Berens
 description: Paul Berens
 url: "https://berens.co"
 
-book_now_title: The Road
-book_now_author: Cormac McCarthy
-book_now_url: https://www.google.com/books/edition/The_Road/PfmjWho_zOAC?hl=en&gbpv=0
-
 collections:
   recipes:
     output: true
