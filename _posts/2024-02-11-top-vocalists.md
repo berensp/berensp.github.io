@@ -16,7 +16,7 @@ Okay, the definitive lists...which I reserve the right to readjust and edit on a
 
 ## Top Male Rock Vocalists
 1. **Freddie Mercury** – Decidedly #1 with his [full four-octave vocal range](https://music.youtube.com/watch?v=KHYjIIJ14MI&feature=share) and [atypical vocal fingerprint](https://www.npr.org/2016/04/25/475611808/why-freddie-mercurys-voice-was-so-great-as-explained-by-science).
-2. **Robert Plant** – a legend and [here are six isolated vocal tracks lend credence](https://faroutmagazine.co.uk/robert-plant-led-zeppelin-isolated-vocal-greatest-singer-ever/)
+2. **Robert Plant** – a legend and [here are six isolated vocal tracks that lend credence](https://faroutmagazine.co.uk/robert-plant-led-zeppelin-isolated-vocal-greatest-singer-ever/)
 3. **Axl Rose** – six-octave range, according to a 2014 article in the *Telegraph*, suggesting he "has a lower baritone than Barry White, and can reach higher notes than Tina Turner and Beyoncé".
 4. **Paul McCartney** – It'd be sacrilege to not have a Beatle in Top 10, but I'll take Paul over John. [*Maybe I'm Amazed* (isolated vocals)](https://music.youtube.com/watch?v=WeeNPLh2_qQ&feature=share).
 5. **Daryl Hall** – Can hang with the best of 'em. [*Out of Touch* (isolated vocals)](https://youtu.be/AeAkYS9WqrM)
