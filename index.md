@@ -7,12 +7,12 @@ layout: home
 
 ✌ Hi, I'm [Paul Berens](/infobox/).
 
-Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
+📍 Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
 
-Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>.
+✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>.
 
 {% if currently_reading %}
-Currently [reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}.
+📚 Currently [reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}.
 {% endif %}
 
-Get in touch via a [myriad of messengers](/contact/).
+📬 Get in touch via a [myriad of messengers](/contact/).
