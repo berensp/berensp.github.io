@@ -14,5 +14,5 @@ Ab hoste maligno defende me.
 In hora mortis meae voca me.  
 Et iube me venire ad te,  
 Ut cum Sanctis tuis laudem te  
-in saecula saeculorum.  
+in sæcula sæculorum.  
 Amen.
