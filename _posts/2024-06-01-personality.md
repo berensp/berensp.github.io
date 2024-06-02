@@ -1,10 +1,10 @@
 ---
 layout: post
-title: TMI on MBTI, etc.
+title: TMI on MBTI
 date: 2024-06-01
 author:	Paul Berens
 ---
-My maternal extended family *loves* the Myers-Briggs Type Indicator (MBTI), and, because we're a large clan, conjecturing how the "types" might explain the behaviors and predilections of family members is a favorite passtime. I found it all fascinating and fun until a few years ago when I found out how pseudoscientific it is: i.e., that Carl Jung basically made up these categories (Perceivers and Judgers and so on) based on his own experience and entirely in the absence of data; and then Katherine Briggs and her daughter Isabel Briggs Myers come up with the test despite having no formal psychology training. Yowsa.
+My maternal extended family has enjoyed a long-term love affair with the Myers-Briggs Type Indicator (MBTI). And, because we're a large clan, conjecturing how the "types" might explain the behaviors and predilections of family members is a favorite passtime. I, too, found it all fascinating and fun until a few years ago when I found out how pseudoscientific it is: i.e., that Carl Jung basically made up these categories (Perceivers and Judgers and so on) based on his own experience and entirely in the absence of data; and then Katherine Briggs and her daughter Isabel Briggs Myers come up with the test despite having no formal psychology training. Yowsa.
 
 The actual data show that Myers-Briggs traits:
 1. Are unreliable (i.e. they subject to change)[^1]
@@ -18,7 +18,7 @@ That isn't to say we humans can't have preferences and proclivities ("default se
 
 However, there are other personality assessment tools that are showing to have greater explanatory/predictive power than that of MBTI[^3]:
 
-| Personality Assessment | R² |
+| Assessment | R² |
 | :--- | :--- |
 | MMPI[^4] | 0.30 - 0.60 |
 | Big Five | 0.20 - 0.50 |
@@ -41,7 +41,7 @@ It does seem that the research community seems to be knighting Big Five as "the 
 
 What's funny is that certain MBTI traits map to those of other tests. For example, I'm an N (Intuition) on MBTI which maps pretty well to Openness on the Big Five. So the overlaps and connections are plentiful, but then there are other aspects among the tests that are at odds.
 
-Another redeeming insight that Jung and Myers and Briggs were on to was the (E)xtraversion/(I)ntroversion thing. The way we use these colloquially is about how much you like to be around people, and that's not totally false, but it really has to do with how you "recharge your batteries" (i.e., introverts need some alone time). Claire Hughes Johnson describes it as "think to talk" vs. "talk to think"[^6]. In fact, her whole work style mental model boils down to introversion/extraversion on one axis, and task-oriented vs. people-oriented on the other. (Not sure which assessment the latter is from but interesting/potentially useful.)
+Another redeeming insight that Jung and Myers and Briggs were on to was the (E)xtraversion / (I)ntroversion thing. The way we use these colloquially is about how much you like to be around people, and that's not totally false, but it really has to do with how you "recharge your batteries" (i.e., introverts need some alone time). Claire Hughes Johnson describes it as "think to talk" vs. "talk to think"[^6]. In fact, her whole work style mental model boils down to introversion/extraversion on one axis, and task-oriented vs. people-oriented on the other. (Not sure which assessment the latter is from but interesting/potentially useful.)
 
 [^6]: ["How to Take Radical Ownership of Your Life and Career — Claire Hughes Johnson"](https://www.youtube.com/watch?v=ZHCtb80SUHQ&t=6754s); *The Tim Ferriss Show*; Feb 27, 2024.
 
