@@ -93,7 +93,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">MBTI®<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
-      <td style="text-align: left">INTP</td>
+      <td style="text-align: left"><a href="/personality.html">INTP</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Tíos<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
