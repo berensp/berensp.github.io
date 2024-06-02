@@ -7,14 +7,14 @@ author:	Paul Berens
 My maternal extended family has enjoyed a long-term love affair with the Myers-Briggs Type Indicator (MBTI). And, because we're a large clan, conjecturing how the "types" might explain the behaviors and predilections of family members is a favorite pastime. I, too, found it all fascinating and fun until a few years ago when I found out how pseudoscientific it is: i.e., that Carl Jung basically made up these categories (Perceivers and Judgers and so on) based on his own experience and entirely in the absence of data; and then Katherine Briggs and her daughter Isabel Briggs Myers come up with the test despite having no formal psychology training. *Yowzah*.
 
 The actual data show that Myers-Briggs traits:
-1. Are unreliable (i.e., they subject to change)[^1]
-2. Have virtually no predictive power in terms of career or marital happiness
+1. Are unreliable (i.e., subject to change)[^1]
+2. Have virtually no predictive power in terms of professional or marital happiness
 3. Are ill-founded in the first place (i.e., they don't have a bimodal distribution and so create false dichotomies)[^2]
 
 [^1]: In one study, 50% of participants received a different classification when they retested after five weeks. (McCarley and Carskadon, 1983).
 [^2]: ["Personality Tests Aren’t All the Same. Some Work Better Than Others"](https://www.scientificamerican.com/article/personality-tests-arent-all-the-same-some-work-better-than-others/), *Scientific American*, February 28, 2024.
 
-That isn't to say we humans can't have preferences and proclivities ("default settings"); it's just that the types that Jung and Myers and Briggs came up with *a priori* ended up being more fortune cookie than scientific instrument. Which is crazy because millions of people rely on it, including [~90% of the Fortune 100 and 200 federal agencies](https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless).
+That isn't to say we humans can't have preferences and proclivities ("default settings"); it's just that the types that Jung and Myers and Briggs came up with *a priori* ended up being more fortune cookie than scientific instrument. Which is astounding because millions of people rely on it, including [~90% of the Fortune 100 and 200 federal agencies](https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless).
 
 However, there are other personality assessment tools that are showing to have greater explanatory/predictive power than that of MBTI[^3]:
 
@@ -39,15 +39,17 @@ It does seem that the research community seems to be knighting Big Five as "the 
 
 ## Don't Throw Out All of MBTI with the Bath Water
 
-What's funny is that certain MBTI traits map to those of other tests. For example, I'm an N (Intuition) on MBTI which maps pretty well to Openness on the Big Five. So the overlaps and connections are plentiful, but then there are other aspects among the tests that are at odds.
+Certain MBTI traits map pretty well to those of other tests of enhanced predictive capability. For example, I'm an N (Intuition) on MBTI which maps pretty well to Openness on the Big Five.
 
 Another redeeming insight that Jung and Myers and Briggs were on to was the (E)xtraversion / (I)ntroversion thing. The way we use these colloquially is about how much you like to be around people, and that's not totally false, but it really has to do with how you "recharge your batteries" (i.e., introverts need some alone time). Claire Hughes Johnson describes it as "think to talk" vs. "talk to think"[^6]. In fact, her whole work style mental model boils down to introversion/extraversion on one axis, and task-oriented vs. people-oriented on the other. (Not sure which assessment the latter is from but interesting/potentially useful.)
+
+So there are overlaps and connections between MBTI and the other assessments, but obviously also notable differences that translate into the former's flaws.
 
 [^6]: ["How to Take Radical Ownership of Your Life and Career — Claire Hughes Johnson"](https://www.youtube.com/watch?v=ZHCtb80SUHQ&t=6754s); *The Tim Ferriss Show*; Feb 27, 2024.
 
 ## Let AI Synthesize It
 
-Because I have results from MBTI, Big Five, Enneagram, and Strengths Finder; I fed the results (including detailed breakdowns) of each into ChatGPT 4o to get a meta-analysis of sorts, to understand where there are points of contact versus divergences. I did this a few times, and paying the most attention to Big Five and Strengths Finder it's interesting to see where they complement each other. For example, I've got on one hand an intellectual curiosity and love of learning, but on the other hand a people orientation; and the two sides perhaps need to be balanced and/or each one comes into play in different situations and contexts.
+Because I have results from MBTI, Big Five, Enneagram, and Strengths Finder; I fed the results (including detailed breakdowns) of each into ChatGPT 4o—and Gemini and Claude—to get a meta-analysis of sorts, to understand where there are points of contact versus divergences. I did this a few times, and paying the most attention to Big Five and Strengths Finder it's interesting to see where they complement each other. For example, I've got on one hand an intellectual curiosity and love of learning, but on the other hand a people orientation; and the two sides perhaps need to be balanced and/or each one comes into play in different situations and contexts.
 
 I expect AI to continue to make these assessments better over time (e.g., honing questions to optimize explanatory power), but in the meantime, use these LLMs like ChatGPT to throw all the data from these imperfect tests into the mix and see what conclusions can be derived.
 
