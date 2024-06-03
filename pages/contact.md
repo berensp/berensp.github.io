@@ -12,7 +12,6 @@ Say hello on your messenger / app / platform of choice[^1]:
 - <mark><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></mark>
 - <mark><a href="https://friend.tech/berensp" target="_blank">friend.tech</a></mark>
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
-- <a href="https://keybase.io/berens" target="_blank">Keybase</a>
 - <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">Marco Polo</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
@@ -25,7 +24,6 @@ Say hello on your messenger / app / platform of choice[^1]:
 - <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^2]
 
 	<mark><span class="muted small">web3</span></mark>
-
 
 [^1]: Q: Why so many bloody apps? [Answer](https://imgs.xkcd.com/comics/chat_systems.png).
 [^2]: Not my fave, but Android users shan't be choosers.

@@ -33,9 +33,9 @@ However, there are other personality assessment tools that are shown to have gre
 
 [^4]: i.e., Minnesota Multiphasic Personality Inventory. Not so relevant—it's more clinical and used specifically for psychological disorders—but I won't squander the opportunity to shout out to [the homeland](https://berens.co/mn/).
 
-From what I've seen the research community seems to be knighting the Big Five as "the gold standard in the science of personality" due to the body of research behind it[^5], but the world is slow to move off MBTI.
+From what I've seen the research community seems to be knighting the Big Five as "the gold standard in the science of personality" due to the body of research behind it[^5], but the world is slow to move away from MBTI.
 
-[^5]: Nick Hobson, ["Researchers Compare Most Popular Personality Tests. For This Scientist, Results Are Disappointing,"](https://www.inc.com/nick-hobson/researchers-compare-most-popular-personality-tests-for-this-scientist-results-are-disappointing.html) *Inc.*, accessed May 31, 2024, .
+[^5]: Nick Hobson, ["Researchers Compare Most Popular Personality Tests. For This Scientist, Results Are Disappointing,"](https://www.inc.com/nick-hobson/researchers-compare-most-popular-personality-tests-for-this-scientist-results-are-disappointing.html) *Inc.*, accessed May 31, 2024.
 
 ## Don't Throw Out MBTI With the Bath Water
 
@@ -49,14 +49,14 @@ So there are overlaps and connections between MBTI and the other assessments, bu
 
 ## Pass the Ball to AI
 
-Because I've taken MBTI, Big Five, Enneagram, and Strengths Finder; I fed the results (including detailed breakdowns) of each into ChatGPT 4o—and Gemini and Claude—to get a meta-analysis of sorts, to identify the points of contact and the divergences. I did this a few times, and paying the most attention to Big Five and Strengths Finder it's interesting to see where they complement each other. For example, I've got on one hand an intellectual curiosity and love of learning, but on the other hand a people orientation; and these two sides perhaps need to be balanced and/or each one comes into play in different situations and contexts.
+Having taken MBTI, Big Five, Enneagram, and Strengths Finder; I fed the results, including detailed breakdowns, into ChatGPT 4o—and Gemini and Claude—to perform a meta-analysis, identifying points of contact and divergences. I did this a few times, and paying the most attention to Big Five and Strengths Finder it's interesting to see where they complement each other. For example, I've got on one hand an intellectual curiosity and love of learning, but on the other hand a people orientation; and these two sides perhaps need to be balanced and/or each one comes into play in different situations and contexts.
 
 AI will undoubtedly improve these assessments over time (e.g., honing questions to optimize explanatory power), but in the meantime, use these LLMs like ChatGPT to throw all the data from these imperfect tests into the mix and see what conclusions can be derived.
 
 ## With a Grain of Salt
 
 Is spending time taking and contemplating these assessments worthwhile?
-- In a **work context**, maybe... although it can be inadvertently misused (when placed in the hands of lay teammates and managers as opposed to well-trained facilitators): it starts out under the aegis of diversity (diverse personalities fostering great teams and a healthy culture) but ends up with value judgments being attached to certain types (e.g., extraversion > introversion; Achiever > Adaptability; etc.). I think that's not so bizarre when you consider the fact that the average person is not really equipped to interpret results, combined with our tendency to make snap judgments.
-- In a **personal context**, sure: after all, *know thyself*. And even if we humans are too dynamic and interesting to be neatly characterized by a personality test, it's at least [good fodder for cocktail parties](/infobox/).
+- In a **work context**, maybe... Obviously, it's sensible to want to understand the people with whom you spend the majority of your waking hours on a deeper level. But I'd argue it can be inadvertently misused when placed in the hands of lay teammates and managers instead of well-trained facilitators: what starts out under the aegis of diversity—diverse personalities fostering great teams and a healthy culture—ends up with value judgments attached to certain types (e.g., extraversion > introversion; Achiever > Adaptability; etc.). It's not so bizarre when you consider the fact that the average person isn't really equipped to interpret results, combined with our tendency to make snap judgments.
+- In a **personal context**, sure—after all, *know thyself*. Even if we humans are too dynamic and interesting to be neatly characterized by a personality test, it's at least [good fodder for cocktail parties](/infobox/).
 
 — ᴘ. ᴍ. ʙ.
