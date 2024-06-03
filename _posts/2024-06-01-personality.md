@@ -16,7 +16,7 @@ The actual data show that Myers-Briggs traits:
 
 That isn't to say we humans can't have preferences and proclivities ("default settings"); it's just that the types that Jung and Myers and Briggs came up with *a priori* ended up being more fortune cookie than scientific instrument. Which is astounding because millions of people rely on it, including [~90% of the Fortune 100 and 200 federal agencies](https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless).
 
-However, there are other personality assessment tools that are showing to have greater explanatory/predictive power than that of MBTI[^3]:
+However, there are other personality assessment tools that are shown to have greater explanatory/predictive power than that of MBTI[^3]:
 
 | Assessment | R² |
 | :--- | :--- |
@@ -31,15 +31,15 @@ However, there are other personality assessment tools that are showing to have g
 
 [^3]: Butcher, J. N., Dahlstrom, W. G., Graham, J. R., Tellegen, A., & Kaemmer, B. (1989). *MMPI-2: Manual for the administration and scoring.*; Ozer, D. J., & Benet-Martínez, V. (2006). "Personality and the prediction of consequential outcomes." *Annual Review of Psychology.*; Ashton, M. C., & Lee, K. (2007). "Empirical, theoretical, and practical advantages of the HEXACO model of personality structure." *Personality and Social Psychology Review.*; Hogan, Robert, and Brent Holland. "Using Theory to Evaluate Personality and Job-Performance Relations: A Socioanalytic Perspective." *Journal of Applied Psychology* 88, no. 1 (2003): 100-112; Asplund, J., Lopez, S. J., Hodges, T., & Harter, J. (2007). "The Clifton StrengthsFinder® 2.0 Technical Report: Development and validation."; Smith, Paul, Barrett, Barbara, and Niels van der Kolk. "Insights Discovery and the Prediction of Work Performance: An Empirical Study." *Journal of Occupational and Organizational Psychology* 90, no. 2 (2017): 261-276.; Hook, J. N., Davis, D. E., Owen, J., Worthington Jr, E. L., & Utsey, S. O. (2013). "Cultural humility: Measuring openness to culturally diverse clients." *Journal of Counseling Psychology.*; McCrae, R. R., & Costa, P. T. (1989). "Reinterpreting the Myers-Briggs Type Indicator from the perspective of the Five-Factor Model of personality." *Journal of Personality.*
 
-[^4]: i.e., Minnesota Multiphasic Personality Inventory. Not totally relevant—it's more clinical and used specifically for psychological disorders—but I won't squander the opportunity to shout out to [the homeland](https://berens.co/mn/).
+[^4]: i.e., Minnesota Multiphasic Personality Inventory. Not so relevant—it's more clinical and used specifically for psychological disorders—but I won't squander the opportunity to shout out to [the homeland](https://berens.co/mn/).
 
-It does seem that the research community seems to be knighting Big Five as "the gold standard in the science of personality" due to the body of research behind it[^5], but the world is slow to catch on.
+From what I've seen the research community seems to be knighting Big Five as "the gold standard in the science of personality" due to the body of research behind it[^5], but the world is slow to move off MBTI.
 
 [^5]: Nick Hobson, ["Researchers Compare Most Popular Personality Tests. For This Scientist, Results Are Disappointing,"](https://www.inc.com/nick-hobson/researchers-compare-most-popular-personality-tests-for-this-scientist-results-are-disappointing.html) *Inc.*, accessed May 31, 2024, .
 
-## Don't Throw Out All of MBTI with the Bath Water
+## Don't Throw Out MBTI With the Bath Water
 
-Certain MBTI traits map pretty well to those of other tests of enhanced predictive capability. For example, I'm an N (Intuition) on MBTI which maps pretty well to Openness on the Big Five.
+Certain MBTI traits map pretty well to those of other tests of enhanced predictive capability. For example, I'm an N (Intuition) on MBTI which corresponds to Openness on the Big Five.
 
 Another redeeming insight that Jung and Myers and Briggs were on to was the (E)xtraversion / (I)ntroversion thing. The way we use these colloquially is about how much you like to be around people, and that's not totally false, but it really has to do with how you "recharge your batteries" (i.e., introverts need some alone time). Claire Hughes Johnson describes it as "think to talk" vs. "talk to think"[^6]. In fact, her whole work style mental model boils down to introversion/extraversion on one axis, and task-oriented vs. people-oriented on the other. (Not sure which assessment the latter is from but interesting/potentially useful.)
 
@@ -47,7 +47,7 @@ So there are overlaps and connections between MBTI and the other assessments, bu
 
 [^6]: ["How to Take Radical Ownership of Your Life and Career — Claire Hughes Johnson"](https://www.youtube.com/watch?v=ZHCtb80SUHQ&t=6754s); *The Tim Ferriss Show*; Feb 27, 2024.
 
-## Let AI Synthesize It
+## Pass the Ball to AI!
 
 Because I have results from MBTI, Big Five, Enneagram, and Strengths Finder; I fed the results (including detailed breakdowns) of each into ChatGPT 4o—and Gemini and Claude—to get a meta-analysis of sorts, to understand where there are points of contact versus divergences. I did this a few times, and paying the most attention to Big Five and Strengths Finder it's interesting to see where they complement each other. For example, I've got on one hand an intellectual curiosity and love of learning, but on the other hand a people orientation; and the two sides perhaps need to be balanced and/or each one comes into play in different situations and contexts.
 
