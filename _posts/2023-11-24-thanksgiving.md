@@ -14,13 +14,7 @@ Thanksgiving gatherings at my parents' home were and still are large gatherings 
 
 She's since come to appreciate and love it, and we've carried on the tradition now in our home, because we think it important to share something, no matter how simple, because when you utter these thanks aloud before a group they seem to ascend from nice sentiments to actual prayers.
 
-And sure, you always hear gratitude for *family, friends, health, and jobby job—please pass the gravy,* but if the environment is relatively comfortable, some people will share something from below the surface. In fact it happened this year that someone in our party discussed his thankfulness for certain recent struggles in his life, which reminded me of C. S. Lewis' aphorism:
-
-> We ought to give thanks for all fortune: if it is 'good,' because it is good; if 'bad' because it works in us patience, humility, and hope.
-
-I aspire to that level of sanctification where all is gift in one way or another, but Flannery O'Connor's take is more accessible and punk-rock:
-
-> I can, with one eye squinted, take it all as a blessing.
+And sure, you always hear gratitude for *family, friends, health, and jobby job—please pass the gravy,* but if the environment is relatively comfortable, some people will share something from below the surface. In fact it happened this year that someone in our party discussed his thankfulness for certain recent struggles in his life, which reminded me of C. S. Lewis' aphorism: "We ought to give thanks for all fortune: if it is 'good,' because it is good; if 'bad' because it works in us patience, humility, and hope." I aspire to that level of sanctification where all is gift in one way or another, but Flannery O'Connor's take is more accessible and punk-rock: "I can, with one eye squinted, take it all as a blessing."
 
 As for my part, I ain't got much reason to complain (squint at)—quite the opposite, in fact, particularly when I think about the innocent families in parts of Israel and the Gaza Strip. And so for today I'll employ [John Prine's simple words](https://www.youtube.com/watch?v=TNDmIrh1Cwo)[^1] as my thanksgiving:
 
