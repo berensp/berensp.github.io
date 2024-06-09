@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Strava Activity</title>
+</head>
+<body>
+  <div id="activity"></div>
+  <script>
+    async function fetchStravaActivity() {
+      const response = await fetch('https://strava-vercel-serverless-jb7wpdiu6-pauls-projects-9cf86d6d.vercel.app/api/getStravaActivity');
+      if (!response.ok) {
+        console.error('Error fetching data:', response.status, response.statusText);
+        return;
+      }
+      const data = await response.json();
+      document.getElementById('activity').innerText = JSON.stringify(data, null, 2);
+    }
+
+    fetchStravaActivity();
+  </script>
+</body>
+</html>
