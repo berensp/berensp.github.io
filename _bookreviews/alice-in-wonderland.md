@@ -6,7 +6,7 @@ category: Favourites
 book_url: https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0
 ogimage: bkreview_alice.jpg
 ---
-It's such a fun story in its own right, but it really opens up when you become aware that's it's also an introduction to logic puzzles, linguistic riddles, and math satire[^1]. Carroll (Dodgson) has allusions to mathematics all over *Wonderland*—particularly to new concepts like imaginary numbers—and then employs *reductio ad absurdum* to expose weaknesses and/or poke fun.
+It's such a fun story in its own right, but it's also an introduction to logic puzzles, linguistic riddles, and math satire[^1]. Carroll (Dodgson) has allusions to mathematics all over *Wonderland*—particularly to new concepts like imaginary numbers—and then employs *reductio ad absurdum* to expose weaknesses and/or poke fun.
 
 [^1]: Bayley, Melanie. ["Alice's Adventures in Algebra: Wonderland Solved."](https://www.newscientist.com/article/mg20427391-600-alices-adventures-in-algebra-wonderland-solved/) *New Scientist Ltd.*, 16 December 2009.
 

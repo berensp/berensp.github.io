@@ -2,7 +2,7 @@
 layout: bookreview
 title: The Brothers Karamazov
 author: Fyodor Dostoevsky
-category: Near Term
+category: On Deck
 book_url: https://www.google.com/books/edition/The_Brothers_Karamazov/cZAkHnartsYC?hl=en&gbpv=0
 ogimage: bkreview_karamazov.jpg
 ---

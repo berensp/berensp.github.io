@@ -2,7 +2,7 @@
 layout: bookreview
 title: Horse
 author: Geraldine Brooks
-category: On Deck
+category: Presently Reading
 book_url: https://www.google.com/books/edition/Horse/xd5CEAAAQBAJ?hl=en&gbpv=0
 ogimage: bkreview_horse.jpg
 ---
