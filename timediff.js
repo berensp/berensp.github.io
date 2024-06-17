@@ -52,10 +52,10 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "several days ago";
           break;
         case 4:
-          message = "a mere four days ago";
+          message = "four days ago";
           break;
         case 5:
-          message = "a mere five days ago";
+          message = "five days back";
           break;
         case 6:
           message = "a half dozen days ago";
@@ -75,8 +75,14 @@ document.addEventListener('DOMContentLoaded', () => {
         case 14:
           message = "a fortnight ago";
           break;
+        case 18:
+          message = "one and a half dozen days ago";
+          break;
         case 21:
           message = "one and a half fortnights ago";
+          break;
+        case 24:
+          message = "a couple dozen days ago";
           break;
         default:
           message = `a mere ${diffDays} days ago`;
