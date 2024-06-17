@@ -10,9 +10,9 @@ It had been on my list forever and did not disappoint.
 
 The road is life and death: stray too far and you're dead; but on it you're likely to encounter the pillagers and cannibals. Also provides hope...leading somewhere.
 
-What's worth staying alive for when (almost) everything has been annihilated? The embodiment of innocence and goodness: your boy.
+What's worth staying alive for when (almost) everything has been annihilated? The embodiment of innocence and goodness: your boy. Or more specifically that our life has purpose and there's some goodness that comes of it (e.g., sustaining your child; a especially a child of such character).
 
-McCarthy is an incredible storyteller but also a beautiful writer. It's wonderful how details are unrevealed methodically: e.g., two hundred pages in: "even a year ago the boy might sometimes pick up something and carry it with him for a while but he didnt do that any more."
+McCarthy is an incredible storyteller but also a beautiful writer. It's wonderful how details are revealed methodically: e.g., how long the boy and his father had been at this is, I think, not even alluded to until 200 pages into the book: "*even a year ago* the boy might sometimes pick up something and carry it with him for a while but he didnt do that any more."
 
 I think I'll be contemplating that final paragraph for some time:
 
