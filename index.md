@@ -7,7 +7,9 @@ layout: home
 
 ✌ Hi, I'm [Paul Berens](/infobox/).
 
-📍 Living in [San Francisco](/sf/) and presently [nurturing data products at Varian](/bio/).
+📍 Living in [San Francisco](/sf/) with my beautiful family.
+
+💼 Presently [nurturing data products at Varian](/bio/).
 
 ✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>.
 
