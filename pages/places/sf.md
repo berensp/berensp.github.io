@@ -5,7 +5,7 @@ permalink: /sf/
 ogimage: ggb.baker.jpg
 description: Hic mansi optime
 ---
-SF has been home for <a href="/domiciles/">the last <span id="TimeinSF"></span></a>. I appreciate its beauty and <a href="/fog">fog</a> and distinctiveness while at the same time I lament its problems[^1][^2][^3][^4]— ("Hic Manebimus Optime").
+SF has been home for <a href="/domiciles/">the last <span id="TimeinSF"></span></a>. I appreciate its beauty and <a href="/fog">fog</a> and distinctiveness while at the same time I lament its problems[^1][^2][^3][^4]—*hic manebimus optime*.
 
 ![Golden Gate Bridge from Baker Beach](/assets/og/ggb.baker.jpg)
 <span class="muted small">Baker Beach, December 2013.</span>
