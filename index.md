@@ -17,4 +17,4 @@ layout: home
 📚 Currently [reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}.
 {% endif %}
 
-📬 Get in touch via a [myriad of messengers](/contact/).
+📬 Chatting on a [myriad of messengers](/contact/).
