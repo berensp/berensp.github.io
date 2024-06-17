@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Where I've lived
-permalink: /abodes/
+permalink: /domiciles/
 ogimage: places.lived.2022.01.03.png
 description: There I've stayed excellently
 ---
