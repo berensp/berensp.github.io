@@ -7,7 +7,9 @@ category: Other Reviews
 book_url: https://www.google.com/books/edition/_/F-Q_xGjWBi8C?hl=en&sa=X&ved=2ahUKEwjbxKbXq7CDAxVLhIkEHZEoCFAQre8FegUIAxDXAQ
 ogimage: bkreview_msfm.jpg
 ---
-I found the first two-third's of this quite worthwhile; last part is too much psychologizing for my taste.
+I found the first two-third's of this quite worthwhile; last part is too much psychologizing for my taste[^1].
+
+[^1]: I'm with Thomas Merton (from [*Seven Storey Mountain*](/book-reviews/seven-storey-mountain/) on psychoanalysis: "Day after day I read Freud, thinking myself to be very enlightened and scientific when, as a matter of fact, I was about as scientific as an old woman secretly poring over books about occultism, trying to tell her own fortune, and learning how to dope out the future form the lines in the palm of her hand. I don't know if I ever got very close to needing a padded cell: but if I ever had gone crazy, I think psychoanalysis would have been the one thing chiefly responsible for it."
 
 I'd say the TL;DR is that at a surface, practical level attitude is everything; but the true takeaway is from page 67, which, to me, is very (unintentionally) Catholic:
 
