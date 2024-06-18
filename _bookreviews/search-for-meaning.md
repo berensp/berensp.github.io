@@ -9,9 +9,9 @@ ogimage: bkreview_msfm.jpg
 ---
 I found the first two-third's of this quite worthwhile; last part is too much psychologizing for my taste.
 
-I'd say the TL;DR is that at a surface, practical level attitude is everything; but the true takeaway is from page 68, which, to me, is very (unintentionally) Catholic:
+I'd say the TL;DR is that at a surface, practical level attitude is everything; but the true takeaway is from page 67, which, to me, is very (unintentionally) Catholic:
 
-> If there is a meaning in life at all, then there must be a meaning in suffering. Suffering is an ineradicable part of life, even as fate and death. Without suffering and death human life cannot be complete. (p.67)
+> If there is a meaning in life at all, then there must be a meaning in suffering. Suffering is an ineradicable part of life, even as fate and death. Without suffering and death human life cannot be complete.
 
 A deeper insight comes from Frankl's section on *Logodrama*:
 
