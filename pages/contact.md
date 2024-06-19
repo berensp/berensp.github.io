@@ -6,9 +6,9 @@ ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
 Say hello on your messenger / app / platform of choice[^1]:
-- <mark><a href="https://getconverse.app/dm/berensp.eth" target="_blank">Converse</a></mark>
+- <mark><a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">Converse</a></mark>
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
-- <a href="mailto:hey@berens.co?subject=Hey%2C%20Paul%20%F0%9F%91%8B">Email</a>
+- <a href="mailto:hey@berens.co?subject=%F0%9F%91%8B%20Hey%20Paul">Email</a>
 - <mark><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></mark>
 - <mark><a href="https://friend.tech/berensp" target="_blank">friend.tech</a></mark>
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
