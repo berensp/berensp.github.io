@@ -13,7 +13,7 @@ It's your own private econ/corp strat class in a little 15-ounce package.
 
 The first half of the book sets the table well: Dixon employs lots of useful frameworks/first principle thinking to succinctly take you through the history and explain how we landed in the place we currently occupy.
 
-TL;DR right there in the intro:
+TL;DR is right there in the intro:
 
 > The internet got intermediated, in other words. The network went from permissionless to permissioned.
 
@@ -26,12 +26,11 @@ Dixon shows that blockchain potentially solves a lot of our current problems, es
 - **The antidote to AI**. It comes in right before his conclusion, but I also very much concur with the idea that web3 will/should play a very important role in creating a verifiably human web in the era we're entering where AI will have us all so confused and mixed up (deep fakes have already begun). So the identity side of it is going to be important (if it isn't already). I think I heard Fred Wilson articulate this first, but very glad Dixon includes this.
 
 ## My persisting questions about blockchain in the long-run:
-1. Can blockchain networks entering attractive markets overcome their "cold start problem" (as Andrew Chen puts it) if there are aggressive, deep-pocketed corporate incumbents who can potentially undercut them (and wage a price war for a long period of time)? Perhaps this is where venture and other funding sources may come into play? It seems pricing token rewards at precisely the right goldilocks level could be tricky.
-	- Maybe part of the answer here is that entrants need to be targeting niches (p.193) and not just doing web3 Uber or web3 Airbnb (i.e. the 1k true fans idea...there is no price war because you're flying under the radar)
-2. Is blockchain viable in the longer run as a technology? Will blockchain cryptography stay ahead of, say, quantum computing and its ability to hack it? (i.e., quantum resistant, so to speak?)[^1]
-3. With the threat of deep fakes already here, there's a clear need for identity verification and attestation, but is there a place for pseudonymity in other areas? We probably need a framework for which use cases, but I wonder if pseudonymity and blockchain jibe?
+1. Can blockchain networks overcome their "cold start problem" (as Andrew Chen puts it) in markets where there are aggressive, deep-pocketed corporate incumbents who can undercut them and wage a price war for a prolonged period? Perhaps this is where venture and other funding sources may come into play, and is precise token reward pricing critical? Should entrants target niches to avoid this corporate competition (i.e., instead of web3 Uber or web3 Airbnb, focus on carving out new markets per the 1k true fans idea [p.193])?
+2. Is blockchain technology viable long-term, cryptographically? Can it stay ahead of quantum computing and its ability to hack it (i.e., can it be quantum resistant)[^1]?
+3. With deep fakes already here, there's a clear need for identity verification and attestation, but is there a place for pseudonymity in other areas of web3 digital life?
 
-[^1]: Brian Wang, ["Quantum Computers Could Break Bitcoin and Banks by 2025-2029,"](https://www.nextbigfuture.com/2023/12/quantum-computers-could-break-bitcoin-and-banks-by-2025-2029.html) Next Big Future, December 2023, 
+[^1]: Brian Wang, ["Quantum Computers Could Break Bitcoin and Banks by 2025-2029,"](https://www.nextbigfuture.com/2023/12/quantum-computers-could-break-bitcoin-and-banks-by-2025-2029.html) Next Big Future, December 2023.
 
 Anyway, I'm smarter now on web3/blockchain...not to mention all the more bullish.
 
