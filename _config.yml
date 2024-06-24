@@ -9,7 +9,7 @@ collections:
   prayers:
     output: true
     permalink: /prayers/:path/
-  bookreviews:
+  book:
     output: true
     permalink: /book/:path/
 
