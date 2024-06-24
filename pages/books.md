@@ -11,7 +11,7 @@ ogimage: bookshelf.bw.png
 {% assign categories = "Just Finished,Presently Reading,On Deck,Near Term,Favourites,Miscellany,Books by Family/Friends" | split: "," %}
 
 {% for category in categories %}
-{% assign books_in_category = site.books | where: "category", category %}
+{% assign books_in_category = site.book | where: "category", category %}
 {% if books_in_category.size > 0 %}
 <h2>{{ category | capitalize }}</h2>
 <ul class="more-space">

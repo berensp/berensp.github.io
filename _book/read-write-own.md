@@ -2,7 +2,7 @@
 layout: bookreview
 title: Read Write Own
 author: Chris Dixon
-category: Other Reviews
+category: Miscellany
 finish_date: 2024-05-07
 book_url: https://readwriteown.com/
 ogimage: bkreview_readwriteown.jpg
