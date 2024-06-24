@@ -32,6 +32,10 @@ Dixon shows that blockchain potentially solves a lot of our current problems, es
 
 [^1]: Brian Wang, ["Quantum Computers Could Break Bitcoin and Banks by 2025-2029,"](https://www.nextbigfuture.com/2023/12/quantum-computers-could-break-bitcoin-and-banks-by-2025-2029.html) Next Big Future, December 2023.
 
+Does this matter? Yes, when you think about the fact that we're living more and more of our lives online and yet we're ceding control to a handful of companies whom we're trusting to "not be evil" (from p.226):
+
+> The future of the internet is us—you and me. The internet is, increasingly, where we live our lives, and it overlaps more and more with the so-called real world. Think about how much of your life you live online, how much of your identity resides there, how much you interact with friends whom you've developed relationships with through the medium of the internet. Whom do you want in control of that world?
+
 Anyway, I'm smarter now on web3/blockchain...not to mention all the more bullish.
 
 — ᴘ. ᴍ. ʙ.
