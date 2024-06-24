@@ -11,7 +11,7 @@ collections:
     permalink: /prayers/:path/
   bookreviews:
     output: true
-    permalink: /book-reviews/:path/
+    permalink: /books/:path/
 
 baseurl: ""
 permalink: /:categories/:title:output_ext
