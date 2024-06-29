@@ -38,7 +38,7 @@ I admit I was a little skeptical about the long-term prospects of a social netwo
 
 ## Nerds may care about web3; but will the jocks?
 
-I can't remember if [@dwr.eth](https://warpcast.com/dwr.eth) came up with this, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but here web2 in the front; web3 in the back (or, rather, underneath?). I.e., most people don't care about blockchain or Ethereum or L1 or L2 networks—and, in fact, most users won't tolerate the current clunky UX with wallet signatures: way too complex.
+I can't remember if Dan came up with this or it was someone else, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but here web2 in the front; web3 in the back (or, rather, underneath?). I.e., most people don't care about blockchain or Ethereum or L1 or L2 networks—and, in fact, most users won't tolerate the current clunky UX with wallet signatures: way too complex.
 
 Users want whatever's differentiated about this new-fangled network, which in the short-term, as we said, is fabulous collection of people; but in the long-run hopefully part of the value prop has to do with blockchain: e.g.:
 - that I can take my connections/followers with me
@@ -48,6 +48,9 @@ Users want whatever's differentiated about this new-fangled network, which in th
 And the unique use cases are starting to bubble up.
 1. The *composability* aspect of blockchain is huge. The lightbulb went off for me with a fun little project called [dadcaster](https://www.dadcaster.org/) which is built on [CharmVerse](https://app.charmverse.io). Instead of having you "sign up" with your email address and somehow meet certain criteria; you just prove ownership of a certain NFT, which is essentially your keycard. The community then knows who you are, and knows that you've satisfied whatever criteria were necessary to be admitted (not much in this case, but you get the point).
 2. Another simple project was [web3 sign a pdf](https://eth-pdf-signature.vercel.app/) by Tayyab Hussain and Dylan Steck. Just connect your wallet, upload your file, and sign away; and you've just disintermediated DocuSign or Adobe Sign; it's your verifiable signature which may well outlast any esignature service provider.
+3. And then Frames, which let you turn any cast into an interactive app. Amazing.
+
+Of course this is just the beginning.
 
 So that's a bit of my experience to date. I may be a fringe user, but it's been fun to participate in this community of interesting people and observe the evolution of the platform.
 
