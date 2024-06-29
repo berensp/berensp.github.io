@@ -4,9 +4,11 @@ title: Farcaster
 date: 2024-06-29
 author:	Paul Berens
 ---
-I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to his blog, which I found nice and simple and subsequently forked and adapted (you're looking at it). He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails. As far as blockchain went I had dabbled in the *casino* (h/t bro-in-law Frank-형), but was inexperienced with the *computer* (e.g., NFTs, etc.).
+I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to his blog, which I found nice and simple and subsequently forked and adapted (you're looking at it, btw). He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails. As far as blockchain went I had dabbled in the *casino* (h/t bro-in-law Frank-형), but was inexperienced with the *computer* (e.g., NFTs, etc.).
 
 Anyway, I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the same day.
+
+![pb – your week on Farcaster](/assets/og/ui_your_week_fcast.png)
 
 ## Why decentralized social media?
 - In theory, you can't get deplatformed and have to start over on another network...rather you carry your social graph with you
@@ -21,6 +23,8 @@ Anyway, I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha 
 - Week 1: "I seem to have wandered into a house party to which I was not invited."
 - Week 2: "There is no shortage of cool $#!& being developed around here, and there's great build/launch energy."
 - Week 3: "Hey, this place has a friendly vibe—a refreshing alternative to the vitriol in the other public squares."
+
+![Farcaster UI circa June 2024](/assets/og/ui_farcaster.png)
 
 On that last point, this was something people frequently mentioned and agreed, typified by [this "cast"](https://warpcast.com/bradq/0x465df2):
 
