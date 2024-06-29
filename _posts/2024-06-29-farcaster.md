@@ -30,15 +30,17 @@ And others wondered aloud how to preserve said vibes:
 
 > love Farcaster, but one question I have is how to scale such a high-signal, strong community without losing some of the magic we have today on this app? conversations here are very reminiscent of early-days clubhouse, but how do we maintain this as it exits beta / becomes open?
 
-This is a hard balance to strike. The [Twitter clone Pebble](https://en.wikipedia.org/wiki/Pebble_(social_network)), which launched in November 2022 and met its death the following November, was attempting to be a "nice Twitter" and ultimately people passed on *nice* in favor of *interesting*—I wonder if Threads will see the same fate. And so while civility is lovely, you still need a contingency that will stir the pot and be a little provocative lest people find themselves terribly bored.
+This is a hard balance to strike. The [Twitter clone Pebble](https://en.wikipedia.org/wiki/Pebble_(social_network)), which launched in November 2022 and met its death the following November, was attempting to be a "nice Twitter" and ultimately people passed on *nice* in favor of *intriguing*—I secretly wonder if Threads will see the same fate. And so while civility is lovely, you still need a contingency that will stir the pot and be a little provocative lest people find themselves terribly bored.
 
 I admit I was a little skeptical about the long-term prospects of a social network starting up in 2021 overcoming the "cold start problem," but the crypto community is vibrant, smart, competitive. I also now subscribe to Kevin Kelly "1000 true fans" concept[^2]. Case in point: Farcaster was certainly a Twitter clone out the gate as far as UX/UI, but then "Channels" were introduced, which allowed for niche communities a la Reddit. Channels gained transaction almost immediately with some 30% of casts going through them within the first month. The Farcaster founders (Merkle Manufactory) think of this as allowing communities to be created and nurtured with a certain portion of them having the chance at lasting, long-term value.
 
 [^2]: Kevin Kelly's [2008 blogpost](https://kk.org/thetechnium/1000-true-fans/) and concept that you don't need to convert the total available market to your product; rather you need a narrow segment that will stick with you through thick and thin, buy everything you drop on the market, and evangelize your product to their friends.
 
-## Will non-nerds care about web3?
+## Nerds may care about web3; but will the jocks?
 
-I can't remember if dwr.eth came up with this, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but here web2 in the front; web3 in the back (or underneath?). I.e., most people don't care about blockchain or Ethereum or L1 or L2 networks—and, in fact, most users won't tolerate the current UX with wallet signatures: way too complex. Users want whatever's differentiated about this new-fangled network: e.g.:
+I can't remember if [@dwr.eth](https://warpcast.com/dwr.eth) came up with this, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but here web2 in the front; web3 in the back (or, rather, underneath?). I.e., most people don't care about blockchain or Ethereum or L1 or L2 networks—and, in fact, most users won't tolerate the current clunky UX with wallet signatures: way too complex.
+
+Users want whatever's differentiated about this new-fangled network, which in the short-term, as we said, is fabulous collection of people; but in the long-run hopefully part of the value prop has to do with blockchain: e.g.:
 - that I can take my connections/followers with me
 - that our children won't be targeted with the wrong kinds of ads
 - that I could build something on top of it without the risk of it being shut down or cut off
