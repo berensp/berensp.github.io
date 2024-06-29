@@ -1,0 +1,51 @@
+---
+layout: post
+title: Farcaster
+date: 2024-06-29
+author:	Paul Berens
+---
+I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to his blog, which I found nice and simple and subsequently forked and adapted (you're looking at it). He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails. As far as blockchain went I had dabbled in the *casino* (h/t bro-in-law Frank-형), but was inexperienced with the *computer* (e.g., NFTs, etc.).
+
+Anyway, I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the same day.
+
+## Why decentralized social media?
+- In theory, you can't get deplatformed and have to start over on another network...rather you carry your social graph with you
+- No ads—unless you want them...so let's say: different monetization models / funding mechanisms, making it such that you don't have to be the product.
+- With it being built on the Ethereum network there's a wallet attached to each user to facilitate financial transactions.
+- Ensure the web stays authentically, verifiably human (in the age of AI)
+- ...and you have one set of credentials (i.e. your wallet)
+- More innovation (building atop the core layer) (because people are incented to build *and* because platform risk is mitigated)
+- (Check out Chris Dixon's [*Read Write Own*](/book/read-write-own/) for all the additional arguments and details.)
+
+
+## First impressions:
+- Week 1: "I seem to have wandered into a house party to which I was not invited."
+- Week 2: "There is no shortage of cool $#!& being developed around here, and there's great build/launch energy."
+- Week 3: "Hey, this place has a friendly vibe—a refreshing alternative to the vitriol in the other public squares."
+
+On that last point, this was something people frequently mentioned and agreed, typified by [this "cast"](https://warpcast.com/bradq/0x465df2):
+
+> I've been exploring FC for several months. I basically follow and engage with FC builders and Purple people and those that are drawn to that culture. I realized something today. I haven't come across one thread of animosity or contention. It's builders encouraging and helping one another. That's appealing.
+
+And others wondered aloud how to preserve said vibes:
+
+> love Farcaster, but one question I have is how to scale such a high-signal, strong community without losing some of the magic we have today on this app? conversations here are very reminiscent of early-days clubhouse, but how do we maintain this as it exits beta / becomes open?
+
+This is a hard balance to strike. The [Twitter clone Pebble](https://en.wikipedia.org/wiki/Pebble_(social_network)) was attempting to be a "nice Twitter" and ultimately people passed on *nice* in favor of *interesting* and they had to shut down—Threads may see the same fate. And so while civility is lovely, you still need a contingency that will stir the pot and be a little provocative lest people take off.
+
+Farcaster was certainly a Twitter clone out the gate as far as UX/UI, but then "Channels" were introduced, which allowed for niche communities a la Reddit. Channels gained transaction almost immediately with some 30% of casts going through them within the first month.
+
+I admit I was a little skeptical about the long-term prospects of a social network starting up in 2021 overcoming the "cold start problem," but the crypto community is vibrant, smart, competitive. I also now subscribe to Kevin Kelly"1000 true fans" concept[^2].
+
+[^2]: Kevin Kelly's [2008 blogpost](https://kk.org/thetechnium/1000-true-fans/) and concept that you don't need to convert the total available market to your product; rather you need a narrow segment that will stick with you through thick and thin, buy everything you drop on the market, and evangelize your product to their friends.
+
+I can't remember if dwr.eth came up with this, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but here web2 in the front; web3 in the back (or underneath?). I.e., most people don't care about blockchain or Ethereum or L1 or L2 networks—and, in fact, most users won't tolerate the current UX with wallet signatures: way too complex. Users want whatever's differentiated about this new-fangled network: e.g., that I can take my connections/followers with me; that my children won't be targeted with the wrong kinds of ads; that I could build something on top of it without the risk of it being shut down or cut off; etc.
+
+The use cases are bubbling up. The "composability" aspect of blockchain is huge. The lightbulb went off for me with a fun little project called dadcaster.org which is built on charmverse. Instead of having you "sign up" with your email address and somehow meet certain criteria; you just need to have a certain NFT minted which is essentially your keycard to enter the community. The moderators then know who you are, and know that you've satisfied whatever criteria were necessary to be admitted (not much in this case, but you get the point).
+
+Another simple project was "web3 sign a pdf" by Tayyab Hussain and Dylan Steck. Just connect your wallet, upload your file, and sign away; and you've just disintermediated DocuSign or Adobe Sign; it's your verifiable signature which may outlast any esignature service.
+
+I may still be a fringe user, but it's been fun to participate a little in this community and observe the evolution of the platform.
+
+
+— ᴘ. ᴍ. ʙ.
