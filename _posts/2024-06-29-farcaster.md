@@ -4,7 +4,7 @@ title: Farcaster
 date: 2024-06-29
 author:	Paul Berens
 ---
-I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to his blog, which I found nice and simple and subsequently forked and adapted (you're looking at it, btw). He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails. As far as blockchain went I had dabbled in the *casino* (h/t bro-in-law Frank-형), but was inexperienced with the *computer* (e.g., NFTs, etc.), and yet I was curious to learn about it—NFTs and so forth—and since my learning style is constructivism (i.e. tinkering) I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the same day.
+I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to his blog, which I found nice and simple and subsequently forked and adapted (you're looking at it, btw). He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails called [Farcaster](https://www.farcaster.xyz/). As far as blockchain went I had dabbled in the *casino* (h/t bro-in-law Frank-형), but was inexperienced with the *computer*, and yet I was curious to learn about it—NFTs and so forth—and since my learning style is constructivism (i.e. tinkering) I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the same day.
 
 ![pb – your week on Farcaster](/assets/og/ui_your_week_fcast.png)
 
@@ -40,14 +40,14 @@ I admit I was a little skeptical about the long-term prospects of a social netwo
 
 I can't remember if dwr.eth came up with this, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but here web2 in the front; web3 in the back (or underneath?). I.e., most people don't care about blockchain or Ethereum or L1 or L2 networks—and, in fact, most users won't tolerate the current UX with wallet signatures: way too complex. Users want whatever's differentiated about this new-fangled network: e.g.:
 - that I can take my connections/followers with me
-- that my children won't be targeted with the wrong kinds of ads
+- that our children won't be targeted with the wrong kinds of ads
 - that I could build something on top of it without the risk of it being shut down or cut off
 
 And the unique use cases are starting to bubble up.
 1. The *composability* aspect of blockchain is huge. The lightbulb went off for me with a fun little project called [dadcaster](https://www.dadcaster.org/) which is built on [CharmVerse](https://app.charmverse.io). Instead of having you "sign up" with your email address and somehow meet certain criteria; you just prove ownership of a certain NFT, which is essentially your keycard. The community then knows who you are, and knows that you've satisfied whatever criteria were necessary to be admitted (not much in this case, but you get the point).
 2. Another simple project was [web3 sign a pdf](https://eth-pdf-signature.vercel.app/) by Tayyab Hussain and Dylan Steck. Just connect your wallet, upload your file, and sign away; and you've just disintermediated DocuSign or Adobe Sign; it's your verifiable signature which may well outlast any esignature service provider.
 
-So that's a bit of my experience to date. I may be a fringe user, but it's been fun to dabble in this community of interesting people and observe the evolution of the platform.
+So that's a bit of my experience to date. I may be a fringe user, but it's been fun to participate in this community of interesting people and observe the evolution of the platform.
 
 — ᴘ. ᴍ. ʙ.
 
