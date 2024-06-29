@@ -46,13 +46,13 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "just yesterday";
           break;
         case 2:
-          message = "a mere two days ago";
+          message = "a couple days ago";
           break;
         case 3:
           message = "several days ago";
           break;
         case 4:
-          message = "four days ago";
+          message = "not more than four days ago";
           break;
         case 5:
           message = "five days back";
