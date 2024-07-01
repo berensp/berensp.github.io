@@ -10,19 +10,23 @@ ogimage: bookshelf.bw.png
 
 {% assign categories = "Just Finished,Presently Reading,On Deck,Near Term,Favourites,Miscellany,Books by Family/Friends" | split: "," %}
 
-{% assign today = site.time | date: "%Y-%m-%d" %}
-{% assign one_year_ago = today | date_modify: "-1 year" %}
+{% assign today = site.time %}
+{% assign one_year_ago = today | date: "%Y-%m-%d" | date_modify: "-1 year" %}
+
+<p>Debug Info: Today: {{ today | date: "%Y-%m-%d" }}, One Year Ago: {{ one_year_ago }}</p>
 
 {% for category in categories %}
   {% assign books_in_category = site.book | where: "category", category %}
+  <p>Debug Info: Processing category: {{ category }}, Books in category: {{ books_in_category | size }}</p>
   {% if category == "Miscellany" %}
-    {% assign books_in_category = books_in_category | where_exp: "book", "book.finish_date != null and book.finish_date >= one_year_ago" %}
+    {% assign books_in_category = books_in_category | where_exp: "book", "book.finish_date and book.finish_date >= one_year_ago" %}
+    <p>Debug Info: Filtered Miscellany books: {{ books_in_category | size }}</p>
   {% endif %}
   {% if books_in_category.size > 0 %}
     <h2>{% if category == "Miscellany" %}Others (since {{ one_year_ago }}){% else %}{{ category | capitalize }}{% endif %}</h2>
     <ul class="more-space">
       {% for bookreview in books_in_category %}
-        <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
+        <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }} (Finish Date: {{ bookreview.finish_date }})</li>
       {% endfor %}
     </ul>
   {% endif %}
