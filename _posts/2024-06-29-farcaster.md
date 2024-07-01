@@ -13,7 +13,7 @@ Which is funny because I had [deep-sixed my Facebook account nine months earlier
 So it does beg the question...
 
 ## Why decentralized social media?
-- You don't have to be the product (i.e. different monetization models / funding mechanisms)
+- You don't have to be the product (i.e. different monetization models / funding mechanisms) (a.k.a. no ads)
 - It stays authentically, verifiably human (in the age of AI)
 - One set of credentials (i.e. your wallet)
 - Financial transactions are easy with a wallet attached to each user
@@ -48,10 +48,7 @@ I admit I was a little skeptical about the long-term prospects of a social netwo
 
 I can't remember if Dan came up with this or it was someone else, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but in this case web2 (ease of use) in the front; web3 (sundry benefits of decentralization) in the back (or, shall we say, *underneath?*). I.e., once web3 social crosses the chasm into the mainstream, many people won't care about blockchain or Ethereum or L1 or L2 networks *per se*, but only the benefits it affords them...and, in fact, won't tolerate the current clunky UX with wallet signatures as a trade-off—I realize this has been stated tens of thousands of times.
 
-Users want whatever's differentiated about this new-fangled network, which in the short-term, as we said, is fabulous collection of people; but in the long-run hopefully part of the value prop has to do with blockchain: e.g.:
-- that I can take my connections/followers with me
-- that our children won't be targeted with the wrong kinds of ads—or any ads whatsoever
-- that I could build something on top of it without the risk of it being shut down or cut off
+Users want whatever's differentiated about this new-fangled network, which in the short-term, as we said, is fabulous collection of people; but in the long-run hopefully part of the value prop has to do with [what is intrinsically valuable about blockchain](#why-decentralized-social-media?).
 
 And the unique use cases are starting to bubble up everywhere. e.g.:
 1. The *composability* aspect of blockchain is huge. The lightbulb went off for me with a fun little project called [dadcaster](https://www.dadcaster.org/) which is built on [CharmVerse](https://app.charmverse.io). Instead of having you "sign up" with your email address and somehow meet certain criteria; you just prove ownership of a certain NFT, which is essentially your keycard. The community then knows who you are, and knows that you've satisfied whatever criteria were necessary to be admitted (not much in this case, but you get the point).
@@ -59,6 +56,8 @@ And the unique use cases are starting to bubble up everywhere. e.g.:
 3. And then Frames, which let you turn any cast into an interactive app. Amazing.
 
 Of course this is just the beginning, but that's a bit of my experience to date. I may be a fringe user, but it's been fun to participate in this community of interesting people and observe the evolution of the platform.
+
+Excelsior,
 
 — ᴘ. ᴍ. ʙ.
 
