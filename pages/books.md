@@ -16,7 +16,7 @@ ogimage: bookshelf.bw.png
 {% for category in categories %}
   {% assign books_in_category = site.book | where: "category", category %}
   {% if category == "Miscellany" %}
-    {% assign filtered_books = books_in_category | where_exp: "book", "book.finish_date and book.finish_date >= one_year_ago" %}
+    {% assign filtered_books = books_in_category | where_exp: "book", "book.finish_date != null and book.finish_date >= one_year_ago" %}
     {% assign books_in_category = filtered_books | concat: books_in_category | uniq %}
   {% endif %}
   {% if books_in_category.size > 0 %}
