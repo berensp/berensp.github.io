@@ -1,5 +1,5 @@
 title: Paul Berens
-description: The Official Web Presence of Paul Berens
+description: ✌
 url: "https://berens.co"
 
 collections:
@@ -18,3 +18,13 @@ permalink: /:categories/:title:output_ext
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-github-metadata
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
