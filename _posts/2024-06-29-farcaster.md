@@ -26,9 +26,9 @@ So it does beg the question...
 - Week 2: "There is no shortage of cool $#!& being developed around here, and there's great build/launch energy."[^1]
 - Week 3: "Hey, this place has a friendly vibe—a refreshing alternative to the vitriol in the other public squares."
 
-[^1]: Merkle Manufactory, the company behind Farcaster and Warpcast, is a pacesetter in this respect, getting their ship velocity to weekly at one point. Operating at break-neck speed.
+[^1]: Merkle Manufactory, the company behind Farcaster and Warpcast, is a pacesetter in this respect for the entire community, shipping pretty major stuff almost weekly at one point.
 
-<img src="/assets/og/ui_your_week_fcast.png" alt="pb – your week on Farcaster" style="width: 60%;">
+<center><img src="/assets/og/ui_your_week_fcast.png" alt="pb – your week on Farcaster" style="width: 60%;"></center>
 
 On that last point, this was something people frequently mentioned and agreed, typified by [this "cast"](https://warpcast.com/bradq/0x465df2):
 
@@ -62,4 +62,4 @@ Of course this is just the beginning, but that's a bit of my experience to date.
 
 — ᴘ. ᴍ. ʙ.
 
-<img src="/assets/og/ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 60%;">
+<center><img src="/assets/og/ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 60%;"></center>
