@@ -11,13 +11,13 @@ ogimage: bookshelf.bw.png
 {% assign categories = "Just Finished,Presently Reading,On Deck,Near Term,Favourites,Miscellany,Books by Family/Friends" | split: "," %}
 
 {% for category in categories %}
-  {% assign books_in_category = site.book | where: "category", category %}
-  {% if books_in_category.size > 0 %}
-    <h2>{{ category | capitalize }}</h2>
-    <ul class="more-space">
-      {% for bookreview in books_in_category %}
-        <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
-      {% endfor %}
-    </ul>
-  {% endif %}
+{% assign books_in_category = site.book | where: "category", category %}
+{% if books_in_category.size > 0 %}
+<h2>{{ category | capitalize }}</h2>
+<ul class="more-space">
+{% for bookreview in books_in_category %}
+<li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
+{% endfor %}
+</ul>
+{% endif %}
 {% endfor %}
