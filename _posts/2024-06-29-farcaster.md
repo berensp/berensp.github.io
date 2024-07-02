@@ -50,7 +50,7 @@ I can't remember if Dan came up with this or it was someone else, but in some wa
 
 Users want whatever's differentiated about this new-fangled network, which in the short-term, as we said, is an inspirational collection of delectable humans; but in the long-run is theoretically [what is intrinsically valuable about blockchain](#why-decentralized-social-media).
 
-And the unique use cases are starting to bubble up everywhere. e.g.:
+And the unique use cases bubbled up early and often. e.g.:
 1. The *composability* aspect of blockchain is huge. The lightbulb went off for me with a fun little project called [dadcaster](https://www.dadcaster.org/) which is built on [CharmVerse](https://app.charmverse.io). Instead of having you "sign up" with your email address and somehow meet certain criteria; you just prove ownership of a certain NFT, which is essentially your keycard. The community then knows who you are, and knows that you've satisfied whatever criteria were necessary to be admitted (not much in this case, but you get the point).
 2. Another simple project was [web3 sign a pdf](https://eth-pdf-signature.vercel.app/) by Tayyab Hussain and Dylan Steck. Just connect your wallet, upload your file, and sign away; and you've just disintermediated DocuSign or Adobe Sign; it's your verifiable signature which may well outlast any esignature service provider.
 3. And then Frames, which let you turn any cast into an interactive app. Amazing.
