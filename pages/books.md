@@ -10,6 +10,9 @@ ogimage: bookshelf.bw.png
 
 {% assign categories = "Just Finished,Presently Reading,On Deck,Near Term,Favourites,Miscellany,Books by Family/Friends" | split: "," %}
 
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign one_year_ago = today | date_modify: "-1 year" %}
+
 {% for category in categories %}
 {% assign books_in_category = site.book | where: "category", category %}
 {% if books_in_category.size > 0 %}
