@@ -7,8 +7,8 @@ finish_date: 2003-03-01
 book_url: https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0
 ogimage: bkreview_owenmeany.jpg
 ---
-So thoroughly enjoyable—it should maybe be in the Favourites category—but I read it so long ago now that it's hard to remember all the details.
+So thoroughly enjoyable—it should maybe be in the [Favourites category](/books#Favourites)—but I read it so long ago now that it's hard to remember all the details.
 
-(h/t to [mcandrew_m](https://twitter.com/mcandrew_m) for turning me on to John Irving...[*Avenue of Mysteries*](/avenue-of-mysteries/) is comin' up on the reading list.
+(h/t to [mcandrew_m](https://twitter.com/mcandrew_m) for turning me on to John Irving...[*Avenue of Mysteries*](/book/avenue-of-mysteries/) is comin' up on the reading list.
 
 — ᴘ. ᴍ. ʙ.
