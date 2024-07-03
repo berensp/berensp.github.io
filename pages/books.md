@@ -15,17 +15,22 @@ ogimage: bookshelf.bw.png
     {% assign current_date = 'now' | date: '%s' %}
     {% assign books_in_category = site.book | where: "category", category %}
     {% assign recent_books = "" | split: "" %}
+    {% assign earliest_date = current_date %}
     {% for bookreview in books_in_category %}
       {% if bookreview.finish_date %}
         {% assign finish_date = bookreview.finish_date | date: '%s' %}
         {% assign days_since = current_date | minus: finish_date | divided_by: 86400 %}
         {% if days_since <= 365 %}
           {% assign recent_books = recent_books | push: bookreview %}
+          {% if finish_date < earliest_date %}
+            {% assign earliest_date = finish_date %}
+          {% endif %}
         {% endif %}
       {% endif %}
     {% endfor %}
     {% if recent_books.size > 0 %}
-<h2>{{ category }}</h2>
+      {% assign earliest_date_formatted = earliest_date | date: "%B %d, %Y" %}
+<h2>Other titles of note (since {{ earliest_date_formatted }})</h2>
 <ul class="more-space">
       {% for bookreview in recent_books %}
   <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
