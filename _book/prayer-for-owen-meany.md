@@ -9,6 +9,6 @@ ogimage: bkreview_owenmeany.jpg
 ---
 So thoroughly enjoyable—it should maybe be in the [Favourites category](/books#Favourites)—but I read it so long ago now that it's hard to remember all the details.
 
-(h/t to [mcandrew_m](https://twitter.com/mcandrew_m) for turning me on to John Irving...[*Avenue of Mysteries*](/book/avenue-of-mysteries/) is comin' up on the reading list.
+(h/t to [mcandrew_m](https://x.com/mcandrew_m) for turning me on to John Irving...[*Avenue of Mysteries*](/book/avenue-of-mysteries/) is comin' up on the reading list.
 
 — ᴘ. ᴍ. ʙ.
