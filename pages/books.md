@@ -29,7 +29,7 @@ ogimage: bookshelf.bw.png
       {% endif %}
     {% endfor %}
     {% if recent_books.size > 0 %}
-      {% assign earliest_date_formatted = earliest_date | date: "%B %d, %Y" %}
+      {% assign earliest_date_formatted = earliest_date | date: "%Y-%m-%d" %}
 <h2>Other titles of note (since {{ earliest_date_formatted }})</h2>
 <ul class="more-space">
       {% for bookreview in recent_books %}
