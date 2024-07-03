@@ -1,6 +1,6 @@
 ---
 layout: bookreview
-title: How Much of These Hills Is Gold: A Novel Hardcover – April 7, 2020
+title: How Much of These Hills Is Gold
 author: C Pam Zhang
 category: Miscellany
 finish_date: 2023-12-27
