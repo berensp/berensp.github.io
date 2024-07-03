@@ -13,12 +13,12 @@ Which is funny because I had [deep-sixed my Facebook account nine months earlier
 So it does beg the question...
 
 ## Why decentralized social media?
-- You don't have to be the product (i.e. different monetization models / funding mechanisms) (a.k.a. no ads)
+- You're not the product—or, at least, you don't *have* to be (i.e. different monetization models / funding mechanisms) (a.k.a. no ads)
 - It stays authentically, verifiably human (in the age of AI)
 - One set of credentials (i.e. your wallet)
-- Financial transactions are easy with a wallet attached to each user
+- Payments are built in since a wallet is attached to each user
 - More innovation (because people are incented to build *and* because platform risk is mitigated)
-- Can't get deplatformed and have to start over on another network (i.e. carry your social graph with you)
+- No getting deplatformed and having to start over on another network (i.e. you carry your social graph with you)
 - (See Chris Dixon's [*Read Write Own*](/book/read-write-own/) for all the additional arguments and details.)
 
 ## First impressions:
@@ -44,13 +44,15 @@ I admit I was a little skeptical about the long-term prospects of a social netwo
 
 [^2]: Kevin Kelly's [2008 blogpost](https://kk.org/thetechnium/1000-true-fans/) and concept that you don't need to convert the total available market to your product; rather you need a narrow segment that will stick with you through thick and thin, buy everything you drop on the market, and evangelize your product to their friends.
 
-## Need to go full mullet
+## You gotta go full mullet
 
 I can't remember if Dan came up with this or it was someone else, but in some ways scaling web3 needs to follow the mullet paradigm: business in the front; party in the back...but in this case web2 (ease of use) in the front; web3 (sundry benefits of decentralization) in the back (or, shall we say, *underneath?*). I.e., once web3 social crosses the chasm into the mainstream, many people won't care about blockchain or Ethereum or L1 or L2 networks *per se*, but only the benefits afforded them...and, in fact, they won't tolerate the current clunky UX with wallet signatures as a trade-off—I'm sorry: I realize this has been stated tens of thousands of times.
 
 Users want whatever's differentiated about this new-fangled network, which in the short-term, as we said, is an inspirational collection of delectable humans; but in the long-run is theoretically [what is intrinsically valuable about blockchain](#why-decentralized-social-media).
 
-And the unique use cases bubbled up early and often. e.g.:
+## Use cases abound
+
+...but here are a few early ones that bubbled up that got my attention:
 1. The *composability* aspect of blockchain is huge. The lightbulb went off for me with a fun little project called [dadcaster](https://www.dadcaster.org/) which is built on [CharmVerse](https://app.charmverse.io). Instead of having you "sign up" with your email address and somehow meet certain criteria; you just prove ownership of a certain NFT, which is essentially your keycard. The community then knows who you are, and knows that you've satisfied whatever criteria were necessary to be admitted (not much in this case, but you get the point).
 2. Another simple project was [web3 sign a pdf](https://eth-pdf-signature.vercel.app/) by Tayyab Hussain and Dylan Steck. Just connect your wallet, upload your file, and sign away; and you've just disintermediated DocuSign or Adobe Sign; it's your verifiable signature which may well outlast any esignature service provider.
 3. And then Frames, which let you turn any cast into an interactive app. Amazing.
