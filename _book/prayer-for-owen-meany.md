@@ -3,7 +3,7 @@ layout: bookreview
 title: A Prayer for Owen Meany
 author: John Irving
 category: Miscellany
-finish_date: 2023-07-03
+finish_date: 2023-07-02
 book_url: https://www.google.com/books/edition/A_Prayer_for_Owen_Meany/pcCpqpWPKrkC?hl=en&gbpv=0
 ogimage: bkreview_owenmeany.jpg
 ---
