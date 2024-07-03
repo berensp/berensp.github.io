@@ -13,14 +13,15 @@ ogimage: bookshelf.bw.png
 -->
 
 {% for category in categories %}
-  {% if category == "Miscellany" %}
 <h2>{{ category | capitalize }}</h2>
 <ul class="more-space">
 <!--
-    {% assign current_date = 'now' | date: '%Y-%m-%d' %}
+  {% if category == "Miscellany" %}
+    {% assign current_date = 'now' | date: '%s' %}
     {% for bookreview in site.book %}
       {% if bookreview.category == "Miscellany" and bookreview.finish_date %}
-        {% assign days_since = current_date | date: '%s' | minus: bookreview.finish_date | date: '%s' | divided_by: 86400 %}
+        {% assign finish_date = bookreview.finish_date | date: '%s' %}
+        {% assign days_since = current_date | minus: finish_date | divided_by: 86400 %}
         {% if days_since <= 365 %}
 -->
   <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
@@ -28,25 +29,16 @@ ogimage: bookshelf.bw.png
         {% endif %}
       {% endif %}
     {% endfor %}
--->
-</ul>
   {% else %}
-<!--
     {% assign books_in_category = site.book | where: "category", category %}
-    {% if books_in_category.size > 0 %}
--->
-<h2>{{ category | capitalize }}</h2>
-<ul class="more-space">
-<!--
-      {% for bookreview in books_in_category %}
+    {% for bookreview in books_in_category %}
 -->
   <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
 <!--
-      {% endfor %}
+    {% endfor %}
+  {% endif %}
 -->
 </ul>
 <!--
-    {% endif %}
-  {% endif %}
 {% endfor %}
 -->
