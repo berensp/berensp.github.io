@@ -26,7 +26,7 @@
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
-        var gpxUrl = '{{ "/assets/maps/" | relative_url }}{{ page.gpx_url }}';
+        var gpxUrl = '{{ site.url }}{{ site.baseurl }}/assets/maps/{{ page.gpx_url }}';
         console.log("GPX URL:", gpxUrl);  // Debugging: Print GPX URL to console
         console.log("Map ID:", '{{ page.id }}');  // Debugging: Print map ID to console
 
