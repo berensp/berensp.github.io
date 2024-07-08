@@ -20,35 +20,33 @@
 
     <div id="{{ page.id }}" class="map" style="height: 300px; width: 100%;"></div>
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        var vectorLayer = new ol.layer.Vector({
-          source: new ol.source.Vector({
-            url: '{{ "/assets/maps/" | relative_url }}{{ page.gpx_url }}',
-            format: new ol.format.GPX()
-          }),
-          style: new ol.style.Style({
-            stroke: new ol.style.Stroke({
-              color: 'red',
-              width: 3
-            })
+      var vectorLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          url: '{{ "/assets/maps/" | relative_url }}{{ page.gpx_url }}',
+          format: new ol.format.GPX()
+        }),
+        style: new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: 'red',
+            width: 3
           })
-        });
+        })
+      });
 
-        var map = new ol.Map({
-          target: '{{ page.id }}',
-          layers: [
-            new ol.layer.Tile({
-              source: new ol.source.OSM()
-            }),
-            vectorLayer
-          ],
-          view: new ol.View({
-            center: ol.proj.fromLonLat([{{ page.long }}, {{ page.lat }}]),
-            zoom: {{ page.zoom }},
-            maxZoom: 19,
-            minZoom: 5
-          })
-        });
+      var map = new ol.Map({
+        target: '{{ page.id }}',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          }),
+          vectorLayer
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([{{ page.long }}, {{ page.lat }}]),
+          zoom: {{ page.zoom }},
+          maxZoom: 19,
+          minZoom: 5
+        })
       });
     </script>
 
