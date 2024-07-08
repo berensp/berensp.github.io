@@ -9,6 +9,6 @@ zoom: 14
 distance: 5.5 mi
 elevation: 1,052 ft
 difficulty: hard
-permalink: /twin-peaks-mt-sutro/
+category: San Francisco
 ---
 One of my current [favourite loops](/run/). I can't exactly do it without pausing to catch my breath at a couple points, but hey. Beautiful views atop Twin Peaks and descending Twin Peaks Blvd., tough but nice wooded climb up to Mt. Sutro, [happy descent on the Historic Trail](/assets/videos/historic.trail.gif) (so long as I don't twist an ankle on a root some day).

@@ -10,15 +10,16 @@ When I don't have time for a [ride](/cycling/)—which is nearly always the case
 
 Some favorite routes 👇
 
-## San Francisco
-- [Twin Peaks Mt. Sutro](/twin-peaks-mt-sutro/)
-- [GGP Moraga Steps](/ggp-moraga-steps/)
-- [Presidio Ecology Trail](/presidio/)
-- [Ferry Building via Embarcadero](/ferry-bldg/)
-- [One-way to the Marina](/marina/)
+{% assign categories = "San Francisco,Greater Bay Area,Away from home" | split: "," %}
 
-## Greater Bay Area
-- [Stanford Dish](/dish/)
-
-## Away from home
-- [Mendota St. Peter's](/mendota/)
+{% for category in categories %}
+  {% assign routes_in_category = site.run | where: "category", category %}
+  {% if routes_in_category.size > 0 %}
+<h2>{{ category }}</h2>
+<ul class="more-space">
+    {% for route in routes_in_category %}
+  <li><i><a class="route-link" href="{{ route.url | relative_url }}">{{ route.title | escape }}</a></li>
+    {% endfor %}
+</ul>
+  {% endif %}
+{% endfor %}

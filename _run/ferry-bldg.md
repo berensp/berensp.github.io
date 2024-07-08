@@ -9,6 +9,6 @@ zoom: 13
 distance: 5.2 mi
 elevation: 41 ft
 difficulty: easy
-permalink: /ferry-bldg/
+category: San Francisco
 ---
 From Potrero to the Ferry Building via the Embarcadero. Nice 'n' flat and no crosswalks to break your stride for good stretches of it.

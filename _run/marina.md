@@ -9,6 +9,6 @@ zoom: 12
 distance: 6 mi
 elevation: 84 ft
 difficulty: easy
-permalink: /marina/
+category: San Francisco
 ---
 When I lived in Potrero Hill I'd usually run [to the Ferry Building and back via the Embarcadero](/ferry-bldg/), but to mix things up I'd occasionally run to the Marina and then catch the #22 Fillmore from Fillmore & Bay to 18th & Pennsylvania (my front door).
