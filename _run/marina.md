@@ -2,7 +2,7 @@
 layout: map_run
 title: One-way to the Marina
 gpx_url: Marina.gpx
-id: marina
+id: "marina"
 long: -13627117.239180483
 lat: 4548706.593363042
 zoom: 12
