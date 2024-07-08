@@ -18,7 +18,7 @@ Some favorite routes 👇
 <h2>{{ category }}</h2>
 <ul class="more-space">
     {% for route in routes_in_category %}
-  <li><i><a class="route-link" href="{{ route.url | relative_url }}">{{ route.title | escape }}</a></li>
+  <li><a class="route-link" href="{{ route.url | relative_url }}">{{ route.title | escape }}</a></li>
     {% endfor %}
 </ul>
   {% endif %}
