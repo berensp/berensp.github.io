@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Running
-permalink: /run/
+permalink: /running/
 description: correr
 ---
 <img src="/assets/og/tahoe.half.bw.png" width="50%" height="50%">
