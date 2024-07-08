@@ -22,7 +22,7 @@
     <script>
       var vectorLayer = new ol.layer.Vector({
         source: new ol.source.Vector({
-          url: '/assets/maps/{{ page.gpx_url }}',
+          url: '../assets/maps/{{ page.gpx_url }}',
           format: new ol.format.GPX()
         }),
         style: new ol.style.Style({
