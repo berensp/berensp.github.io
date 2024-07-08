@@ -12,6 +12,10 @@ collections:
   book:
     output: true
     permalink: /book/:path/
+  run:
+    output: true
+    permalink: /run/:path/
+
 
 baseurl: ""
 permalink: /:categories/:title:output_ext

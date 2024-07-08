@@ -9,6 +9,6 @@ zoom: 14
 distance: 4 mi
 elevation: 587 ft
 difficulty: moderate
-permalink: /dish/
+category: Greater Bay Area
 ---
 No warm-up: you're climbing ~400' right off the bat. But then you're treated with some impressive views as you cruise through the rolling hills of this three-and-a-half-plus-mile loop.
