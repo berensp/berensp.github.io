@@ -23,6 +23,7 @@
     <div id="{{ page.id }}" class="map" style="height: 300px; width: 100%;"></div>
 
     <p>Map ID: {{ page.id }}</p> <!-- Add this line for debugging -->
+<p>page.id (inspected): {{ page.id | inspect }}</p>
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
