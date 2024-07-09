@@ -20,16 +20,16 @@
 
     {{ content }}
 
-    <!-- Force ID to be lowercase and remove prefix -->
-    <div id="{{ page.id | downcase | replace: '/run/', '' }}" class="map" style="height: 300px; width: 100%;"></div>
+    <!-- Map Container -->
+    <div id="map" class="map" style="height: 300px; width: 100%;"></div>
 
-    <p>Map ID: {{ page.id | downcase | replace: '/run/', '' }}</p> <!-- Add this line for debugging -->
+    <p>Map ID: map</p> <!-- Add this line for debugging -->
 
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         var gpxUrl = '{{ site.url }}{{ site.baseurl }}/assets/maps/{{ page.gpx_url }}';
         console.log("GPX URL:", gpxUrl);  // Debugging: Print GPX URL to console
-        console.log("Map ID:", '{{ page.id | downcase | replace: '/run/', '' }}');  // Debugging: Print map ID to console
+        console.log("Map ID:", 'map');    // Debugging: Print map ID to console
 
         var vectorLayer = new ol.layer.Vector({
           source: new ol.source.Vector({
@@ -45,7 +45,7 @@
         });
 
         var map = new ol.Map({
-          target: '{{ page.id | downcase | replace: '/run/', '' }}',
+          target: 'map',
           layers: [
             new ol.layer.Tile({
               source: new ol.source.OSM()
