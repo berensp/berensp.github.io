@@ -15,6 +15,9 @@ collections:
   run:
     output: true
     permalink: /run/:path/
+  ride:
+    output: true
+    permalink: /ride/:path/
 
 
 baseurl: ""

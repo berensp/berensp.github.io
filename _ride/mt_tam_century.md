@@ -9,6 +9,6 @@ zoom: 10
 distance: ~94 mi
 elevation: 8,500 ft
 difficulty: hard
-permalink: /mt-tam-century/
+category: Long Rides/Centuries
 ---
 I think [this](https://www.strava.com/activities/174564554) was my third Marin Century when [@Joe](https://www.strava.com/athletes/111975) and I decided to kick up the climbing a notch.

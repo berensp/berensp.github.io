@@ -9,6 +9,6 @@ zoom: 12
 distance: 41 mi
 elevation: 2k ft
 difficulty: easy
-permalink: /paradise/
+category: Shorter Rides
 ---
 A classic with high return on investment when you don't have unlimited time.
