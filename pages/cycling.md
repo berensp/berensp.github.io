@@ -10,7 +10,7 @@ My preferred means of soaking in the great outdoors whilst spiking serotonin and
 
 Some favorite rides 👇
 
-{% assign categories = "Short Rides,Medium Rides,Long Rides/Centuries" | split: "," %}
+{% assign categories = "Shorter Rides,Medium Rides,Long Rides/Centuries" | split: "," %}
 
 {% for category in categories %}
   {% assign routes_in_category = site.ride | where: "category", category %}
