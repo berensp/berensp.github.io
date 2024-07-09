@@ -11,4 +11,4 @@ elevation: 4.4k ft
 difficulty: moderate/hard
 category: Medium Rides
 ---
-When you don't have the time/energy for [this one](/point-reyes/) but still want to hit up Stinson Beach.
+When you don't have the time/energy for [this one](/ride/pt-reyes/) but still want to hit up Stinson Beach.
