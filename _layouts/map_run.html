@@ -18,7 +18,7 @@
 
 {{ content }}
 
-    <div id="{{ page.id }}" class="map" style="height: 300px; width: 100%;"></div>
+    <div id="map-{{ page.title | slugify }}" class="map" style="height: 300px; width: 100%;"></div>
     <script>
       var vectorLayer = new ol.layer.Vector({
         source: new ol.source.Vector({
@@ -33,8 +33,8 @@
         })
       });
 
-      var {{ page.id }} = new ol.Map({
-        target: '{{ page.id }}',
+      var runMap = new ol.Map({
+        target: 'map-{{ page.title | slugify }}',
         layers: [
           new ol.layer.Tile({
             source: new ol.source.OSM()
