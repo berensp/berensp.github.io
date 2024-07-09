@@ -11,4 +11,4 @@ elevation: 1700 ft
 difficulty: moderate
 category: Shorter Rides
 ---
-When there's not even enough time for [Paradise](/paradise/) but you want a little climbing and some nice city views.
+When there's not even enough time for [Paradise](/ride/paradise/) but you want a little climbing and some nice city views.
