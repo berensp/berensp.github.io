@@ -9,6 +9,6 @@ zoom: 13
 distance: 18 mi
 elevation: 1700 ft
 difficulty: moderate
-category: Short Ride
+category: Shorter Rides
 ---
 When there's not even enough time for [Paradise](/paradise/) but you want a little climbing and some nice city views.
