@@ -5,66 +5,54 @@
 
   <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript>
-      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMZNFRB" height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMZNFRB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
+    
+<a class="muted small" href="/">{{ site.title | escape }}</a>
 
-    <a class="muted small" href="/">{{ site.title | escape }}</a>
+<script src="https://openlayers.org/en/v6.0.1/build/ol.js"></script>
 
-    <script src="https://openlayers.org/en/v6.0.1/build/ol.js"></script>
+<h1>{{ page.title | escape }}</h1>
 
-    <h1>{{ page.title | escape }}</h1>
+<mark>{{ page.distance }}</mark> | <mark>{{ page.elevation }}</mark> | <mark>{{ page.difficulty }}</mark>
 
-    <mark>{{ page.distance }}</mark> | <mark>{{ page.elevation }}</mark> | <mark>{{ page.difficulty }}</mark>
+{{ content }}
 
-    {{ content }}
-
-    <!-- Map Container -->
-    <div id="map" class="map" style="height: 300px; width: 100%;"></div>
-
-    <p>Map ID: map</p> <!-- Add this line for debugging -->
-
+    <div id="{{ page.id }}" class="map" style="height: 300px; width: 100%;"></div>
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        var gpxUrl = '{{ site.url }}{{ site.baseurl }}/assets/maps/{{ page.gpx_url }}';
-        console.log("GPX URL:", gpxUrl);  // Debugging: Print GPX URL to console
-        console.log("Map ID:", 'map');    // Debugging: Print map ID to console
+      var vectorLayer = new ol.layer.Vector({
+        source: new ol.source.Vector({
+          url: '/assets/maps/{{ page.gpx_url }}',
+          format: new ol.format.GPX()
+        }),
+        style: new ol.style.Style({
+          stroke: new ol.style.Stroke({
+            color: 'red',
+            width: 3
+          })
+        })
+      });
 
-        var vectorLayer = new ol.layer.Vector({
-          source: new ol.source.Vector({
-            url: gpxUrl,
-            format: new ol.format.GPX()
+      var {{ page.id }} = new ol.Map({
+        target: '{{ page.id }}',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
           }),
-          style: new ol.style.Style({
-            stroke: new ol.style.Stroke({
-              color: 'red',
-              width: 3
-            })
-          })
-        });
-
-        var map = new ol.Map({
-          target: 'map',
-          layers: [
-            new ol.layer.Tile({
-              source: new ol.source.OSM()
-            }),
-            vectorLayer
-          ],
-          view: new ol.View({
-            center: ol.proj.fromLonLat([{{ page.long }}, {{ page.lat }}]),
-            zoom: {{ page.zoom }},
-            maxZoom: 19,
-            minZoom: 5
-          })
-        });
+          vectorLayer
+        ],
+        view: new ol.View({
+	    center: [{{ page.long }},{{ page.lat }}],
+	    zoom: {{ page.zoom }},
+	    maxZoom: 19,
+	    minZoom: 5
+        })
       });
     </script>
 
-    <p><a class="muted small" href="/run/">← back to all runs</a></p>
+<p><a class="muted small" href="/running/">← back to all runs</a>
 
-    {%- include footer.html -%}
+{%- include footer.html -%}
 
   </body>
 </html>
