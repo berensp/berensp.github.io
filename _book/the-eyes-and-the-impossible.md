@@ -15,7 +15,7 @@ And I appreciated Johannes' observation of various human-created annoyances (p.8
 
 > Then a truck appeared. It was the size of a delivery truck, the kind that sometimes passed through the park to drop off human food at the snack bar. It stopped at the driveway, turned around, and backed down the sloping drive slowly, letting out a high-pitched sound all the way. And here I should say that of all the horrible things humans have created, the most maniacal and wrong of them all is this, this intermittent screaming sound as their vehicles go backward. All of life stops when the screaming begins. All beauty ends, clouds cleave, hearts break, and all of the world nearby waits, with breath held, for the sound to end. Nothing can be done during this mechanical wailing. No thinking, no eating, no running, no living.
 
-We laughed our way through it all. *Ha ha hoooooo!*
+We laughed our way through it all—*Ha ha hoooooo!*
 
 (Thanks, [@sgansky](https://x.com/sgansky).)
 
