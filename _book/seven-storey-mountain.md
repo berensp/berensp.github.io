@@ -6,7 +6,7 @@ category: Favourites
 book_url: https://www.google.com/books/edition/The_Seven_Storey_Mountain/SIZiPwAACAAJ?hl=en&kptab=overview
 ogimage: bkreview_sevenstorey.jpg
 ---
-Had a quasi-mystical experience reading this, which left an indelible mark on my faith life. Truly sacred. Merton in the beginning is quite relatable because he's mired in sin like the rest of us—in this way it's not unlike Augustine's *Confessions*. And then he takes you through his conversion, step by step.
+Had a quasi-mystical experience reading this, which left an indelible mark on [my faith life](/catholic/). Truly sacred. Merton in the beginning is quite relatable because he's mired in sin like the rest of us—in this way it's not unlike Augustine's *Confessions*. And then he takes you through his conversion, step by step.
 
 It's difficult to recall all of the details so long *post lectio*, but I remember his treatment of the Mass and Eucharist being, again, mystical...and enlightening:
 
