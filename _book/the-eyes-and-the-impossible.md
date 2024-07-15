@@ -17,6 +17,4 @@ And you have to appreciate protagonist Johannes' observations of various human-c
 
 We laughed our way through it all—*Ha ha hoooooo!*
 
-(Thanks, [@sgansky](https://x.com/sgansky).)
-
 — ᴘ. ᴍ. ʙ.
