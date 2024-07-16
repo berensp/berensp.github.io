@@ -31,7 +31,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Biggest ride</td>
-      <td style="text-align: left"><a href="https://www.receipts.xyz/mints/id/53" target="_blank">Levi's</a></td>
+      <td style="text-align: left"><a href="https://opensea.io/assets/base/0xbe85b86188553a014a96997770c30a67a847bb8b/53" target="_blank">Levi's</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Centuries</td>
@@ -43,11 +43,11 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Miles ridden</td>
-      <td style="text-align: left"><a href="https://www.receipts.xyz/mints/id/24" target="_blank">>3861</a></td>
+      <td style="text-align: left"><a href="https://opensea.io/assets/base/0xbe85b86188553a014a96997770c30a67a847bb8b/24" target="_blank">>3861</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Miles run</td>
-      <td style="text-align: left"><a href="https://www.receipts.xyz/mints/id/26" target="_blank">>1872</a></td>
+      <td style="text-align: left"><a href="https://opensea.io/assets/base/0xbe85b86188553a014a96997770c30a67a847bb8b/26" target="_blank">>1872</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Skydives</td>
