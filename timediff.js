@@ -61,13 +61,16 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "a half dozen days ago";
           break;
         case 7:
-          message = "a week ago";
+          message = "one week ago";
           break;
         case 8:
           message = "eight days ago";
           break;
         case 9:
           message = "nine days ago";
+          break;
+        case 10:
+          message = "a half score days ago";
           break;
         case 12:
           message = "a dozen days ago";
@@ -85,13 +88,34 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "one score days ago";
           break;
         case 21:
-          message = "one and a half fortnights ago";
-          break;
-        case 22:
-          message = "two and twenty days ago";
+          message = "three weeks ago";
           break;
         case 24:
-          message = "a couple dozen days ago";
+          message = "four and twenty days ago";
+          break;
+        case 28:
+          message = "two fortnight ago";
+          break;
+        case 36:
+          message = "several dozen days ago";
+          break;
+        case 40:
+          message = "twoscore days ago";
+          break;
+        case 42:
+          message = "three fortnight ago";
+          break;
+        case 48:
+          message = "four dozen days ago";
+          break;
+        case 60:
+          message = "threescore days ago";
+          break;
+        case 87:
+          message = "four score and seven days ago";
+          break;
+        case 144:
+          message = "a gross of days ago";
           break;
         default:
           message = `a mere ${diffDays} days ago`;
