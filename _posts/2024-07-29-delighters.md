@@ -8,11 +8,11 @@ I've been consistently tracking my [runs](/running/) and [rides](/cycling/) on S
 
 It's very simple, actually: if I add my running shoe model to the My Gear section of my profile, Strava will log each of my run activities against this pair, and then notify me once the total mileage has reached 400 miles—a configurable target distance...
 
-![Strava actionable insight](/assets/og/phone_strava_message.png)
+<center><img src="/assets/og/phone_strava_message.png" alt="Strava actionable insight" style="width: 60%;"></center>
 
-...so that I can use data to justify purchasing some new kicks before injury occurs!
+...so that I can use data to justify purchasing some new kicks before injury occurs:
 
-![Adrenaline GTS 23](/assets/og/brooks_adrenaline_gts_23.png)
+<center><img src="/assets/og/brooks_adrenaline_gts_23.png" alt="Adrenaline GTS 23" style="width: 60%;"></center>
 
 Joking aside, this is nontrivial to me, because I have had my share of running-related knee and shin and foot woes, some of which were attributable to going too far in shoes whose midsoles I had already stomped out.
 
@@ -24,7 +24,7 @@ Ergo high user value (at least for me) + $0 (included) = *delighter feature* per
 
 ![Kano Model](/assets/og/kano.png)
 
-- **Must-haves.** Table stakes (or "main variable" [h/t to Christie Nordhielm's Big Picture marketing framework]). Prioritize these highest, and implement early in product lifecycle. Typically don't monetize directly.
+- **Must-haves.** Table stakes (or "Main Variable" [h/t to Christie Nordhielm's Big Picture marketing framework]). Prioritize these highest, and implement early in product lifecycle. Typically don't monetize directly.
 	- Example from my Google Pixel 8 Pro: pretty much anything you require of any smartphone (e.g., calling, texting, GPS, access to an app store, etc.).
 - **Performance features.** Focus on these after basics are covered. Prioritize based on cost-benefit analysis. Can be monetized individually, especially via tiered pricing models.
 	- Example from my Google Pixel 8 Pro: probably something to do with its camera and photo quality as that's one of the key areas of differentiation.
@@ -37,15 +37,15 @@ Which makes me wonder:
 - How much it might impact NPS/customer sat (are others as delighted as I)?
 - What kind of willingness to pay might exist?
 
-## Actionable Insights
+## Value-unlocking, Data-driven, Paradigmatically-disruptive Actionable Insights
 
-I admit it's a bit hackneyed, but if these bad boys hit the mark (in terms of some combination of targeting, timing, relevance, utility), they're gold from a user experience and customer satisfaction perspective .
+I admit: *actionable insights* is a bit hackneyed—not to mention redundant—but if these bad boys hit the mark (in terms of some combination of targeting, timing, relevance, utility), they're gold from a user experience and customer satisfaction perspective .
 
 The Shoe Mileage Tracker fits into this category: i.e., information derived from some set of data that may be useful to the user for some decision or action. Although, a key difference is that I signed up for the shoe tracking (in the same way you might set an alarm), whereas other apps in other situations will serve up a notification or message *unsolicited,* which could land anywhere on the continuum between annoying spam and delightful insight-nugget, depending on how I receive it.
 
 The email marketers over at Credit Karma have done this well for quite some time (despite dealing with boring subject matter):
 
-![credit karma example actionable insight](/assets/og/phone_credit-karma.png)
+<center><img src="/assets/og/phone_credit-karma.png" alt="credit karma example actionable insight" style="width: 60%;"></center>
 
 #1 They get right to the point:
 
