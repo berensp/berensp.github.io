@@ -16,7 +16,7 @@ It's very simple, actually: if I add my running shoe model to the My Gear sectio
 
 Joking aside, this is nontrivial to me, because I have had my share of running-related knee and shin and foot woes, some of which were attributable to going too far in shoes whose midsoles I had already stomped out.
 
-So it's an insight which I find valuable. And the mechanism is a convenient one, since the alternative to this tracker is some kind of manual tracking, which, honestly, ain't gonna happen.
+So, it's an insight which I find valuable. And the mechanism is a convenient one, since the alternative to this tracker is some kind of manual tracking, which, honestly, ain't gonna happen.
 
 Ergo high user value (at least for me) + $0 (included) = *delighter feature* per the Kano Model; a useful, albeit not-terribly-quantitatively-rigorous framework.
 
@@ -24,7 +24,7 @@ Ergo high user value (at least for me) + $0 (included) = *delighter feature* per
 
 ![Kano Model](/assets/og/kano.png)
 
-- **Must-haves.** Table stakes (or "Main Variable" [h/t to Christie Nordhielm's Big Picture marketing framework]). Prioritize these highest, and implement early in product lifecycle. Typically don't monetize directly.
+- **Must-haves.** Table stakes (or "Main Variable" [h/t to Christie Nordhielm's Big Picture marketing framework]). Prioritize these highest and implement early in product lifecycle. Typically don't monetize directly.
 	- Example from my Google Pixel 8 Pro: pretty much anything you require of any smartphone (e.g., calling, texting, GPS, access to an app store, etc.).
 - **Performance features.** Focus on these after basics are covered. Prioritize based on cost-benefit analysis. Can be monetized individually, especially via tiered pricing models.
 	- Example from my Google Pixel 8 Pro: probably something to do with its camera and photo quality as that's one of the key areas of differentiation.
@@ -39,7 +39,7 @@ Which makes me wonder:
 
 ## Value-unlocking, Data-driven, Paradigmatically-disruptive Actionable Insights
 
-I admit: *actionable insights* is a bit hackneyed—not to mention redundant—but if these bad boys hit the mark (in terms of some combination of targeting, timing, relevance, utility), they're gold from a user experience and customer satisfaction perspective .
+I admit: *actionable insights* is a bit hackneyed—not to mention redundant—but if these bad boys hit the mark (in terms of some combination of targeting, timing, relevance, utility), they're gold from a user experience and customer satisfaction perspective.
 
 The Shoe Mileage Tracker fits into this category: i.e., information derived from some set of data that may be useful to the user for some decision or action. Although, a key difference is that I signed up for the shoe tracking (in the same way you might set an alarm), whereas other apps in other situations will serve up a notification or message *unsolicited,* which could land anywhere on the continuum between annoying spam and delightful insight-nugget, depending on how I receive it.
 
@@ -53,7 +53,7 @@ The email marketers over at Credit Karma have done this well for quite some time
 
 #2 Follow it with why I should care and context:
 
-> Creditors love to see this kind of patter, because it shows that you can make your monthly payments.
+> Creditors love to see this kind of pattern, because it shows that you can make your monthly payments.
 
 #3 End with a call to action:
 
