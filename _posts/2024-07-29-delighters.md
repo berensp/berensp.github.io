@@ -43,27 +43,27 @@ I admit: *actionable insights* is a bit hackneyed—not to mention redundant—b
 
 The Shoe Mileage Tracker fits into this category: i.e., information derived from some set of data that may be useful to the user for some decision or action. Although, a key difference is that I signed up for the shoe tracking (in the same way you might set an alarm), whereas other apps in other situations will serve up a notification or message *unsolicited,* which could land anywhere on the continuum between annoying spam and delightful insight-nugget, depending on how I receive it.
 
-The email marketers over at Credit Karma have done this well for quite some time (despite dealing with boring subject matter):
+The email marketers over at Credit Karma have done this well for quite some time (despite dealing with boring subject matter). Here's a good example from them:
 
 <center><img src="/assets/og/phone_credit-karma.png" alt="credit karma example actionable insight" style="width: 60%;"></center>
 
-#1 They get right to the point:
+#1 Bam—they get right to the insight:
 
 > Hey Paul, we noticed your JPMCB CARD card balance has gradually gone down these past three months.
 
-#2 Follow it with why I should care and context:
+#2 Why I should care and context:
 
 > Creditors love to see this kind of pattern, because it shows that you can make your monthly payments.
 
-#3 End with a call to action:
+#3 Call to action:
 
 > In the meantime, head to Credit Karma for a closer look.
 
-Truth be told, I don't particularly care about this insight, so maybe it's not perfectly targeted, but the point is that the template works. *And* this is probably just algorithmic (i.e., query users of x,y,z demographics whose card balance has decreased by a certain percentage or absolute dollar amount for three consecutive months), but imagine how much more pertinent and nuanced these will be once AI models can perfect them.
+Truth be told, I don't particularly care about this insight—and maybe it's a sordid example—but the point is that the template works. *And* this is probably just algorithmic (i.e., query users of x,y,z demographics whose card balance has decreased by a certain percentage or absolute dollar amount for three consecutive months), but imagine how much more pertinent and nuanced these will be once AI models can perfect them.
 
 ## The Future
 
-As I say, AI is going to take this to the next level, and it may be that algorithmic insights won't cut it forever. In fact, they may well move down the Kano curve from delighter to basic feature—or worse, the "indifferent" category, because of, for example, *hyper-personalization* (tidbits even more tailored to me) and *predictive/prescriptive insights* (what's my best course of action based on how the model forecasts the future).
+As I say, AI is going to take this to the next level, and it may be that algorithmic insights won't cut it forever. In fact, they may well move down the Kano curve from delighter to basic feature—or worse, the "indifferent" category—because of, for example, *hyper-personalization* (tidbits even more tailored to me) and *predictive/prescriptive insights* (what's my best course of action based on how the model forecasts the future).
 
 But there's plenty of runway in the time being with the crude insights, so keep going, Shoe Mileage Tracking Product Manager 🫡
 
