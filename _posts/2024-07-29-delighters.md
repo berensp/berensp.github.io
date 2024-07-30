@@ -10,11 +10,11 @@ It's very simple, actually: add your running shoe model to the My Gear section o
 
 <center><img src="/assets/og/phone_strava_message.png" alt="Strava actionable insight" style="width: 60%;"></center>
 
-...so that I have a data-informed justification for purchasing some new kicks:
+...so that you have a data-informed justification for purchasing the new kicks:
 
 <center><img src="/assets/og/brooks_adrenaline_gts_23.png" alt="Adrenaline GTS 23" style="width: 60%;"></center>
 
-Joking aside, this is nontrivial to me, because I've had my share of running-related knee and shin and foot injuries, some of which were attributable to going too far in shoes whose midsoles I had already stomped out.
+Actually, this is nontrivial to me, because I've had my share of running-related knee and shin and foot injuries, some of which were attributable to going too far in shoes whose midsoles I had already stomped out.
 
 So, it's an insight which I find valuable. And the mechanism is a convenient one, since the alternative to this tracker is some kind of manual tracking, which, honestly, ain't gonna happen.
 
@@ -59,12 +59,12 @@ The email marketers over at Credit Karma have taken the unsolicited approach—a
 
 > In the meantime, head to Credit Karma for a closer look.
 
-Truth be told, it's hard to care about this particular insight, but the point is that the template works. *And* this is probably just algorithmic (i.e., query users of x,y,z demographics whose card balance has decreased by a certain percentage or absolute dollar amount for three consecutive months), but imagine how much more pertinent and nuanced these will be once AI models can perfect them.
+Truth be told, it's hard for me to care about this particular insight, but the point is that the template works. *And* this is probably just algorithmic (i.e., query users of x,y,z demographics whose card balance has decreased by a certain percentage or absolute dollar amount for three consecutive months), but imagine how much more powerful (relevant, interesting) these will be once AI models can perfect them.
 
 ## The Future
 
-As I say, AI is going to take this to the next level, and it may be that algorithmic insights won't cut it forever. In fact, they may well move down the Kano curve from delighter to basic feature—or worse, the "indifferent" category—because of, for example, *hyper-personalization* (tidbits even more tailored to me) and *predictive/prescriptive insights* (what's my best course of action based on how the model forecasts the future).
+As I say, AI is going to take this to the next level, and it may be that algorithmic insights won't cut it forever. In fact, they may well move down the Kano curve from delighter to basic feature—or worse, the "indifferent" category—because of new trends that will raise the bar like, for example, *hyper-personalization* (tidbits even more tailored to me) and *predictive/prescriptive insights* (what's my best course of action based on how the model forecasts the future).
 
-But there's plenty of runway in the time being with the crude insights, so keep going, Shoe Mileage Tracker Product Manager 🫡
+But I'd say there's plenty of runway left for the crude insights, so keep going, Shoe Mileage Tracker Product Manager 🫡
 
 — ᴘ. ᴍ. ʙ.
