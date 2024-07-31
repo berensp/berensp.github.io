@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: Prayer of St. Bernardine of Siena
+title: St. Bernardine of Siena
 ---
 Jesus, a name full of glory, grace, love and strength!  
 You are the refuge of those who repent,  
