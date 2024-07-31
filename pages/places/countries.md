@@ -20,13 +20,13 @@ description: ~88% yet to explore
 | 10 | 🇲🇽 | Acapulco |
 | 11 | 🇹🇭 | Bangkok, Phuket |
 | 12 | 🇩🇴 | Cabarete |
-| 13 | 🇻🇦 | Saint Peter's Basilica |
-| 14 | 🇮🇱 | Tel Aviv, Jerusalem |
-| 15 | 🇮🇹 | Roma, Firenze, Venezia |
+| 13 | 🇮🇹 | Roma, Firenze, Venezia |
+| 14 | 🇻🇦 | Saint Peter's Basilica |
+| 15 | 🇮🇱 | Tel Aviv, Jerusalem |
 | 16 | 🇯🇴 | Petra, Wadi Rum |
 | 17 | 🇹🇷 | Istanbul, Cappadocia |
-| 18 | 🇳🇱 | Amsterdam |
-| 19 | 🇸🇪 | Stockholm, Rockelstad |
+| 18 | 🇸🇪 | Stockholm, Rockelstad |
+| 19 | 🇳🇱 | Amsterdam |
 | 20 | 🇩🇪 | Kaiserslautern, Trier |
 | 21 | 🇨🇭 | Genève |
 | 22 | 🇵🇪 | Lima, Machu Picchu |
@@ -34,6 +34,6 @@ description: ~88% yet to explore
 | 24 | 🇮🇳 | Pune |
 | 25 | 🇬🇧 | Glasgow |
 
-[^1]: Unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
+[^1]: Technically an unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
 
 (See also [States visited](/states/).)
