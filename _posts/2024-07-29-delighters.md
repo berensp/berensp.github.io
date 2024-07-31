@@ -6,7 +6,7 @@ author:	Paul Berens
 ---
 I've been tracking my [runs](/running/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is a little, quiet one: **The Shoe Mileage Tracker**.
 
-It's simple:
+Easy peasy:
 1. Add running shoe model to the My Gear section of your profile
 2. Strava logs each run activity against this pair
 3. Strava notifies you once the accumulated mileage has reached your (configurable) target distance, comme ci:
@@ -62,7 +62,7 @@ The email marketers over at Credit Karma have taken the unsolicited approach—a
 
 > In the meantime, head to Credit Karma for a closer look.
 
-Truth be told, it's hard for me to care about this particular insight, but the point is that the template works. *And* this is probably just algorithmic (i.e., query users of x,y,z demographics whose card balance has decreased by a certain percentage or absolute dollar amount for three consecutive months), but imagine how much more powerful (relevant, interesting) these will be once AI models can perfect them.
+Truth be told, it's hard for me to care about this particular insight, but the point is that the template works. *And* this is probably just algorithmic (i.e., query users of x, y, z demographics whose card balance has decreased by a certain percentage or absolute dollar amount for three consecutive months), but imagine how much more powerful (relevant, interesting) these will be once AI models can perfect them.
 
 ## The Future
 
