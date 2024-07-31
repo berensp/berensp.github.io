@@ -4,25 +4,28 @@ title: Delighters and Actionable Insights
 date: 2024-07-29
 author:	Paul Berens
 ---
-I've been consistently tracking my [runs](/running/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is an understated one: **The Shoe Mileage Tracker**.
+I've been tracking my [runs](/running/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is a little, quiet one: **The Shoe Mileage Tracker**.
 
-It's very simple, actually: add your running shoe model to the My Gear section of your profile → Strava logs each run activity against this pair → and then notifies you once the accumulated mileage has reached your (configurable) target distance comme ci:
+It's simple:
+1. Add running shoe model to the My Gear section of your profile
+2. Strava logs each run activity against this pair
+3. Strava notifies you once the accumulated mileage has reached your (configurable) target distance, comme ci:
 
 <center><img src="/assets/og/phone_strava_message.png" alt="Strava actionable insight" style="width: 60%;"></center>
 
-...so that you have a data-informed justification for purchasing the new kicks:
+...and now you've got a data-informed justification for purchasing the new kicks:
 
 <center><img src="/assets/og/brooks_adrenaline_gts_23.png" alt="Adrenaline GTS 23" style="width: 60%;"></center>
 
-Actually, this is nontrivial to me, because I've had my share of running-related knee and shin and foot injuries, some of which were attributable to going too far in shoes whose midsoles I had already stomped out.
+Actually, this is nontrivial to me, because I've had my share of running-related knee and shin and foot injuries, some of which were attributable to going too far in shoes whose midsoles I'd already stomped out.
 
-So, it's an insight which I find valuable. And the mechanism is a convenient one, since the alternative to this tracker is some kind of manual tracking, which, honestly, ain't gonna happen.
+So, it's a *valuable* insight. And the mechanism is a *convenient* one, since the alternative to this tracker is some kind of manual tracking, which, honestly, ain't gonna happen.
 
-Ergo high user value (at least for me) + $0 (included) = *delighter feature* per the Kano Model; a useful, albeit not-terribly-quantitatively-rigorous framework.
+Ergo, high user value (at least for me) + $0 (included) = *delighter feature* per the Kano Model; a useful, albeit not-terribly-quantitatively-rigorous framework.
 
 ## The Kano Model for feature prioritization
 
-![Kano Model](/assets/og/kano.png)
+<center><img src="/assets/og/kano.png" alt="The Kano Model"></center>
 
 - **Must-haves.** Table stakes (or "Main Variable" [h/t to Christie Nordhielm's Big Picture marketing framework]). Prioritize these highest and implement early in product lifecycle. Typically don't monetize directly.
 	- Example from my Google Pixel 8 Pro: pretty much anything you require of any smartphone (e.g., calling, texting, GPS, access to an app store, etc.).
@@ -32,9 +35,9 @@ Ergo high user value (at least for me) + $0 (included) = *delighter feature* per
 	- Example from my Google Pixel 8 Pro: Google Recorder (AI-enabled voice recording app) being available only to Pixel users.
 
 ### Which makes me wonder:
-- Does the shoe mileage tracker feature segment convert (to premium) better?
+- Does the Shoe Mileage Tracker feature segment convert (to premium) better than the average Strava user?
 - Do they have superior retention?
-- How much might the shoe mileage tracker impact NPS/customer sat (i.e., are other users as delighted as I)?
+- How much might Shoe Mileage Tracker impact NPS/customer sat (i.e., are other users as delighted as I)?
 - What kind of willingness to pay might exist?
 
 ## Value-unlocking, Data-centric, Paradigmatically-disruptive Actionable Insights
