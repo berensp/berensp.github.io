@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: Prayer to the Immaculate Heart
+title: Immaculate Heart
 ---
 O Mary, Virgin most powerful and Mother of mercy, Queen of Heaven and Refuge of sinners, we consecrate ourselves to thine Immaculate Heart.
 
