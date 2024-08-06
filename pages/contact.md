@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger / app / platform of choice:
+Say hello on your favorite messaging app:
 - <mark><a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">Converse</a></mark>
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
 - <mark><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></mark>
@@ -30,5 +30,5 @@ Say hello on your messenger / app / platform of choice:
 
 ## But why so many apps?
 
-![the answer](/assets/og/xkcd_chat_systems.png).
+![the answer](/assets/og/xkcd_chat_systems.png)
 <a class="muted small" href="https://xkcd.com/1810/" target="_blank">"Chat Systems" (#1810)</a><span class="muted small"> by Randall Munroe, xkcd.com.</span>
