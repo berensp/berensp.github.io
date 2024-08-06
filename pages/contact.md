@@ -5,14 +5,14 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your messenger / app / platform of choice[^1]:
+Say hello on your messenger / app / platform of choice:
 - <mark><a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">Converse</a></mark>
 - <a href="https://discordapp.com/users/181094465874821120" target="_blank">Discord</a>
-- <a href="mailto:hey@berens.co?subject=%F0%9F%91%8B%20Hey%20Paul">Email</a>
 - <mark><a href="https://warpcast.com/pmb" target="_blank">Farcaster</a></mark>
 - <mark><a href="https://friend.tech/berensp" target="_blank">friend.tech</a></mark>
+- <a href="https://chat.google.com" target="_blank">Google Chat</a>
+- hey [at] [this domain]
 - <a href="../assets/images/kakao.berensp.jpg" target="_blank">KakaoTalk</a>
-- <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>
 - <a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">Marco Polo</a>
 - <a rel="me" href="https://mas.to/@pmb" target="_blank">Mastodon</a>
 - <a href="https://matrix.to/#/@berens:matrix.org" target="_blank">Matrix</a>
@@ -21,13 +21,14 @@ Say hello on your messenger / app / platform of choice[^1]:
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
 - <a href="https://x.com/berensp" target="_blank">Twitter / X</a>
-- <a href="https://web.whatsapp.com/" target="_blank">WhatsApp</a>[^2]
 
 	<mark><span class="muted small">web3</span></mark>
-
-[^1]: Q: Why so many bloody apps? [Answer](https://imgs.xkcd.com/comics/chat_systems.png).
-[^2]: Not my fave, but Android users shan't be choosers.
 
 ## No se puede
 - ~~[iMessage](/phones/)~~
 - ~~[Facebook/Instagram](../fb)~~
+
+## But why so many apps?
+
+![the answer](/assets/og/xkcd_chat_systems.png).
+<a class="muted small" href="https://xkcd.com/1810/" target="_blank">"Chat Systems" (#1810)</a><span class="muted small"> by Randall Munroe, xkcd.com.</span>
