@@ -20,7 +20,7 @@ Say hello on your favorite messaging app:
 - <mark><a href="https://join.status.im/u/0x04fef6e494c4db1d25d1b144f3914747cdf8164e5208dafe7fd1926d3d75e7b545ff02d0571ccf788ff0fff8065616967de51935e76d90a04a47df82cead041f57" target="_blank">Status</a></mark>
 - <a href="https://www.strava.com/athletes/berenzino" target="_blank">Strava</a>
 - <a href="https://t.me/berensp" target="_blank">Telegram</a>
-- <a href="https://x.com/berensp" target="_blank">Twitter / X</a>
+- <a href="https://x.com/berensp" target="_blank">X (f.k.a. Twitter)</a>
 
 	<mark><span class="muted small">web3</span></mark>
 
