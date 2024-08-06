@@ -13,4 +13,4 @@ layout: home
 📚 Currently [reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}.
 {% endif %}
 
-📬 Chatting on a [myriad of messengers](/contact/).
+📬 Get in touch via <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a> and [elsewhere](/contact/).

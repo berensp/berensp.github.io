@@ -1,0 +1,8 @@
+- name: Ruby on Rails
+  version: 7.0.2.3
+
+- name: Tailwind CSS
+  version: 3.0.24
+
+- name: Font Awesome
+  version: 6.1.0
