@@ -114,6 +114,9 @@ document.addEventListener('DOMContentLoaded', () => {
         case 87:
           message = "four score and seven days ago";
           break;
+        case 110:
+          message = "eleventy days ago";
+          break;
         case 144:
           message = "a gross of days ago";
           break;
