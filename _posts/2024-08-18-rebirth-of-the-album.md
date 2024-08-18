@@ -8,11 +8,11 @@ I have long consulted my brother's good taste in various categories: clothes, co
 
 And so last weekend as we were hanging out at his house, I was admiring his record collection, which he's casually been building over the last decade.
 
-He loves music…though he's not an *audiophile* in the sense that he doesn't make audio quality claims like the White Album must be heard on vinyl to hear the full range of sound and all of its intricacies.[^1]
+He loves music…though he's not an *audiophile* in the sense that he doesn't make audio quality claims like, "Hey Man, the White Album must be heard on vinyl to hear the full range of sound and all of its intricacies."[^1]
 
 [^1]: I don't believe the average listener can detect the subtle differences in sound quality between vinyl and other formats, without really paying attention and doing some side-by-side comparisons. Just like the average palette can't detect "good wine" from "bad wine".
 
-But he does talk about enjoying the return to the analog, tactile experience of another of life’s categories that have been digitized—although he does have an e-reader whereas I hold firm to the paper books `link to first post`. He’s the aesthete, and so appreciates the beautiful jackets, the displaying of an well-curated collection, et cetera:
+But he does talk about enjoying the return to the analog, tactile experience of another of life’s categories that have been digitized—although he does have an e-reader whereas [I hold firm to the paper books](editio-princeps.html). He’s the aesthete, and so appreciates the beautiful jackets, the displaying of an well-curated collection, et cetera:
 
 ![bro vinyl station](/assets/og/bro_vinyl_station.jpg)
 
@@ -28,7 +28,7 @@ But the best albums were indeed works of art, and the record player introduced t
 
 So it’s a happy thing that we're in the "vinyl revival": vinyl unit sales now exceed that of CD; and vinyl demand outstrips supply 2:1 (per Mixmag). And of course this is a "vibe" thing, but I hope it takes us back to really taking in and falling in love with certain albums.
 
-[^3]: https://youtu.be/1bZ0OSEViyo?si=Bk3ABna5Z5tZ8Mfv
+[^3]: [*The Real Reason Why Music Is Getting Worse*](https://youtu.be/1bZ0OSEViyo?si=Bk3ABna5Z5tZ8Mfv)
 
 ## My Top Albums of All Time
 
@@ -52,7 +52,7 @@ And so, the definitive list:
 | 10 | [Pet Sounds](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) | Beach Boys | 1966 |
 | 11 | [Tomorrow The Green Grass](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^11]| Jayhawks | 1995 |
 | 12 | [Pearl](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | 1971 |
-| 13 | [For Emma, Forever Ago)](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^12] | Bon Iver | 2007 |
+| 13 | [For Emma, Forever Ago](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^12] | Bon Iver | 2007 |
 | 14 | [Glass Houses](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | 1980 |
 | 15 | [Joshua Tree](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^13] | U2 | 1987 |
 | 16 | [What's Going On](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | 1971 |
@@ -77,7 +77,7 @@ And so, the definitive list:
 
 - [Fleet Foxes - Fleet Foxes (2008)](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share)
 - [The Doors - The Doors (1967)](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share)
-- This is blasphemy to not bring in a Stones album, but my likes span their albums. If I had to pick it'd probably be [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) even though I know the correct answer is supposed to be [*Exile on Main St.*]((https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share)), or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share). Rollingstone mag has *Exile* as #6 on 500 albums of all time; Let It Bleed as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share)* as #58. And *Sticky Fingers* as #64.
+- This is blasphemy to not bring in a Stones album, but my likes span their albums. If I had to pick it'd probably be [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) even though I know the correct answer is supposed to be [*Exile on Main St.*]((https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share)), or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share). Rollingstone mag has *Exile* as #6 on 500 albums of all time; Let It Bleed as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* as #64.
 - [Guns N' Roses - Appetite For Destruction Album (1987)](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) - this is both serious and a little tongue in cheek. I mean this album seriously rocked and was monumental...but lyrically it's also kind of absurd so while it's refreshing to turn this up after not having given it a listen for some time, it probably doesn't make the Top 10 either.
 - [Elton John - Madman Across The Water (1971)](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share)
 - Tom Petty [self-titled](https://music.youtube.com/playlist?list=OLAK5uy_nvwij85-E59Y_4sV0A4LZhH6xFgHCl19Y&feature=share) [https://www.loudersound.com/features/10-best-singer-songwriter-albums](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
@@ -89,7 +89,7 @@ And so, the definitive list:
 
 ## Other thoughts
 - Other categories to consider: a best live albums list (e.g., *Live at Leeds*, *Frampton Comes Alive*, Nirvana MTV), movie soundtracks
-- Man, 1971 was my year ([https://www.google.com/search?q=albums+released+in+1971](https://www.google.com/search?q=albums+released+in+1971))...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to: [WTF happened in 1971?](https://wtfhappenedin1971.com/)
+- Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971))...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to: [WTF happened in 1971?](https://wtfhappenedin1971.com/)
 - Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^16]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
 [^16]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
