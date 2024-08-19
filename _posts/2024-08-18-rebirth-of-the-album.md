@@ -63,8 +63,8 @@ And so, the definitive list:
 
 [^5]: I must give first place to the greatest rock band of all time, and *IV* is probably up against *II* with but in my estimation they are the best rock band of all time and this their opus magnus. [*'Led Zeppelin IV': How Band Struck Back at Critics With 1971 Masterpiece*](https://www.rollingstone.com/feature/led-zeppelin-iv-how-band-struck-back-at-critics-with-1971-masterpiece-126755/)
 [^6]: Hey, a son of Minneapolis. And it's some of the only overlap with my wife who doesn't dig classic rock *per se*.
-[^7]: Very difficult to pick the #1 Beatles album. Revolver is probably it (despite *Yellow Submarine* being a children's song), but then again each of the greatest albums has its token cheesy song or two: *[Rubber Soul](https://music.youtube.com/playlist?list=OLAK5uy_lirCIxLpU2odTVLZ_Sbo1wZaeu5IStivs&feature=share)*, [*Sgt. Pepper's Lonely Hearts Club Band*](https://music.youtube.com/playlist?list=OLAK5uy_kx7E82d6vaFm76vkXtcvzr89qsh8zaqEs&feature=share), [*Abbey Road*](https://music.youtube.com/playlist?list=OLAK5uy_lsAB2g0gXCjTs5AbUrjZOmQVihnAcvGgg&feature=share), or [*White Album*](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE&feature=share).
-[^8]: Dylan's greatest album is also a judgment call, but I'm going with *Blonde on Blonde*...especially b/c [it's a combo of New York and Mpls. musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) and it just has the best set of tunes. [*Blood On The Tracks*](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) is probably #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
+[^7]: Very difficult to pick the #1 Beatles album. *Revolver* is probably it (despite *Yellow Submarine* being a children's song), but then again each of the greatest albums has its token cheesy song or two: *[Rubber Soul](https://music.youtube.com/playlist?list=OLAK5uy_lirCIxLpU2odTVLZ_Sbo1wZaeu5IStivs&feature=share)*, [*Sgt. Pepper's Lonely Hearts Club Band*](https://music.youtube.com/playlist?list=OLAK5uy_kx7E82d6vaFm76vkXtcvzr89qsh8zaqEs&feature=share), [*Abbey Road*](https://music.youtube.com/playlist?list=OLAK5uy_lsAB2g0gXCjTs5AbUrjZOmQVihnAcvGgg&feature=share), [*White Album*](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE&feature=share).
+[^8]: Dylan's greatest album is also a judgment call, but I'm going with *Blonde on Blonde*...especially because [it's a combo of New York and Mpls. musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) and it just has the best set of tunes. [*Blood On The Tracks*](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) is probably #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
 [^9]: On repeat at Wine Night in Mod 28A.
 [^10]: Nostalgia for college.
 [^11]: Nostalgia for Minnesota.
@@ -74,24 +74,24 @@ And so, the definitive list:
 [^15]: Ike is my "family's rockband", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 
 ## Honorable mention:
-- The Doors - [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) (1967)
-- The Band - [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) (1968). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
-- This is blasphemy to not bring in a Stones album, but my likes span their albums. If I had to pick it'd probably be [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) even though I know the correct answer is supposed to be [*Exile on Main St.*]((https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share)), or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share). Rollingstone mag has *Exile* as #6 on 500 albums of all time; Let It Bleed as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* as #64.
-- Crosby, Stills, Nash & Young - [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) (1970)
-- Simon & Garfunkel - [*Bridge Over Troubled Water*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) (1970)
-- Elton John - [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) (1971)
-- Tom Petty and the Heartbreakers - [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) (1976) [https://www.loudersound.com/features/10-best-singer-songwriter-albums](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
-- Steely Dan - [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) (1977). My jazz pick if I didn't have *Kind Of Blue*.
-- Guns N' Roses - [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) (1987) - this is both serious and a little tongue in cheek. I mean this album seriously rocked and was monumental...but lyrically it's also kind of absurd. So while it's refreshing to turn this up after not having given it a listen for some time, it probably doesn't make the Top 10 either.
-- Fleet Foxes - [*Fleet Foxes*](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) (2008)
-- Dawes - [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) (2009)
+- The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) (1967)
+- The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) (1968). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
+- Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) (1970)
+- Simon & Garfunkel – [*Bridge Over Troubled Water*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) (1970)
+- Rolling Stones - [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) (1971). I know it's blasphemy to leave out the Stones from the top albums chart, but my likes are too distributed across their albums. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share), or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share).
+	- Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
+- Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) (1971)
+- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) (1976) [https://www.loudersound.com/features/10-best-singer-songwriter-albums](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
+- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) (1977). My jazz pick if I didn't have *Kind Of Blue*.
+- Guns N' Roses – [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) (1987) - this is both serious and a little tongue in cheek. I mean this album seriously rocked and was monumental...but lyrically it's also kind of absurd. So while it's refreshing to turn this up after not having given it a listen for some time, it probably doesn't make the Top 10 either.
+- Fleet Foxes – [*Fleet Foxes*](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) (2008)
+- Dawes – [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) (2009)
 
 ## Other thoughts
 - Other categories to consider:
-	- best live albums list (e.g., *Live at Leeds*, *Frampton Comes Alive*, Nirvana MTV)
-	- movie soundtracks
-	- acoustic
-	- covers of covers (e.g. Encomium)
+	- live albums (e.g., *Live at Leeds*, *Frampton Comes Alive*, Nirvana MTV)
+	- movie soundtracks (e.g., Wes Anderson films)
+	- acoustic (e.g., Dave Matthews Band *Live at Luther College*)
 - Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)
 - Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^16]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
