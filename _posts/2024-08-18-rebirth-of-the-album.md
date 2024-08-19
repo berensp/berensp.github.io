@@ -14,7 +14,7 @@ He's got excellent musical sensibilities (i.e., introduced me to many of my now-
 
 So he loves his music, and goes the vinyl route because he enjoys the analog, tactile experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera. (Funny, though: he does use an e-reader whereas [I hold firm to the paper books](editio-princeps.html), so if he's an aesthete, it's category-specific.)
 
-![Beatles Revolver album cover](/assets/og/rubbersoul.jpg)
+<img src="/assets/og/rubbersoul.jpg" alt="Beatles Revolver album cover" style="width: 50%;">
 
 ## The Benefit of Friction
 
