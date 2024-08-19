@@ -3,7 +3,7 @@ layout: post
 title: Rebirth of the Album
 date: 2024-08-18
 author:	Paul Berens
---
+---
 Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection (and nook), which he's casually been building over the last decade.
 
 ![bro vinyl station](/assets/og/bro_vinyl_station.jpg)
