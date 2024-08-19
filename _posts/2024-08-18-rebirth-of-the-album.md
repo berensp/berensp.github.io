@@ -14,7 +14,7 @@ He's got excellent musical sensibilities (i.e., introduced me to many of my now-
 
 So he loves his music, and goes the vinyl route because he enjoys the analog, tactile experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera. (Funny, though: he does use an e-reader whereas [I hold firm to the paper books](editio-princeps.html), so if he's an aesthete, it's category-specific.)
 
-<img src="/assets/og/rubbersoul.jpg" alt="Beatles Revolver album cover" style="width: 50%;">
+<center><img src="/assets/og/rubbersoul.jpg" alt="Beatles Revolver album cover" style="width: 50%;"></center>
 
 ## The Benefit of Friction
 
@@ -22,7 +22,7 @@ While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't s
 
 I grew up around records ([our sister's and parents'](/vinyl/)), and so I was baptized in the technology. We had an equal share of 45s and LPs more or less. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling experience. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
-![tricky needle placement](/assets/og/needle-placement.png)
+<center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
 
 Anyway, they were designed to be listened through, and (concept) albums were (supposed to be, though not always[^2]) created as not a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that often hung together to present a cohesive story or carry a motif.
 
@@ -81,11 +81,12 @@ And so, the definitive list:
 [^14]: Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is without a bad song. Just full of hits.
 [^15]: Ike is my "family's rockband", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 
-## Honorable mention:
+## Honorable mentions
 - The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) (1967)
 - The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) (1968). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
 - Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) (1970)
 - Simon & Garfunkel – [*Bridge Over Troubled Water*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) (1970)
+- Marvin Gaye – [*What's Going On*](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) (1971)
 - Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) (1971). I know it's blasphemy to leave out the Stones from the top albums chart, but my likes are too distributed across their albums. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share), or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share).
 	- Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) (1971)
