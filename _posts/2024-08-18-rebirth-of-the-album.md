@@ -33,7 +33,9 @@ As opposed to our streaming culture today, where you might play a favorite track
 
 Rick Beato also talks about how scarcity is part of the equation: the fact that you had to save up your money, go down to the record store and buy it for a good chunk of change[^3]. Versus today where you've got access to the universe of music for what used to be the price of an album, ergo, the value of any one album (or song) is reduced.
 
-So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now exceed that of CD; and vinyl demand outstrips supply 2:1 (per Mixmag). And, of course, it's mostly a "vibe" thing, but maybe slowly things down (to 33⅓ rpm) and listening to albums front to back, will help us fall in love with them all over again.
+So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now exceed that of CD; and vinyl demand outstrips supply 2:1 (per Mixmag).
+
+And it may be mostly a "vibe" thing, but perhaps slowin' it down to 33⅓ rpm and listening to albums front to back can help us fall in love with albums all over again.
 
 [^3]: [*The Real Reason Why Music Is Getting Worse*](https://youtu.be/1bZ0OSEViyo?si=Bk3ABna5Z5tZ8Mfv)
 
