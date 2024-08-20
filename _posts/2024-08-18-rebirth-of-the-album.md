@@ -6,7 +6,7 @@ author:	Paul Berens
 ---
 Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
 
-![bro vinyl station](/assets/og/bro_vinyl_station.jpg)
+<center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro vinyl station"></center>
 
 He's got excellent musical sensibilities (i.e., introduced me to many of my now-favorite bands), but he's not an *audiophile* in the sense that he wouldn't assert that, for example, *the White Album must be heard on vinyl to experience the full range of sound and all of its intricacies.*[^1]
 
@@ -38,13 +38,13 @@ So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now ex
 
 [^3]: [*The Real Reason Why Music Is Getting Worse*](https://youtu.be/1bZ0OSEViyo?si=Bk3ABna5Z5tZ8Mfv)
 
-## My Top Albums of All Time
+## My Top Albums
 
-Like everyone, I care deeply for all kinds of bands and albums and songs. But for an album to be among the very best, it's got to be magnificent on multiple levels (musically, emotionally, philosophically). It's got to age well, as you listen more deeply and hear more. Even though I love some of them, I'm excluding greatest hits and compilation albums because that's cheating, Man—otherwise I'd be forced to throw on Elton John's *Greatest Hits* (1974) and Bob Marley's *Legend*[^4].
+For an album to be among the very best, it's got to be magnificent on multiple levels (musically, emotionally, philosophically). It's got to age well, as you listen more deeply and hear more. Even though I love some of them, greatest hits and compilation albums are excluded because that's cheatin', Man—otherwise I'd be forced to throw in Elton John's *Greatest Hits* (1974) and Bob Marley's *Legend*[^4].
 
 [^4]: *Legend* is a timeless classic, but I'm also kind of with John Bonham on the boredom factor of reggae as a genre.
 
-And so, the definitive list:
+And so, here's my definitive list, which you could buy and pay for by taking a two-year break from your music streaming service:
 
 | № | Album | Artist | Year |
 | :----: | :--- | :--- | :----: |
@@ -86,24 +86,25 @@ And so, the definitive list:
 - The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) (1968). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
 - Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) (1970)
 - Simon & Garfunkel – [*Bridge Over Troubled Water*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) (1970)
-- Marvin Gaye – [*What's Going On*](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) (1971)
-- Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) (1971). I know it's blasphemy to leave out the Stones from the top albums chart, but my likes are too distributed across their albums. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share), or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share).
-	- Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
+- Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) (1971). I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share)[^16].
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) (1971)
-- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) (1976) [https://www.loudersound.com/features/10-best-singer-songwriter-albums](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
+- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) (1976)[^17]
 - Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) (1977). My jazz pick if I didn't have *Kind Of Blue*.
-- Guns N' Roses – [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) (1987) - this is both serious and a little tongue in cheek. I mean this album seriously rocked and was monumental...but lyrically it's also kind of absurd. So while it's refreshing to turn this up after not having given it a listen for some time, it probably doesn't make the Top 10 either.
-- Original Broadcast Cast thereof – [*Les Misérables(](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) (1987). Different genre but I'm throwing it in.
+- Guns N' Roses – [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) (1987).
+- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) (1987). Different genre but I'm throwing it in.
 - Dawes – [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) (2009)
+
+[^16]: Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
+[^17]: [10 singer-songwriter albums you should definitely own](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
 
 ## Other thoughts
 - Other categories to consider:
-	- live albums (e.g., *Live at Leeds*, *Frampton Comes Alive!*, Nirvana MTV)
-	- movie soundtracks (e.g., Wes Anderson films)
-	- acoustic (e.g., Dave Matthews Band *Live at Luther College*)
+	- Live albums (e.g., *Live at Leeds*, *Frampton Comes Alive!*, Nirvana MTV)
+	- Movie soundtracks (e.g., Wes Anderson films)
+	- Acoustic performances (e.g., Dave Matthews Band *Live at Luther College*)
 - Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)
-- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^16]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
+- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^18]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
-[^16]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
+[^18]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
 
 — ᴘ. ᴍ. ʙ.
