@@ -54,48 +54,47 @@ And so, here's my definitive list, which you could buy and pay for by taking a t
 | 4 | [Moondance](https://music.youtube.com/playlist?list=OLAK5uy_m_HGfcGMDBGX4u6z735fPNTC48-rMbeRA&feature=share) | Van Morrison | '70 |
 | 5 | [Revolver](https://music.youtube.com/playlist?list=OLAK5uy_kNH5_0dq0SINuzQFBDRKoCCcO0aTcGxoo&feature=share)[^7] | The Beatles | '66 |
 | 6 | [Blue](https://music.youtube.com/playlist?list=OLAK5uy_kUVdKbI_qcwvbNBGC4xQ-fvVyk6LDtwcc&feature=share) | Joni Mitchell | '71 |
-| 7 | [Blonde on Blonde](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^8] | Bob Dylan | '66 |
-| 8 | [Kind Of Blue](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^9] | Miles Davis | '59 |
-| 9 | [Crash](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^10] | Dave Matthews | '96 |
-| 10 | [Pet Sounds](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) | Beach Boys | '66 |
-| 11 | [Tomorrow…](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^11]| Jayhawks | '95 |
-| 12 | [Pearl](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
-| 13 | [For Emma…](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^12] | Bon Iver | '07 |
-| 14 | [Glass Houses](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
-| 15 | [Joshua Tree](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^13] | U2 | '87 |
-| 16 | [What's Going On](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | '71 |
-| 17 | [Rumours](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share)[^14] | Fleetwood Mac | '77 |
-| 18 | [Salesmen & Racists](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^15] | Ike Reilly | '01 |
-| 19 | [Thriller](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
-| 20 | [Fleet Foxes](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) | Fleet Foxes | '08 |
+| 7 | [Crash](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^8] | Dave Matthews | '96 |
+| 8 | [Tomorrow…](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^9]| Jayhawks | '95 |
+| 9 | [For Emma…](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^10] | Bon Iver | '07 |
+| 10 | [Glass Houses](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
+| 11 | [Joshua Tree](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^11] | U2 | '87 |
+| 12 | [Salesmen & Racists](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^12] | Ike Reilly | '01 |
+| 13 | [Thriller](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
+| 14 | [Pearl](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
+| 15 | [Fleet Foxes](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) | Fleet Foxes | '08 |
+| 16 | [Bridge Over…](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) | Simon & Garfunkel | '70 |
+| 17 | [North Hills](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) | Dawes | '09 |
+| 18 | [Kind Of Blue](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^13] | Miles Davis | '59 |
+| 19 | [Blonde on Blonde](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^14] | Bob Dylan | '66 |
+| 20 | [What's Going On](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | '71 |
 
 [^5]: I must give first place to the greatest rock band of all time, and *IV* is probably up against *II* with but in my estimation they are the best rock band of all time and this their opus magnus. [*'Led Zeppelin IV': How Band Struck Back at Critics With 1971 Masterpiece*](https://www.rollingstone.com/feature/led-zeppelin-iv-how-band-struck-back-at-critics-with-1971-masterpiece-126755/)
 [^6]: A son of Minneapolis. And it's some of the only overlap with my wife who doesn't dig classic rock *per se*.
 [^7]: Very difficult to pick the #1 Beatles album, but for me *Revolver* edges out *[Rubber Soul](https://music.youtube.com/playlist?list=OLAK5uy_lirCIxLpU2odTVLZ_Sbo1wZaeu5IStivs&feature=share)*, [*Sgt. Pepper's Lonely Hearts Club Band*](https://music.youtube.com/playlist?list=OLAK5uy_kx7E82d6vaFm76vkXtcvzr89qsh8zaqEs&feature=share), [*Abbey Road*](https://music.youtube.com/playlist?list=OLAK5uy_lsAB2g0gXCjTs5AbUrjZOmQVihnAcvGgg&feature=share), [*White Album*](https://music.youtube.com/playlist?list=OLAK5uy_ngFkZaiOccd84mOWCf4mZKbJrvsPzm8BE&feature=share).
-[^8]: Dylan's greatest album is also a tough call, which you're not going to convince everyone on, but *Blonde on Blonde* is a masterpiece, and I dig that it was [a combo of New York and Minneapolis musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/). For me [*Blood On The Tracks*](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) is probably #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
-[^9]: On repeat at Wine Night in Mod 28A.
-[^10]: Nostalgia for college.
-[^11]: Nostalgia for Minnesota.
-[^12]: Hey, as an acoustic guitar-strummin' Wisconsinite by birth, *Re: Stacks* may very well be one of the most beautiful songs ever written. Allow myself one melancholic album. Left to my own devices I could fill the list with sad, wistful albums.
-[^13]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that constantly needs to ditch anything that is too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), and would give me something at least in the 90s decade (1991), but I'm sticking to my guns.
-[^14]: Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is without a bad song. Just full of hits.
-[^15]: Ike is my "family's rockband", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
+[^14]: Dylan's greatest album is also a tough call, which you're not going to convince everyone on, but *Blonde on Blonde* is a masterpiece, and I dig that it was [a combo of New York and Minneapolis musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/). For me [*Blood On The Tracks*](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) is probably #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
+[^13]: On repeat at Wine Night in Mod 28A.
+[^8]: Nostalgia for college.
+[^9]: Nostalgia for Minnesota.
+[^10]: Hey, as an acoustic guitar-strummin' Wisconsinite by birth, *Re: Stacks* may very well be one of the most beautiful songs ever written. Allow myself one melancholic album. Left to my own devices I could fill the list with sad, wistful albums.
+[^11]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that constantly needs to ditch anything that is too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), and would give me something at least in the 90s decade (1991), but I'm sticking to my guns.
+[^12]: Ike is my "family's rockband", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 
 ## Honorable mentions
-- The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) (1967)
-- The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) (1968). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
-- Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) (1970)
-- Simon & Garfunkel – [*Bridge Over Troubled Water*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) (1970)
-- Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) (1971). I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share)[^16].
-- Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) (1971)
-- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) (1976)[^17]
-- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) (1977). My jazz pick if I didn't have *Kind Of Blue*.
-- Guns N' Roses – [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) (1987).
-- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) (1987). Different genre but I'm throwing it in.
-- Dawes – [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) (2009)
+- The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) ('67)
+- The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) ('68). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
+- Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) ('70)
+- Fleetwood Mac – [Rumours](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77). Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is without a bad song. Just full of hits.
+- Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) ('71). I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share)[^15].
+- Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) ('71)
+- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^16]
+- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77). My jazz pick if I didn't have *Kind Of Blue*.
+- Guns N' Roses – [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) ('87).
+- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87). Different genre but I'm throwing it in.
+- Beach Boys – [Pet Sounds](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)
 
-[^16]: Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
-[^17]: [10 singer-songwriter albums you should definitely own](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
+[^15]: Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
+[^16]: [10 singer-songwriter albums you should definitely own](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
 
 ## Other thoughts
 - Other categories to consider:
@@ -103,8 +102,8 @@ And so, here's my definitive list, which you could buy and pay for by taking a t
 	- Movie soundtracks (e.g., Wes Anderson films)
 	- Acoustic performances (e.g., Dave Matthews Band *Live at Luther College*)
 - Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)
-- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^18]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
+- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^17]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
-[^18]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
+[^17]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
 
 — ᴘ. ᴍ. ʙ.
