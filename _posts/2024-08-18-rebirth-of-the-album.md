@@ -44,7 +44,7 @@ For an album to be among the very best, it's got to be magnificent on multiple l
 
 [^4]: *Legend* is a timeless classic, but I'm also kind of with John Bonham on the boredom factor of reggae as a genre.
 
-And so, the definitive list (i.e., buy these 20 albums and pay for them by taking a two-year break from your music streaming service):
+And so, here's my definitive list, which you could buy and pay for by taking a two-year break from your music streaming service:
 
 | № | Album | Artist | Year |
 | :----: | :--- | :--- | :----: |
