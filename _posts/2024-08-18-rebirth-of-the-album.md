@@ -3,16 +3,15 @@ layout: post
 title: Rebirth of the Album
 date: 2024-08-18
 author:	Paul Berens
+ogimage: needle-placement.png
 ---
 Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
 
 <center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro vinyl station"></center>
 
-He's got excellent musical sensibilities (i.e., introduced me to many of my now-favorite bands), but he's not an *audiophile* in the sense that he wouldn't assert that, for example, *the White Album must be heard on vinyl to experience the full range of sound and all of its intricacies.*[^1]
+He's got excellent musical taste and sensibilities (i.e., introduced me to many of my now-favorite bands), but he's not into vinyl because he's an audiophile who would assert that, for example, *the White Album must be heard on vinyl to experience the full range of sound and all of its intricacies.*[^1] Rather, he went the vinyl route because he enjoys the analog, tactile experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera. (Funny, though: he does use an e-reader whereas [I hold firm to the paper books](editio-princeps.html), so if he's an aesthete, it's category-specific.)
 
 [^1]: And, by the way, I seriously doubt the average listener can detect the subtle differences in sound quality between vinyl and other formats, without really paying attention and doing some side-by-side comparisons. Just like the average palette can't detect "great wine" from "decent wine".
-
-So he loves his music, and goes the vinyl route because he enjoys the analog, tactile experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera. (Funny, though: he does use an e-reader whereas [I hold firm to the paper books](editio-princeps.html), so if he's an aesthete, it's category-specific.)
 
 <center><img src="/assets/og/rubbersoul.jpg" alt="Beatles Revolver album cover" style="width: 50%;"></center>
 
@@ -24,23 +23,23 @@ I grew up around records ([our sister's and parents'](/vinyl/)), and so I was ba
 
 <center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
 
-Anyway, they were designed to be listened through, and (concept) albums were (supposed to be, though not always[^2]) created as not a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that often hung together to present a cohesive story or carry a motif.
+Anyway, they were designed to be listened through, and (concept) albums were (supposed to be, though not always[^2]) created as not a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together to present a cohesive story or carry a motif.
 
 [^2]: Lest I come across idealistic and naïve, a disclaimer that I realize there were/are plenty of bands that had a hit single and filled the requisite tracks around it, as well as the stifling recording contracts that pushed artists hard to pump out songs by certain deadlines in order to get paid. In fact, at one point Ben Folds had a recording contract where he was required to write and record 13.6 songs in some year...which prompted him to write [this sardonic ditty](https://music.youtube.com/watch?v=MJPhmQvH9bc&si=S2dIou57wJvk18yj).
 
-The best albums were indeed works of art, and the record player introduced the requisite friction that allowed you to listen through and gradually fall in love with it. And you really knew an album when upon the completion of one track, your brain anticipated the intro notes or beat to the next.
+The best albums were indeed works of art, and the record player introduced the requisite friction that allowed you to listen through and gradually fall in love with it. And you really knew an album when upon the completion of one track, your brain anticipated the intro notes or beat of the next.
 
 As opposed to our streaming culture today, where you might play a favorite track or two from an artist, but then jump to the next artist—or, more likely, allow the algorithm to steer you through its mixtape.
 
 Rick Beato also talks about how scarcity is part of the equation: the fact that you had to save up your money, go down to the record store and buy it for a good chunk of change[^3]. Versus today where you've got access to the universe of music for what used to be the price of an album, ergo, the value of any one album (or song) is reduced.
 
-So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now exceed that of CD; and vinyl demand outstrips supply 2:1 (per Mixmag). And of course this is a "vibe" thing, but I hope it takes us back to really taking in and falling in love with certain albums.
+So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now exceed that of CD; and vinyl demand outstrips supply 2:1 (per Mixmag). And, of course, it's mostly a "vibe" thing, but maybe slowly things down (to 33⅓ rpm) and listening to albums front to back, will help us fall in love with them all over again.
 
 [^3]: [*The Real Reason Why Music Is Getting Worse*](https://youtu.be/1bZ0OSEViyo?si=Bk3ABna5Z5tZ8Mfv)
 
 ## My Top Albums
 
-For an album to be among the very best, it's got to be magnificent on multiple levels (musically, emotionally, philosophically). It's got to age well, as you listen more deeply and hear more. Even though I love some of them, greatest hits and compilation albums are excluded because that's cheatin', Man—otherwise I'd be forced to throw in Elton John's *Greatest Hits* (1974) and Bob Marley's *Legend*[^4].
+For an album to be among the very best, it's got to be magnificent on multiple levels (musically, emotionally, philosophically). It's got to age well, as you listen more deeply and hear more. Even though I love some of them, greatest hits and compilation albums are excluded because that's cheatin', Man—otherwise I'd be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^4].
 
 [^4]: *Legend* is a timeless classic, but I'm also kind of with John Bonham on the boredom factor of reggae as a genre.
 
@@ -77,7 +76,7 @@ And so, here's my definitive list, which you could buy and pay for by taking a t
 [^8]: Nostalgia for college.
 [^9]: Nostalgia for Minnesota.
 [^10]: Hey, as an acoustic guitar-strummin' Wisconsinite by birth, *Re: Stacks* may very well be one of the most beautiful songs ever written. Allow myself one melancholic album. Left to my own devices I could fill the list with sad, wistful albums.
-[^11]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that constantly needs to ditch anything that is too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), and would give me something at least in the 90s decade (1991), but I'm sticking to my guns.
+[^11]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that constantly needs to ditch anything that is too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), but I'm sticking to my guns.
 [^12]: Ike is my "family's rockband", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 
 ## Honorable mentions
