@@ -92,7 +92,7 @@ And so, here's my definitive list, which you could buy and pay for by taking a t
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) ('71)
 - Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^17]
 - Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77). My jazz pick if I didn't have *Kind Of Blue*.
-- Guns N' Roses – [*Appetite For Destruction Album*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) ('87).
+- Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87).
 - Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87). Different genre but I'm throwing it in.
 - Beach Boys – [Pet Sounds](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)
 
