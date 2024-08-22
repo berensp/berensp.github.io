@@ -9,25 +9,23 @@ Hanging out at my brother's house last weekend, I found myself admiring his viny
 
 <center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro vinyl station"></center>
 
-He's got excellent musical taste and sensibilities (i.e., introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1]. Rather, he enjoys the tactile, physical experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera.
+He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1]. Rather, he enjoys the tactile, physical experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera.
 
-[^1]: And, by the way, I seriously doubt the average listener can detect the subtle differences in sound quality between vinyl and other formats, without really paying attention and doing some side-by-side comparisons. Just like the average palette can't detect "great wine" from "decent wine".
-
-<center><img src="/assets/og/rubbersoul.jpg" alt="Beatles Revolver album cover" style="width: 50%;"></center>
+[^1]: And, by the way, I seriously doubt the average listener can detect the subtle differences in sound quality between vinyl and other formats, without doing some seriously-exacting side-by-side comparisons. Just like the average palette can't detect "great wine" from "decent wine".
 
 ## The Benefit of Friction
 
-While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't started my own record collection—I like vinyl for a different reason: because it celebrates the album.
+While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't started my own record collection—I like vinyl for a different reason: it celebrates the album.
 
-I grew up around records ([our sister's and parents'](/vinyl/)), and so I was baptized in the technology. We had an equal share of 45s and LPs more or less. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling experience. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
+I grew up around our sister's and parents' 45s and LPs, and so I was baptized in the technology. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start thing. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
 <center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
 
-Anyway, they were designed to be listened through, and (concept) albums were (supposed to be, though not always[^2]) created as not a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together to present a cohesive story or carry a motif.
+Anyway, albums—particularly *concept albums*—were designed to be listened through, and were (supposed to be, though not always[^2]) created not as a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together to present a cohesive story or carry a motif.
 
 [^2]: Lest I come across idealistic and naïve, a disclaimer that I realize there were/are plenty of bands that had a hit single and filled the requisite tracks around it, as well as the stifling recording contracts that pushed artists hard to pump out songs by certain deadlines in order to get paid. In fact, at one point Ben Folds had a recording contract where he was required to write and record 13.6 songs in some year...which prompted him to write [this sardonic ditty](https://music.youtube.com/watch?v=MJPhmQvH9bc&si=S2dIou57wJvk18yj).
 
-The best albums were indeed works of art, and the record player introduced the requisite friction that allowed you to listen through and gradually fall in love with it. And you really knew an album when upon the completion of one track, your brain anticipated the intro notes or beat of the next[^3]. And how often did you gravitate toward several songs when you bought the album, only later to find that other tracks rose to the top? 
+The best albums were indeed works of art, and the record player introduced the requisite friction that allowed you to listen through and gradually fall in love with it. So you really knew an album when, upon the completion of one track, your brain anticipated the intro notes or beat of the next[^3]. And how often did you gravitate toward several songs when you bought the album, only later to find that other tracks rose to the top? 
 
 [^3]: As I covered in my [my bibliophilic post](editio-princeps.html), the analog version (i.e., paper books) outperforms the digital version (i.e., e-reader) in terms of *comprehension*; and in the music-listening realm maybe you substitute *enjoyment*?
 
