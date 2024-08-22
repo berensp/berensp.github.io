@@ -15,9 +15,9 @@ He's got excellent musical taste and sensibilities (and introduced me to many of
 
 ## The Benefit of Friction
 
-While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't started my own record collection—I like vinyl for a different reason: it celebrates the album.
+While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't started my own record collection—I like vinyl for a different reason: it celebrates the album by the virtue of being (s)low-tech.
 
-I grew up around our sister's and parents' 45s and LPs, and so I was baptized in the technology. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start thing. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
+I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the technology. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start thing. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
 <center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
 
@@ -27,7 +27,7 @@ Anyway, albums—particularly *concept albums*—were designed to be listened th
 
 The best albums were indeed works of art, and the record player introduced the requisite friction that allowed you to listen through and gradually fall in love with it. So you really knew an album when, upon the completion of one track, your brain anticipated the intro notes or beat of the next[^3]. And how often did you gravitate toward several songs when you bought the album, only later to find that other tracks rose to the top? 
 
-[^3]: As I covered in my [my bibliophilic post](editio-princeps.html), the analog version (i.e., paper books) outperforms the digital version (i.e., e-reader) in terms of *comprehension*; and in the music-listening realm maybe you substitute *enjoyment*?
+[^3]: As I covered in [my bibliophilic post](editio-princeps.html), the analog version (i.e., paper books) outperforms the digital version (i.e., e-reader) in terms of *comprehension*; and in the music-listening realm maybe you substitute *enjoyment*?
 
 As opposed to our streaming culture today, where you might play a favorite track or two from an artist, but then jump to the next artist—or, more likely, allow the algorithm to steer you through its mixtape.
 
@@ -79,20 +79,20 @@ And so, here's my definitive list, which I suppose I could buy and pay for by ta
 [^10]: Nostalgia for Minnesota.
 [^11]: Hey, as an acoustic guitar-strummin' Wisconsinite by birth, *Re: Stacks* may very well be one of the most beautiful songs ever written. Allow myself one melancholic album. Left to my own devices I could fill the list with sad, wistful albums.
 [^12]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that constantly needs to ditch anything that is too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), but I'm sticking to my guns.
-[^13]: Ike is my "family's rockband", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
+[^13]: Ike is my "family's rock band", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 
 ## Honorable mentions
 - The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) ('67)
 - The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) ('68). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
 - Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) ('70)
-- Fleetwood Mac – [Rumours](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77). Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is without a bad song. Just full of hits.
+- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77). Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is without a bad song. Just full of hits.
 - Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) ('71). I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share)[^16].
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) ('71)
 - Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^17]
 - Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77). My jazz pick if I didn't have *Kind Of Blue*.
 - Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87).
 - Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87). Different genre but I'm throwing it in.
-- Beach Boys – [Pet Sounds](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)
+- Beach Boys – [*Pet Sounds*](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)
 
 [^16]: Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
 [^17]: [10 singer-songwriter albums you should definitely own](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
