@@ -4,11 +4,12 @@ title: Childhood Vinyl
 permalink: /vinyl/
 description: Songs we had on 45s and LPs.
 ---
-A collection of pretty much every 45 we had as well as a sampling of tracks from our LPs. [Playlist on YouTube Music](https://music.youtube.com/playlist?list=PL_64Fz1c-ODJ2uvCZrwtgi-B-lCZSHh_3&si=M0ymh_HJvJizhnXD).
+A collection of pretty much every 45 we had as well as a sampling of tracks from our LPs.
 
 | Year | Song | Artist | Format |
 | :--- | :--- | :--- | :----: |
 | '56 | [Hound Dog](https://music.youtube.com/watch?v=C9TMu-1_TBs) | Elvis Presley | 45 |
+| '74 | [Greatest Hits](https://music.youtube.com/watch?v=75r0nQu-hMs) | Elton John | LP |
 | '78 | [Greased Lightnin'](https://music.youtube.com/watch?v=Y1ChbwFlyuE) | John Travolta | LP |
 | '80 | [9 to 5](https://music.youtube.com/watch?v=E4OzdyxbOuU) | Dolly Parton | 45 |
 | '80 | [Celebration](https://music.youtube.com/watch?v=TBS6gAtj8gE) | Kool & The Gang | 45 |
