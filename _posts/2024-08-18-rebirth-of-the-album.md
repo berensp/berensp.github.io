@@ -94,10 +94,10 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 - Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) ('71)[^17]
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) ('71)
 - Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^18]
-- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77).[^19]
-- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77).[^20]
+- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77)[^19]
+- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77)[^20]
 - Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87)
-- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87).[^21]
+- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87)[^21]
 
 [^16]: Shout out to Dad, who wouldn't describe himself as a music fan, but, Man, does he love this album.
 [^17]: I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) ('72) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share) ('69): Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
