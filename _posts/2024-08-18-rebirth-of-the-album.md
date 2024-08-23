@@ -17,11 +17,11 @@ He's got excellent musical taste and sensibilities (and introduced me to many of
 
 While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't started my own record collection—I like vinyl for a different reason: it celebrates the album by the virtue of being (s)low-tech.
 
-I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the technology. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start thing. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
+I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the technology. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start situation. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
 <center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
 
-Anyway, albums—particularly *concept albums*—were designed to be listened through, and were (supposed to be, though not always[^2]) created not as a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together to present a cohesive story or carry a motif.
+Anyway, albums—particularly *concept albums*—were designed to be listened through, and were (supposed to be, though not always[^2]) created not as a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together cohesively to present a narrative or carry a motif.
 
 [^2]: Lest I come across idealistic and naïve, a disclaimer that I realize there were/are plenty of bands that had a hit single and filled the requisite tracks around it, as well as the stifling recording contracts that pushed artists hard to pump out songs by certain deadlines in order to get paid. In fact, at one point Ben Folds had a recording contract where he was required to write and record 13.6 songs in some year...which prompted him to write [this sardonic ditty](https://music.youtube.com/watch?v=MJPhmQvH9bc&si=S2dIou57wJvk18yj).
 
@@ -41,17 +41,16 @@ And it may be mostly a "vibe" thing, but perhaps slowin' it down to 33⅓ rpm an
 
 ## If I were to start a vinyl album collection...
 
-...These 20 would be first.
+...these 20 would be first.
 
 You have to apply some tough criteria to let an album into the Top 20:
-- It's got to be magnificent on multiple levels (musically, emotionally, philosophically)
-- It's got to age well, as you listen more deeply and hear more.
-- Can't be a greatest hits or compilation album because that would be cheatin', Man—otherwise I'd be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^5].
-- Just one album per artist, because variety is the spice of life...and there's the real threat that a second Beatles, Zeppelin, or Springsteen album could beat out some others on the list.
+- It's got to be **magnificent on multiple levels** (musically, emotionally, philosophically), and **age well** as you uncover more with each listen.
+- **Can't be a greatest hits** or compilation album because that would be cheatin', Man—otherwise I might be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^5].
+- Just **one album per artist**, because variety is the spice of life...and there's the real threat that a second Beatles, Zeppelin, or Springsteen album could beat out some others on the list.
 
 [^5]: *Legend* is a timeless classic, but I'm also kind of with John Bonham on the boredom factor of reggae as a genre.
 
-And so, here's my definitive list, which I suppose I could buy and pay for by taking a two-year break from the music streaming service:
+And so, here's my definitive list, which I suppose I could purchase and pay for by taking a two-year break from the music streaming service:
 
 | № | Album | Artist | Year |
 | :----: | :--- | :--- | :----: |
@@ -60,12 +59,12 @@ And so, here's my definitive list, which I suppose I could buy and pay for by ta
 | 3 | [Purple Rain](https://music.youtube.com/playlist?list=OLAK5uy_lInVpvsoll6f0Bv4hyPsFZvtyVuc0MpS8)[^7] | Prince | '84 |
 | 4 | [Moondance](https://music.youtube.com/playlist?list=OLAK5uy_m_HGfcGMDBGX4u6z735fPNTC48-rMbeRA&feature=share) | Van Morrison | '70 |
 | 5 | [Revolver](https://music.youtube.com/playlist?list=OLAK5uy_kNH5_0dq0SINuzQFBDRKoCCcO0aTcGxoo&feature=share)[^8] | The Beatles | '66 |
-| 6 | [Blue](https://music.youtube.com/playlist?list=OLAK5uy_kUVdKbI_qcwvbNBGC4xQ-fvVyk6LDtwcc&feature=share) | Joni Mitchell | '71 |
-| 7 | [Crash](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^9] | Dave Matthews | '96 |
-| 8 | [Tomorrow…](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^10]| Jayhawks | '95 |
-| 9 | [For Emma…](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^11] | Bon Iver | '07 |
-| 10 | [Glass Houses](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
-| 11 | [Joshua Tree](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^12] | U2 | '87 |
+| 6 | [Crash](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^9] | Dave Matthews | '96 |
+| 7 | [Tomorrow…](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^10]| Jayhawks | '95 |
+| 8 | [For Emma…](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^11] | Bon Iver | '07 |
+| 9 | [Glass Houses](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
+| 10 | [Joshua Tree](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^12] | U2 | '87 |
+| 11 | [Blue](https://music.youtube.com/playlist?list=OLAK5uy_kUVdKbI_qcwvbNBGC4xQ-fvVyk6LDtwcc&feature=share) | Joni Mitchell | '71 |
 | 12 | [Salesmen & Racists](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^13] | Ike Reilly | '01 |
 | 13 | [Thriller](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
 | 14 | [Pearl](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
@@ -90,18 +89,21 @@ And so, here's my definitive list, which I suppose I could buy and pay for by ta
 ## Honorable mentions
 - Beach Boys – [*Pet Sounds*](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)
 - The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) ('67)
-- The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) ('68). Shout out to Dad. I'm sure he wouldn't be described as a music fan, but, Man, did he love this album.
+- The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) ('68)[^16]
 - Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) ('70)
-- Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) ('71). I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) ('72) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share) ('69)[^16].
+- Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) ('71)[^17]
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) ('71)
-- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^17]
-- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77). My jazz pick if I didn't have *Kind Of Blue*.
-- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77). Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is chock-full of hits.
+- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^18]
+- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77).[^19]
+- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77).[^20]
 - Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87)
-- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87). Different genre but I'm throwing it in.
-
-[^16]: Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
-[^17]: [10 singer-songwriter albums you should definitely own](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
+- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87).[^21]
+[^16]: Shout out to Dad, who wouldn't describe himself as a music fan, but, Man, does he love this album.
+[^17]: I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) ('72) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share) ('69): Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
+[^18]: [10 singer-songwriter albums you should definitely own](https://www.loudersound.com/features/10-best-singer-songwriter-albums)
+[^19]: My jazz pick if I didn't have *Kind Of Blue*.
+[^20]: Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is chock-full of hits.
+[^21]: Different genre but I'm throwing it in.
 
 ## Other thoughts
 - Other categories to consider:
@@ -109,8 +111,8 @@ And so, here's my definitive list, which I suppose I could buy and pay for by ta
 	- Movie soundtracks (e.g., Wes Anderson films)
 	- Acoustic performances (e.g., Dave Matthews Band *Live at Luther College*)
 - Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)
-- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music, so this is as much a diary entry or memoir as anything[^18]. This should matter more than what's in which ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
+- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music[^22], so this is as much a diary entry or memoir as anything. It ultimately matters more than relative ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
-[^18]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
+[^22]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
 
 — ᴘ. ᴍ. ʙ.
