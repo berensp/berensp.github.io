@@ -39,9 +39,15 @@ So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now ex
 
 And it may be mostly a "vibe" thing, but perhaps slowin' it down to 33⅓ rpm and listening to albums front to back can help us fall in love with albums all over again.
 
-## My Top Albums
+## If I were to start a vinyl album collection...
 
-For an album to be among the very best, it's got to be magnificent on multiple levels (musically, emotionally, philosophically). It's got to age well, as you listen more deeply and hear more. Even though I love some of them, greatest hits and compilation albums are excluded because that's cheatin', Man—otherwise I'd be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^5].
+...These 20 would be first.
+
+You have to apply some tough criteria to let an album into the Top 20:
+- It's got to be magnificent on multiple levels (musically, emotionally, philosophically)
+- It's got to age well, as you listen more deeply and hear more.
+- Can't be a greatest hits or compilation album because that would be cheatin', Man—otherwise I'd be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^5].
+- Just one album per artist, because variety is the spice of life...and there's the real threat that a second Beatles, Zeppelin, or Springsteen album could beat out some others on the list.
 
 [^5]: *Legend* is a timeless classic, but I'm also kind of with John Bonham on the boredom factor of reggae as a genre.
 
@@ -91,7 +97,7 @@ And so, here's my definitive list, which I suppose I could buy and pay for by ta
 - Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^17]
 - Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77). My jazz pick if I didn't have *Kind Of Blue*.
 - Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77). Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is chock-full of hits.
-- Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87).
+- Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87)
 - Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87). Different genre but I'm throwing it in.
 
 [^16]: Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
