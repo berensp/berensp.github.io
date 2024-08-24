@@ -7,7 +7,7 @@ ogimage: needle-placement.png
 ---
 Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
 
-<center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro vinyl station"></center>
+<center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro's vinyl station"></center>
 
 He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1]. Rather, he enjoys the tactile, physical experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera.
 
@@ -54,26 +54,26 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 
 | № | Album | Artist | Year |
 | :----: | :--- | :--- | :----: |
-| 1 | [IV](https://music.youtube.com/playlist?list=OLAK5uy_lzZvS4QYhfLUAS-jJV_rtQwalwEh9CYPQ&feature=share)[^6] | Led Zeppelin | '71 |
-| 2 | [Born to Run](https://music.youtube.com/playlist?list=OLAK5uy_mSOhVYfA4mGwMGSRP_OIh3B7yQXu8I0b0&feature=share) | Bruce Springsteen | '75 |
-| 3 | [Purple Rain](https://music.youtube.com/playlist?list=OLAK5uy_lInVpvsoll6f0Bv4hyPsFZvtyVuc0MpS8)[^7] | Prince | '84 |
-| 4 | [Moondance](https://music.youtube.com/playlist?list=OLAK5uy_m_HGfcGMDBGX4u6z735fPNTC48-rMbeRA&feature=share) | Van Morrison | '70 |
-| 5 | [Revolver](https://music.youtube.com/playlist?list=OLAK5uy_kNH5_0dq0SINuzQFBDRKoCCcO0aTcGxoo&feature=share)[^8] | The Beatles | '66 |
-| 6 | [Crash](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^9] | Dave Matthews | '96 |
-| 7 | [Tomorrow…](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^10]| Jayhawks | '95 |
-| 8 | [For Emma…](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^11] | Bon Iver | '07 |
-| 9 | [Glass Houses](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
-| 10 | [Joshua Tree](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^12] | U2 | '87 |
-| 11 | [Blue](https://music.youtube.com/playlist?list=OLAK5uy_kUVdKbI_qcwvbNBGC4xQ-fvVyk6LDtwcc&feature=share) | Joni Mitchell | '71 |
-| 12 | [Salesmen & Racists](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^13] | Ike Reilly | '01 |
-| 13 | [Thriller](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
-| 14 | [Pearl](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
-| 15 | [Fleet Foxes](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) | Fleet Foxes | '08 |
-| 16 | [Bridge Over…](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) | Simon & Garfunkel | '70 |
-| 17 | [North Hills](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) | Dawes | '09 |
-| 18 | [Kind Of Blue](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^14] | Miles Davis | '59 |
-| 19 | [Blonde on Blonde](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^15] | Bob Dylan | '66 |
-| 20 | [What's Going On](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | '71 |
+| 1 | [*IV*](https://music.youtube.com/playlist?list=OLAK5uy_lzZvS4QYhfLUAS-jJV_rtQwalwEh9CYPQ&feature=share)[^6] | Led Zeppelin | '71 |
+| 2 | [*Born to Run*](https://music.youtube.com/playlist?list=OLAK5uy_mSOhVYfA4mGwMGSRP_OIh3B7yQXu8I0b0&feature=share) | Bruce Springsteen | '75 |
+| 3 | [*Purple Rain*](https://music.youtube.com/playlist?list=OLAK5uy_lInVpvsoll6f0Bv4hyPsFZvtyVuc0MpS8)[^7] | Prince | '84 |
+| 4 | [*Moondance*](https://music.youtube.com/playlist?list=OLAK5uy_m_HGfcGMDBGX4u6z735fPNTC48-rMbeRA&feature=share) | Van Morrison | '70 |
+| 5 | [*Revolver*](https://music.youtube.com/playlist?list=OLAK5uy_kNH5_0dq0SINuzQFBDRKoCCcO0aTcGxoo&feature=share)[^8] | The Beatles | '66 |
+| 6 | [*Crash*](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^9] | Dave Matthews | '96 |
+| 7 | [*Tomorrow…*](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^10]| Jayhawks | '95 |
+| 8 | [*For Emma…*](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^11] | Bon Iver | '07 |
+| 9 | [*Glass Houses*](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
+| 10 | [*Joshua Tree*](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^12] | U2 | '87 |
+| 11 | [*Blue*](https://music.youtube.com/playlist?list=OLAK5uy_kUVdKbI_qcwvbNBGC4xQ-fvVyk6LDtwcc&feature=share) | Joni Mitchell | '71 |
+| 12 | [*Salesmen & Racists*](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^13] | Ike Reilly | '01 |
+| 13 | [*Thriller*](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
+| 14 | [*Pearl*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
+| 15 | [*Fleet Foxes*](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) | Fleet Foxes | '08 |
+| 16 | [*Bridge Over…*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) | Simon & Garfunkel | '70 |
+| 17 | [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) | Dawes | '09 |
+| 18 | [*Kind Of Blue*](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^14] | Miles Davis | '59 |
+| 19 | [*Blonde on Blonde*](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^15] | Bob Dylan | '66 |
+| 20 | [*What's Going On*](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | '71 |
 
 [^6]: I must give first place to the greatest rock band of all time, and *IV* is probably up against *II* with but in my estimation they are the best rock band of all time and this their opus magnus. [*'Led Zeppelin IV': How Band Struck Back at Critics With 1971 Masterpiece*](https://www.rollingstone.com/feature/led-zeppelin-iv-how-band-struck-back-at-critics-with-1971-masterpiece-126755/)
 [^7]: A son of Minneapolis. And it's some of the only overlap with my wife who doesn't dig classic rock *per se*.
@@ -88,16 +88,16 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 
 ## Honorable mentions
 - Beach Boys – [*Pet Sounds*](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)
-- The Doors – [*The Doors*](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) ('67)
+- The Doors – [eponymous](https://music.youtube.com/playlist?list=OLAK5uy_ncguZB2yUq0StUzwpUWz7qaNJO-lcAeis&feature=share) ('67)
 - The Band – [*Music From Big Pink*](https://music.youtube.com/playlist?list=OLAK5uy_mm4Y_hc15Xsw2Vu0Ptd-yM23-xpdccqw0&feature=share) ('68)[^16]
 - Crosby, Stills, Nash & Young – [*Déjà vu*](https://music.youtube.com/playlist?list=OLAK5uy_neUnMuHswIr4wB5qPiV5iozF-550Cz3k8&feature=share) ('70)
 - Rolling Stones – [*Sticky Fingers*](https://music.youtube.com/playlist?list=OLAK5uy_mnwoM8u3_ggNMtvgV6VTP_gsrt86aRboc&feature=share) ('71)[^17]
 - Elton John – [*Madman Across The Water*](https://music.youtube.com/playlist?list=OLAK5uy_m9zZ9yaX0umpOUzU1A-PPVqZ4fBqL9Xb4&feature=share) ('71)
-- Tom Petty and the Heartbreakers – [Tom Petty and the Heartbreakers](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^18]
-- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77).[^19]
-- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77).[^20]
+- Tom Petty – [eponymous](https://music.youtube.com/playlist?list=OLAK5uy_n-pdHwksMVR4C5B1H6_dmtNkJ-iKVgSKo) ('76)[^18]
+- Steely Dan – [*Aja*](https://music.youtube.com/playlist?list=OLAK5uy_ns_zqCLjZ6CXF0cji36OJNwTjH1YRYO_4&feature=share) ('77)[^19]
+- Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77)[^20]
 - Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87)
-- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87).[^21]
+- Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87)[^21]
 
 [^16]: Shout out to Dad, who wouldn't describe himself as a music fan, but, Man, does he love this album.
 [^17]: I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) ('72) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share) ('69): Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
