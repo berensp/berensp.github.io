@@ -7,7 +7,7 @@ ogimage: needle-placement.png
 ---
 Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
 
-<center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro vinyl station"></center>
+<center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro's vinyl station"></center>
 
 He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1]. Rather, he enjoys the tactile, physical experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera.
 
