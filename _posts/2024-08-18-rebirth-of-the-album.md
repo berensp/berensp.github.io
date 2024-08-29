@@ -9,15 +9,18 @@ Hanging out at my brother's house last weekend, I found myself admiring his viny
 
 <center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro's vinyl station"></center>
 
-He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1]. Rather, he enjoys the tactile, physical experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera.
+He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1].
+
+Rather, he's got several intentional reasons for going vinyl:
+1. The aesthetic and physical experience of the record: the beautiful jackets, the displaying of a well-curated collection, et cetera.
+2. Relatedly, how vinyl helps make music more social, engenders discussion, allows the whole family to participate and interact with the record collection.
+3. Vinyl conduces toward full album listening by virtue of being (s)low-tech
 
 [^1]: And, by the way, I seriously doubt the average listener can detect the subtle differences in sound quality between vinyl and other formats, without doing some seriously-exacting side-by-side comparisons. Just like the average palette can't detect "great wine" from "decent wine".
 
 ## The Benefit of Friction
 
-While I appreciate the aesthetic and vibe of vinyl—and to be clear I haven't started my own record collection—I like vinyl for a different reason: it celebrates the album by the virtue of being (s)low-tech.
-
-I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the technology. The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start situation. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
+I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the "technology". The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start situation. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
 <center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
 
@@ -44,7 +47,7 @@ And it may be mostly a "vibe" thing, but perhaps slowin' it down to 33⅓ rpm an
 ...these 20 would be first.
 
 You have to apply some tough criteria to let an album into the Top 20:
-- It's got to be **magnificent on multiple levels** (musically, emotionally, philosophically), and **age well** as you uncover more with each listen.
+- It's got to be **magnificent on multiple levels** (musically, emotionally, philosophically), and age well as you uncover more with each listen.
 - **Can't be a greatest hits** or compilation album because that would be cheatin', Man—otherwise I might be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^5].
 - Just **one album per artist**, because variety is the spice of life...and there's the real threat that a second Beatles, Zeppelin, or Springsteen album could beat out some others on the list.
 
@@ -65,14 +68,14 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 | 9 | [*Glass Houses*](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
 | 10 | [*Joshua Tree*](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^12] | U2 | '87 |
 | 11 | [*Blue*](https://music.youtube.com/playlist?list=OLAK5uy_kUVdKbI_qcwvbNBGC4xQ-fvVyk6LDtwcc&feature=share) | Joni Mitchell | '71 |
-| 12 | [*Salesmen & Racists*](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^13] | Ike Reilly | '01 |
-| 13 | [*Thriller*](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
-| 14 | [*Pearl*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
-| 15 | [*Fleet Foxes*](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) | Fleet Foxes | '08 |
-| 16 | [*Bridge Over…*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) | Simon & Garfunkel | '70 |
-| 17 | [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_lpPUr8Z5NMH3vN0_Y_ddBsd2iF_Rl1lNU&feature=share) | Dawes | '09 |
-| 18 | [*Kind Of Blue*](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^14] | Miles Davis | '59 |
-| 19 | [*Blonde on Blonde*](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^15] | Bob Dylan | '66 |
+| 12 | [*Thriller*](https://music.youtube.com/playlist?list=OLAK5uy_l1U925dsiDi2DqlG-KCbODG6BaibpxbQE&feature=share) | Michael Jackson | '82 |
+| 13 | [*Pearl*](https://music.youtube.com/playlist?list=OLAK5uy_kfHF0whENLGG_jS2pYWUbW2r2rRyJSOuw&feature=share) | Janis Joplin | '71 |
+| 14 | [*Fleet Foxes*](https://music.youtube.com/playlist?list=OLAK5uy_nBGuQNB76A4QwoaeGVeQwig5k_ea4YAXA&feature=share) | Fleet Foxes | '08 |
+| 15 | [*Bridge Over…*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) | Simon & Garfunkel | '70 |
+| 16 | [*Salesmen & Racists*](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^13] | Ike Reilly | '01 |
+| 17 | [*Kind Of Blue*](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^14] | Miles Davis | '59 |
+| 18 | [*Blonde on Blonde*](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^15] | Bob Dylan | '66 |
+| 19 | [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_k7yTzKDUOhfrZ26F9ioYfy6hQSb-JLs7g&feature=share) | Dawes | '09 |
 | 20 | [*What's Going On*](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | '71 |
 
 [^6]: I must give first place to the greatest rock band of all time, and *IV* is probably up against *II* with but in my estimation they are the best rock band of all time and this their opus magnus. [*'Led Zeppelin IV': How Band Struck Back at Critics With 1971 Masterpiece*](https://www.rollingstone.com/feature/led-zeppelin-iv-how-band-struck-back-at-critics-with-1971-masterpiece-126755/)
