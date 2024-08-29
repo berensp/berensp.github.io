@@ -18,6 +18,8 @@ Rather, he's got several intentional reasons for going vinyl:
 
 [^1]: And, by the way, I seriously doubt the average listener can detect the subtle differences in sound quality between vinyl and other formats, without doing some seriously-exacting side-by-side comparisons. Just like the average palette can't detect "great wine" from "decent wine".
 
+Let me say more about #3...
+
 ## The Benefit of Friction
 
 I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the "technology". The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start situation. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
