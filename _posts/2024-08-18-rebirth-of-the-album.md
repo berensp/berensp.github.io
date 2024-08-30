@@ -79,7 +79,7 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 | 4 | [*Moondance*](https://music.youtube.com/playlist?list=OLAK5uy_m_HGfcGMDBGX4u6z735fPNTC48-rMbeRA&feature=share) | Van Morrison | '70 |
 | 5 | [*Revolver*](https://music.youtube.com/playlist?list=OLAK5uy_kNH5_0dq0SINuzQFBDRKoCCcO0aTcGxoo&feature=share)[^10] | The Beatles | '66 |
 | 6 | [*Crash*](https://music.youtube.com/playlist?list=OLAK5uy_nK16a9ceJf-kGFrpX2EtAhlup_mgevtfI&feature=share)[^11] | Dave Matthews | '96 |
-| 7 | [*Tomorrow…*](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^112]| Jayhawks | '95 |
+| 7 | [*Tomorrow…*](https://music.youtube.com/playlist?list=OLAK5uy_nHD6qdtfYgQF8mppCc3S8OU16Dq0-H4wY&feature=share)[^12]| Jayhawks | '95 |
 | 8 | [*For Emma…*](https://music.youtube.com/playlist?list=OLAK5uy_kyy5OkQL_gicGq5ji_wjRzqp2DOMSKHE8&feature=share)[^13] | Bon Iver | '07 |
 | 9 | [*Glass Houses*](https://music.youtube.com/playlist?list=OLAK5uy_k9b5_yJ08Vt8sVR4YXCd2TDWW5yIFk00o&feature=share) | Billy Joel | '80 |
 | 10 | [*Joshua Tree*](https://music.youtube.com/playlist?list=OLAK5uy_mDvq8gfn5yGDKxZZL8_8gAVG_N34WOPy4&feature=share)[^14] | U2 | '87 |
@@ -100,7 +100,7 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 [^11]: Nostalgia for college.
 [^12]: Nostalgia for Minnesota.
 [^13]: Hey, as an acoustic guitar-strummin' Wisconsinite by birth, *Re: Stacks* may very well be one of the most beautiful songs ever written. Allow myself one melancholic album. Left to my own devices I could fill the list with sad, wistful albums.
-[^14]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that constantly needs to ditch anything that is too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), but I'm sticking to my guns.
+[^14]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that advocates ditching anything perceived too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), but I'm sticking to my guns.
 [^15]: Ike is my "family's rock band", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 [^16]: On repeat at Wine Night in Mod 28A.
 [^17]: Dylan's greatest album is also a tough call, which you're not going to convince everyone on, but *Blonde on Blonde* is a masterpiece, and I dig that it was [a combo of New York and Minneapolis musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/). For me [*Blood On The Tracks*](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) is probably #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
@@ -127,6 +127,6 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 [^23]: Different genre but I'm throwing it in.
 [^24]: A little sheepish about this, because of their cheesy lyrics but Guster hits my [nostalgia bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone), so to speak. Actually, nostalgia plays no small role in what you might consider the most important music, so this whole thing is as much a diary entry or memoir as anything. It ultimately matters more than relative ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
-Parting thought: Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)...
+Parting thought: Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)—too bad I hadn't been born in the mid-50s. (Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/) after all.)
 
 — ᴘ. ᴍ. ʙ.
