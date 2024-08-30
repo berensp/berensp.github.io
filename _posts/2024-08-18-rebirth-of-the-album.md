@@ -127,6 +127,6 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 [^23]: Different genre but I'm throwing it in.
 [^24]: A little sheepish about this, because of their cheesy lyrics but Guster hits my [nostalgia bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone), so to speak. Actually, nostalgia plays no small role in what you might consider the most important music, so this whole thing is as much a diary entry or memoir as anything. It ultimately matters more than relative ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
-Parting thought: Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)...
+Parting thought: Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)—too bad I hadn't been born in the mid-50s. (Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/) after all.)
 
 — ᴘ. ᴍ. ʙ.
