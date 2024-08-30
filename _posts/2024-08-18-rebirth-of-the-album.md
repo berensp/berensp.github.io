@@ -7,7 +7,7 @@ ogimage: needle-placement.png
 ---
 Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
 
-<center><img src="/assets/og/bro_vinyl_station.jpg" alt="bro's vinyl station"></center>
+![bro's vinyl station](/assets/og/bro_vinyl_station.jpg)
 
 He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1].
 
@@ -18,11 +18,13 @@ Rather, he's got several intentional reasons for going vinyl:
 
 [^1]: And, by the way, I seriously doubt the average listener can detect the subtle differences in sound quality between vinyl and other formats, without doing some seriously-exacting side-by-side comparisons. Just like the average palette can't detect "great wine" from "decent wine".
 
+Let me say more about #3...
+
 ## The Benefit of Friction
 
 I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the "technology". The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start situation. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
-<center><img src="/assets/og/needle-placement.png" alt="tricky needle placement"></center>
+![tricky needle placement](/assets/og/needle-placement.png)
 
 Anyway, albums—particularly *concept albums*—were designed to be listened through, and were (supposed to be, though not always[^2]) created not as a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together cohesively to present a narrative or carry a motif.
 
@@ -38,9 +40,17 @@ Rick Beato also talks about how scarcity is part of the equation: the fact that 
 
 [^4]: [*The Real Reason Why Music Is Getting Worse*](https://youtu.be/1bZ0OSEViyo?si=Bk3ABna5Z5tZ8Mfv)
 
-So it's a happy thing that we're in the "vinyl revival": vinyl unit sales now exceed that of CD; and vinyl demand outstrips supply 2:1 (per Mixmag).
 
-And it may be mostly a "vibe" thing, but perhaps slowin' it down to 33⅓ rpm and listening to albums front to back can help us fall in love with albums all over again.
+Album sales (across all formats) have been on a downward slope since the late 90s:
+
+### US Recorded Music - Album Sales per Capita
+
+![US Recorded Msuic Album Sales per Capita](/assets/og/post_us_recorded_music_album_sales.png)
+<span class="muted small">Data: Recording Industry Association of America. Chart/Analysis: Michael DeGusta</span>
+
+And even though it's a happy thing that we're in the "vinyl revival" with vinyl unit sales now exceeding that of CD and vinyl demanding outstripping supply 2:1 (per Mixmag), it's still niche enough that it won't stave off the overall decline of the album.
+
+It may prove too difficult to save all of society, but for all smaller segment perhaps slowin' it down to 33⅓ rpm and listening to albums front to back can help us fall in love with music in a new way...or all over again.
 
 ## If I were to start a vinyl album collection...
 
