@@ -59,7 +59,11 @@ It may prove too difficult to save all of society, but for all smaller segment p
 ...these 20 would be first.
 
 Well, firstly, I had to apply some fairly tough criteria to whittle it down to a top 20:
-- I'm excluding greatest hits and compilation albums because that would be cheatin', Man—otherwise I might be forced to throw in Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^7].
+- I'm excluding the "other" categories, all of which have their own greats:
+	- Greatest hits (e.g., Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^7])
+	- Movie soundtracks (e.g., Wes Anderson films)
+	- Live albums (e.g., *Live at Leeds*, *Frampton Comes Alive!*, Nirvana MTV)
+	- Acoustic performances (e.g., Dave Matthews Band *Live at Luther College*)
 - Just one album per artist, because variety is the spice of life...and there's the real threat that a second Beatles, Zeppelin, or Springsteen album could beat out some others on the list.
 - The rest is subjective, but basically it's got to be magnificent on multiple levels (musically, lyrically, instrumentally, emotionally, philosophically, etc.), and age well as you uncover more with each listen.
 
@@ -113,6 +117,7 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 - Fleetwood Mac – [*Rumours*](https://music.youtube.com/playlist?list=OLAK5uy_lOWvxbyxSakNJBr3T4taG96SuTihpHGn4&feature=share) ('77)[^22]
 - Guns N' Roses – [*Appetite For Destruction*](https://music.youtube.com/playlist?list=OLAK5uy_nnCYsn6_-pTPImZ_UqWiA3DxaaNczxEMA&si=bss32yTiuZ-IEN7l) ('87)
 - Original Broadcast Cast thereof – [*Les Misérables*](https://music.youtube.com/playlist?list=OLAK5uy_nOFrqAkBC4ZCdAsHqc0pPuUydlpIRtqg0) ('87)[^23]
+- Guster – [*Keep It Together*](https://music.youtube.com/playlist?list=OLAK5uy_l9U9DcI-iN5Umqo7Cqb80r3X7Af3DVFVo&si=fFF40GknmF2mQycx) ('03)[^24]
 
 [^18]: Shout out to Dad, who wouldn't describe himself as a music fan, but, Man, does he love this album.
 [^19]: I know it's blasphemy to leave out the Stones from the top albums chart, but their best tunes are too distributed across their albums IMO. *Sticky Fingers* is probably a little controversial; the correct answer is supposed to be [*Exile on Main St.*](https://music.youtube.com/playlist?list=OLAK5uy_nUN0Se9MxUILr7oxbyaFLW9j6rOcU8JxQ&feature=share) ('72) or maybe [*Let It Bleed*](https://music.youtube.com/playlist?list=OLAK5uy_majeP4GW8tafu1VFAPhs9ABgwjPh7qKGI&feature=share) ('69): Rolling Stone has *Exile* as #6 on the 500 albums of all time; *Let It Bleed* as #32; [*Beggars Banquet*](https://music.youtube.com/playlist?list=OLAK5uy_lxhcv7ileyWBhOcUx-9UOP_R5z5AHND7A&feature=share) as #58. And *Sticky Fingers* coming in at #64.
@@ -120,15 +125,8 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 [^21]: My jazz pick if I didn't have *Kind Of Blue*.
 [^22]: Weirdly, I'm not an enormous Fleetwood Mac fan, but this album is chock-full of hits.
 [^23]: Different genre but I'm throwing it in.
+[^24]: A little sheepish about this, because of their cheesy lyrics but Guster hits my [nostalgia bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone), so to speak. Actually, nostalgia plays no small role in what you might consider the most important music, so this whole thing is as much a diary entry or memoir as anything. It ultimately matters more than relative ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
 
-## Other thoughts
-- Other categories to consider:
-	- Live albums (e.g., *Live at Leeds*, *Frampton Comes Alive!*, Nirvana MTV)
-	- Movie soundtracks (e.g., Wes Anderson films)
-	- Acoustic performances (e.g., Dave Matthews Band *Live at Luther College*)
-- Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)
-- Why so much old stuff? Nostalgia plays no small role in what you might consider the most important music[^24], so this is as much a diary entry or memoir as anything. It ultimately matters more than relative ranking on the [Rolling Stone's Top 500 Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/).
-
-[^24]: [The Nostalgia Bone](https://www.npr.org/2021/10/13/1045812865/the-nostalgia-bone) - 
+Parting thought: Man, [1971 was my year](https://www.google.com/search?q=albums+released+in+1971)...too bad I hadn't been born in the mid-50s. Perhaps we have our answer to [WTF happened in 1971?](https://wtfhappenedin1971.com/)...
 
 — ᴘ. ᴍ. ʙ.
