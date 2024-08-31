@@ -52,14 +52,14 @@ And even though it's a happy thing that we're in the "vinyl revival" era (with v
 [^5]: 33M units CD vs. 41M units vinyl in 2022. https://mixmag.net/feature/vinyl-industry-record-breaking-point-manufacturing
 [^6]: [*The Vinyl Straw: Why the Vinyl Industry Is At Breaking Point*](https://mixmag.net/feature/vinyl-industry-record-breaking-point-manufacturing)
 
-It may prove too difficult to save all of society, but for all smaller segment perhaps slowin' it down to 33⅓ rpm and listening to albums front to back can help us fall in love with music in a new way...or all over again.
+It may prove too difficult to save all of society, but for a smaller segment perhaps slowing it down to 33⅓ rpm and listening to albums front to back can help us fall in love with music in a new way or all over again.
 
 ## If I were to start a vinyl album collection...
 
 ...these 20 would be first.
 
-Well, firstly, I had to apply some fairly tough criteria to whittle it down to a top 20:
-- I'm excluding the "other" categories, all of which have their own greats:
+I should say, first, that you have to apply some fairly tough criteria to whittle it down to a top 20:
+- I'm excluding the "other" album categories, all of which have their own greats:
 	- Greatest hits (e.g., Elton John's *Greatest Hits* ('74) and Bob Marley's *Legend* ('84)[^7])
 	- Movie soundtracks (e.g., Wes Anderson films)
 	- Live albums (e.g., *Live at Leeds*, *Frampton Comes Alive!*, Nirvana MTV)
