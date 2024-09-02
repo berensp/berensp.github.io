@@ -2,7 +2,7 @@
 layout: bookreview
 title: The Eyes and the Impossible
 author: Dave Eggers
-category: Just Finished
+category: Miscellany
 finish_date: 2024-07-10
 book_url: https://www.google.com/books/edition/The_Eyes_and_the_Impossible/ezyIEAAAQBAJ?hl=en&gbpv=0
 ogimage: bkreview_eyes_impossible.png
