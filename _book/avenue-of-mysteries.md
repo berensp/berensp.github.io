@@ -2,7 +2,7 @@
 layout: bookreview
 title: Avenue of Mysteries
 author: John Irving
-category: Near Term
+category: On Deck
 book_url: https://www.google.com/books/edition/Avenue_of_Mysteries/jH_RCgAAQBAJ?hl=en
 ogimage: bkreview_ave_mysteries.jpg
 ---
