@@ -6,20 +6,26 @@ cooktime: 60
 yield: ~4 servings
 ---
 ## Meatloaf ingredients
-- 1 lb. ground beef (or ground turkey s'il vous plaît)
-- ½ cup crushed buttery round crackers
-- ⅓ cup milk
-- 1 small onion, chopped
-- 1 carrot, grated
-- 1 egg
-- 1 (heaping) tsp. minced garlic
-- 1 tsp. salt
-- ¼ tsp. ground black pepper
+
+<ul style="list-style:none">
+  <li><input type="checkbox"/>1 lb. ground beef (or ground turkey s'il vous plaît)</li>
+  <li><input type="checkbox"/>½ cup crushed buttery round crackers</li>
+  <li><input type="checkbox"/>⅓ cup milk</li>
+  <li><input type="checkbox"/>1 small onion, chopped</li>
+  <li><input type="checkbox"/>1 carrot, grated</li>
+  <li><input type="checkbox"/>1 egg</li>
+  <li><input type="checkbox"/>1 (heaping) tsp. minced garlic</li>
+  <li><input type="checkbox"/>1 tsp. salt</li>
+  <li><input type="checkbox"/>¼ tsp. ground black pepper</li>
+</ul>
 
 ## Topping
-- ⅓ cup ketchup
-- 2 tbsp brown sugar
-- 1 tbsp. worcestershire sauce
+
+<ul style="list-style:none">
+  <li><input type="checkbox"/>⅓ cup ketchup</li>
+  <li><input type="checkbox"/>2 tbsp brown sugar</li>
+  <li><input type="checkbox"/>1 tbsp. worcestershire sauce</li>
+</ul>
 
 ## Instructions
 1. Preheat oven to 350°F.

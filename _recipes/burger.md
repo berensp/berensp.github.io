@@ -6,14 +6,19 @@ cooktime: 10
 yield: 4 servings
 ---
 ## Ingredients
-- 1 lb. 80% lean 20% fat ground beef or ground chuck
-- 1 Tbsp Worcestershire sauce[^1]
-- 1 tsp. seasoning salt
-- 1 tsp. garlic powder
-- ½ tsp. ground black pepper
-- cheese slices
-- hamburger buns
-- other toppings: lettuce, tomato, onion, pickles, ketchup, mustard, mayo, etc.
+<ul style="list-style:none">
+  <li><input type="checkbox"/>1 lb. 80% lean 20% fat ground beef or ground chuck</li>
+  <li><input type="checkbox"/>1 Tbsp Worcestershire sauce<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></li>
+  <li><input type="checkbox"/>1 tsp. seasoning salt</li>
+  <li><input type="checkbox"/>1 tsp. garlic powder</li>
+  <li><input type="checkbox"/>½ tsp. ground black pepper</li>
+  <li><input type="checkbox"/>cheese slices</li>
+  <li><input type="checkbox"/>hamburger buns</li>
+  <li><input type="checkbox"/>lettuce</li>
+  <li><input type="checkbox"/>tomato</li>
+  <li><input type="checkbox"/>pickles</li>
+  <li><input type="checkbox"/>ketchup, mustard, mayo, relish</li>
+</ul>
 
 [^1]: @Dad always used the Worcestershire sauce, so I don't skip it. 1 lb. recipe for four patties.
 

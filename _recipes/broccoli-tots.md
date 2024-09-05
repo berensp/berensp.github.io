@@ -6,14 +6,17 @@ cooktime: 25
 yield: makes ~15-20
 ---
 ## Ingredients
-- 1 cup broccoli florets (roughly chopped)
-- 1 cup fully cooked short grain brown rice
-- ½ cup shredded mozzarella cheese
-- 1 tbsp. grated Parmesan
-- 2 eggs
-- ¼ cup Italian-flavored or regular breadcrumbs
-- ¼ tsp. salt (optional)
-- ¼ tsp. Italian seasoning or cumin (optional)
+
+<ul style="list-style:none">
+  <li><input type="checkbox"/>1 cup broccoli florets (roughly chopped)</li>
+  <li><input type="checkbox"/>1 cup fully cooked short grain brown rice</li>
+  <li><input type="checkbox"/>½ cup shredded mozzarella cheese</li>
+  <li><input type="checkbox"/>1 tbsp. grated Parmesan</li>
+  <li><input type="checkbox"/>2 eggs</li>
+  <li><input type="checkbox"/>¼ cup Italian-flavored or regular breadcrumbs</li>
+  <li><input type="checkbox"/>¼ tsp. salt (optional)</li>
+  <li><input type="checkbox"/>¼ tsp. Italian seasoning or cumin (optional)</li>
+</ul>
 
 ## Instructions
 1. Preheat oven to 375°F. Line baking sheet with parchment paper.
