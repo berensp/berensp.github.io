@@ -20,7 +20,7 @@ permalink: /goals/
 
 ## Quarterly
 <ul style="list-style:none">
-  <li><input type="checkbox" checked/>🏃‍♂️ <a href="/run/">run</a> (25x)</li>
+  <li><input type="checkbox" checked/>🏃‍♂️ <a href="/running/">run</a> (25x)</li>
   <li><input type="checkbox"/>💑 dates (3x)</li>
   <li><input type="checkbox"/>📿 rosary (3x)</li>
   <li><input type="checkbox"/>👨‍🍳 add new <a href="/recipes/">recipe(s)</a> (1x)</li>
