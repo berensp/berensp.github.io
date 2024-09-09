@@ -34,11 +34,7 @@ title: Rosary
 		- The Coronation of Mary
 7. [Our Father](/prayers/pater-noster/)
 8. [Hail Mary](/prayers/ave-maria/) (×10)
-9. [Glory Be](/prayers/gloria-patri/) + Fatima Prayer
+9. [Glory Be + Fatima](/prayers/gloria-patri/) + Fatima Prayer
 10. [Repeat] (×5)
 11. [Hail, Holy Queen](/prayers/salve-regina/)
-
-℣. Pray for us, O holy Mother of God.  
-℟. That we may be made worthy of the promises of Christ.
-
-*Let us pray: O God, whose Only Begotten Son, by his life, Death, and Resurrection, has purchased for us the rewards of eternal life, grant, we beseech thee, that while meditating on these mysteries of the most holy Rosary of the Blessed Virgin Mary, we may imitate what they contain and obtain what they promise, through the same Christ our Lord. Amen.*
+12. [Oratio ad Finem Rosarii Dicenda](/prayers/rosary-end/)
