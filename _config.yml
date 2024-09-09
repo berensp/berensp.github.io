@@ -14,7 +14,7 @@ collections:
     permalink: /books/:path/
   runs:
     output: true
-    permalink: /run/:path/
+    permalink: /runs/:path/
   rides:
     output: true
     permalink: /rides/:path/
