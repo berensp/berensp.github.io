@@ -13,7 +13,7 @@ Some favorite routes 👇
 {% assign categories = "San Francisco,Greater Bay Area,Away from home" | split: "," %}
 
 {% for category in categories %}
-  {% assign routes_in_category = site.run | where: "category", category %}
+  {% assign routes_in_category = site.runs | where: "category", category %}
   {% if routes_in_category.size > 0 %}
 <h2>{{ category }}</h2>
 <ul class="more-space">
