@@ -13,7 +13,7 @@ ogimage: bookshelf.bw.png
 {% for category in categories %}
   {% if category == "Miscellany" %}
     {% assign current_date = 'now' | date: '%s' %}
-    {% assign books_in_category = site.book | where: "category", category %}
+    {% assign books_in_category = site.books | where: "category", category %}
     {% assign recent_books = "" | split: "" %}
     {% assign earliest_date = current_date %}
     {% for bookreview in books_in_category %}
@@ -38,7 +38,7 @@ ogimage: bookshelf.bw.png
 </ul>
     {% endif %}
   {% else %}
-    {% assign books_in_category = site.book | where: "category", category %}
+    {% assign books_in_category = site.books | where: "category", category %}
     {% if books_in_category.size > 0 %}
 <h2>{{ category }}</h2>
 <ul class="more-space">
