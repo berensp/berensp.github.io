@@ -2,7 +2,7 @@
 layout: home
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
-{% assign currently_reading = site.book | where: "category", "Presently Reading" | first %}
+{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <a href="/prayers/"><img src="/assets/images/avatar_pmb_nakamigo.png" alt="PMB avatar sketch" style="width: 25%;"></a>
 
 ✌ Hi, I'm [Paul Berens](/infobox/).

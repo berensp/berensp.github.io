@@ -13,7 +13,7 @@ Some favorite rides 👇
 {% assign categories = "Shorter Rides,Medium Rides,Long Rides/Centuries" | split: "," %}
 
 {% for category in categories %}
-  {% assign routes_in_category = site.ride | where: "category", category %}
+  {% assign routes_in_category = site.rides | where: "category", category %}
   {% if routes_in_category.size > 0 %}
 <h2>{{ category }}</h2>
 <ul class="more-space">
