@@ -9,15 +9,15 @@ collections:
   prayers:
     output: true
     permalink: /prayers/:path/
-  book:
+  books:
     output: true
-    permalink: /book/:path/
-  run:
+    permalink: /books/:path/
+  runs:
     output: true
     permalink: /run/:path/
-  ride:
+  rides:
     output: true
-    permalink: /ride/:path/
+    permalink: /rides/:path/
 
 
 baseurl: ""
