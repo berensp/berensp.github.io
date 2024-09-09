@@ -2,7 +2,7 @@
 layout: prayer
 title: Rosary
 ---
-1. Sign of the Cross
+1. [Signum Crucis](/prayers/signum-crucis/)
 2. [Apostles' Creed](/prayers/apostles-creed/)
 3. [Our Father](/prayers/pater-noster/)
 4. [Hail Mary](/prayers/ave-maria/) (×3)
