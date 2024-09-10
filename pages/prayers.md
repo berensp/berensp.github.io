@@ -4,7 +4,7 @@ title: Prayers
 permalink: /prayers/
 description: We got to pray just to make it today.
 ---
-[Angel from the Song of Bethlehem](/assets/images/angel-song-of-bethlehem.png)
+![Angel from the Song of Bethlehem](/assets/images/angel-song-of-bethlehem.png)
 
 {% assign categories = "Ante Missam,Inter Missam,Post Missam,Marian,Saints,Miscellany" | split: "," %}
 
