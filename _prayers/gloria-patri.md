@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Gloria Patri
+category: Miscellany
 ---
 Glória Patri,  
 et Fílio,  

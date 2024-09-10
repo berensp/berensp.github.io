@@ -1,6 +1,7 @@
 ---
 layout: prayer
-title: St. Padre Pio (postcommunio)
+title: St. Padre Pio
+category: Post Missam
 ---
 Stay with me, Lord, for it is necessary to have You present so that I do not forget You. You know how easily I abandon You.
 

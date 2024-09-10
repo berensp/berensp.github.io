@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: St. Thomas Aquinas
+category: Saints
 ---
 Grant me, O Lord my God,  
 a mind to know you,  

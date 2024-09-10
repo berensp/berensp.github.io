@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Suspice
+category: Miscellany
 ---
 Receive, O Lord, all my liberty.  
 Take my memory,  

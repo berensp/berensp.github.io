@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Rosary
+category: Marian
 ---
 1. [Signum Crucis](/prayers/signum-crucis/)
 2. [Apostles' Creed](/prayers/apostles-creed/)

@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Pater Noster
+category: Miscellany
 ---
 Pater Noster,  
 qui es in cælis,  

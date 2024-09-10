@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Signum Crucis
+category: Miscellany
 ---
 In nomine Patris,  
 et Filii,  

@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: St. Joseph
+category: Saints
 ---
 To you, O blessed Joseph,  
 do we come in our tribulation,  

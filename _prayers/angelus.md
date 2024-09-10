@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Angelus
+category: Marian
 ---
 ℣. The Angel of the Lord declared unto Mary,  
 ℟. And she conceived of the Holy Spirit.  

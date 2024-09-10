@@ -1,9 +1,8 @@
 ---
 layout: prayer
-title: Preparation for Mass
+title: Prayer of St. Ambrose
+category: Ante Missam
 ---
-## Prayer of Saint Ambrose
-
 I draw near, loving Lord Jesus Christ,  
 to the table of your most delightful banquet  
 in fear and trembling,  
