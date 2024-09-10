@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: Prayer of St. Thomas Aquinas
+title: St. Thomas Aquinas
 category: Ante Missam
 ---
 Almighty eternal God,  
