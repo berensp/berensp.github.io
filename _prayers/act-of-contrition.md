@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Act of Contrition
+category: Miscellany
 ---
 O my God,  
 I am heartily sorry  

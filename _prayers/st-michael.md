@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: St. Michael the Archangel
+category: Saints
 ---
 Saint Michael the Archangel,  
 defend us in battle.  

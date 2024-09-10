@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Immaculate Heart
+category: Marian
 ---
 O Mary, Virgin most powerful and Mother of mercy, Queen of Heaven and Refuge of sinners, we consecrate ourselves to thine Immaculate Heart.
 

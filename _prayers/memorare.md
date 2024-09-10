@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Memorare
+category: Marian
 ---
 Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored thy help, or sought thine intercession was left unaided.
 

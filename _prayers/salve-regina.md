@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Salve Regina
+category: Marian
 ---
 Salve Regína, mater misericórdiæ;  
 vita, dulcédo, et spes nostra, salve;  

@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Ave Maria
+category: Marian
 ---
 Ave Maria, gratia plena,  
 Dóminus tecum.  

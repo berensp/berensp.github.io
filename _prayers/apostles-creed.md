@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Apostles' Creed
+category: Inter Missam
 ---
 I believe in God,  
 the Father almighty,  

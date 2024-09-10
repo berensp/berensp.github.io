@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: St. Patrick's Lorica
+category: Saints
 ---
 I.  
 I bind to myself today  

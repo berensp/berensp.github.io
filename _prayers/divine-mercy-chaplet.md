@@ -1,6 +1,7 @@
 ---
 layout: prayer
 title: Divine Mercy Chaplet
+category: Miscellany
 ---
 1. Sign of the Cross
 2. *You expired, Jesus, but the source of life gushed forth for souls, and the ocean of mercy opened up for the whole world. O Fount of Life, unfathomable Divine Mercy, envelop the whole world and empty Yourself out upon us.*
