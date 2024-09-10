@@ -11,4 +11,4 @@ elevation: 545 ft
 difficulty: moderate
 category: San Francisco
 ---
-When I'm not doing the [Twin Peaks Mt. Sutro loop](/run/twin-peaks-sutro/) I'm typically over here. Down the hill to Golden Gate Park (along Kezar, pick up JFK Promenade, trail to Prayerbook Cross, trail following Crossover Dr.), south on 18th, to Moraga Steps (a.k.a. "16th Ave Tiled Steps"), Noriega, Ortega, Forest Hill.
+When I'm not doing the [Twin Peaks Mt. Sutro loop](/runs/twin-peaks-sutro/) I'm typically over here. Down the hill to Golden Gate Park (along Kezar, pick up JFK Promenade, trail to Prayerbook Cross, trail following Crossover Dr.), south on 18th, to Moraga Steps (a.k.a. "16th Ave Tiled Steps"), Noriega, Ortega, Forest Hill.
