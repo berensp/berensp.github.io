@@ -1,9 +1,16 @@
+---
+layout: prayer
+title: Today's Rosary
+category: Marian
+---
+{% raw %}
 {% assign day_number = site.time | date: "%w" | plus: 0 %}
 {% assign mysteries = site.data.rosary_mysteries %}
 {% assign today_mystery = mysteries[day_number] %}
 
-<h2>Today's Rosary Mysteries</h2>
-<p>Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} Mysteries:</p>
+## Today's Rosary Mysteries
+
+Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} Mysteries:
 
 <ol>
 {% for mystery in today_mystery.mysteries %}
@@ -22,7 +29,8 @@
 {% endfor %}
 </ol>
 
-<h3>All Mystery Sets:</h3>
+### All Mystery Sets:
+
 <ul>
 {% for mystery_set in mysteries %}
   <li>
@@ -46,3 +54,4 @@
   </li>
 {% endfor %}
 </ul>
+{% endraw %}
