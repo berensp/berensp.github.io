@@ -7,9 +7,21 @@ category: Marian
 {% assign mysteries = site.data.rosary_mysteries %}
 {% assign today_mystery = mysteries[day_number] %}
 
-## Today's Rosary Mysteries
+Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} Mysteries.
 
-Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} Mysteries:
+## Opening
+
+<ul style="list-style:none">
+  <li><input type="checkbox"/>[Signum Crucis](/prayers/signum-crucis/)</li>
+  <li><input type="checkbox"/>[Apostles' Creed](/prayers/apostles-creed/)</li>
+  <li><input type="checkbox"/>[Our Father](/prayers/pater-noster/)</li>
+  <li><input type="checkbox"/>[Hail Mary](/prayers/ave-maria/)</li>
+  <li><input type="checkbox"/>[Hail Mary](/prayers/ave-maria/)</li>
+  <li><input type="checkbox"/>[Hail Mary](/prayers/ave-maria/)</li>
+  <li><input type="checkbox"/>[Gloria Patri](/prayers/gloria-patri/)</li>
+</ul>
+
+## {{ today_mystery.set }} Mysteries
 
 <ol>
 {% for mystery in today_mystery.mysteries %}
@@ -27,6 +39,13 @@ Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} My
   </li>
 {% endfor %}
 </ol>
+
+## Closing
+
+<ul style="list-style:none">
+  <li><input type="checkbox"/>[Hail, Holy Queen](/prayers/salve-regina/)</li>
+  <li><input type="checkbox"/>[Oratio ad Finem Rosarii Dicenda](/prayers/rosary-end/)</li>
+</ul>
 
 ### All Mystery Sets:
 
