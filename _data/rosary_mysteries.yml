@@ -5,8 +5,8 @@
     - The Resurrection
     - The Ascension
     - The Descent of the Holy Spirit
-    - The Assumption of Mary
-    - The Coronation of the Virgin
+    - The Assumption
+    - The Coronation of Mary
 - day: Monday
   set: Joyful
   mysteries:
@@ -34,9 +34,9 @@
 - day: Thursday
   set: Luminous
   mysteries:
-    - The Baptism of Christ in the Jordan
-    - The Wedding Feast at Cana
-    - Jesus' Proclamation of the Coming of the Kingdom of God
+    - The Baptism in the Jordan
+    - The Wedding at Cana
+    - The Proclamation of the Kingdom
     - The Transfiguration
     - The Institution of the Eucharist
 - day: Friday
@@ -46,12 +46,12 @@
     - The Scourging at the Pillar
     - The Crowning with Thorns
     - The Carrying of the Cross
-    - The Crucifixion and Death
+    - The Crucifixion and Death of our Lord
 - day: Saturday
   set: Joyful
   mysteries:
     - The Annunciation
     - The Visitation
     - The Nativity
-    - The Presentation in the Temple
-    - The Finding in the Temple
+    - The Presentation of the Lord
+    - The Finding of the Lord in the Temple
