@@ -12,13 +12,13 @@ Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} My
 ## Opening
 
 <ul style="list-style:none">
-  <li><input type="checkbox"/>[Signum Crucis](/prayers/signum-crucis/)</li>
-  <li><input type="checkbox"/>[Apostles' Creed](/prayers/apostles-creed/)</li>
-  <li><input type="checkbox"/>[Our Father](/prayers/pater-noster/)</li>
-  <li><input type="checkbox"/>[Hail Mary](/prayers/ave-maria/)</li>
-  <li><input type="checkbox"/>[Hail Mary](/prayers/ave-maria/)</li>
-  <li><input type="checkbox"/>[Hail Mary](/prayers/ave-maria/)</li>
-  <li><input type="checkbox"/>[Gloria Patri](/prayers/gloria-patri/)</li>
+  <li><input type="checkbox"/><a href="/prayers/signum-crucis/">Signum Crucis</a></li>
+  <li><input type="checkbox"/><a href="/prayers/apostles-creed/">Apostles' Creed</a></li>
+  <li><input type="checkbox"/><a href="/prayers/pater-noster/">Our Father</a></li>
+  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Hail Mary</a></li>
+  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Hail Mary</a></li>
+  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Hail Mary</a></li>
+  <li><input type="checkbox"/><a href="/prayers/gloria-patri/">Gloria Patri</a></li>
 </ul>
 
 ## {{ today_mystery.set }} Mysteries
@@ -43,8 +43,8 @@ Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} My
 ## Closing
 
 <ul style="list-style:none">
-  <li><input type="checkbox"/>[Hail, Holy Queen](/prayers/salve-regina/)</li>
-  <li><input type="checkbox"/>[Oratio ad Finem Rosarii Dicenda](/prayers/rosary-end/)</li>
+  <li><input type="checkbox"/><a href="/prayers/salve-regina/">Hail, Holy Queen</a></li>
+  <li><input type="checkbox"/><a href="/prayers/rosary-end/">Oratio ad Finem Rosarii Dicenda</a></li>
 </ul>
 
 ### All Mystery Sets:
