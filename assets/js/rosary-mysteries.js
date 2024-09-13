@@ -30,7 +30,7 @@ const mysteries = [
   {day: 'Thursday', set: 'Luminous', mysteries: [
     'The Baptism of Christ in the Jordan',
     'The Wedding Feast at Cana',
-    'Jesus' Proclamation of the Coming of the Kingdom of God',
+    "Jesus' Proclamation of the Coming of the Kingdom of God",
     'The Transfiguration',
     'The Institution of the Eucharist'
   ]},
