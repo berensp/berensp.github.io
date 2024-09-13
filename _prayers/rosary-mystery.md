@@ -4,13 +4,31 @@ title: Today's Rosary
 category: Marian
 ---
 
-{% assign day_number = site.time | date: "%w" | plus: 0 %}
-{% assign tomorrow_number = day_number | plus: 1 | modulo: 7 %}
+{% assign utc_offset = -7 %}
+{% assign seconds_in_day = 86400 %}
+{% assign local_seconds = site.time | date: "%s" | plus: utc_offset | times: 3600 %}
+{% assign local_seconds_normalized = local_seconds | modulo: seconds_in_day %}
+{% if local_seconds < 0 %}
+  {% assign local_seconds_normalized = local_seconds_normalized | plus: seconds_in_day %}
+{% endif %}
+{% assign local_time = local_seconds_normalized | date: "%w" | plus: 0 %}
+
+{% comment %}
+<!-- Debug logging -->
+{% capture log_message %}
+UTC time: {{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}
+Local time (PDT): {{ local_seconds_normalized | date: "%Y-%m-%d %H:%M:%S %Z" }}
+Day of week: {{ local_time }}
+{% endcapture %}
+{{ log_message | inspect }}
+{% endcomment %}
+
+{% assign tomorrow_number = local_time | plus: 1 | modulo: 7 %}
 {% assign mysteries = site.data.rosary_mysteries %}
-{% assign today_mystery = mysteries[day_number] %}
+{% assign today_mystery = mysteries[local_time] %}
 {% assign tomorrow_mystery = mysteries[tomorrow_number] %}
 
-Today we'll do the <b>{{ today_mystery.set }} Mysteries<b> since it's {{ site.time | date: "%A" }}.
+It's the <b>{{ today_mystery.set }} Mysteries</b> today since it's {{ local_seconds_normalized | date: "%A" }} (in San Francisco).
 
 ## Opening
 
@@ -46,4 +64,4 @@ Today we'll do the <b>{{ today_mystery.set }} Mysteries<b> since it's {{ site.ti
   <li><input type="checkbox"/><a href="/prayers/rosary-end/">Oratio ad Finem Rosarii Dicenda</a></li>
 </ul>
 
-<span class="muted small">Tomorrow we will pray the {{ tomorrow_mystery.set }} Mysteries: {{ tomorrow_mystery.mysteries | join: ", " }}</span>
+<span class="muted small">Tomorrow we'll pray the {{ tomorrow_mystery.set }} Mysteries: {{ tomorrow_mystery.mysteries | join: ", " }}.</span>
