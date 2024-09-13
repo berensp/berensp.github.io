@@ -1,13 +1,16 @@
 ---
 layout: prayer
-title: Today's Rosary
+title: {{ today_mystery.set }} Mysteries
 category: Marian
 ---
+
 {% assign day_number = site.time | date: "%w" | plus: 0 %}
+{% assign tomorrow_number = day_number | plus: 1 | modulo: 7 %}
 {% assign mysteries = site.data.rosary_mysteries %}
 {% assign today_mystery = mysteries[day_number] %}
+{% assign tomorrow_mystery = mysteries[tomorrow_number] %}
 
-Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} Mysteries.
+...since today is {{ site.time | date: "%A" }}.
 
 ## Opening
 
@@ -21,24 +24,20 @@ Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} My
   <li><input type="checkbox"/><a href="/prayers/gloria-patri/">Gloria Patri</a></li>
 </ul>
 
-## {{ today_mystery.set }} Mysteries
-
-<ol>
 {% for mystery in today_mystery.mysteries %}
-  <li>
-    <strong>{{ mystery }}</strong>
-    <ul style="list-style-type: none;">
-      {% for i in (1..10) %}
-        <li><input type="checkbox" id="hailmary-{{ forloop.parentloop.index }}-{{ forloop.index }}"/>
-          <label for="hailmary-{{ forloop.parentloop.index }}-{{ forloop.index }}">
-            <a href="/prayers/ave-maria/">Hail Mary</a>
-          </label>
-        </li>
-      {% endfor %}
-    </ul>
-  </li>
+## {{ mystery }}
+
+<ul style="list-style-type: none;">
+  {% for i in (1..10) %}
+    <li>
+      <input type="checkbox" id="hailmary-{{ forloop.parentloop.index }}-{{ forloop.index }}"/>
+      <label for="hailmary-{{ forloop.parentloop.index }}-{{ forloop.index }}">
+        <a href="/prayers/ave-maria/">Hail Mary</a>
+      </label>
+    </li>
+  {% endfor %}
+</ul>
 {% endfor %}
-</ol>
 
 ## Closing
 
@@ -47,28 +46,4 @@ Today is {{ site.time | date: "%A" }}, so we pray the {{ today_mystery.set }} My
   <li><input type="checkbox"/><a href="/prayers/rosary-end/">Oratio ad Finem Rosarii Dicenda</a></li>
 </ul>
 
-### All Mystery Sets:
-
-<ul>
-{% for mystery_set in mysteries %}
-  <li>
-    <strong>{{ mystery_set.day }}:</strong> {{ mystery_set.set }} Mysteries
-    <ol>
-    {% for mystery in mystery_set.mysteries %}
-      <li>
-        {{ mystery }}
-        <ul style="list-style-type: none;">
-          {% for i in (1..10) %}
-            <li><input type="checkbox" id="hailmary-all-{{ forloop.parentloop.parentloop.index }}-{{ forloop.parentloop.index }}-{{ forloop.index }}"/>
-              <label for="hailmary-all-{{ forloop.parentloop.parentloop.index }}-{{ forloop.parentloop.index }}-{{ forloop.index }}">
-                <a href="/prayers/ave-maria/">Hail Mary</a>
-              </label>
-            </li>
-          {% endfor %}
-        </ul>
-      </li>
-    {% endfor %}
-    </ol>
-  </li>
-{% endfor %}
-</ul>
+<span class="muted small">Tomorrow we will pray the {{ tomorrow_mystery.set }} Mysteries: {{ tomorrow_mystery.mysteries | join: ", " }}</span>
