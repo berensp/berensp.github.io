@@ -7,7 +7,7 @@ description: Hic mansi optime
 ---
 SF has been home for the last <span id="TimeinSF"></span>.
 
-It's tragically broken—*(hic manebimus optime?)*—due to a convergence of factors, but safe to say it's mostly due to the city's political structure and dynamics.[^1][^2][^3][^4]
+It's tragically broken—*hic manebimus optime?*—due to a convergence of factors, but safe to say it's mostly due to the city's political structure and dynamics.[^1][^2][^3][^4]
 
 [^1]: Gibson, Michael, <a href="https://www.nationalreview.com/2019/04/san-francisco-decline-failed-government-policies/" target="_blank">"San Francisco's Slow-Motion Suicide"</a>, *National Review*, Apr. 8, 2019.
 [^2]: Arroyo, Noah, <a href="https://www.sfchronicle.com/sf/article/sfnext-poll-decline-17436506.php" target="_blank">"65% of San Franciscans say life in the city is worse now than when they moved here"</a>, *San Francisco Chronicle*, Sep. 13, 2022.
