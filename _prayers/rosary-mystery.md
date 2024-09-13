@@ -32,7 +32,7 @@ category: Marian
 
 <p id="tomorrowInfo" class="muted small"></p>
 
-<script src="timediff.js"></script>
+<script src="../timediff.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const mysteries = [
