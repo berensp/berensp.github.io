@@ -64,4 +64,4 @@ It's the <b>{{ today_mystery.set }} Mysteries</b> today since it's {{ local_seco
   <li><input type="checkbox"/><a href="/prayers/rosary-end/">Oratio ad Finem Rosarii Dicenda</a></li>
 </ul>
 
-<span class="muted small">Tomorrow we will pray the {{ tomorrow_mystery.set }} Mysteries: {{ tomorrow_mystery.mysteries | join: ", " }}</span>
+<span class="muted small">Tomorrow we'll pray the {{ tomorrow_mystery.set }} Mysteries: {{ tomorrow_mystery.mysteries | join: ", " }}.</span>
