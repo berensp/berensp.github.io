@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: {{ today_mystery.set }} Mysteries
+title: Today's Rosary
 category: Marian
 ---
 
@@ -10,7 +10,7 @@ category: Marian
 {% assign today_mystery = mysteries[day_number] %}
 {% assign tomorrow_mystery = mysteries[tomorrow_number] %}
 
-...since today is {{ site.time | date: "%A" }}.
+Today we'll do the <b>{{ today_mystery.set }} Mysteries<b> since it's {{ site.time | date: "%A" }}.
 
 ## Opening
 
