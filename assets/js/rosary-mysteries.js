@@ -67,25 +67,22 @@ function updateRosaryInfo() {
   document.getElementById('mysteryTitle').textContent = `${todayMystery.set} Mysteries`;
   document.getElementById('todayInfo').textContent = `...since today is ${todayMystery.day} in San Francisco.`;
 
-  let mysteryContent = '<ol>';
+  let mysteryContent = '';
   todayMystery.mysteries.forEach((mystery, index) => {
     mysteryContent += `
-      <li>
-        <strong>${mystery}</strong>
-        <ul style="list-style-type: none;">
-          ${Array(10).fill().map((_, i) => `
-            <li>
-              <input type="checkbox" id="hailmary-${index + 1}-${i + 1}"/>
-              <label for="hailmary-${index + 1}-${i + 1}">
-                <a href="${baseurl}/prayers/ave-maria/">Hail Mary</a>
-              </label>
-            </li>
-          `).join('')}
-        </ul>
-      </li>
+      <h2>${mystery}</h2>
+      <ul style="list-style:none">
+        ${Array(10).fill().map((_, i) => `
+          <li>
+            <input type="checkbox" id="hailmary-${index + 1}-${i + 1}"/>
+            <label for="hailmary-${index + 1}-${i + 1}">
+              <a href="${baseurl}/prayers/ave-maria/">Ave Maria</a>
+            </label>
+          </li>
+        `).join('')}
+      </ul>
     `;
   });
-  mysteryContent += '</ol>';
   document.getElementById('mysteryContent').innerHTML = mysteryContent;
 
   document.getElementById('tomorrowInfo').textContent = `Tomorrow we will pray the ${tomorrowMystery.set} Mysteries: ${tomorrowMystery.mysteries.join(', ')}`;
