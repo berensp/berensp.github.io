@@ -1,9 +1,15 @@
 ---
 layout: prayer
-title: Today's Rosary
+title: 📿 Rosary
 category: Marian
 ---
-<div id="debugInfo" style="background-color: #f0f0f0; padding: 10px; margin-bottom: 20px; font-family: monospace;"></div>
+<style>
+  #tomorrowInfo {
+    line-height: 1.5;
+    margin-top: 1em;
+    white-space: pre-wrap;
+  }
+</style>
 
 <p id="todayInfo"></p>
 
