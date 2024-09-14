@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: 📿 Rosary
+title: Rosary
 category: Marian
 ---
 <style>
@@ -31,7 +31,7 @@ category: Marian
 
 <ul style="list-style:none">
   <li><input type="checkbox"/><a href="/prayers/salve-regina/">Salve Regina</a></li>
-  <li><input type="checkbox"/><a href="/prayers/rosary-end/">Oratio ad Finem Rosarii Dicenda</a></li>
+  <li><input type="checkbox"/><a href="/prayers/oratio-ad-finem/">Oratio ad Finem Rosarii Dicenda</a></li>
 </ul>
 
 <p id="tomorrowInfo" class="muted small"></p>
