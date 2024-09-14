@@ -76,7 +76,7 @@ function updateRosaryInfo() {
           <li>
             <input type="checkbox" id="hailmary-${index + 1}-${i + 1}"/>
             <label for="hailmary-${index + 1}-${i + 1}">
-              <a href="${url}/prayers/ave-maria/">Ave Maria</a>
+              <a href="../prayers/ave-maria/">Ave Maria</a>
             </label>
           </li>
         `).join('')}
