@@ -64,7 +64,7 @@ function updateRosaryInfo() {
     Tomorrow's Mystery: ${tomorrowMystery.set}
   `;
 
-  document.getElementById('todayInfo').textContent = `Today is the <strong>${todayMystery.set} Mysteries</strong> since it's currently ${todayMystery.day} in San Francisco.`;
+  document.getElementById('todayInfo').innerHTML = `Today is the <strong>${todayMystery.set} Mysteries</strong> since it's currently ${todayMystery.day} in San Francisco.`;
 
   let mysteryContent = '';
   todayMystery.mysteries.forEach((mystery, index) => {
@@ -75,7 +75,7 @@ function updateRosaryInfo() {
           <li>
             <input type="checkbox" id="hailmary-${index + 1}-${i + 1}"/>
             <label for="hailmary-${index + 1}-${i + 1}">
-              <a href="/ave-maria/">Ave Maria</a>
+              <a href="/prayers/ave-maria/">Ave Maria</a>
             </label>
           </li>
         `).join('')}
