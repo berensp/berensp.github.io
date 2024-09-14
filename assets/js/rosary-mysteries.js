@@ -56,15 +56,16 @@ function updateRosaryInfo() {
   const todayMystery = mysteries[dayOfWeek];
   const tomorrowMystery = mysteries[(dayOfWeek + 1) % 7];
 
-  document.getElementById('debugInfo').innerHTML = `
-    <strong>Debug Info:</strong><br>
-    Local time (PST/PDT): ${currentTime.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' })}<br>
-    Day of week: ${dayOfWeek}<br>
-    Today's Mystery: ${todayMystery.set}<br>
-    Tomorrow's Mystery: ${tomorrowMystery.set}
-  `;
+  const timeFormatter = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Los_Angeles',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false
+  });
 
-  document.getElementById('todayInfo').innerHTML = `Today is the <strong>${todayMystery.set} Mysteries</strong> since it's currently ${todayMystery.day} in San Francisco.`;
+  const formattedTime = timeFormatter.format(currentTime);
+
+  document.getElementById('todayInfo').innerHTML = `Today is the <strong>${todayMystery.set} Mysteries</strong> since it's currently ${todayMystery.day} ${formattedTime} in San Francisco.`;
 
   let mysteryContent = '';
   todayMystery.mysteries.forEach((mystery, index) => {
