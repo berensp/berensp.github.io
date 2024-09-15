@@ -3,10 +3,6 @@ layout: page
 title: What I'm doing now
 permalink: /now/
 ---
-
-- 📆 Event I'm looking forward to: the Olympics
-
-
 - 📆 <div id="dailyEvent"></div>
 - 📝 Quote I'm contemplating: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)
 - 📻 On my recordplayer: [*Turn the Lights Back On* (Billy Joel)](https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm)
@@ -34,15 +30,25 @@ permalink: /now/
     const todayEvent = dailyEvents.find(e => e.date === todayDate);
 
     const eventDiv = document.getElementById('dailyEvent');
-    if (todayEvent) {
-      eventDiv.innerHTML = `<p>Today's event: ${todayEvent.event}</p>`;
+    if (eventDiv) {
+      if (todayEvent) {
+        eventDiv.innerHTML = `${todayEvent.event}`;
+      } else {
+        eventDiv.innerHTML = ''; // Clear the div if there's no event today
+      }
     } else {
-      eventDiv.innerHTML = ''; // Clear the div if there's no event today
+      console.warn("Element with id 'dailyEvent' not found in the DOM");
     }
 
     // For debugging: display Pacific Time
     console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
+    console.log('Formatted date for event lookup:', todayDate);
   }
 
-  document.addEventListener('DOMContentLoaded', displayDailyEvent);
+  // Ensure the DOM is fully loaded before running the script
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', displayDailyEvent);
+  } else {
+    displayDailyEvent();
+  }
 </script>
