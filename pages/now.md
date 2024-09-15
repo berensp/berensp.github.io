@@ -6,7 +6,7 @@ permalink: /now/
 <ul>
 <li>📆 <div id="dailyEvent"></div></li>
 <li>📝 Quote I'm contemplating: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)</li>
-<li>📻 On my recordplayer: [*Turn the Lights Back On* (Billy Joel)](https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm)</li>
+<li>📻 On my recordplayer: <a href="https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm" target="_blank"><i>Turn the Lights Back On</i> (Billy Joel)</a></li>
 <li>🌱 What I'm trying to learn:</li>
 <li>🎯 Goals</li>
 </ul>
@@ -34,7 +34,7 @@ permalink: /now/
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
       if (todayEvent) {
-        eventDiv.innerHTML = `<p>Today's event: ${todayEvent.event}</p>`;
+        eventDiv.innerHTML = `${todayEvent.event}`;
       } else {
         eventDiv.innerHTML = ''; // Clear the div if there's no event today
       }
