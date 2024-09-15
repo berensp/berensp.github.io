@@ -3,11 +3,13 @@ layout: page
 title: What I'm doing now
 permalink: /now/
 ---
-- 📆 <div id="dailyEvent"></div>
-- 📝 Quote I'm contemplating: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)
-- 📻 On my recordplayer: [*Turn the Lights Back On* (Billy Joel)](https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm)
-- 🌱 What I'm trying to learn: 
-- 🎯 Goals: 
+<ul>
+<li>📆 <div id="dailyEvent"></div></li>
+<li>📝 Quote I'm contemplating: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)</li>
+<li>📻 On my recordplayer: [*Turn the Lights Back On* (Billy Joel)](https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm)</li>
+<li>🌱 What I'm trying to learn:</li>
+<li>🎯 Goals</li>
+</ul>
 
 <script>
   const dailyEvents = {{ site.data.daily_events | jsonify }};
@@ -25,14 +27,14 @@ permalink: /now/
     const pacificDate = new Date(pacificNow);
     
     // Format the date as MM-DD
-    const todayDate = pacificFormatter.format(pacificDate);
+    const todayDate = pacificFormatter.format(pacificDate).replace('/', '-');
 
     const todayEvent = dailyEvents.find(e => e.date === todayDate);
 
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
       if (todayEvent) {
-        eventDiv.innerHTML = `${todayEvent.event}`;
+        eventDiv.innerHTML = `<p>Today's event: ${todayEvent.event}</p>`;
       } else {
         eventDiv.innerHTML = ''; // Clear the div if there's no event today
       }
@@ -40,7 +42,7 @@ permalink: /now/
       console.warn("Element with id 'dailyEvent' not found in the DOM");
     }
 
-    // For debugging: display Pacific Time
+    // For debugging: display Pacific Time and formatted date
     console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
     console.log('Formatted date for event lookup:', todayDate);
   }
