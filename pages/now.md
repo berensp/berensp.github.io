@@ -3,9 +3,46 @@ layout: page
 title: What I'm doing now
 permalink: /now/
 ---
-...maybe not right this second; but *nowadays*:
+
+- 📆 Event I'm looking forward to: the Olympics
+
+
+- 📆 <div id="dailyEvent"></div>
 - 📝 Quote I'm contemplating: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)
 - 📻 On my recordplayer: [*Turn the Lights Back On* (Billy Joel)](https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm)
 - 🌱 What I'm trying to learn: 
 - 🎯 Goals: 
-- 📆 Event I'm looking forward to: the Olympics
+
+<script>
+  const dailyEvents = {{ site.data.daily_events | jsonify }};
+
+  function displayDailyEvent() {
+    // Create a formatter for Pacific Time
+    const pacificFormatter = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles',
+      month: '2-digit',
+      day: '2-digit'
+    });
+
+    // Get the current date in Pacific Time
+    const pacificNow = new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles' });
+    const pacificDate = new Date(pacificNow);
+    
+    // Format the date as MM-DD
+    const todayDate = pacificFormatter.format(pacificDate);
+
+    const todayEvent = dailyEvents.find(e => e.date === todayDate);
+
+    const eventDiv = document.getElementById('dailyEvent');
+    if (todayEvent) {
+      eventDiv.innerHTML = `<p>Today's event: ${todayEvent.event}</p>`;
+    } else {
+      eventDiv.innerHTML = ''; // Clear the div if there's no event today
+    }
+
+    // For debugging: display Pacific Time
+    console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
+  }
+
+  document.addEventListener('DOMContentLoaded', displayDailyEvent);
+</script>
