@@ -73,14 +73,6 @@ description: fun facts
       <td style="text-align: left"><a href="/states/">█████████░ 94%</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">States resided</td>
-      <td style="text-align: left"><a href="/domiciles/">6</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Heritage</td>
-      <td style="text-align: left"><a href="/ancestry/">🇩🇪 🇮🇪</a></td>
-    </tr>
-    <tr>
       <td style="text-align: left">Languages</td>
       <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
     </tr>
