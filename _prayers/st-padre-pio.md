@@ -23,7 +23,7 @@ Stay with me, Lord, for as poor as my soul is, I want it to be a place of consol
 
 Stay with me, Jesus, for it is getting late and the day is coming to a close, and life passes; death, judgment, eternity approaches. It is necessary to renew my strength, so that I will not stop along the way and for that, I need You. It is getting late and death approaches, I fear the darkness, the temptations, the dryness, the cross, the sorrows. O how I need You, my Jesus, in this night of exile!
 
-Stay with me tonight, Jesus, in life with all it’s dangers. I need You. Let me recognize You as Your disciples did at the breaking of the bread, so that the Eucharistic Communion be the Light which disperses the darkness, the force which sustains me, the unique joy of my heart.
+Stay with me tonight, Jesus, in life with all its dangers. I need You. Let me recognize You as Your disciples did at the breaking of the bread, so that the Eucharistic Communion be the Light which disperses the darkness, the force which sustains me, the unique joy of my heart.
 
 Stay with me, Lord, because at the hour of my death, I want to remain united to You, if not by communion, at least by grace and love.
 
