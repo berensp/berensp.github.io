@@ -6,7 +6,7 @@ layout: home
 
 <a href="/prayers/"><img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;"></a>
 
-Hej, I'm [Paul Berens](/infobox/).
+✌ Hi, I'm [Paul Berens](/infobox/).
 
 Presently living in [San Francisco](/sf/) with my beautiful family, and [nurturing data products at Varian](/bio/).
 
