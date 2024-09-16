@@ -5,10 +5,10 @@ permalink: /now/
 ---
 <ul>
 <li>📆 <span id="dailyEvent"></span></li>
-<li>📝 Quote of the Day: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)</li>
-<li>📻 On my recordplayer: <a href="https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm" target="_blank"><i>Turn the Lights Back On</i> (Billy Joel)</a></li>
-<li>🌱 What I'm trying to learn:</li>
-<li>🎯 Daily tasks</li>
+<li>📝 Daily Quote: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)</li>
+<li>📻 Daily Song: <a href="https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm" target="_blank"><i>Turn the Lights Back On</i> (Billy Joel)</a></li>
+<li>🌱 Practice:</li>
+<li>🚀 <a href="/quotidie/">Quotidie</a></li>
 </ul>
 
 <script>
