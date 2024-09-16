@@ -12,10 +12,8 @@ et semper,
 et in sǽcula sæculórum.  
 Amen.
 
-Dómine Jesu,  
-dimitte nobis débita nostra,  
-salva nos ab igne inferni;  
-perduc in caelum omnes ánimas,  
-praesertim eas,  
-quae misericórdiae tuae máxime indigent.  
+O mi Iesu, dimitte nobis debita nostra.
+Libera nos ab igne inferni;
+Conduc in caelum ómnes ánimas,
+Praesertim illas quae maxime indigent misericordia tua.
 Amen.

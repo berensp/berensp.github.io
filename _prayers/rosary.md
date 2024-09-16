@@ -17,7 +17,7 @@ category: Marian
 
 <ul style="list-style:none">
   <li><input type="checkbox"/><a href="/prayers/signum-crucis/">Signum Crucis</a></li>
-  <li><input type="checkbox"/><a href="/prayers/apostles-creed/">Symbolum Apostolorum</a></li>
+  <li><input type="checkbox"/><a href="/prayers/symbolum-apostolorum/">Symbolum Apostolorum</a></li>
   <li><input type="checkbox"/><a href="/prayers/pater-noster/">Pater Noster</a></li>
   <li><input type="checkbox"/><a href="/prayers/ave-maria/">Ave Maria</a></li>
   <li><input type="checkbox"/><a href="/prayers/ave-maria/">Ave Maria</a></li>
