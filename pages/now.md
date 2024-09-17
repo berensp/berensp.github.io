@@ -6,7 +6,6 @@ permalink: /now/
 <ul>
 <li>📆 <span id="dailyEvent"></span></li>
 <li>🕯️ <span id="feastDay"></span></li>
-<li>📿 Rosary: <a href="/prayers/rosary/"><span id="rosaryMystery"></span></a></li>
 <li>📝 Quote: [forthcoming]</li>
 <li>📻 Song: [forthcoming]</li>
 <li>🚀 <a href="/quotidie/">Quotidie</a></li>
@@ -15,7 +14,6 @@ permalink: /now/
 <script>
   const dailyEvents = {{ site.data.daily_events | jsonify }};
   const feastDays = {{ site.data.feast_days | jsonify }};
-  const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
 
   function displayDailyInfo() {
     // Create a formatter for Pacific Time
@@ -41,9 +39,6 @@ permalink: /now/
     // Find feast day
     const todayFeast = feastDays.find(f => f.date === todayDate);
 
-    // Find rosary mystery
-    const todayMystery = rosaryMysteries[dayOfWeek];
-
     // Update daily event
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
@@ -66,14 +61,6 @@ permalink: /now/
       }
     } else {
       console.warn("Element with id 'feastDay' not found in the DOM");
-    }
-
-    // Update rosary mystery
-    const rosaryDiv = document.getElementById('rosaryMystery');
-    if (rosaryDiv) {
-      rosaryDiv.innerHTML = `${todayMystery.set} Mysteries`;
-    } else {
-      console.warn("Element with id 'rosaryMystery' not found in the DOM");
     }
 
     // For debugging: display Pacific Time and formatted date
