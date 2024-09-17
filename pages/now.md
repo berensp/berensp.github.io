@@ -5,16 +5,19 @@ permalink: /now/
 ---
 <ul>
 <li>📆 <span id="dailyEvent"></span></li>
-<li>📝 Daily Quote: "Sometimes when you find yourself in a dark place you think you've been buried, but you've actually been planted" (—Christine Caine)</li>
-<li>📻 Daily Song: <a href="https://youtu.be/UOf6CMbHPuA?si=rd4JhAFLgUZxNWlm" target="_blank"><i>Turn the Lights Back On</i> (Billy Joel)</a></li>
-<li>🌱 Practice:</li>
+<li>🕯️ <span id="feastDay"></span></li>
+<li>📿 <a href="/prayers/rosary/"><span id="rosaryMystery"></span> Mysteries</a></li>
+<li>📝 Daily Quote: [forthcoming]</li>
+<li>📻 Daily Song: [forthcoming]</li>
 <li>🚀 <a href="/quotidie/">Quotidie</a></li>
 </ul>
 
 <script>
   const dailyEvents = {{ site.data.daily_events | jsonify }};
+  const feastDays = {{ site.data.feast_days | jsonify }};
+  const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
 
-  function displayDailyEvent() {
+  function displayDailyInfo() {
     // Create a formatter for Pacific Time
     const pacificFormatter = new Intl.DateTimeFormat('en-US', {
       timeZone: 'America/Los_Angeles',
@@ -29,8 +32,19 @@ permalink: /now/
     // Format the date as MM-DD
     const todayDate = pacificFormatter.format(pacificDate).replace('/', '-');
 
+    // Get day of week (0-6, where 0 is Sunday)
+    const dayOfWeek = pacificDate.getDay();
+
+    // Find daily event
     const todayEvent = dailyEvents.find(e => e.date === todayDate);
 
+    // Find feast day
+    const todayFeast = feastDays.find(f => f.date === todayDate);
+
+    // Find rosary mystery
+    const todayMystery = rosaryMysteries[dayOfWeek];
+
+    // Update daily event
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
       if (todayEvent) {
@@ -42,15 +56,36 @@ permalink: /now/
       console.warn("Element with id 'dailyEvent' not found in the DOM");
     }
 
+    // Update feast day
+    const feastDiv = document.getElementById('feastDay');
+    if (feastDiv) {
+      if (todayFeast) {
+        feastDiv.innerHTML = `Feast Day: ${todayFeast.feast}`;
+      } else {
+        feastDiv.innerHTML = ''; // Clear the div if there's no feast day today
+      }
+    } else {
+      console.warn("Element with id 'feastDay' not found in the DOM");
+    }
+
+    // Update rosary mystery
+    const rosaryDiv = document.getElementById('rosaryMystery');
+    if (rosaryDiv) {
+      rosaryDiv.innerHTML = `Today's Rosary: ${todayMystery.set} Mysteries`;
+    } else {
+      console.warn("Element with id 'rosaryMystery' not found in the DOM");
+    }
+
     // For debugging: display Pacific Time and formatted date
     console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
-    console.log('Formatted date for event lookup:', todayDate);
+    console.log('Formatted date for lookup:', todayDate);
+    console.log('Day of week:', dayOfWeek);
   }
 
   // Ensure the DOM is fully loaded before running the script
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', displayDailyEvent);
+    document.addEventListener('DOMContentLoaded', displayDailyInfo);
   } else {
-    displayDailyEvent();
+    displayDailyInfo();
   }
 </script>
