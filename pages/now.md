@@ -6,9 +6,9 @@ permalink: /now/
 <ul>
 <li>📆 <span id="dailyEvent"></span></li>
 <li>🕯️ <span id="feastDay"></span></li>
-<li>📿 <a href="/prayers/rosary/"><span id="rosaryMystery"></span> Mysteries</a></li>
-<li>📝 Daily Quote: [forthcoming]</li>
-<li>📻 Daily Song: [forthcoming]</li>
+<li>📿 Rosary: <a href="/prayers/rosary/"><span id="rosaryMystery"></span></a></li>
+<li>📝 Quote: [forthcoming]</li>
+<li>📻 Song: [forthcoming]</li>
 <li>🚀 <a href="/quotidie/">Quotidie</a></li>
 </ul>
 
@@ -71,7 +71,7 @@ permalink: /now/
     // Update rosary mystery
     const rosaryDiv = document.getElementById('rosaryMystery');
     if (rosaryDiv) {
-      rosaryDiv.innerHTML = `Today's Rosary: ${todayMystery.set} Mysteries`;
+      rosaryDiv.innerHTML = `${todayMystery.set} Mysteries`;
     } else {
       console.warn("Element with id 'rosaryMystery' not found in the DOM");
     }
