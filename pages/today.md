@@ -3,22 +3,23 @@ layout: page
 title: Today
 permalink: /today/
 ---
-## <span id="formattedDate"></span>
+<h2><span id="formattedDate"></span></h2>
 <ul>
 <li>📆 <span id="dailyEvent"></span></li>
 <li>🕯️ <span id="feastDay"></span></li>
+<li>📿 <span id="rosaryMystery"></span></li>
 <li>📝 Quote: [forthcoming]</li>
 <li>📻 Song: [forthcoming]</li>
 </ul>
 
-## Quotidie
+<h2>Quotidie</h2>
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <ul style="list-style:none">
   <li><input type="checkbox"/>🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a> (0:01)</li>
   <li><input type="checkbox"/>⏲ Deep work (1:30)</li>
-  <li><input type="checkbox"/>📋 Thing #1: <input type="text" id="taskInput" name="task"></li>
-  <li><input type="checkbox"/>📋 Thing #2: <input type="text" id="taskInput" name="task"></li>
-  <li><input type="checkbox"/>📋 Thing #3: <input type="text" id="taskInput" name="task"></li>
+  <li><input type="checkbox"/>📋 Thing #1: <input type="text" name="task"></li>
+  <li><input type="checkbox"/>📋 Thing #2: <input type="text" name="task"></li>
+  <li><input type="checkbox"/>📋 Thing #3: <input type="text" name="task"></li>
   <li><input type="checkbox"/>🌱 Study Korean (0:15)</li>
   <li><input type="checkbox"/>💪 Pushups (30x)</li>
   <li><input type="checkbox"/>🗃️ Put things back in their places</li>
@@ -33,27 +34,31 @@ permalink: /today/
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
 
   function displayDailyInfo() {
-  // Create a formatter for Pacific Time with the desired format
-  const pacificFormatter = new Intl.DateTimeFormat('en-US', {
-    timeZone: 'America/Los_Angeles',
-    weekday: 'short',
-    year: 'numeric',
-    month: '2-digit',
-    day: '2-digit'
-  });
+    // Create a formatter for Pacific Time with the desired format
+    const pacificFormatter = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles',
+      weekday: 'short',
+      year: 'numeric',
+      month: '2-digit',
+      day: '2-digit'
+    });
 
-  // Get the current date in Pacific Time
-  const pacificNow = new Date().toLocaleString('en-US', { timeZone: 'America/Los_Angeles' });
-  const pacificDate = new Date(pacificNow);
-  
-  // Format the date as "Day. YYYY-MM-DD" for the header
-  const formattedDate = pacificFormatter.format(pacificDate)
-    .replace(/(\w+), (\d{2})\/(\d{2})\/(\d{4})/, '$1. $4-$2-$3');
-
-  console.log('Formatted date:', formattedDate);
+    // Get the current date in Pacific Time
+    const pacificDate = new Date();
     
-    // Format the date as MM-DD
-    const todayDate = pacificFormatter.format(pacificDate).replace('/', '-');
+    // Format the date as "Day. YYYY-MM-DD" for the header
+    const formattedDate = pacificFormatter.format(pacificDate)
+      .replace(/(\w+), (\d{2})\/(\d{2})\/(\d{4})/, '$1. $4-$2-$3');
+
+    // Update the formatted date in the header
+    const dateHeader = document.getElementById('formattedDate');
+    if (dateHeader) {
+      dateHeader.textContent = formattedDate;
+    }
+
+    // Format the date as MM-DD for event lookup
+    const [, month, day] = pacificFormatter.format(pacificDate).split('/');
+    const todayDate = `${month}-${day}`;
 
     // Get day of week (0-6, where 0 is Sunday)
     const dayOfWeek = pacificDate.getDay();
@@ -70,36 +75,21 @@ permalink: /today/
     // Update daily event
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
-      if (todayEvent) {
-        eventDiv.innerHTML = `${todayEvent.event}`;
-      } else {
-        eventDiv.innerHTML = ''; // Clear the div if there's no event today
-      }
-    } else {
-      console.warn("Element with id 'dailyEvent' not found in the DOM");
+      eventDiv.textContent = todayEvent ? todayEvent.event : '';
     }
 
     // Update feast day
     const feastDiv = document.getElementById('feastDay');
     if (feastDiv) {
-      if (todayFeast) {
-        feastDiv.innerHTML = `Feast Day: ${todayFeast.feast}`;
-      } else {
-        feastDiv.innerHTML = ''; // Clear the div if there's no feast day today
-      }
-    } else {
-      console.warn("Element with id 'feastDay' not found in the DOM");
+      feastDiv.textContent = todayFeast ? `Feast Day: ${todayFeast.feast}` : '';
     }
 
     // Update rosary mystery
     const rosaryDiv = document.getElementById('rosaryMystery');
     if (rosaryDiv) {
-      rosaryDiv.innerHTML = `Today's Rosary: ${todayMystery.set} Mysteries`;
-    } else {
-      console.warn("Element with id 'rosaryMystery' not found in the DOM");
+      rosaryDiv.textContent = `Today's Rosary: ${todayMystery.set} Mysteries`;
     }
 
-    // For debugging: display Pacific Time and formatted date
     console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
     console.log('Formatted date for lookup:', todayDate);
     console.log('Day of week:', dayOfWeek);
