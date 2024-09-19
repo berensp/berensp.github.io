@@ -30,12 +30,6 @@ permalink: /today/
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
 
-  function sanitizeHTML(str) {
-    const temp = document.createElement('div');
-    temp.textContent = str;
-    return temp.innerHTML;
-  }
-
   function displayDailyInfo() {
     // Create a formatter for Pacific Time with the desired format
     const pacificFormatter = new Intl.DateTimeFormat('en-US', {
@@ -91,7 +85,7 @@ permalink: /today/
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
       if (todayEvent) {
-        eventDiv.innerHTML = sanitizeHTML(todayEvent.event);
+        eventDiv.innerHTML = todayEvent.event;
       } else {
         eventDiv.textContent = 'No event today';
       }
