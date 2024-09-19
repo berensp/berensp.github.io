@@ -11,7 +11,6 @@ permalink: /today/
 <li>📝 Quote: [forthcoming]</li>
 <li>📻 Song: [forthcoming]</li>
 </ul>
-
 <h2>Quotidie</h2>
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <ul style="list-style:none">
@@ -27,7 +26,6 @@ permalink: /today/
   <li><input type="checkbox"/>📿 <a href="/prayers/rosary">Rosary</a> (0:15)</li>
   <li><input type="checkbox"/>😴 Sleep (8:00)</li>
 </ul>
-
 <script>
   const dailyEvents = {{ site.data.daily_events | jsonify }};
   const feastDays = {{ site.data.feast_days | jsonify }};
@@ -72,22 +70,40 @@ permalink: /today/
     // Find rosary mystery
     const todayMystery = rosaryMysteries[dayOfWeek];
 
+    // Debug logging
+    console.log('dailyEvents:', dailyEvents);
+    console.log('feastDays:', feastDays);
+    console.log('rosaryMysteries:', rosaryMysteries);
+    console.log('todayDate:', todayDate);
+    console.log('todayEvent:', todayEvent);
+    console.log('todayFeast:', todayFeast);
+    console.log('todayMystery:', todayMystery);
+
     // Update daily event
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
-      eventDiv.textContent = todayEvent ? todayEvent.event : '';
+      eventDiv.textContent = todayEvent ? todayEvent.event : 'No event today';
+      console.log('Updated dailyEvent:', eventDiv.textContent);
+    } else {
+      console.log('dailyEvent element not found');
     }
 
     // Update feast day
     const feastDiv = document.getElementById('feastDay');
     if (feastDiv) {
-      feastDiv.textContent = todayFeast ? `Feast Day: ${todayFeast.feast}` : '';
+      feastDiv.textContent = todayFeast ? `Feast Day: ${todayFeast.feast}` : 'No feast day today';
+      console.log('Updated feastDay:', feastDiv.textContent);
+    } else {
+      console.log('feastDay element not found');
     }
 
     // Update rosary mystery
     const rosaryDiv = document.getElementById('rosaryMystery');
     if (rosaryDiv) {
       rosaryDiv.textContent = `Today's Rosary: ${todayMystery.set} Mysteries`;
+      console.log('Updated rosaryMystery:', rosaryDiv.textContent);
+    } else {
+      console.log('rosaryMystery element not found');
     }
 
     console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
