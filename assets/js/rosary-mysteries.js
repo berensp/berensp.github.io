@@ -65,7 +65,7 @@ function updateRosaryInfo() {
 
   const formattedTime = timeFormatter.format(currentTime);
 
-  document.getElementById('todayInfo').innerHTML = `📿 Today is the <strong>${todayMystery.set} Mysteries</strong> since it's currently ${todayMystery.day} ${formattedTime} in San Francisco.`;
+  document.getElementById('todayInfo').innerHTML = `📿 Pray the <strong>${todayMystery.set} Mysteries</strong>—assuming you're in the Pacific Time Zone (where it's currently ${todayMystery.day} ${formattedTime}).`;
 
   let mysteryContent = '';
   todayMystery.mysteries.forEach((mystery, index) => {
