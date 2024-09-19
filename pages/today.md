@@ -7,7 +7,6 @@ permalink: /today/
 <ul>
 <li>📆 <span id="dailyEvent"></span></li>
 <li>🕯️ <span id="feastDay"></span></li>
-<li>📿 <span id="rosaryMystery"></span></li>
 <li>📝 Quote: [forthcoming]</li>
 <li>📻 Song: [forthcoming]</li>
 </ul>
@@ -23,7 +22,7 @@ permalink: /today/
   <li><input type="checkbox"/>💪 Pushups (30x)</li>
   <li><input type="checkbox"/>🗃️ Put things back in their places</li>
   <li><input type="checkbox"/>📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)</li>
-  <li><input type="checkbox"/>📿 <a href="/prayers/rosary">Rosary</a> (0:15)</li>
+  <li><input type="checkbox"/>📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)</li>
   <li><input type="checkbox"/>😴 Sleep (8:00)</li>
 </ul>
 <script>
@@ -55,8 +54,11 @@ permalink: /today/
     }
 
     // Format the date as MM-DD for event lookup
-    const [, month, day] = pacificFormatter.format(pacificDate).split('/');
-    const todayDate = `${month}-${day}`;
+    const todayDate = pacificDate.toLocaleString('en-US', { 
+      timeZone: 'America/Los_Angeles',
+      month: '2-digit',
+      day: '2-digit'
+    }).replace('/', '-');
 
     // Get day of week (0-6, where 0 is Sunday)
     const dayOfWeek = pacificDate.getDay();
