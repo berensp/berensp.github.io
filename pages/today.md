@@ -30,6 +30,12 @@ permalink: /today/
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
 
+  function sanitizeHTML(str) {
+    const temp = document.createElement('div');
+    temp.textContent = str;
+    return temp.innerHTML;
+  }
+
   function displayDailyInfo() {
     // Create a formatter for Pacific Time with the desired format
     const pacificFormatter = new Intl.DateTimeFormat('en-US', {
@@ -84,8 +90,12 @@ permalink: /today/
     // Update daily event
     const eventDiv = document.getElementById('dailyEvent');
     if (eventDiv) {
-      eventDiv.textContent = todayEvent ? todayEvent.event : 'No event today';
-      console.log('Updated dailyEvent:', eventDiv.textContent);
+      if (todayEvent) {
+        eventDiv.innerHTML = sanitizeHTML(todayEvent.event);
+      } else {
+        eventDiv.textContent = 'No event today';
+      }
+      console.log('Updated dailyEvent:', eventDiv.innerHTML);
     } else {
       console.log('dailyEvent element not found');
     }
@@ -102,7 +112,7 @@ permalink: /today/
     // Update rosary mystery
     const rosaryDiv = document.getElementById('rosaryMystery');
     if (rosaryDiv) {
-      rosaryDiv.textContent = `Today's Rosary: ${todayMystery.set} Mysteries`;
+      rosaryDiv.textContent = `${todayMystery.set} Mysteries`;
       console.log('Updated rosaryMystery:', rosaryDiv.textContent);
     } else {
       console.log('rosaryMystery element not found');
