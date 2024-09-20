@@ -5,7 +5,7 @@ permalink: /today/
 ---
 <h2><span id="formattedDate"></span></h2>
 <ul>
-<li>📆 <span id="dailyEvent"></span></li>
+<li>📆 Event: <span id="dailyEvent"></span></li>
 <li>🕯️ <span id="feastDay"></span></li>
 <li>📝 Quote: [forthcoming]</li>
 <li>📻 Song: [forthcoming]</li>
