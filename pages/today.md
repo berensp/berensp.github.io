@@ -3,6 +3,8 @@ layout: page
 title: Today
 permalink: /today/
 ---
+<i>"Think in the morning, act in the noon, read in the evening, and sleep at night."</i> (—William Blake)
+
 <h2><span id="formattedDate"></span></h2>
 <ul>
 <li>📆 Event: <span id="dailyEvent"></span></li>
