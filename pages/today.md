@@ -3,8 +3,6 @@ layout: page
 title: Today
 permalink: /today/
 ---
-<i>"Think in the morning, act in the noon, read in the evening, and sleep at night."</i> (—William Blake)
-
 <h2><span id="formattedDate"></span></h2>
 <ul>
 <li>📆 Event: <span id="dailyEvent"></span></li>
@@ -12,6 +10,7 @@ permalink: /today/
 <li>📝 Quote: [forthcoming]</li>
 <li>📻 Song: [forthcoming]</li>
 </ul>
+
 <h2>Quotidie</h2>
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <ul style="list-style:none">
@@ -32,28 +31,29 @@ permalink: /today/
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
 
-  function displayDailyInfo() {
-    // Create a formatter for Pacific Time with the desired format
-    const pacificFormatter = new Intl.DateTimeFormat('en-US', {
-      timeZone: 'America/Los_Angeles',
-      weekday: 'short',
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit'
-    });
 
-    // Get the current date in Pacific Time
-    const pacificDate = new Date();
-    
-    // Format the date as "Day. YYYY-MM-DD" for the header
-    const formattedDate = pacificFormatter.format(pacificDate)
-      .replace(/(\w+), (\d{2})\/(\d{2})\/(\d{4})/, '$1. $4-$2-$3');
+function displayDailyInfo() {
+  // Create a formatter for Pacific Time with the desired format
+  const pacificFormatter = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Los_Angeles',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  });
 
-    // Update the formatted date in the header
-    const dateHeader = document.getElementById('formattedDate');
-    if (dateHeader) {
-      dateHeader.textContent = formattedDate;
-    }
+  // Get the current date in Pacific Time
+  const pacificDate = new Date();
+  
+  // Format the date as "Sunday, 22 September" for the header
+  const formattedDate = pacificFormatter.format(pacificDate)
+    .replace(/(\w+), (\w+) (\d{1,2}), (\d{4})/, '$1, $3 $2');
+
+  // Update the formatted date in the header
+  const dateHeader = document.getElementById('formattedDate');
+  if (dateHeader) {
+    dateHeader.textContent = formattedDate;
+  }
 
     // Format the date as MM-DD for event lookup
     const todayDate = pacificDate.toLocaleString('en-US', { 
