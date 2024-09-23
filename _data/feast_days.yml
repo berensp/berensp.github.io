@@ -3,7 +3,7 @@
 - date: "01-02"
   feast: "St. Basil the Great and St. Gregory Nazianzen"
 - date: "01-03"
-  feast: 'The Most Holy Name of Jesus—a good day to pray <a href="/prayers/golden-arrow/">the Golden Arrow</a>)'
+  feast: '<a href="/prayers/golden-arrow/">The Most Holy Name of Jesus</a>'
 - date: "01-04"
   feast: "St. Elizabeth Ann Seton"
 - date: "01-05"
@@ -53,7 +53,7 @@
 - date: "01-27"
   feast: "St. Angela Merici"
 - date: "01-28"
-  feast: "St. Thomas Aquinas"
+  feast: '<a href="/prayers/st-thomas-aquinas/">St. Thomas Aquinas</a>'
 - date: "01-29"
   feast: "St. Gildas the Wise"
 - date: "01-30"
@@ -151,7 +151,7 @@
 - date: "03-16"
   feast: "St. Clement Mary Hofbauer"
 - date: "03-17"
-  feast: "St. Patrick"
+  feast: '<a href="/prayers/st-patrick/">St. Patrick</a>'
 - date: "03-18"
   feast: "St. Cyril of Jerusalem"
 - date: "03-19"
@@ -241,7 +241,7 @@
 - date: "04-30"
   feast: "St. Pius V"
 - date: "05-01"
-  feast: "St. Joseph the Worker"
+  feast: '<a href="/prayers/orate-ante-labori/">St. Joseph the Worker</a>'
 - date: "05-02"
   feast: "St. Athanasius"
 - date: "05-03"
@@ -279,7 +279,7 @@
 - date: "05-19"
   feast: "St. Celestine V"
 - date: "05-20"
-  feast: "St. Bernardine of Siena"
+  feast: '<a href="/prayers/st-bernardine/">St. Bernardine of Siena</a>'
 - date: "05-21"
   feast: "St. Christopher Magallanes and Companions"
 - date: "05-22"
@@ -413,7 +413,7 @@
 - date: "07-25"
   feast: "St. James the Greater"
 - date: "07-26"
-  feast: "Sts. Joachim and Anne"
+  feast: 'Sts. Joachim and <a href="/prayers/st-anne/">Anne</a>'
 - date: "07-27"
   feast: "St. Titus Brandsma"
 - date: "07-28"
@@ -423,7 +423,7 @@
 - date: "07-30"
   feast: "St. Peter Chrysologus"
 - date: "07-31"
-  feast: "St. Ignatius of Loyola"
+  feast: '<a href="/prayers/suspice/">St. Ignatius of Loyola</a>'
 - date: "08-01"
   feast: "St. Alphonsus Liguori"
 - date: "08-02"
@@ -543,7 +543,7 @@
 - date: "09-28"
   feast: "St. Wenceslaus"
 - date: "09-29"
-  feast: "Sts. Michael, Gabriel, and Raphael"
+  feast: '<a href="/prayers/st-michael-chaplet/">Sts. Michael, Gabriel, and Raphael</a>'
 - date: "09-30"
   feast: "St. Jerome"
 - date: "10-01"
