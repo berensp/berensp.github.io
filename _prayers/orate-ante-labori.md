@@ -7,4 +7,4 @@ O Glorious Saint Joseph, model of all those who are devoted to labor, obtain for
 
 All for Jesus, all through Mary, all after thy example, O Patriarch, Saint Joseph. Such shall be my watch-word in life and in death. Amen.  
 
-(Composed by Pope St. Pius X)
+<span class="muted small">Composed by Pope St. Pius X.</span>
