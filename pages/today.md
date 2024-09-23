@@ -99,8 +99,12 @@ function displayDailyInfo() {
     // Update feast day
     const feastDiv = document.getElementById('feastDay');
     if (feastDiv) {
-      feastDiv.textContent = todayFeast ? `Feast Day: ${todayFeast.feast}` : 'No feast day today';
-      console.log('Updated feastDay:', feastDiv.textContent);
+      if (todayFeast) {
+        feastDiv.innerHTML = `Feast Day: ${todayFeast.feast}`;
+      } else {
+        feastDiv.textContent = 'No feast day today';
+      }
+      console.log('Updated feastDay:', feastDiv.innerHTML);
     } else {
       console.log('feastDay element not found');
     }
