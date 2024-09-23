@@ -45,9 +45,9 @@ function displayDailyInfo() {
   // Get the current date in Pacific Time
   const pacificDate = new Date();
   
-  // Format the date as "Sunday, 22 September" for the header
+  // Format the date as "Monday, September 30" for the header
   const formattedDate = pacificFormatter.format(pacificDate)
-    .replace(/(\w+), (\w+) (\d{1,2}), (\d{4})/, '$1, $3 $2');
+    .replace(/(\w+), (\w+) (\d{1,2}), (\d{4})/, '$1, $2 $3');
 
   // Update the formatted date in the header
   const dateHeader = document.getElementById('formattedDate');
