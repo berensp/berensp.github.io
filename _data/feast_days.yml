@@ -535,7 +535,7 @@
 - date: "09-24"
   feast: "Martyrs of Chalcedon"
 - date: "09-25"
-  feast: "St. Sergius of Radonezh"
+  feast: "St. Cleopas"
 - date: "09-26"
   feast: "Sts. Cosmas and Damian"
 - date: "09-27"
@@ -543,7 +543,7 @@
 - date: "09-28"
   feast: "St. Wenceslaus"
 - date: "09-29"
-  feast: '<a href="/prayers/st-michael-chaplet/">Sts. Michael, Gabriel, and Raphael</a>'
+  feast: 'Sts. <a href="/prayers/st-michael-chaplet/">Michael</a>, Gabriel, and Raphael'
 - date: "09-30"
   feast: "St. Jerome"
 - date: "10-01"
@@ -559,7 +559,7 @@
 - date: "10-06"
   feast: "St. Bruno"
 - date: "10-07"
-  feast: "Our Lady of the Rosary"
+  feast: 'Our Lady of the <a href="/prayers/rosary/">Rosary</a>'
 - date: "10-08"
   feast: "St. John Leonardi"
 - date: "10-09"
@@ -575,7 +575,7 @@
 - date: "10-14"
   feast: "St. Callistus I"
 - date: "10-15"
-  feast: "St. Teresa of Avila"
+  feast: "St. Teresa of Ávila"
 - date: "10-16"
   feast: "St. Margaret Mary Alacoque"
 - date: "10-17"
