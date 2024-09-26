@@ -60,7 +60,7 @@ function displayDailyInfo() {
   const today = daysOfWeek[dayOfWeek];
 
   // Update Quotidie tasks
-  const dailyQuotidie = {{ site.data.daily_quotidie | jsonify }};
+  const dailyQuotidie = {{ site.data.quotidie | jsonify }};
   const todayTasks = dailyQuotidie[today];
   const quotidie = document.getElementById('quotidie');
   if (quotidie && todayTasks) {
