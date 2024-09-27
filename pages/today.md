@@ -4,6 +4,21 @@ title: Today
 permalink: /today/
 ---
 
+{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
+{% capture quotidie_data %}
+{
+  {% for day in site.data.quotidie %}
+    "{{ day[0] }}": [
+      {% for task in day[1] %}
+        {
+          "task": "{{ task.task | replace: '{{ currently_reading.url }}', currently_reading.url | replace: '{{ currently_reading.title }}', currently_reading.title | escape }}"
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+}
+{% endcapture %}
+
 <h2><span id="formattedDate"></span></h2>
 <ul>
 <li>📆 <strong>Event:</strong> <span id="dailyEvent"></span></li>
@@ -13,7 +28,6 @@ permalink: /today/
 </ul>
 
 <h2>Quotidie</h2>
-{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <ul id="quotidie" style="list-style:none">
   <!-- Daily tasks will be inserted here -->
 </ul>
@@ -22,19 +36,7 @@ permalink: /today/
   const dailyEvents = {{ site.data.daily_events | jsonify }};
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
-const dailyQuotidie = {
-  {% for day in site.data.quotidie %}
-    {{ day[0] | jsonify }}: [
-      {% for task in day[1] %}
-        {
-          task: {{ task.task | replace: '{{ currently_reading.url }}', currently_reading.url
-                          | replace: '{{ currently_reading.title }}', currently_reading.title
-                          | jsonify }}
-        },
-      {% endfor %}
-    ],
-  {% endfor %}
-};
+  const dailyQuotidie = {{ quotidie_data | default: "{}" }};
 
   function displayDailyInfo() {
     // Create a formatter for Pacific Time with the desired format
