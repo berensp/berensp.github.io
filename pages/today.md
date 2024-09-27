@@ -11,7 +11,7 @@ permalink: /today/
     "{{ day[0] }}": [
       {% for task in day[1] %}
         {
-          "task": "{{ task.task | replace: '{{ currently_reading.url }}', currently_reading.url | replace: '{{ currently_reading.title }}', currently_reading.title | escape }}"
+          "task": "{{ task.task | replace: '[INPUT]', '<input type=\"text\" name=\"task\">' | replace: '[CURRENT_READING]', '<a href=\"' | append: currently_reading.url | append: '\">' | append: currently_reading.title | append: '</a>' | replace: '[ROSARY_MYSTERY]', '<a href=\"/prayers/rosary\"><span class=\"rosaryMystery\"></span></a>' | escape }}"
         }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ]{% unless forloop.last %},{% endunless %}
@@ -103,11 +103,11 @@ permalink: /today/
       feastDiv.innerHTML = todayFeast ? `${todayFeast.feast}` : 'N/A';
     }
 
-    // Update rosary mystery
-    const rosaryDiv = document.getElementById('rosaryMystery');
-    if (rosaryDiv) {
-      rosaryDiv.textContent = `${todayMystery.set} Mysteries`;
-    }
+// Update rosary mystery
+const rosaryDivs = document.getElementsByClassName('rosaryMystery');
+Array.from(rosaryDivs).forEach(div => {
+  div.textContent = `${todayMystery.set} Mysteries`;
+});
 
     // Debug logging (consider removing or commenting out in production)
     console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
