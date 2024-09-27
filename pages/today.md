@@ -3,7 +3,6 @@ layout: page
 title: Today
 permalink: /today/
 ---
-{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 
 <h2><span id="formattedDate"></span></h2>
 <ul>
@@ -21,46 +20,19 @@ permalink: /today/
 
 <script>
 console.log('Script starting');
-
-const dailyEvents = {{ site.data.daily_events | jsonify }};
-const feastDays = {{ site.data.feast_days | jsonify }};
-const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
-const dailyQuotidie = {{ site.data.quotidie | jsonify }};
-const currentlyReading = {{ currently_reading | jsonify }};
-
-console.log('Data loaded');
+document.getElementById('debug').innerText = 'Debug: Script executed';
 
 function displayDailyInfo() {
   console.log('displayDailyInfo function called');
   
-  // Format date
   const now = new Date();
   const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/Los_Angeles' };
   const formattedDate = now.toLocaleDateString('en-US', options);
+  
   document.getElementById('formattedDate').textContent = formattedDate;
-
-  // Get day of week
-  const daysOfWeek = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
-  const today = daysOfWeek[now.getDay()];
-
-  // Update Quotidie tasks
-  const todayTasks = dailyQuotidie[today];
-  const quotidie = document.getElementById('quotidie');
-  if (quotidie && todayTasks) {
-    let taskHtml = todayTasks.map(task => `<li><input type="checkbox"> ${task.task}</li>`).join('');
-    quotidie.innerHTML = taskHtml;
-  } else {
-    quotidie.innerHTML = '<li>No tasks for today</li>';
-  }
-
-  // Update debug info
-  document.getElementById('debug').innerText = JSON.stringify({
-    currentlyReading: currentlyReading,
-    todayTasks: todayTasks
-  }, null, 2);
+  document.getElementById('quotidie').innerHTML = '<li>Test task</li>';
 }
 
-// Call the function immediately
 displayDailyInfo();
 console.log('Script finished');
 </script>
