@@ -37,10 +37,23 @@ permalink: /today/
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   function getPacificTime() {
-    const options = { timeZone: 'America/Los_Angeles', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    const options = { 
+      timeZone: 'America/Los_Angeles', 
+      weekday: 'long', 
+      year: 'numeric', 
+      month: 'long', 
+      day: 'numeric', 
+      hour: '2-digit', 
+      minute: '2-digit', 
+      second: '2-digit',
+      hour12: false 
+    };
     return new Date().toLocaleString('en-US', options);
   }
 
-  document.getElementById('current-date').textContent = getPacificTime();
+  const pacificTime = getPacificTime();
+  console.log('Current Pacific Time:', pacificTime);
+  
+  document.getElementById('current-date').textContent = pacificTime.split(', ')[1];
 });
 </script>
