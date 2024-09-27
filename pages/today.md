@@ -22,7 +22,7 @@ permalink: /today/
   const dailyEvents = {{ site.data.daily_events | jsonify }};
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
-  const dailyQuotidie = {{ site.data.quotidie | default: "{}" }};
+  const dailyQuotidie = {{ site.data.quotidie | jsonify }};
 
   function displayDailyInfo() {
     // Create a formatter for Pacific Time with the desired format
