@@ -14,6 +14,7 @@ permalink: /today/
 </ul>
 
 <h2>Quotidie</h2>
+<div id="debug"></div>
 <ul id="quotidie" style="list-style:none">
   <!-- Daily tasks will be inserted here -->
 </ul>
@@ -76,20 +77,13 @@ permalink: /today/
     console.log('Today:', today);
     console.log('Today\'s tasks:', todayTasks);
     const quotidie = document.getElementById('quotidie');
-    if (quotidie && todayTasks) {
-      let taskHtml = '';
-      todayTasks.forEach(task => {
-        let processedTask = task.task
-          .replace('[INPUT]', '<input type="text" name="task">')
-          .replace('[CURRENT_READING]', `<a href="${currentlyReading.url}">${currentlyReading.title}</a>`)
-          .replace('[ROSARY_MYSTERY]', `<a href="/prayers/rosary"><span class="rosaryMystery"></span></a>`);
-        taskHtml += `<li><input type="checkbox"/>${processedTask}</li>`;
-      });
-      quotidie.innerHTML = taskHtml;
+    if (quotidie) {
+      quotidie.innerHTML = '<li>Test task</li>';
+      console.log('Quotidie element updated');
     } else {
-      console.log('Quotidie element or tasks not found');
-    }
-    }
+      console.log('Quotidie element not found');
+    } 
+  }
 
     // Find daily event, feast day, and rosary mystery
     const todayEvent = dailyEvents.find(e => e.date === todayDate);
