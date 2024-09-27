@@ -3,21 +3,7 @@ layout: page
 title: Today
 permalink: /today/
 ---
-
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
-{% capture quotidie_data %}
-{
-  {% for day in site.data.quotidie %}
-    "{{ day[0] }}": [
-      {% for task in day[1] %}
-        {
-          "task": "{{ task.task | replace: '[INPUT]', '<input type=\"text\" name=\"task\">' | replace: '[CURRENT_READING]', '<a href=\"' | append: currently_reading.url | append: '\">' | append: currently_reading.title | append: '</a>' | replace: '[ROSARY_MYSTERY]', '<a href=\"/prayers/rosary\"><span class=\"rosaryMystery\"></span></a>' | escape }}"
-        }{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ]{% unless forloop.last %},{% endunless %}
-  {% endfor %}
-}
-{% endcapture %}
 
 <h2><span id="formattedDate"></span></h2>
 <ul>
@@ -36,7 +22,7 @@ permalink: /today/
   const dailyEvents = {{ site.data.daily_events | jsonify }};
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
-  const dailyQuotidie = {{ quotidie_data | default: "{}" }};
+  const dailyQuotidie = {{ site.data.quotidie | default: "{}" }};
 
   function displayDailyInfo() {
     // Create a formatter for Pacific Time with the desired format
@@ -81,7 +67,11 @@ permalink: /today/
     if (quotidie && todayTasks) {
       let taskHtml = '';
       todayTasks.forEach(task => {
-        taskHtml += `<li><input type="checkbox"/>${task.task}</li>`;
+        let processedTask = task.task
+          .replace('[INPUT]', '<input type="text" name="task">')
+          .replace('[CURRENT_READING]', `<a href="${currentlyReading.url}">${currentlyReading.title}</a>`)
+          .replace('[ROSARY_MYSTERY]', `<a href="/prayers/rosary"><span class="rosaryMystery"></span></a>`);
+        taskHtml += `<li><input type="checkbox"/>${processedTask}</li>`;
       });
       quotidie.innerHTML = taskHtml;
     }
