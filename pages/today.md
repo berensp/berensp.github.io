@@ -23,8 +23,18 @@ permalink: /today/
   const feastDays = {{ site.data.feast_days | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
   const dailyQuotidie = {{ site.data.quotidie | jsonify }};
+  const currentlyReading = {{ currently_reading | jsonify }};
+
+  document.getElementById('debug').innerText = JSON.stringify({
+    dailyEvents: dailyEvents,
+    feastDays: feastDays,
+    rosaryMysteries: rosaryMysteries,
+    dailyQuotidie: dailyQuotidie,
+    currentlyReading: currentlyReading
+  }, null, 2);
 
   function displayDailyInfo() {
+  console.log('displayDailyInfo function called');
     // Create a formatter for Pacific Time with the desired format
     const pacificFormatter = new Intl.DateTimeFormat('en-US', {
       timeZone: 'America/Los_Angeles',
@@ -63,6 +73,8 @@ permalink: /today/
 
     // Update Quotidie tasks
     const todayTasks = dailyQuotidie[today];
+    console.log('Today:', today);
+    console.log('Today\'s tasks:', todayTasks);
     const quotidie = document.getElementById('quotidie');
     if (quotidie && todayTasks) {
       let taskHtml = '';
@@ -74,6 +86,9 @@ permalink: /today/
         taskHtml += `<li><input type="checkbox"/>${processedTask}</li>`;
       });
       quotidie.innerHTML = taskHtml;
+    } else {
+      console.log('Quotidie element or tasks not found');
+    }
     }
 
     // Find daily event, feast day, and rosary mystery
@@ -108,7 +123,10 @@ Array.from(rosaryDivs).forEach(div => {
   // Ensure the DOM is fully loaded before running the script
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', displayDailyInfo);
+    console.log('Added DOMContentLoaded event listener');
   } else {
     displayDailyInfo();
+    console.log('Called displayDailyInfo immediately');
   }
+
 </script>
