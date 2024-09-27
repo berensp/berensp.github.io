@@ -1,97 +1,70 @@
 monday:
   - task: "🙏 Orate ante labori"
-  - task: >-
-      📋 Thing #1: <input type="text" name="task">
-  - task: >-
-      📋 Thing #2: <input type="text" name="task">
-  - task: >-
-      📋 Thing #3: <input type="text" name="task">
+  - task: "📋 Thing #1: [INPUT]"
+  - task: "📋 Thing #2: [INPUT]"
+  - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
   - task: "📖 Read The Brothers Karamazov"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📋 📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
   - task: "😴 Sleep (8:00)"
 
 tuesday:
   - task: "🙏 Orate ante labori"
-  - task: >-
-      📋 Thing #1: <input type="text" name="task">
-  - task: >-
-      📋 Thing #2: <input type="text" name="task">
-  - task: >-
-      📋 Thing #3: <input type="text" name="task">
+  - task: "📋 Thing #1: [INPUT]"
+  - task: "📋 Thing #2: [INPUT]"
+  - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read The Brothers Karamazov"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📋 📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
   - task: "⛪ Ad Oratio"
   - task: "😴 Sleep (8:00)"
 
 wednesday:
   - task: "🙏 Orate ante labori"
-  - task: >-
-      📋 Thing #1: <input type="text" name="task">
-  - task: >-
-      📋 Thing #2: <input type="text" name="task">
-  - task: >-
-      📋 Thing #3: <input type="text" name="task">
+  - task: "📋 Thing #1: [INPUT]"
+  - task: "📋 Thing #2: [INPUT]"
+  - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read The Brothers Karamazov"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📋 📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
   - task: "😴 Sleep (8:00)"
 
 thursday:
   - task: "🥯 Breakfast"
   - task: "🙏 Orate ante labori"
-  - task: >-
-      📋 Thing #1: <input type="text" name="task">
-  - task: >-
-      📋 Thing #2: <input type="text" name="task">
-  - task: >-
-      📋 Thing #3: <input type="text" name="task">
-  - task: "⏲ Deep work (1:30)"
-  - task: "🌱 Study Korean (0:10)"
-  - task: "💪 Pushups (30x)"
-  - task: "🗃️ Put things back in their places"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
-  - task: "😴 Sleep (8:00)"
-
-friday:
-  - task: "🙏 Orate ante labori"
-  - task: >-
-      📋 Thing #1: <input type="text" name="task">
-  - task: >-
-      📋 Thing #2: <input type="text" name="task">
-  - task: >-
-      📋 Thing #3: <input type="text" name="task">
+  - task: "📋 Thing #1: [INPUT]"
+  - task: "📋 Thing #2: [INPUT]"
+  - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
   - task: "📖 Read The Brothers Karamazov"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📋 📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
+  - task: "😴 Sleep (8:00)"
+
+friday:
+  - task: "🙏 Orate ante labori"
+  - task: "📋 Thing #1: [INPUT]"
+  - task: "📋 Thing #2: [INPUT]"
+  - task: "📋 Thing #3: [INPUT]"
+  - task: "⏲ Deep work (1:30)"
+  - task: "🌱 Study Korean (0:10)"
+  - task: "💪 Pushups (30x)"
+  - task: "🗃️ Put things back in their places"
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
   - task: "😴 Sleep (8:00)"
 
 saturday:
@@ -100,11 +73,8 @@ saturday:
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read The Brothers Karamazov"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📋 📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
   - task: "😴 Sleep (8:00)"
 
 sunday:
@@ -112,9 +82,6 @@ sunday:
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read The Brothers Karamazov"
-  - task: >-
-      📖 Read <a href="{{ currently_reading.url | relative_url }}"><i>{{ currently_reading.title }}</i></a> (0:30)
-  - task: >-
-      📋 📿 <a href="/prayers/rosary"><span id="rosaryMystery"></span></a> (0:15)
+  - task: "📖 Read [CURRENT_READING] (0:30)"
+  - task: "📿 [ROSARY_MYSTERY] (0:15)"
   - task: "😴 Sleep (8:00)"
