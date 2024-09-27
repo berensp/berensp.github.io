@@ -7,8 +7,8 @@ monday:
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "😴 Sleep (8:00)"
 
 tuesday:
@@ -20,8 +20,8 @@ tuesday:
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "⛪ Ad Oratio"
   - task: "😴 Sleep (8:00)"
 
@@ -34,8 +34,8 @@ wednesday:
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "😴 Sleep (8:00)"
 
 thursday:
@@ -48,8 +48,8 @@ thursday:
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "😴 Sleep (8:00)"
 
 friday:
@@ -62,8 +62,8 @@ friday:
   - task: "🌱 Study Korean (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "😴 Sleep (8:00)"
 
 saturday:
@@ -72,8 +72,8 @@ saturday:
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "😴 Sleep (8:00)"
 
 sunday:
@@ -81,6 +81,6 @@ sunday:
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read"
-  - task: "📿 Rosary"
+  - task: "📖 Read (0:30)"
+  - task: "📿 Rosary (0:15)"
   - task: "😴 Sleep (8:00)"
