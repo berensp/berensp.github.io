@@ -4,6 +4,8 @@ title: Today
 permalink: /today/
 ---
 
+{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
+
 <h2 id="current-date">Loading...</h2>
 
 <ul>
@@ -25,7 +27,13 @@ permalink: /today/
   {% assign current_day = site.time | date: "%A" | downcase %}
   {% for task in site.data.quotidie[current_day] %}
     <li>
-      {% if task.task contains "[INPUT]" %}
+      {% if task.task contains "Read" %}
+        {% if currently_reading %}
+          Read <a href="{{ currently_reading.url }}">{{ currently_reading.title }}</a>
+        {% else %}
+          {{ task.task }}
+        {% endif %}
+      {% elsif task.task contains "[INPUT]" %}
         {{ task.task | replace: "[INPUT]", '<input type="text" name="task">' }}
       {% else %}
         {{ task.task }}
