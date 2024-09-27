@@ -11,7 +11,7 @@ permalink: /today/
 {% assign date_for_lookup = pacificTime | date: "%m-%d" %}
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 
-<h2 id="current-date">{{ pacific_time | date: "%A, %B %d, %Y" }}</h2>
+<h2 id="current-date">{{ pacificTime | date: "%A, %B %d, %Y" }}</h2>
 
 <ul>
 <li>📆 <strong>Event:</strong> 
@@ -69,5 +69,4 @@ document.addEventListener('DOMContentLoaded', function() {
   const pacificDate = new Date().toLocaleString('en-US', options);
   document.getElementById('current-date').textContent = pacificDate;
 });
-
 </script>
