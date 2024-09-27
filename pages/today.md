@@ -3,6 +3,7 @@ layout: page
 title: Today
 permalink: /today/
 ---
+
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 
 <h2><span id="formattedDate"></span></h2>
@@ -20,14 +21,14 @@ permalink: /today/
 </ul>
 
 <script>
+// Data from Jekyll
 const dailyEvents = {{ site.data.daily_events | jsonify }};
 const feastDays = {{ site.data.feast_days | jsonify }};
 const dailyQuotidie = {{ site.data.quotidie | jsonify }};
 const currentlyReading = {{ currently_reading | jsonify }};
 
-document.addEventListener('DOMContentLoaded', function() {
-  console.log('Script starting');
-  
+// Function to update the page
+function updatePage() {
   const now = new Date();
   const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'America/Los_Angeles' };
   const formattedDate = now.toLocaleDateString('en-US', options);
@@ -66,7 +67,8 @@ document.addEventListener('DOMContentLoaded', function() {
     currentlyReading: currentlyReading,
     todayTasks: todayTasks
   }, null, 2);
-  
-  console.log('Script finished');
-});
+}
+
+// Run the update function when the DOM is fully loaded
+document.addEventListener('DOMContentLoaded', updatePage);
 </script>
