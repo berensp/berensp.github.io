@@ -29,7 +29,7 @@ permalink: /today/
     <li>
       {% if task.task contains "Read" %}
         {% if currently_reading %}
-          Read <a href="{{ currently_reading.url }}">{{ currently_reading.title }}</a>
+          📚 Read <i><a href="{{ currently_reading.url }}">{{ currently_reading.title }}</a></i> (0:30)
         {% else %}
           {{ task.task }}
         {% endif %}
