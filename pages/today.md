@@ -3,108 +3,58 @@ layout: page
 title: Today
 permalink: /today/
 ---
-<h2><span id="formattedDate"></span></h2>
+
+{% assign current_date = site.time | date: '%Y-%m-%d' %}
+{% assign pacific_time = site.time | date: '%Y-%m-%d %H:%M:%S %Z' | date: '%Y-%m-%d %H:%M:%S America/Los_Angeles' | date: '%Y-%m-%d' %}
+{% assign current_day = pacific_time | date: "%A" | downcase %}
+{% assign current_day_number = pacific_time | date: "%w" | plus: 0 %}
+{% assign date_for_lookup = pacific_time | date: "%m-%d" %}
+
+<h1>Today</h1>
+<h2 id="current-date">{{ pacific_time | date: "%A, %B %d, %Y" }}</h2>
+
 <ul>
-<li>📆 Event: <span id="dailyEvent"></span></li>
-<li>🕯️ <span id="feastDay"></span></li>
-<li>📝 Quote: [forthcoming]</li>
-<li>📻 Song: [forthcoming]</li>
+<li>📆 <strong>Event:</strong> 
+  {% assign event = site.data.daily_events | where: "date", date_for_lookup | first %}
+  <span id="daily-event">{{ event.event | default: "No event today" }}</span>
+</li>
+<li>🕯️ <strong>Feast:</strong> 
+  {% assign feast = site.data.feast_days | where: "date", date_for_lookup | first %}
+  <span id="feast-day">{{ feast.feast | default: "No feast day today" }}</span>
+</li>
+<li>📝 <strong>Quote:</strong> [forthcoming]</li>
+<li>📻 <strong>Song:</strong> [forthcoming]</li>
 </ul>
 
 <h2>Quotidie</h2>
-{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
-<ul id="quotidie" style="list-style:none">
-  <!-- Daily tasks will be inserted here -->
+<ul id="quotidie">
+{% for task in site.data.quotidie[current_day] %}
+  <li>
+    {% if task.task contains "[INPUT]" %}
+      {{ task.task | replace: "[INPUT]", '<input type="text" name="task">' }}
+    {% else %}
+      {{ task.task }}
+    {% endif %}
+  </li>
+{% endfor %}
 </ul>
 
 <script>
-  const dailyEvents = {{ site.data.daily_events | jsonify }};
-  const feastDays = {{ site.data.feast_days | jsonify }};
+document.addEventListener('DOMContentLoaded', function() {
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
-
-function displayDailyInfo() {
-  // Create a formatter for Pacific Time with the desired format
-  const pacificFormatter = new Intl.DateTimeFormat('en-US', {
-    timeZone: 'America/Los_Angeles',
-    weekday: 'long',
-    year: 'numeric',
-    month: 'long',
-    day: 'numeric'
+  const todayMystery = rosaryMysteries[{{ current_day_number }}];
+  const rosaryTasks = document.querySelectorAll('#quotidie li:contains("Rosary")');
+  
+  rosaryTasks.forEach(task => {
+    task.innerHTML += ` (${todayMystery.set} Mysteries)`;
   });
 
-  // Get the current date in Pacific Time
-  const pacificDate = new Date();
-  
-  // Format the date as "Monday, September 30" for the header
-  const formattedDate = pacificFormatter.format(pacificDate)
-    .replace(/(\w+), (\w+) (\d{1,2}), (\d{4})/, '$1, $2 $3');
+  // Ensure all dates are displayed in Pacific Time
+  const options = { timeZone: 'America/Los_Angeles', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+  const pacificDate = new Date().toLocaleString('en-US', options);
+  document.getElementById('current-date').textContent = pacificDate;
 
-  // Update the formatted date in the header
-  const dateHeader = document.getElementById('formattedDate');
-  if (dateHeader) {
-    dateHeader.textContent = formattedDate;
-  }
-
-  // Format the date as MM-DD for event lookup
-  const todayDate = pacificDate.toLocaleString('en-US', { 
-    timeZone: 'America/Los_Angeles',
-    month: '2-digit',
-    day: '2-digit'
-  }).replace('/', '-');
-
-  // Get day of week (0-6, where 0 is Sunday)
-  const dayOfWeek = pacificDate.getDay();
-
-  // Get the current day of the week as a string
-  const daysOfWeek = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
-  const today = daysOfWeek[dayOfWeek];
-
-  // Update Quotidie tasks
-  const dailyQuotidie = {{ site.data.daily_quotidie | jsonify }};
-  const todayTasks = dailyQuotidie[today];
-  const quotidie = document.getElementById('quotidie');
-  if (quotidie && todayTasks) {
-    let taskHtml = '';
-    todayTasks.forEach(task => {
-      taskHtml += `<li><input type="checkbox"/>${task.task}</li>`;
-    });
-    quotidie.innerHTML = taskHtml;
-  }
-
-  // Find daily event, feast day, and rosary mystery
-  const todayEvent = dailyEvents.find(e => e.date === todayDate);
-  const todayFeast = feastDays.find(f => f.date === todayDate);
-  const todayMystery = rosaryMysteries[dayOfWeek];
-
-  // Update daily event
-  const eventDiv = document.getElementById('dailyEvent');
-  if (eventDiv) {
-    eventDiv.innerHTML = todayEvent ? todayEvent.event : 'No event today';
-  }
-
-  // Update feast day
-  const feastDiv = document.getElementById('feastDay');
-  if (feastDiv) {
-    feastDiv.innerHTML = todayFeast ? `Feast Day: ${todayFeast.feast}` : 'No feast day today';
-  }
-
-  // Update rosary mystery
-  const rosaryDiv = document.getElementById('rosaryMystery');
-  if (rosaryDiv) {
-    rosaryDiv.textContent = `${todayMystery.set} Mysteries`;
-  }
-
-  // Debug logging (consider removing or commenting out in production)
-  console.log('Current Pacific Time:', pacificDate.toLocaleString('en-US', { timeZone: 'America/Los_Angeles' }));
-  console.log('Formatted date for lookup:', todayDate);
-  console.log('Day of week:', dayOfWeek);
-}
-
-// Ensure the DOM is fully loaded before running the script
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', displayDailyInfo);
-} else {
-  displayDailyInfo();
-}
-
+  // You might want to update the daily event and feast day here as well if they need to be in Pacific Time
+  // This depends on how your YAML data is structured and if it needs to account for timezone differences
+});
 </script>
