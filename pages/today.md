@@ -3,14 +3,14 @@ layout: page
 title: Today
 permalink: /today/
 ---
+{% assign currentDate = site.time | date: '%Y-%m-%d %H:%M:%S %z' %}
+{% assign pacificOffset = -7 %}
+{% assign pacificTime = currentDate | date: '%s' | plus: pacificOffset | times: 3600 | date: '%Y-%m-%d %H:%M:%S' %}
+{% assign current_day = pacificTime | date: "%A" | downcase %}
+{% assign current_day_number = pacificTime | date: "%w" | plus: 0 %}
+{% assign date_for_lookup = pacificTime | date: "%m-%d" %}
+{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 
-{% assign current_date = site.time | date: '%Y-%m-%d' %}
-{% assign pacific_time = site.time | date: '%Y-%m-%d %H:%M:%S %Z' | date: '%Y-%m-%d %H:%M:%S America/Los_Angeles' | date: '%Y-%m-%d' %}
-{% assign current_day = pacific_time | date: "%A" | downcase %}
-{% assign current_day_number = pacific_time | date: "%w" | plus: 0 %}
-{% assign date_for_lookup = pacific_time | date: "%m-%d" %}
-
-<h1>Today</h1>
 <h2 id="current-date">{{ pacific_time | date: "%A, %B %d, %Y" }}</h2>
 
 <ul>
@@ -43,18 +43,31 @@ permalink: /today/
 document.addEventListener('DOMContentLoaded', function() {
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
   const todayMystery = rosaryMysteries[{{ current_day_number }}];
-  const rosaryTasks = document.querySelectorAll('#quotidie li:contains("Rosary")');
-  
-  rosaryTasks.forEach(task => {
-    task.innerHTML += ` (${todayMystery.set} Mysteries)`;
+  const currentlyReading = {{ currently_reading | jsonify }};
+
+  const quotidie = document.getElementById('quotidie');
+  const tasks = quotidie.getElementsByTagName('li');
+
+  Array.from(tasks).forEach(task => {
+    if (task.textContent.includes('Rosary')) {
+      task.innerHTML = task.innerHTML.replace(
+        'Rosary',
+        `<a href="/prayers/rosary/">${todayMystery.set} Mysteries</a>`
+      );
+    } else if (task.textContent.includes('Read')) {
+      if (currentlyReading && currentlyReading.title) {
+        task.innerHTML = task.innerHTML.replace(
+          /Read .+/,
+          `Read <a href="${currentlyReading.url}">${currentlyReading.title}</a>`
+        );
+      }
+    }
   });
 
   // Ensure all dates are displayed in Pacific Time
   const options = { timeZone: 'America/Los_Angeles', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
   const pacificDate = new Date().toLocaleString('en-US', options);
   document.getElementById('current-date').textContent = pacificDate;
-
-  // You might want to update the daily event and feast day here as well if they need to be in Pacific Time
-  // This depends on how your YAML data is structured and if it needs to account for timezone differences
 });
+
 </script>
