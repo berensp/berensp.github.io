@@ -3,53 +3,73 @@ layout: page
 title: Today
 permalink: /today/
 ---
-{% assign currentDate = site.time | date: '%Y-%m-%d %H:%M:%S %z' %}
-{% assign pacificOffset = -7 %}
-{% assign pacificTime = currentDate | date: '%s' | plus: pacificOffset | times: 3600 | date: '%Y-%m-%d %H:%M:%S' %}
-{% assign current_day = pacificTime | date: "%A" | downcase %}
-{% assign current_day_number = pacificTime | date: "%w" | plus: 0 %}
-{% assign date_for_lookup = pacificTime | date: "%m-%d" %}
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 
-<h2 id="current-date">{{ pacificTime | date: "%A, %B %d, %Y" }}</h2>
+<h2 id="current-date"></h2>
 
 <ul>
-<li>📆 <strong>Event:</strong> 
-  {% assign event = site.data.daily_events | where: "date", date_for_lookup | first %}
-  <span id="daily-event">{{ event.event | default: "No event today" }}</span>
-</li>
-<li>🕯️ <strong>Feast:</strong> 
-  {% assign feast = site.data.feast_days | where: "date", date_for_lookup | first %}
-  <span id="feast-day">{{ feast.feast | default: "No feast day today" }}</span>
-</li>
+<li>📆 <strong>Event:</strong> <span id="daily-event"></span></li>
+<li>🕯️ <strong>Feast:</strong> <span id="feast-day"></span></li>
 <li>📝 <strong>Quote:</strong> [forthcoming]</li>
 <li>📻 <strong>Song:</strong> [forthcoming]</li>
 </ul>
 
 <h2>Quotidie</h2>
 <ul id="quotidie">
-{% for task in site.data.quotidie[current_day] %}
-  <li>
-    {% if task.task contains "[INPUT]" %}
-      {{ task.task | replace: "[INPUT]", '<input type="text" name="task">' }}
-    {% else %}
-      {{ task.task }}
-    {% endif %}
-  </li>
-{% endfor %}
 </ul>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  const dailyEvents = {{ site.data.daily_events | jsonify }};
+  const feastDays = {{ site.data.feast_days | jsonify }};
+  const quotidie = {{ site.data.quotidie | jsonify }};
   const rosaryMysteries = {{ site.data.rosary_mysteries | jsonify }};
-  const todayMystery = rosaryMysteries[{{ current_day_number }}];
   const currentlyReading = {{ currently_reading | jsonify }};
 
-  const quotidie = document.getElementById('quotidie');
-  const tasks = quotidie.getElementsByTagName('li');
+  function getPacificTime() {
+    const options = { timeZone: 'America/Los_Angeles', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    return new Date().toLocaleString('en-US', options);
+  }
 
-  Array.from(tasks).forEach(task => {
+  function getPacificDate() {
+    const options = { timeZone: 'America/Los_Angeles', month: '2-digit', day: '2-digit' };
+    return new Date().toLocaleString('en-US', options).split('/').join('-');
+  }
+
+  function getDayOfWeek() {
+    const options = { timeZone: 'America/Los_Angeles', weekday: 'long' };
+    return new Date().toLocaleString('en-US', options).toLowerCase();
+  }
+
+  // Set current date
+  document.getElementById('current-date').textContent = getPacificTime();
+
+  // Set daily event and feast day
+  const currentDate = getPacificDate();
+  const event = dailyEvents.find(e => e.date === currentDate);
+  document.getElementById('daily-event').textContent = event ? event.event : "No specific event today";
+  const feast = feastDays.find(f => f.date === currentDate);
+  document.getElementById('feast-day').textContent = feast ? feast.feast : "No feast day today";
+
+  // Set Quotidie tasks
+  const currentDay = getDayOfWeek();
+  const tasks = quotidie[currentDay];
+  const quotidieList = document.getElementById('quotidie');
+  tasks.forEach(task => {
+    const li = document.createElement('li');
+    if (task.task.includes("[INPUT]")) {
+      li.innerHTML = task.task.replace("[INPUT]", '<input type="text" name="task">');
+    } else {
+      li.textContent = task.task;
+    }
+    quotidieList.appendChild(li);
+  });
+
+  // Update Rosary and Reading links
+  Array.from(quotidieList.getElementsByTagName('li')).forEach(task => {
     if (task.textContent.includes('Rosary')) {
+      const dayNumber = new Date().getDay();
+      const todayMystery = rosaryMysteries[dayNumber];
       task.innerHTML = task.innerHTML.replace(
         'Rosary',
         `<a href="/prayers/rosary/">${todayMystery.set} Mysteries</a>`
@@ -63,10 +83,5 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     }
   });
-
-  // Ensure all dates are displayed in Pacific Time
-  const options = { timeZone: 'America/Los_Angeles', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-  const pacificDate = new Date().toLocaleString('en-US', options);
-  document.getElementById('current-date').textContent = pacificDate;
 });
 </script>
