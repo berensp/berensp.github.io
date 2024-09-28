@@ -3,30 +3,24 @@ layout: page
 title: Today
 permalink: /today/
 ---
-
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
-
 <h2 id="current-date">Loading...</h2>
-
 <ul>
 <li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
 <li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
 <li>📝 <strong>Quote:</strong> [forthcoming]</li>
 <li>📻 <strong>Song:</strong> [forthcoming]</li>
-<li>📿 <strong>Rosary:</strong> <span id="rosary-mystery">Loading...</span></li>
 </ul>
-
 <h2>Quotidie</h2>
 <ul id="quotidie-list">
   <li>Loading...</li>
 </ul>
 
 <script>
-// Serialize the quotidie data for JavaScript use
-var quotidieData = {{ site.data.quotidie | jsonify }};
-var currentlyReading = {{ currently_reading | jsonify }};
 var dailyEvents = {{ site.data.daily_events | jsonify }};
 var feastDays = {{ site.data.feast_days | jsonify }};
+var quotidie = {{ site.data.quotidie | jsonify }};
+var currentlyReading = {{ currently_reading | jsonify }};
 
 document.addEventListener('DOMContentLoaded', function() {
   function getPacificTime() {
@@ -35,11 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
       weekday: 'long', 
       year: 'numeric',
       month: 'long', 
-      day: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit',
-      second: '2-digit',
-      hour12: false
+      day: 'numeric'
     };
     return new Date().toLocaleString('en-US', options);
   }
@@ -48,15 +38,14 @@ document.addEventListener('DOMContentLoaded', function() {
     const pacificTime = getPacificTime();
     console.log('Current Pacific Time:', pacificTime);
     
-    const [weekday, date, time] = pacificTime.split(', ');
-    document.getElementById('current-date').textContent = `${weekday}, ${date}`;
+    const [weekday, fullDate] = pacificTime.split(', ');
+    document.getElementById('current-date').textContent = pacificTime;
 
-    const [month, day, year] = date.split(' ');
-    const monthDay = `${month.substring(0,3)}-${day.padStart(2, '0')}`;
+    const [month, day, year] = fullDate.split(' ');
+    const currentDate = `${month.substring(0,3)}-${day.padStart(2, '0')}`;
     
-    updateDailyEvent(monthDay);
-    updateFeastDay(monthDay);
-    updateRosaryMystery(weekday);
+    updateDailyEvent(currentDate);
+    updateFeastDay(currentDate);
     updateQuotidieList(weekday.toLowerCase());
   }
 
@@ -70,22 +59,8 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('feast-day').textContent = feast ? feast.feast : "No feast day today";
   }
 
-  function updateRosaryMystery(day) {
-    const mysteries = {
-      'Sunday': 'Glorious',
-      'Monday': 'Joyful',
-      'Tuesday': 'Sorrowful',
-      'Wednesday': 'Glorious',
-      'Thursday': 'Luminous',
-      'Friday': 'Sorrowful',
-      'Saturday': 'Joyful'
-    };
-    const mystery = mysteries[day];
-    document.getElementById('rosary-mystery').innerHTML = `<a href="/prayers/rosary">${mystery} Mysteries</a>`;
-  }
-
   function updateQuotidieList(day) {
-    const tasks = quotidieData[day];
+    const tasks = quotidie[day];
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = ''; // Clear existing tasks
 
