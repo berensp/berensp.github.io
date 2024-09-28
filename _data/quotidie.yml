@@ -1,11 +1,12 @@
 monday:
-  - task: "🙏 Orate ante labori"
+  - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: "📋 Thing #1: [INPUT]"
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
+  - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
   - task: "🗃️ Put things back in their places"
   - task: "📖 Read (0:30)"
   - task: "✍ Write (0:10)"
@@ -13,7 +14,8 @@ monday:
   - task: "😴 Sleep (8:00)"
 
 tuesday:
-  - task: "🙏 Orate ante labori"
+  - task: "🥣 Breakfast"
+  - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: "📋 Thing #1: [INPUT]"
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
@@ -27,28 +29,30 @@ tuesday:
   - task: "😴 Sleep (8:00)"
 
 wednesday:
-  - task: "🙏 Orate ante labori"
+  - task: "🧇 Breakfast"
+  - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: "📋 Thing #1: [INPUT]"
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
-  - task: "🗃️ Put things back in their places"
+  - task: '🗃️ <a href="<a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: "📖 Read (0:30)"
   - task: '📿 <a href="/prayers/rosary">Glorious Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
 
 thursday:
   - task: "🥯 Breakfast"
-  - task: "🙏 Orate ante labori"
+  - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: "📋 Thing #1: [INPUT]"
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
-  - task: "🗃️ Put things back in their places"
+  - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
+  - task: '🗃️ <a href="<a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: "📖 Read (0:30)"
   - task: "✍ Write (0:10)"
   - task: '📿 <a href="/prayers/rosary">Luminous Mysteries</a> (0:15)'
@@ -56,34 +60,36 @@ thursday:
 
 friday:
   - task: '⛔ <i>Abstinentia</i>'
-  - task: "🙏 Orate ante labori"
+  - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: "📋 Thing #1: [INPUT]"
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
-  - task: "🗃️ Put things back in their places"
+  - task: '🗃️ <a href="<a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: "📖 Read (0:30)"
   - task: '📿 <a href="/prayers/rosary">Sorrowful Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
 
 saturday:
-  - task: "🥞🥓 Breakfast"
+  - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
+  - task: "🥞 Breakfast"
   - task: "🧹 Clean"
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
-  - task: "🗃️ Put things back in their places"
+  - task: '🗃️ <a href="<a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: "📖 Read (0:30)"
   - task: '📿 <a href="/prayers/rosary">Joyful Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
 
 sunday:
+  - task: "☕ Cafecito"
   - task: "⛪ Missa"
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
-  - task: "🗃️ Put things back in their places"
-  - task: "📋 Prepare for the week"
+  - task: '🗃️ <a href="<a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
+  - task: "📋 Prepare for the week ahead"
   - task: "📖 Read (0:30)"
   - task: '📿 <a href="/prayers/rosary">Glorious Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
