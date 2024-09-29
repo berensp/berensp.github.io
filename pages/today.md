@@ -16,19 +16,28 @@ permalink: /today/
   <li>Loading...</li>
 </ul>
 
-<script type="application/json" id="site-data">
-{
-  "dailyEvents": {{ site.data.daily_events | jsonify }},
-  "feastDays": {{ site.data.feast_days | jsonify }},
-  "quotidie": {{ site.data.quotidie | jsonify }},
-  "currentlyReading": {{ currently_reading | jsonify }}
-}
+<script type="application/json" id="daily-events">
+{{ site.data.daily_events | jsonify }}
+</script>
+
+<script type="application/json" id="feast-days">
+{{ site.data.feast_days | jsonify }}
+</script>
+
+<script type="application/json" id="quotidie-data">
+{{ site.data.quotidie | jsonify }}
+</script>
+
+<script type="application/json" id="currently-reading">
+{{ currently_reading | jsonify }}
 </script>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const siteData = JSON.parse(document.getElementById('site-data').textContent);
-  const { dailyEvents, feastDays, quotidie, currentlyReading } = siteData;
+  const dailyEvents = JSON.parse(document.getElementById('daily-events').textContent);
+  const feastDays = JSON.parse(document.getElementById('feast-days').textContent);
+  const quotidie = JSON.parse(document.getElementById('quotidie-data').textContent);
+  const currentlyReading = JSON.parse(document.getElementById('currently-reading').textContent);
 
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
