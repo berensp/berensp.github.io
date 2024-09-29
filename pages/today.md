@@ -3,42 +3,28 @@ layout: page
 title: Today
 permalink: /today/
 ---
-{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <h2 id="current-date">Loading...</h2>
 <ul>
-<li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
-<li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
-<li>📝 <strong>Quote:</strong> [forthcoming]</li>
-<li>📻 <strong>Song:</strong> [forthcoming]</li>
+  <li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
+  <li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
+  <li>📝 <strong>Quote:</strong> [forthcoming]</li>
+  <li>📻 <strong>Song:</strong> [forthcoming]</li>
 </ul>
 <h2>Quotidie</h2>
 <ul id="quotidie-list">
   <li>Loading...</li>
 </ul>
 
-<script type="application/json" id="daily-events">
-{{ site.data.daily_events | jsonify }}
-</script>
-
-<script type="application/json" id="feast-days">
-{{ site.data.feast_days | jsonify }}
-</script>
-
-<script type="application/json" id="quotidie-data">
-{{ site.data.quotidie | jsonify }}
-</script>
-
-<script type="application/json" id="currently-reading">
-{{ currently_reading | jsonify }}
-</script>
-
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const dailyEvents = JSON.parse(document.getElementById('daily-events').textContent);
-  const feastDays = JSON.parse(document.getElementById('feast-days').textContent);
-  const quotidie = JSON.parse(document.getElementById('quotidie-data').textContent);
-  const currentlyReading = JSON.parse(document.getElementById('currently-reading').textContent);
+// Site data will be populated by Jekyll
+var siteData = {
+  dailyEvents: {{ site.data.daily_events | jsonify }},
+  feastDays: {{ site.data.feast_days | jsonify }},
+  quotidie: {{ site.data.quotidie | jsonify }},
+  currentlyReading: {% if site.books %}{{ site.books | where: "category", "Presently Reading" | first | jsonify }}{% else %}null{% endif %}
+};
 
+document.addEventListener('DOMContentLoaded', function() {
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
   }
@@ -47,22 +33,22 @@ document.addEventListener('DOMContentLoaded', function() {
     const pacificTime = new Date(getPacificTime());
     
     document.getElementById('current-date').textContent = pacificTime.toLocaleString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
-
+    
     const currentDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit' }).replace('/', '-');
     const currentDay = pacificTime.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
-
-    const event = dailyEvents.find(e => e.date === currentDate);
+    
+    const event = siteData.dailyEvents.find(e => e.date === currentDate);
     document.getElementById('daily-event').textContent = event ? event.event : "No specific event today";
-
-    const feast = feastDays.find(f => f.date === currentDate);
+    
+    const feast = siteData.feastDays.find(f => f.date === currentDate);
     document.getElementById('feast-day').textContent = feast ? feast.feast : "No feast day today";
-
+    
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
-    quotidie[currentDay].forEach(task => {
+    siteData.quotidie[currentDay].forEach(task => {
       const li = document.createElement('li');
-      if (task.task.includes("Read") && currentlyReading) {
-        li.innerHTML = `📚 Read <i><a href="${currentlyReading.url}">${currentlyReading.title}</a></i> (0:30)`;
+      if (task.task.includes("Read") && siteData.currentlyReading) {
+        li.innerHTML = `📚 Read <i><a href="${siteData.currentlyReading.url}">${siteData.currentlyReading.title}</a></i> (0:30)`;
       } else if (task.task.includes("[INPUT]")) {
         li.innerHTML = task.task.replace("[INPUT]", '<input type="text" name="task">');
       } else {
