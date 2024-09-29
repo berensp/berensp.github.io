@@ -3,28 +3,72 @@ layout: page
 title: Today
 permalink: /today/
 ---
-
+{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
 <h2 id="current-date">Loading...</h2>
-
 <ul>
-<li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
-<li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
+<li>📆 <strong>Event:</strong> 
+  {% assign current_date = site.time | date: "%m-%d" %}
+  {% assign event = site.data.daily_events | where: "date", current_date | first %}
+  <span id="daily-event">{{ event.event | default: "No specific event today" }}</span>
+</li>
+<li>🕯️ <strong>Feast:</strong> 
+  {% assign feast = site.data.feast_days | where: "date", current_date | first %}
+  <span id="feast-day">{{ feast.feast | default: "No feast day today" }}</span>
+</li>
 <li>📝 <strong>Quote:</strong> [forthcoming]</li>
 <li>📻 <strong>Song:</strong> [forthcoming]</li>
 </ul>
-
 <h2>Quotidie</h2>
 <ul id="quotidie-list">
-  <li>Loading...</li>
+  {% assign current_day = site.time | date: "%A" | downcase %}
+  {% for task in site.data.quotidie[current_day] %}
+    <li>
+      {% if task.task contains "Read" %}
+        {% if currently_reading %}
+          📚 Read <i><a href="{{ currently_reading.url }}">{{ currently_reading.title }}</a></i> (0:30)
+        {% else %}
+          {{ task.task }}
+        {% endif %}
+      {% elsif task.task contains "[INPUT]" %}
+        {{ task.task | replace: "[INPUT]", '<input type="text" name="task">' }}
+      {% else %}
+        {{ task.task }}
+      {% endif %}
+    </li>
+  {% endfor %}
 </ul>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Log site.time
+  console.log('site.time:', '{{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}');
 
-<script type="application/json" id="siteData">
-{
-  "dailyEvents": {{ site.data.daily_events | jsonify }},
-  "feastDays": {{ site.data.feast_days | jsonify }},
-  "quotidie": {{ site.data.quotidie | jsonify }},
-  "currentlyReading": {{ site.books | where: "category", "Presently Reading" | first | jsonify }}
-}
+  function getPacificTime() {
+    const options = { 
+      timeZone: 'America/Los_Angeles', 
+      weekday: 'long', 
+      month: 'long', 
+      day: 'numeric',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      second: '2-digit',
+      hour12: false
+    };
+    return new Date().toLocaleString('en-US', options);
+  }
+  const pacificTime = getPacificTime();
+  console.log('Current Pacific Time:', pacificTime);
+  document.getElementById('current-date').textContent = pacificTime.split(',').slice(0, 2).join(',');
+
+  // Function to adjust time if needed
+  function adjustTime(timeString, hoursToSubtract) {
+    const date = new Date(timeString);
+    date.setHours(date.getHours() - hoursToSubtract);
+    return date.toISOString();
+  }
+
+  // Uncomment and adjust the following line if you need to correct the time
+  // const correctedTime = adjustTime('{{ site.time | date: "%Y-%m-%d %H:%M:%S %Z" }}', 7);
+  // console.log('Corrected time:', correctedTime);
+});
 </script>
-
-<script src="{{ '/assets/js/today.js' | relative_url }}"></script>
