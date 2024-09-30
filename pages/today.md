@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: today
 title: Today
 permalink: /today/
 ---
@@ -19,6 +19,7 @@ permalink: /today/
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
+  const currentlyReading = {{ site.books | where: "category", "Presently Reading" | first | jsonify }};
   
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
@@ -40,11 +41,20 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
-    siteData.quotidie[currentDay].forEach(task => {
-      const li = document.createElement('li');
-      li.innerHTML = task.task;
-      quotidieList.appendChild(li);
-    });
+    if (siteData.quotidie && siteData.quotidie[currentDay]) {
+      siteData.quotidie[currentDay].forEach(task => {
+        const li = document.createElement('li');
+        if (task.task.includes("Read") && currentlyReading) {
+          const bookInfo = `<i><a href="${currentlyReading.url}">${currentlyReading.title}</a></i>`;
+          li.innerHTML = task.task.replace("Read", `Read ${bookInfo}`);
+        } else {
+          li.innerHTML = task.task;
+        }
+        quotidieList.appendChild(li);
+      });
+    } else {
+      quotidieList.innerHTML = '<li>No tasks for today</li>';
+    }
 
     console.log('Current Pacific Time:', pacificTime.toLocaleString());
     console.log('Lookup date for events and feasts:', currentDate);
