@@ -33,16 +33,16 @@ document.addEventListener('DOMContentLoaded', function() {
     const currentDay = pacificTime.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
     
     const event = siteData.daily_events.find(e => e.date === currentDate);
-    document.getElementById('daily-event').textContent = event ? event.event : "No specific event today";
+    document.getElementById('daily-event').innerHTML = event ? event.event : "No specific event today";
     
     const feast = siteData.feast_days.find(f => f.date === currentDate);
-    document.getElementById('feast-day').textContent = feast ? feast.feast : "No feast day today";
+    document.getElementById('feast-day').innerHTML = feast ? feast.feast : "No feast day today";
     
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
     siteData.quotidie[currentDay].forEach(task => {
       const li = document.createElement('li');
-      li.textContent = task.task;
+      li.innerHTML = task.task;
       quotidieList.appendChild(li);
     });
 
