@@ -1,5 +1,5 @@
 ---
-layout: today
+layout: page
 title: Today
 permalink: /today/
 ---
