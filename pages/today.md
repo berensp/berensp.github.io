@@ -1,16 +1,14 @@
 ---
-layout: page
+layout: today
 title: Today
 permalink: /today/
 ---
-<h2 id="current-date">Loading...</h2>
-<ul>
-  <li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
-  <li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
-  <li>📝 <strong>Quote:</strong> [forthcoming]</li>
-  <li>📻 <strong>Song:</strong> [forthcoming]</li>
-</ul>
-<h2>Quotidie</h2>
-<ul id="quotidie-list">
-  <li>Loading...</li>
-</ul>
+
+## Current Date
+
+- 📆 **Event:** 
+- 🕯️ **Feast:** 
+- 📝 **Quote:** [forthcoming]
+- 📻 **Song:** [forthcoming]
+
+## Quotidie
