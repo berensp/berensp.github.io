@@ -1,6 +1,6 @@
 monday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: "📋 Thing #1: [INPUT]"
+  - task: "📋 Thing #1: <input type="text">"
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
@@ -8,7 +8,7 @@ monday:
   - task: "💪 Pushups (30x)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: "✍ Write (0:10)"
   - task: '📿 <a href="/prayers/rosary">Joyful Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
@@ -23,7 +23,7 @@ tuesday:
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: '📿 <a href="/prayers/rosary">Sorrowful Mysteries (0:15)'
   - task: "⛪ Ad Oratio"
   - task: "😴 Sleep (8:00)"
@@ -38,7 +38,7 @@ wednesday:
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: '📿 <a href="/prayers/rosary">Glorious Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
 
@@ -53,7 +53,7 @@ thursday:
   - task: "💪 Pushups (30x)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: "✍ Write (0:10)"
   - task: '📿 <a href="/prayers/rosary">Luminous Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
@@ -68,7 +68,7 @@ friday:
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: '📿 <a href="/prayers/rosary">Sorrowful Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
 
@@ -79,7 +79,7 @@ saturday:
   - task: "⚽ Play"
   - task: "💪 Pushups (30x)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: '📿 <a href="/prayers/rosary">Joyful Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
 
@@ -90,6 +90,6 @@ sunday:
   - task: "💪 Pushups (30x)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: "📋 Prepare for the week ahead"
-  - task: "📖 Read (0:30)"
+  - task: "📖 <a href="/books/">Read</a> (0:30)"
   - task: '📿 <a href="/prayers/rosary">Glorious Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
