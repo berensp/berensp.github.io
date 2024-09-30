@@ -16,10 +16,16 @@ permalink: /today/
   <li>Loading...</li>
 </ul>
 
+<script type="application/json" id="site-data">
+{
+  "siteData": {{ site.data | jsonify }},
+  "currentlyReading": {{ site.books | where: "category", "Presently Reading" | first | jsonify }}
+}
+</script>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const siteData = {{ site.data | jsonify }};
-  const currentlyReading = {{ site.books | where: "category", "Presently Reading" | first | jsonify }};
+  const { siteData, currentlyReading } = JSON.parse(document.getElementById('site-data').textContent);
   
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
