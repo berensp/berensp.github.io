@@ -1,6 +1,6 @@
 monday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: "📋 Thing #1: <input type="text">"
+  - task: '📋 Thing #1: <input type="text">'
   - task: "📋 Thing #2: [INPUT]"
   - task: "📋 Thing #3: [INPUT]"
   - task: "⏲ Deep work (1:30)"
@@ -8,7 +8,7 @@ monday:
   - task: "💪 Pushups (30x)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
   - task: "🗃️ Put things back in their places"
-  - task: "📖 <a href="/books/">Read</a> (0:30)"
+  - task: '📖 <a href="/books/">Read</a> (0:30)'
   - task: "✍ Write (0:10)"
   - task: '📿 <a href="/prayers/rosary">Joyful Mysteries</a> (0:15)'
   - task: "😴 Sleep (8:00)"
