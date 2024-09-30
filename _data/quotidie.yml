@@ -1,8 +1,8 @@
 monday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: '📋 Thing #1: <input type="text">'
-  - task: "📋 Thing #2: [INPUT]"
-  - task: "📋 Thing #3: [INPUT]"
+  - task: '📋 Thing #2: <input type="text">'
+  - task: '📋 Thing #3: <input type="text">'
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
@@ -16,9 +16,9 @@ monday:
 tuesday:
   - task: "🥣 Breakfast"
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: "📋 Thing #1: [INPUT]"
-  - task: "📋 Thing #2: [INPUT]"
-  - task: "📋 Thing #3: [INPUT]"
+  - task: '📋 Thing #1: <input type="text">'
+  - task: '📋 Thing #2: <input type="text">'
+  - task: '📋 Thing #3: <input type="text">'
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
@@ -31,9 +31,9 @@ tuesday:
 wednesday:
   - task: "🧇 Breakfast"
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: "📋 Thing #1: [INPUT]"
-  - task: "📋 Thing #2: [INPUT]"
-  - task: "📋 Thing #3: [INPUT]"
+  - task: '📋 Thing #1: <input type="text">'
+  - task: '📋 Thing #2: <input type="text">'
+  - task: '📋 Thing #3: <input type="text">'
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
@@ -45,9 +45,9 @@ wednesday:
 thursday:
   - task: "🥯 Breakfast"
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: "📋 Thing #1: [INPUT]"
-  - task: "📋 Thing #2: [INPUT]"
-  - task: "📋 Thing #3: [INPUT]"
+  - task: '📋 Thing #1: <input type="text">'
+  - task: '📋 Thing #2: <input type="text">'
+  - task: '📋 Thing #3: <input type="text">'
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
@@ -61,9 +61,9 @@ thursday:
 friday:
   - task: '⛔ <i>Abstinentia</i>'
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: "📋 Thing #1: [INPUT]"
-  - task: "📋 Thing #2: [INPUT]"
-  - task: "📋 Thing #3: [INPUT]"
+  - task: '📋 Thing #1: <input type="text">'
+  - task: '📋 Thing #2: <input type="text">'
+  - task: '📋 Thing #3: <input type="text">'
   - task: "⏲ Deep work (1:30)"
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
