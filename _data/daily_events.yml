@@ -3,6 +3,8 @@
   event: "Happy New Year!"
 - date: "01-07"
   event: "Happy Epiphany!"
+- date: "01-28"
+  event: '🚀 <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">Space Shuttle Challenger disaster</a> ('86)'
 - date: "01-31"
   event: "☕ National Hot Chocolate Day"
 - date: "02-02"
@@ -22,23 +24,27 @@
 - date: "03-17"
   event: "☘ Happy St. Patrick's Day "
 - date: "03-18"
-  event: "Happy Recycling Day ♻—I guess I can do it this once..."
+  event: "♻ Global Recycling Day—I guess I can do it this once..."
+- date: "03-22"
+  event: '<a href="https://www.unesco.org/en/days/world-water" target="_blank">World Water Day</a>'
 - date: "04-01"
   event: "April Fools"
 - date: "04-10"
   event: 'Happy Siblings Day, Sibs!'
 - date: "04-23"
-  event: '<a href="/editio-princeps.html">Happy World Book Day 📚</a>'
+  event: '📚 <a href="/editio-princeps.html">World Book Day</a>'
+- date: "05-03"
+  event: '<a href="https://www.unesco.org/en/days/press-freedom" target="_blank">World Press Freedom Day</a>'
 - date: "05-25"
-  event: "Int'l Wine Day 🍷</i>"
+  event: "🍷 Int'l Wine Day</i>"
 - date: "05-27"
-  event: "Happy Anniversary, 여보! <i>Nemo nisi mors.</i>"
+  event: 'Happy Anniversary, 여보! <i>Nemo nisi mors.</i>'
 - date: "08-15"
   event: "Happy Feast of the Assumption!"
 - date: "09-17"
   event: "📜 Happy Constitution Day"
 - date: "09-18"
-  event: "¡Felices Fiestas Patrias, Chile! 🇨🇱"
+  event: '¡Felices Fiestas Patrias, Chile! 🇨🇱'
 - date: "09-19"
   event: >-
     If ye filthy bilgesuckin' scurvy dogs ain't <a href="https://www.mondly.com/blog/ahoy-its-talk-like-a-pirate-day-arr/" target="_blank">flappin' yer gums like true buccaneers</a>, spoutin' the salty talk, ye'll find yerselves keelhauled faster than fishes swim 🏴‍☠️
@@ -62,10 +68,22 @@
   event: "☕ National Coffee Day"
 - date: "10-01"
   event: "Pumpkin Spice Day—head straight to your local Trader Joe's."
+- date: "10-02"
+  event: "Gandhi Jayanti"
+- date: "10-03"
+  event: '🧤 <a href="https://en.wikipedia.org/wiki/Murder_trial_of_O._J._Simpson" target="_blank">O.J. acquittal</a> ('95)'
+- date: "10-04"
+  event: '📅 <a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">Introduction of the Gregorian Calendar</a> (1582)'
+- date: "10-05"
+  event: '👩‍🏫 <a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Teachers' Day</a>'
 - date: "11-01"
   event: "Happy All Saints' Day!"
+- date: "11-21"
+  event: '<a href="https://www.unesco.org/en/days/teachers" target="_blank">World Philosophy Day</a>'
 - date: "12-06"
   event: "🎅 Happy St. Nick's Day!"
+- date: "12-17"
+  event: '<a href="https://en.wikipedia.org/wiki/Wright_brothers#/media/File:Wright_First_Flight_1903Dec17_(full_restore_115).jpg" target="_blank">First flight</a> (1903)'
 - date: "12-24"
   event: 'Twas the night before Christmas. <i>Stille Nacht, heilige Nacht</i>.'
 - date: "12-25"
