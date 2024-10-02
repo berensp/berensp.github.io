@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', function() {
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
   }
-
   function updateTimeElements() {
     const pacificTime = new Date(getPacificTime());
     
@@ -38,9 +37,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const feast = siteData.feast_days.find(f => f.date === currentDate);
     document.getElementById('feast-day').innerHTML = feast ? feast.feast : "No feast day today";
-
-    const birthday = siteData.bdays.find(f => f.date === currentDate);
-    document.getElementById('b-day').innerHTML = birthday ? birthday.birthday : "Today is an unbirthday";
+    
+    const birthday = siteData.bdays.find(b => b.date === currentDate);
+    document.getElementById('b-day').innerHTML = birthday ? birthday.bday : "Today is an unbirthday";
     
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
@@ -49,12 +48,10 @@ document.addEventListener('DOMContentLoaded', function() {
       li.innerHTML = task.task;
       quotidieList.appendChild(li);
     });
-
     console.log('Current Pacific Time:', pacificTime.toLocaleString());
     console.log('Lookup date for events, feasts, bdays:', currentDate);
     console.log('Current day for Quotidie:', currentDay);
   }
-
   updateTimeElements();
   setInterval(updateTimeElements, 60000);
 });
