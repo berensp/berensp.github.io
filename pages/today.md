@@ -8,6 +8,7 @@ permalink: /today/
 <ul>
   <li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
   <li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
+  <li>🎈 <strong>Birthday:</strong> <span id="b-day">Loading...</span></li>
   <li>📝 <strong>Quote:</strong> [forthcoming]</li>
   <li>📻 <strong>Song:</strong> [forthcoming]</li>
 </ul>
@@ -37,6 +38,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const feast = siteData.feast_days.find(f => f.date === currentDate);
     document.getElementById('feast-day').innerHTML = feast ? feast.feast : "No feast day today";
+
+    const birthday = siteData.bdays.find(f => f.date === currentDate);
+    document.getElementById('b-day').innerHTML = birthday ? birthday.birthday : "Today is an unbirthday";
     
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
@@ -47,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     console.log('Current Pacific Time:', pacificTime.toLocaleString());
-    console.log('Lookup date for events and feasts:', currentDate);
+    console.log('Lookup date for events, feasts, bdays:', currentDate);
     console.log('Current day for Quotidie:', currentDay);
   }
 
