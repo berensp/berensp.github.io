@@ -1,9 +1,6 @@
 monday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: '📋 Thing #1: <input type="text">'
-  - task: '📋 Thing #2: <input type="text">'
-  - task: '📋 Thing #3: <input type="text">'
-  - task: "⏲ Deep work (1:30)"
+  - task: '⏲ The One Thing <input type="text"> (2:00)'
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
@@ -16,10 +13,7 @@ monday:
 tuesday:
   - task: "🥣 Breakfast"
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: '📋 Thing #1: <input type="text">'
-  - task: '📋 Thing #2: <input type="text">'
-  - task: '📋 Thing #3: <input type="text">'
-  - task: "⏲ Deep work (1:30)"
+  - task: '⏲ The One Thing <input type="text"> (2:00)'
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🗃️ Put things back in their places"
@@ -31,10 +25,7 @@ tuesday:
 wednesday:
   - task: "🧇 Breakfast"
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: '📋 Thing #1: <input type="text">'
-  - task: '📋 Thing #2: <input type="text">'
-  - task: '📋 Thing #3: <input type="text">'
-  - task: "⏲ Deep work (1:30)"
+  - task: '⏲ The One Thing <input type="text"> (2:00)'
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
@@ -45,10 +36,7 @@ wednesday:
 thursday:
   - task: "🥯 Breakfast"
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: '📋 Thing #1: <input type="text">'
-  - task: '📋 Thing #2: <input type="text">'
-  - task: '📋 Thing #3: <input type="text">'
-  - task: "⏲ Deep work (1:30)"
+  - task: '⏲ The One Thing <input type="text"> (2:00)'
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
@@ -61,10 +49,7 @@ thursday:
 friday:
   - task: '⛔ <i>Abstinentia</i>'
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
-  - task: '📋 Thing #1: <input type="text">'
-  - task: '📋 Thing #2: <input type="text">'
-  - task: '📋 Thing #3: <input type="text">'
-  - task: "⏲ Deep work (1:30)"
+  - task: '⏲ The One Thing <input type="text"> (2:00)'
   - task: "🌱 Study 한글 (0:10)"
   - task: "💪 Pushups (30x)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
