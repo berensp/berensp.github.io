@@ -75,7 +75,7 @@
 - date: "10-04"
   event: '<a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">Introduction of the Gregorian Calendar</a> (1582)'
 - date: "10-05"
-  event: '👩‍🏫 <a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Teachers'' Day</a>'
+  event: '<a href="https://www.unesco.org/en/days/teachers" target="_blank">World Teachers'' Day</a>'
 - date: "10-06"
   event: 'National German-American Day 🇩🇪🇺🇸'
 - date: "10-07"
@@ -92,10 +92,16 @@
   event: 'Columbus goes ashore at Guanahaní (🇧🇸)'
 - date: "10-13"
   event: 'National Metastatic Breast Cancer Awareness Day'
+- date: "10-17"
+  event: '1989 Loma Prieta earthquake (17:04)'
+- date: "10-25"
+  event: 'Twins defeat Cardinals in final game of 1987 World Series'
 - date: "11-01"
-  event: "Happy All Saints' Day!"
+  event: 'Happy All Saints'' Day!'
 - date: "11-21"
   event: '<a href="https://www.unesco.org/en/days/teachers" target="_blank">World Philosophy Day</a>'
+- date: "11-23"
+  event: 'Doug Flutie''s Hail Mary (1984)'
 - date: "12-06"
   event: "🎅 Happy St. Nick's Day!"
 - date: "12-17"
