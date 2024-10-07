@@ -4,7 +4,7 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "oh, what are you going to do with that?" Of course, I never had the scarcest intention to pursue graduate studies in Philosophy; it was merely an interest, and I was seeking to become a well-rounded critical thinker.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "oh, what are you going to do with that?" **Probably philosophy consulting?** Truth is didn't really have plans post graduation—although I quickly figured out I didn't want to pursue graduate studies in Philosophy with all those weirdos—I was merely captivated with the prospect of reading the great tomes of western civilization with these nerdy philosophy type professors in tweed jackets.
 
 Since the mid-20th century with the GI Bill, the university has been democratized, and the degree has represented an earnings premium for most students and their families; and *a fortiori* today with the high demand for STEM and various liberal arts majors being shuttered.
 
@@ -32,11 +32,11 @@ But beyond being a good citizen what good is the liberal arts education?
 
 - ***emollit mores nec sinit esse feros*** (i.e., *a faithful study of the liberal arts humanizes character and permits it not to be cruel*). This should link to a future post about cancel culture and how we perceive good and evil, but essentially, the more learned people are, the more understanding.
 
-- **Specialization is for ants.** While certain specialties may command a wage premium, 1) they can go out of fashion as easily as they came in and 2) humans are too interesting and dynamic and talented to specialize at age 20. I love this one from Robert Heinlein:
+- **Specialization is for insects.** While certain specialties may command a wage premium, 1) they can go out of fashion as easily as they came in and 2) humans are too interesting and dynamic and talented to specialize at age 20. I love this one from Robert Heinlein:
 
 	> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
-- A bachelor degree making you an expert in...nothing. Which is a good thing. That you have the space to become educated, broadly speaking, and then can focus in on interests after the fact.
+- **Expertise?** A bachelor degree making you an expert in...nothing. Which is a good thing. That you have the space to become a broadly educated person is a good thing. Subsequently life will present you ample opportunities to build domains of expertise.
 
 ## But should everyone be a liberal arts major?
 
@@ -46,7 +46,7 @@ If possible, yes. There's a short amount of time to read the great texts and stu
 
 There's a fun debate on the liberal arts on the Moment of Zen podcast and one of the memes was, "you can literally just read [the classics]" on your own time. I mean, sort of... With a good study guide you slog your way through the *Divine Comedy* and other similarly dense texts, but how much richer to do it with an excellent professor and a lively discussion? Because you can flip this flippant statement to: "why would you spend your college years learning CS when you can do that on your own time with some videos?"
 
-I'm a *Dead Poet's Society* romantic: I love the scholastic environment, the world of ideas, and I selfishly couldn't've imagined mortgaging my undergrad years for an accounting particular calling. At least at my alma mater where there was so much on offer; to relegate the undergrad experience to vocational training strikes me as very sad. But we need excellent accountants, it's just a question of when and how we accomplish this. Can future accountants spend time seriously immersed in the liberal arts before focusing on debits and credits, or should we leave that for others?
+I'm a *Dead Poet's Society* romantic: I love the scholastic environment, the world of ideas, and I selfishly couldn't've imagined mortgaging my undergrad years for an accounting degree. At least at my alma mater, where there was so much on offer, to relegate the undergrad experience to vocational training strikes me as very sad. But nothing against accounting: the world needs excellent accountants; it's just not my particular calling. But the point here is how to think about true erudition versus job training, and how—and perhaps when—to accomplish each. Can future accountants spend time seriously immersed in the liberal arts before focusing on debits and credits, or should we leave that for others?
 
 Manly P. Hall puts it more bluntly:
 
