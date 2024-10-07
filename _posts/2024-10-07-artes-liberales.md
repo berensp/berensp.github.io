@@ -34,7 +34,7 @@ But beyond being a good citizen what good is the liberal arts education?
 
 - **Specialization is for ants.** While certain specialties may command a wage premium, 1) they can go out of fashion as easily as they came in and 2) humans are too intereting and dynamic and talented to specialize at age 20. I love this one from Robert Heinlein:
 
-> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
+	> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
 - A bachelor degree making you an expert in...nothing. Which is a good thing. That you have the space to become educated, broadly speaking, and then can focus in on interests after the fact.
 
