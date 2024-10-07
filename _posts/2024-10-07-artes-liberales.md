@@ -4,13 +4,13 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "oh, what are you going to do with that?" Of course, I never had the scarcest intention to pursue graduate studies in Philosophy; it was merely an interest and I was seeking to become a well-rounded critical thinker.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "oh, what are you going to do with that?" Of course, I never had the scarcest intention to pursue graduate studies in Philosophy; it was merely an interest, and I was seeking to become a well-rounded critical thinker.
 
 Since the mid-20th century with the GI Bill, the university has been democratized, and the degree has represented an earnings premium for most students and their families; and *a fortiori* today with the high demand for STEM and various liberal arts majors being shuttered.
 
 But ancient societies (e.g., classical Greece and Rome) placed great emphasis on cultivating virtue and excellence *(arete)* as the path to a fulfilling life. Aristotle, for example, argued that the highest good was *eudaimonia,* a life of cultivating virtue (wisdom, courage, justice, temperance, etc.) that leads ultimately to happiness. Contrast that to modern societies like that of the U.S. which prioritize safety and economic prosperity as the two paramount metrics of social success—good things in themselves to be sure—because anything beyond these are entirely subjective. This relegating of government to safety and prosperity is an Enlightenment "achievement" (i.e. not a new thing), but the difference is that in the 18th century, the assumption was that religion would fill in the gaps (regarding virtue). For example, "pursuit of happiness" didn't need to be spelled out in "life, liberty, and the pursuit of happiness" since God-fearing people had their Christian faith to inform them about *what* is happiness—if not eudaimonia—and *how* might we pursue it. But now that religion has been seriously attenuated in the West, the void produces a voluntaristic collision of wills, which leads straight to violence/war (Nietzsche spelled this out a long time ago).
 
-And so I think of the words carved into the Boylston Street side of the Boston Public Library in Copley Square, which I often walked past:
+And so, I think of the words carved into the Boylston Street side of the Boston Public Library in Copley Square, which I often walked past:
 
 > THE COMMONWEALTH REQUIRES THE EDUCATION OF THE PEOPLE AS THE SAFEGUARD OF ORDER AND LIBERTY
 
@@ -28,11 +28,11 @@ But beyond being a good citizen what good is the liberal arts education?
 
 - **Foundation for critical thinking and creativity.** That sounds like something out of a brochure you might find in an admissions office, but I think it's true and will be increasingly as AI is able to take more and more of the rote stuff off our plates. Including things that currently command a premium like certain corporate lawyering tasks, for example.
 
-- **First principles thinking.** Having some frameworks and mental models to draw upon for decision-making on complex issues, which cut across history, philosophy, and other disciplines, is gold. Example: voting in California. People who live in California know that we have this terrible direct democracy where, on election day, voters are not only picking their delegates and representatives, but also giving a thumbs-up or thumbs-down on a variety on a dozen propositions. Of course in most states this tremendous responsibilitiy is the jurisdiction of the representatives (what a concept), but even when the decision is given directly to the voter, it usually still gets outsourced; just to the org that produces the voter guide that seems the most reasonable. It's hard to have your frameworks in place to make excellent decisions on a variety of topics.
+- **First principles thinking.** Having some frameworks and mental models to draw upon for decision-making on complex issues, which cut across history, philosophy, and other disciplines, is gold. Example: voting in California. People who live in California know that we have this terrible direct democracy where, on election day, voters are not only picking their delegates and representatives, but also giving a thumbs-up or thumbs-down on a variety on a dozen propositions. Of course, in most states this tremendous responsibility is the jurisdiction of the representatives (what a concept), but even when the decision is given directly to the voter, it usually still gets outsourced; just to the org that produces the voter guide that seems the most reasonable. It's hard to have your frameworks in place to make excellent decisions on a variety of topics.
 
 - ***emollit mores nec sinit esse feros*** (i.e., *a faithful study of the liberal arts humanizes character and permits it not to be cruel*). This should link to a future post about cancel culture and how we perceive good and evil, but essentially, the more learned people are, the more understanding.
 
-- **Specialization is for ants.** While certain specialties may command a wage premium, 1) they can go out of fashion as easily as they came in and 2) humans are too intereting and dynamic and talented to specialize at age 20. I love this one from Robert Heinlein:
+- **Specialization is for ants.** While certain specialties may command a wage premium, 1) they can go out of fashion as easily as they came in and 2) humans are too interesting and dynamic and talented to specialize at age 20. I love this one from Robert Heinlein:
 
 	> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 
@@ -56,7 +56,7 @@ It's not exactly fair, but if you study history at Biola University and aren't v
 
 Also not fair, but if you or your family has the cash, there's an art history degree available for you from a private college; but there's a separate question about public universities and whether taxpayers need to subsidize said degrees and/or their financing.
 
-But does it have to be all or nothing? A thoughtfully-constructed, integrated liberal arts core curriculum (the *Ratio Studiorum,* if you will), may not be such a bad runner-up to a liberal arts degree.
+But does it have to be all or nothing? A thoughtfully constructed, integrated liberal arts core curriculum (the *Ratio Studiorum,* if you will), may not be such a bad runner-up to a liberal arts degree.
 
 ## What's the telos?
 
