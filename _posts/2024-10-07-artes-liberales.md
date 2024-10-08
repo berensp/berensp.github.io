@@ -4,7 +4,11 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" *Probably philosophy consulting?* Truth is I didn't really have plans post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets *(ars artis gratia)*.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?"
+
+*I dunno...probably philosophy consulting?*
+
+Truth is I didn't really have plans post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets *(ars artis gratia)*.
 
 Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and the corresponding decline in the liberal arts[^1].
 
@@ -12,7 +16,9 @@ Since the mid-20th century with the GI Bill, the university degree has been demo
 
 You can hardly blame the average american student/family for thinking about return on investment, when tuition has been outpacing wages for years on the cost side, and certain non-humanities degrees align with lucrative careers on the revenue side.
 
-But ancient societies (e.g., classical Greece and Rome) placed great emphasis on cultivating virtue and excellence *(arete)* as the path to a fulfilling life. Aristotle, for example, argued that the highest good was *eudaimonia,* a life of cultivating virtue (wisdom, courage, justice, temperance, etc.) that leads ultimately to happiness. Contrast that to modern societies like that of the U.S. which prioritize safety and economic prosperity as the two paramount metrics of social success—good things in themselves to be sure—because anything beyond these are entirely subjective. This relegating of government to safety and prosperity is an Enlightenment "achievement" (i.e. not a new thing), but the difference is that in the 18th century, the assumption was that religion would fill in the gaps (regarding virtue). For example, "pursuit of happiness" didn't need to be spelled out in "life, liberty, and the pursuit of happiness" since God-fearing people had their Christian faith to inform them about *what* is happiness—if not eudaimonia—and *how* might we pursue it. But now that religion has been seriously attenuated in the West, the void produces a voluntaristic collision of wills, which leads straight to violence/war (Nietzsche spelled this out a long time ago).
+But ancient societies (e.g., classical Greece) placed great emphasis on cultivating virtue and excellence *(arete)* as the path to a fulfilling life. Aristotle, for example, argued that the highest good was *eudaimonia,* a life of cultivating virtue (wisdom, courage, justice, temperance, etc.) that leads ultimately to happiness.
+
+Contrast that to modern societies like that of the U.S. which prioritize safety and economic prosperity as the two paramount metrics of social success—good things in themselves to be sure—because anything beyond these are entirely subjective. This relegating of government to safety and prosperity is an Enlightenment "achievement" (i.e. not a new thing), but the difference is that in the 18th century, the assumption was that religion would fill in the gaps (regarding virtue). For example, "pursuit of happiness" didn't need to be spelled out in "life, liberty, and the pursuit of happiness" since God-fearing people had their Christian faith to inform them about *what* is happiness—if not eudaimonia—and *how* might we pursue it. But now that religion has been seriously attenuated in the West, the void produces a voluntaristic collision of wills, which leads straight to violence/war (Nietzsche spelled this out a long time ago).
 
 And so, I think of the words carved into the Boylston Street side of the Boston Public Library in Copley Square, which I often walked past:
 
@@ -65,7 +71,7 @@ Also not fair, but if you or your family has the cash, there's an art history de
 
 But does it have to be all or nothing? A thoughtfully constructed, integrated liberal arts core curriculum (the *Ratio Studiorum,* if you will), may not be such a bad runner-up to a liberal arts degree.
 
-## What's the telos?
+## Teleologically speaking
 
 We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models. Chelsea Niemiec from the University of Dallas summarizes the issue[^2]:
 
