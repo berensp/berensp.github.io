@@ -4,7 +4,7 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" *Probably philosophy consulting?* Truth is I didn't really have plans post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" *Probably philosophy consulting?* Truth is I didn't really have plans post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets *(ars artis gratia)*.
 
 Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and the corresponding decline in the liberal arts[^1].
 
@@ -32,7 +32,10 @@ But beyond being a good citizen what good is the liberal arts education?
 
 - **Foundation for critical thinking and creativity.** That sounds like something out of a brochure you might find in an admissions office, but I think it's true and will be increasingly as AI is able to take more and more of the rote stuff off our plates. Including things that currently command a premium like certain corporate lawyering tasks, for example.
 
-- **First principles thinking.** Having some frameworks and mental models to draw upon for decision-making on complex issues, which cut across history, philosophy, and other disciplines, is gold. Example: voting in California. People who live in California know that we have this terrible direct democracy where, on election day, voters are not only picking their delegates and representatives, but also giving a thumbs-up or thumbs-down on a variety on a dozen propositions. Of course, in most states this tremendous responsibility is the jurisdiction of the representatives (what a concept), but even when the decision is given directly to the voter, it usually still gets outsourced; just to the org that produces the voter guide that seems the most reasonable. It's hard to have your frameworks in place to make excellent decisions on a variety of topics.
+- **First principles thinking.** Having some frameworks and mental models to draw upon for decision-making on complex issues, which cut across history, philosophy, and other disciplines, is gold. Example: voting in California which consists of picking yes or no across a dozen propositions, a terrible responsibility when you can't possibly be adequately informed on each issue.
+
+	> At a time when politics deals in distortions and half truths, truth is to be found in the liberal arts. There's something afoot in this country and you are very much a part of it.
+
 
 - ***emollit mores nec sinit esse feros*** (i.e., *a faithful study of the liberal arts humanizes character and permits it not to be cruel*). This should link to a future post about cancel culture and how we perceive good and evil, but essentially, the more learned people are, the more understanding.
 
@@ -48,9 +51,9 @@ If possible, yes. There's a short amount of time to read the great texts and stu
 
 > Here is a break in the tyrannical course of irreparable events; a period in which to look round upon the world and upon oneself without the sense of an enemy at one’s back or the insistent pressure to make up one’s mind; a moment in which to taste the mystery without the necessity of at once seeking a solution.
 
-There's a fun debate on the liberal arts on the Moment of Zen podcast and one of the memes was, "you can literally just read [the classics]" on your own time. I mean, sort of... With a good study guide you slog your way through the *Divine Comedy* and other similarly dense texts, but how much richer to do it with an excellent professor and a lively discussion? Because you can flip this flippant statement to: "why would you spend your college years learning CS when you can do that on your own time with some videos?"
+There's a fun debate on the liberal arts on the Moment of Zen podcast and one of the memes was, "you can literally just read [the classics]" on your own time. I mean, sort of... With a good study guide you can slog your way through the *Divine Comedy* and other similarly dense texts, but how much richer to do it with an excellent professor and a lively class discussion? Because you can flip this flippant statement to: "why would you spend your college years learning CS when you can do that on your own time with some videos?"
 
-I'm a *Dead Poet's Society* romantic: I love the scholastic environment, the world of ideas, and I selfishly couldn't've imagined mortgaging my undergrad years for an accounting degree. At least at my alma mater, where there was so much on offer, to relegate the undergrad experience to vocational training strikes me as very sad. But nothing against accounting: the world needs excellent accountants; it's just not my particular calling. But the point here is how to think about true erudition versus job training, and how—and perhaps when—to accomplish each. Can future accountants spend time seriously immersed in the liberal arts before focusing on debits and credits, or should we leave that for others?
+I'm something of a *Dead Poet's Society* romantic: I love the scholastic environment, the world of ideas, and I selfishly couldn't've imagined mortgaging my undergrad years for an accounting degree. At least at my alma mater, where there was so much on offer, to relegate the undergrad experience to vocational training strikes me as very sad. But nothing against accounting: the world needs excellent accountants; it's just not my particular calling. But the point here is how to think about true erudition versus job training, and how—and perhaps when—to accomplish each. Can future accountants spend time seriously immersed in the liberal arts before focusing on debits and credits, or should we leave that for others?
 
 Manly P. Hall puts it more bluntly:
 
@@ -71,5 +74,7 @@ We've been talking about the university, but it's important to go back to the pr
 > In the late 19th century, a series of progressive thinkers...set our country up to abandon a tried-and-true way of educating students in wisdom and virtue through the liberal arts and adopt a factory model meant to produce workers. The result? Plummeting reading and math scores and soaring anxiety and depression among students.
 
 And so we have our son enrolled at a Catholic Classical school. Which is compelling from the standpoint of focusing on the liberal arts and their integration. But additionally, for us, everything connects back to Jesus Christ for *Gloria enim Dei vivens homo* ("The glory of God is man fully alive"), and we are alive insofar as we grow intellectually, morally, and spiritually through the pursuit of truth, beauty, and goodness.
+
+Ad lucem,
 
 — ᴘ. ᴍ. ʙ.
