@@ -4,9 +4,13 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "oh, what are you going to do with that?" **Probably philosophy consulting?** Truth is didn't really have plans post graduation—although I quickly figured out I didn't want to pursue graduate studies in Philosophy with all those weirdos—I was merely captivated with the prospect of reading the great tomes of western civilization with these nerdy philosophy type professors in tweed jackets.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" *Probably philosophy consulting?* Truth is I didn't really have plans post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets.
 
-Since the mid-20th century with the GI Bill, the university has been democratized, and the degree has represented an earnings premium for most students and their families; and *a fortiori* today with the high demand for STEM and various liberal arts majors being shuttered.
+Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and the corresponding decline in the liberal arts[^1].
+
+[^1]: National Center for Education Statistics: from 2012 to 2020, graduates in the humanities declined by 30%. ["The Decline of Liberal Arts and Humanities"](https://www.wsj.com/articles/the-decline-of-liberal-arts-and-humanities-western-philosophy-college-students-major-degrees-progressive-conservative-odysseus-6f327963), *Wall Street Journal*; March 28, 2023.
+
+You can hardly blame the average american student/family for thinking about return on investment, when tuition has been outpacing wages for years on the cost side, and certain non-humanities degrees align with lucrative careers on the revenue side.
 
 But ancient societies (e.g., classical Greece and Rome) placed great emphasis on cultivating virtue and excellence *(arete)* as the path to a fulfilling life. Aristotle, for example, argued that the highest good was *eudaimonia,* a life of cultivating virtue (wisdom, courage, justice, temperance, etc.) that leads ultimately to happiness. Contrast that to modern societies like that of the U.S. which prioritize safety and economic prosperity as the two paramount metrics of social success—good things in themselves to be sure—because anything beyond these are entirely subjective. This relegating of government to safety and prosperity is an Enlightenment "achievement" (i.e. not a new thing), but the difference is that in the 18th century, the assumption was that religion would fill in the gaps (regarding virtue). For example, "pursuit of happiness" didn't need to be spelled out in "life, liberty, and the pursuit of happiness" since God-fearing people had their Christian faith to inform them about *what* is happiness—if not eudaimonia—and *how* might we pursue it. But now that religion has been seriously attenuated in the West, the void produces a voluntaristic collision of wills, which leads straight to violence/war (Nietzsche spelled this out a long time ago).
 
@@ -60,6 +64,12 @@ But does it have to be all or nothing? A thoughtfully constructed, integrated li
 
 ## What's the telos?
 
-We have our son enrolled at a Catholic Classical school. Ultimately, for us, everything connects back to Jesus Christ for *Gloria enim Dei vivens homo* ("The glory of God is man fully alive"), and we are alive insofar as we grow intellectually, morally, and spiritually through the pursuit of truth, beauty, and goodness.
+We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models. Chelsea Niemiec from the University of Dallas summarizes the issue[^2]:
+
+[^2]: Ibid.
+
+> In the late 19th century, a series of progressive thinkers...set our country up to abandon a tried-and-true way of educating students in wisdom and virtue through the liberal arts and adopt a factory model meant to produce workers. The result? Plummeting reading and math scores and soaring anxiety and depression among students.
+
+And so we have our son enrolled at a Catholic Classical school. Which is compelling from the standpoint of focusing on the liberal arts and their integration. But additionally, for us, everything connects back to Jesus Christ for *Gloria enim Dei vivens homo* ("The glory of God is man fully alive"), and we are alive insofar as we grow intellectually, morally, and spiritually through the pursuit of truth, beauty, and goodness.
 
 — ᴘ. ᴍ. ʙ.
