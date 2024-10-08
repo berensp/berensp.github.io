@@ -15,16 +15,14 @@ Enlighten my eyes, O Christ God, lest I sleep unto death, lest my enemy say, "I 
 
 With all our heart and never-silent mouths, let us praise the most glorious Mother of God, more holy than the holy angels, let us confess her as Theotokos, for in very truth she gave birth to God-made-flesh and without ceasing she prays for our souls.
 
-<notabene>Then kiss the Cross, and make the sign of the Cross over the bed, head-to-foot and then side-to-side, saying this prayer to the Precious Cross:</notabene>
+<notabene>Kiss the Cross and make the sign of the Cross over the bed, head-to-foot and then side-to-side, saying this prayer to the Precious Cross:</notabene>
 
 Let God arise; Let His enemies be scattered. Let those who hate Him flee before His face. As smoke vanishes, so let them vanish. As wax melts before the fire, so let demons flee at the presence of those who love God and sign themselves with the sign of the Cross and say joyfully, "Rejoice most precious and life-giving Cross of the Lord which drivest demons away through the power of Our Lord Jesus Christ who was crucified on thee, who descended into hell, trampled down the power of the devil and gave to us His precious Cross for the routing of all enemies. Help me forever, most precious and life-giving Cross of the Lord, together with the Holy Lady Virgin Theotokos and all the saints. Amen.  
 
 O God, absolve, remit and pardon our transgressions—voluntary and involuntary, committed in word or deed, thought or intention, whether in knowledge or in ignorance, whether by day or by night.  Forgive us everything, for Thou art good and lovest mankind.
 
-<notabene>Before falling asleep:</notabene>
-
 Into thy hands, O Lord Jesus Christ, my God, do I commend my spirit. Do thou bless me, have mercy on me, and grant me life everlasting. Amen.
 
-<notabene>Make the [sign of the Cross](/prayers/signum-crucis/) and fall asleep with prayer, contemplating the Day of Judgment and the summons before God.</notabene>
+<notabene> Make the sign of the Cross and fall asleep with prayer, contemplating the Day of Judgment and the summons before God.</notabene>
 
 <span class="muted small">Source: </span><a class="muted small" href="https://www.padreperegrino.org/2024/10/bedtimeprayer/" target="_blank">Padre Peregrino</a>
