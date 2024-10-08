@@ -8,7 +8,7 @@ category: Miscellany
 3. (×3): *O Blood and Water, which gushed forth from the Heart of Jesus as a fountain of Mercy for us, I trust in You!*
 4. [Our Father](/prayers/pater-noster/)
 5. [Hail Mary](/prayers/ave-maria/)
-6. [Apostles' Creed](/prayers/apostles-creed/)
+6. [Apostles' Creed](/prayers/symbolum-apostolorum/)
 7. Each decade
 	- *Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world.*
 	- (×10): *For the sake of His sorrowful Passion, have mercy on us and on the whole world.*
