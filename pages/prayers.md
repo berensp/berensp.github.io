@@ -6,7 +6,7 @@ description: We got to pray just to make it today.
 ---
 <p><img src="/assets/images/angel-song-of-bethlehem.png" alt="Angel from the Song of Bethlehem" style="width: 50%;">
 
-{% assign categories = "Ante Missam,Inter Missam,Marian,Saints,Miscellany" | split: "," %}
+{% assign categories = "Hora Somni,Ante Missam,Inter Missam,Marian,Saints,Miscellany" | split: "," %}
 
 {% for category in categories %}
   {% assign routes_in_category = site.prayers | where: "category", category %}

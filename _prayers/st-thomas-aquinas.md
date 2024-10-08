@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: St. Thomas Aquinas
-category: Saints
+category: Hora Somni
 ---
 Grant me, O Lord my God,  
 a mind to know you,  
