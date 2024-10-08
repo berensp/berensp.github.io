@@ -17,3 +17,6 @@ with the help of Thy grace
 to sin no more  
 and to avoid the near occasion of sin.
 Amen.
+
+℣. Give thanks to the Lord for He is good.  
+℟. His mercy endures forever.
