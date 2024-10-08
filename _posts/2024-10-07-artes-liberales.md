@@ -4,9 +4,7 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?"
-
-*I dunno...probably philosophy consulting?*
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" *I dunno...probably philosophy consulting?*
 
 Truth is I didn't really have plans post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets *(ars artis gratia)*.
 
