@@ -55,7 +55,9 @@ But beyond being a good citizen what good is the liberal arts education?
 
 	> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 	
-	It's true. When I conduct my *which __ people, living or dead, would you invite to dinner?* thought experiment, most I'd select are polymaths: Leonardo da Vinci, Ben Franklin, Lewis Carroll, Teddy Roosevelt, Martin Luther King Jr., et al.
+	It's true. When I conduct my *which __ people, living or dead, would you invite to dinner?* thought experiment, most I'd select are polymaths: Leonardo da Vinci, Ben Franklin[^2], Lewis Carroll, Teddy Roosevelt, Martin Luther King Jr., et al.
+
+[^2]: Ironically, Ben Franklin had disdain for the liberal arts being useless, and set up UPenn to "train" students in business, etc.
 
 - **Expertise?** Let's face it: a bachelor's degree makes one an expert in nothing. And this is not a bad thing: that you have the space to first become a broadly educated person as life will present ample opportunities to build domains of expertise.
 
@@ -65,7 +67,9 @@ Decidely yes, and before the system beats the curiosity out of you. There's a sh
 
 > Here is a break in the tyrannical course of irreparable events; a period in which to look round upon the world and upon oneself without the sense of an enemy at one’s back or the insistent pressure to make up one’s mind; a moment in which to taste the mystery without the necessity of at once seeking a solution.
 
-There's a fun debate on the liberal arts on the Moment of Zen podcast and one of the memes was, "you can literally just read [the classics]" on your own time. I mean, sort of... With a good study guide you can slog your way through the *Divine Comedy* and other similarly dense texts, but how much richer to do it with an excellent professor and a lively class discussion? Because you can flip this flippant statement to: "why would you spend your college years learning CS when you can do that on your own time with some videos?"
+There's a fun debate on the liberal arts on the Moment of Zen podcast[^3], and one of the memes was, "you can literally just read [the classics]" on your own time. I mean, sort of... With a good study guide you can slog your way through the *Divine Comedy* and other similarly-dense texts, but how much more effectively and richer to do it with an excellent professor and a lively class discussion? Because you could aim this flippant statement in the other direction: "why would you spend your college years learning computer science when you can do that on your own time with some videos and AI tools?"
+
+[^3]: [E28: Katherine Boyle and Mike Solana on Liberal Arts Debate, Tech Culture, and Saving San Francisco](https://www.podpage.com/moment-of-zen-1/e28-katherine-boyle-and-mike-solana-on-liberal-arts-debate-tech-culture-and-saving-san-francisco/), *Moment of Zen* podcast; June 17, 2023.
 
 I'm something of a *Dead Poet's Society* romantic: I love the scholastic environment, the world of ideas, and I selfishly couldn't've imagined mortgaging my undergrad years for an accounting degree. At least at my alma mater, where there was so much on offer, to relegate the undergrad experience to vocational training strikes me as very sad. But nothing against accounting: the world needs excellent accountants; it's just not my particular calling. But the point here is how to think about true erudition versus job training, and how—and perhaps when—to accomplish each. Can future accountants spend time seriously immersed in the liberal arts before focusing on debits and credits, or should we leave that for others?
 
@@ -81,9 +85,9 @@ But does it have to be all or nothing? A thoughtfully constructed, integrated li
 
 ## Teleologically speaking
 
-We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models. Chelsea Niemiec from the University of Dallas summarizes the issue[^2]:
+We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models. Chelsea Niemiec from the University of Dallas summarizes the issue[^4]:
 
-[^2]: Ibid.
+[^4]: ["The Decline of Liberal Arts and Humanities"](https://www.wsj.com/articles/the-decline-of-liberal-arts-and-humanities-western-philosophy-college-students-major-degrees-progressive-conservative-odysseus-6f327963), *Wall Street Journal*; March 28, 2023.
 
 > In the late 19th century, a series of progressive thinkers...set our country up to abandon a tried-and-true way of educating students in wisdom and virtue through the liberal arts and adopt a factory model meant to produce workers. The result? Plummeting reading and math scores and soaring anxiety and depression among students.
 
