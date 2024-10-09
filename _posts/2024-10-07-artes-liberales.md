@@ -17,7 +17,7 @@ You can hardly blame the average american student/family for thinking about retu
 But ancient societies (e.g., classical Greece) placed great emphasis on cultivating virtue and excellence *(arete)* as the path to a fulfilling life. Aristotle, for example, argued that the highest good was *eudaimonia,* a life of cultivating virtue (wisdom, courage, justice, temperance, etc.) that leads ultimately to happiness.
 
 <center>
-<img src="/assets/og/post_still-life-three-books.png" alt="Still Life with Three Books - Vincent van Gogh, 1887"></a>
+<img src="/assets/og/post_still-life-three-books.png" alt="Still Life with Three Books - Vincent van Gogh, 1887">
 <span class="muted small"><i>Still Life with Three Books.</i> Vincent van Gogh, 1887.</span>
 </center>
 
