@@ -6,13 +6,13 @@ author:	Paul Berens
 ---
 When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" *Philosophy consulting, I guess?*
 
-Truth is I didn't really have a five-year plan post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely captivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets *(ars artis gratia)*.
+Truth is I didn't really have a five-year plan post graduation—although I did quickly figure out I wasn't interested in pursuing graduate studies in Philosophy with all those weirdos—I was merely motivated by the prospect of reading the great tomes of western civilization with these nerdy professors in tweed jackets *(ars artis gratia)*.
 
-Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and a corresponding decline in the liberal arts[^1].
+Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and corresponding decline in the liberal arts[^1].
 
 [^1]: National Center for Education Statistics: from 2012 to 2020, graduates in the humanities declined by 30%. ["The Decline of Liberal Arts and Humanities"](https://www.wsj.com/articles/the-decline-of-liberal-arts-and-humanities-western-philosophy-college-students-major-degrees-progressive-conservative-odysseus-6f327963), *Wall Street Journal*; March 28, 2023.
 
-You can hardly blame the average american student/family for thinking about return on investment when tuition has been outpacing wages for years (cost side), and certain non-humanities degrees align with lucrative careers (revenue side).
+You can hardly blame the average american student/family for thinking about return on investment when tuition has been outpacing wages for years (cost side), and certain non-humanities degrees better align with certain lucrative careers (revenue side).
 
 But ancient societies (e.g., classical Greece) placed great emphasis on cultivating virtue and excellence *(arete)* as the path to a fulfilling life. Aristotle, for example, argued that the highest good was *eudaimonia,* a life of cultivating virtue (wisdom, courage, justice, temperance, etc.) that leads ultimately to happiness.
 
@@ -45,22 +45,23 @@ But beyond being a good citizen what good is the liberal arts education?
 
 	> At a time when politics deals in distortions and half truths, truth is to be found in the liberal arts. There's something afoot in this country and you are very much a part of it.
 
-
-- ***emollit mores nec sinit esse feros*** (i.e., *a faithful study of the liberal arts humanizes character and permits it not to be cruel*). This should link to a future post about cancel culture and how we perceive good and evil, but essentially, the more learned people are, the more understanding.
+- ***emollit mores nec sinit esse feros*** (i.e., *a faithful study of the liberal arts humanizes character and permits it not to be cruel.)* This should link to a future post about cancel culture and how we perceive good and evil, but essentially, the more learned people are, the more understanding.
 
 - **Specialization is for insects.** While certain specialties may command a wage premium,
 	1. they can go out of fashion as easily as they came in
 	2. humans are too interesting and dynamic and talented to specialize at age 20.
 
-	I love this one from Robert Heinlein:
+	A great one from Robert Heinlein:
 
 	> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
+	
+	It's true. When I conduct my *which __ people, living or dead, would you invite to dinner?* thought experiment, most I'd select are polymaths: Leonardo da Vinci, Ben Franklin, Lewis Carroll, Teddy Roosevelt, Martin Luther King Jr., et al.
 
-- **Expertise?** A bachelor degree making you an expert in...nothing. Which is a good thing. That you have the space to become a broadly educated person is a good thing. Subsequently life will present you ample opportunities to build domains of expertise.
+- **Expertise?** Let's face it: a bachelor's degree makes one an expert in nothing. And this is not a bad thing: that you have the space to first become a broadly educated person as life will present ample opportunities to build domains of expertise.
 
 ## So should you study the liberal arts?
 
-If possible, yes, and before the system beats the curiosity out of you. There's a short amount of time to read the great texts and study the great thinkers and become learned, so that you can begin to whittle things down to that which is truly valuable and that which is not; and begin to build mental models and frameworks to become a thinking person. Michael Oakeshott puts it well regarding college:
+Decidely yes, and before the system beats the curiosity out of you. There's a short amount of time to read the great texts and study the great thinkers and become learned, so that you can begin to whittle things down to that which is truly valuable and that which is not; and begin to build mental models and frameworks to become a thinking person. Michael Oakeshott puts it well regarding college:
 
 > Here is a break in the tyrannical course of irreparable events; a period in which to look round upon the world and upon oneself without the sense of an enemy at one’s back or the insistent pressure to make up one’s mind; a moment in which to taste the mystery without the necessity of at once seeking a solution.
 
