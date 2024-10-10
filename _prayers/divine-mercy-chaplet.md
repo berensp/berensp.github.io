@@ -16,7 +16,6 @@ category: Miscellany
 </ul>
 
 ## First Decade
-1. *Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world.*
 <ul style="list-style:none">
   <li><input type="checkbox"/>Eternal Father, I offer You the Body and Blood, Soul and Divinity of Your dearly beloved Son, Our Lord Jesus Christ, in atonement for our sins and those of the whole world.</li>
   <li><input type="checkbox"/>For the sake of His sorrowful Passion, have mercy on us and on the whole world.</li>
