@@ -1,12 +1,14 @@
 ---
 layout: post
-title: De Artibus Liberalibus
+title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
 When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?"
 
-It was a darn good question to which I didn't have a great answer. Because even though I was honorably motivated by *ars artis gratia* (reading the great tomes of western civilization with these nerdy professors in tweed jackets for its own sake), it's a little toffee-nosed for someone who wasn't royalty and would need to be workin' for a livin' after graduation to deliver that answer. I never intended to pursue graduate studies in Philosophy (with all those weirdos), and truth is I didn't really have a five-year plan post graduation beyond some vague ideas about "business", but I wasn't sweatin' it as there was this idea that you could and should study what you fancy.
+It's an honest question to which I didn't have a great answer. Because even though I was honorably motivated by *ars artis gratia* (
+
+Well, the real answer was that I was hoping to become reasonably educated through reading the great tomes of western civilization through the tutelege nerdy professors in tweed jackets for its own sake), it's a little toffee-nosed for someone who wasn't royalty and would need to be workin' for a livin' after graduation to deliver that answer. I never intended to pursue graduate studies in Philosophy (with all those weirdos), and truth is I didn't really have a five-year plan post graduation beyond some vague ideas about "business", but I wasn't sweatin' it as there was this idea that you could and should study what you fancy.
 
 Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and corresponding decline in the liberal arts[^1].
 
@@ -27,7 +29,7 @@ Which is there value in a liberal arts education?
 
 ## Pro Artibus Liberalibus
 
-- **Our democracy requires it.** I often walked past this beautiful epigraph on the Boylston Street side of the Boston Public Library in Copley Square: *THE COMMONWEALTH REQUIRES THE EDUCATION OF THE PEOPLE AS THE SAFEGUARD OF ORDER AND LIBERTY*. Do we still believe this? If so, do we say it and impress it upon the public? Jefferson articulated a similar sentiment in one of his letters to Madison in 1787:
+- **Our democracy requires it.** I often walked past this beautiful epigraph on the Boylston Street side of the Boston Public Library in Copley Square: *THE COMMONWEALTH REQUIRES THE EDUCATION OF THE PEOPLE AS THE SAFEGUARD OF ORDER AND LIBERTY*. Do we still believe this? If so, do we say it and impress it upon the public? Thomas Jefferson articulated a similar sentiment in one of his letters to Madison in 1787:
 
 	> Above all things I hope the **education** of the common people **will be attended to**; convinced that on their good sense we may rely with the most security **for the preservation of a due degree of liberty**.
 
@@ -69,9 +71,9 @@ Which is there value in a liberal arts education?
 
 - **China is in favor of you getting a history degree.** America is used to being on top economically, but global competition is only increasing and many graduates will find it harder to have many good options in the future. It's not exactly fair, but if you study history at Biola University and aren't valedictorian, you may be kind of screwed. That's a supercilious and facetious way to put it, but also true: you can get away with studying Renaissance Literature at Yale because you were certified (on your college acceptance letter) as having the intellectual horsepower to do all kinds of things in the future.
 
-- **Taxpayers shouldn't be footing the bill.** Continuing from the last point, if the markets don't demand it, we shouldn't be subsidizing it: i.e., the students loans, tax exempt statuses of universities, etc. America hasn't invested in community colleges and vocational schools to the extent we need to, and a shifting of dollars could potentially incent the right behaviors. Again, there's a narrative that everyone needs a four-year degree when the truth of the matter is that some students would be better suited with a more technical, and cost-effective education. Again, not fair, but if you or your family has the cash, there's an art history degree available for you from a private college, and the 30-year ROI might not be there; but that's not the concern of the state.
+- **Taxpayers shouldn't be footing the bill.** Continuing from the last point, if the markets don't demand it, we shouldn't be subsidizing it: i.e., the students loans, tax exempt statuses of universities, etc. America hasn't invested in community colleges and vocational schools to the extent we need to, and a shifting of dollars could potentially incent the right behaviors. Again, there's a narrative that everyone needs a four-year degree when the truth of the matter is that some students would be better suited with a more technical, and cost-effective education. Again, not fair, but if you or your family has the cash, there's an art history degree available for you from a private college, and the 30-year ROI might not be there; but that's not the concern of the state. The other tack is to address the outrageous cost of a four-year 
 
-- **Just get your history degree for $1.50 in late fees.** There's a fun debate on the liberal arts on the Moment of Zen podcast[^3], and one of the memes was, "you can literally just read [the classics]" on your own time. This is a weak argument. I mean, yes, with some resolve and the help of a good study guide you could slog your way through, for example, the *Divine Comedy* and other similarly-dense texts, but how much more effectively and richer to do it with an excellent professor and a lively class discussion? Because you could redirect this flippant statement in the other direction: why would you spend your college years learning computer science when *a)* you can do that on your own time with some videos and AI tools and *b)* the programming languages and tools you learn in those years will be obsolete in five to ten yeras anyway.
+- **Just get your history degree for $1.50 in late fees.** There's a fun debate on the liberal arts on the Moment of Zen podcast[^3], and one of the memes was, "you can literally just read [the classics]" on your own time. This is a weak argument. I mean, yes, with some resolve and the help of a good study guide you could slog your way through, for example, the *Divine Comedy* and other similarly-dense texts, but how much more effectively and richer to do it with an excellent professor and a lively class discussion? Because you could redirect this flippant statement in the other direction: why would you spend your college years learning computer science when *a)* you can do that on your own time with some videos and AI tools and *b)* the programming languages and tools you learn in those years will be obsolete in five to ten years anyway.
 
 [^3]: [E28: Katherine Boyle and Mike Solana on Liberal Arts Debate, Tech Culture, and Saving San Francisco](https://www.podpage.com/moment-of-zen-1/e28-katherine-boyle-and-mike-solana-on-liberal-arts-debate-tech-culture-and-saving-san-francisco/), *Moment of Zen* podcast; June 17, 2023.
 
@@ -79,20 +81,24 @@ Which is there value in a liberal arts education?
 
 ## Final Analysis
 
-For me the scorecard lands on the side of true erudition (the liberal arts education) over job training...but in a qualified way. If we know what we want, we can do it all: kids emerge from the university fully formed scholastically, but also ready to jump into the workforce and contribute. Many schools try to do this, but a thoughtfully constructed, highly rigorous, and integrated liberal arts core curriculum (the *Ratio Studiorum,* if you will), may not be such a bad runner-up to a liberal arts degree. It whets the appetites of those who will then delve into the world of ideas via Philosophy, English, etc.; and the accounting majors at least have the substratum that they'll hopefully build upon whenver and however they might.
+If you think about the arguments against, they're centered around cost and ROI. Which is understandable, but also solvable, and not as important as what's at stake with the proper education of our nation. And so, for me the scales tip toward the liberal arts...but in a qualified way.
+
+If we know what we want, we can do it all: kids emerge from the university fully formed and erudite, but also ready to jump into the workforce and contribute. Many schools try to do this, but a thoughtfully constructed, highly rigorous, and integrated liberal arts core curriculum (the *Ratio Studiorum,* if you will), may not be such a bad runner-up to a liberal arts degree. It whets the appetites of those who will then delve into the world of ideas via Philosophy, English, etc.; and the accounting majors at least have the substratum that they'll hopefully build upon whenver and however they might, and won't have mortgaged the entirety of their undergraduate years to job training.
 
 <center>
 <img src="/assets/og/post_dead-poets-society.png" alt="Dead Poets Society, 1989">
 <span class="muted small">Dead Poets Society, 1989.</span>
 </center>
 
-We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models. Chelsea Niemiec from the University of Dallas summarizes the issue[^4]:
+We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models, because how we learn and what we gear into starts at a young age. Chelsea Niemiec from the University of Dallas summarizes the issue[^4]:
 
 [^4]: ["The Decline of Liberal Arts and Humanities"](https://www.wsj.com/articles/the-decline-of-liberal-arts-and-humanities-western-philosophy-college-students-major-degrees-progressive-conservative-odysseus-6f327963), *Wall Street Journal*; March 28, 2023.
 
 > In the late 19th century, a series of progressive thinkers...set our country up to abandon a tried-and-true way of educating students in wisdom and virtue through the liberal arts and adopt a factory model meant to produce workers. The result? Plummeting reading and math scores and soaring anxiety and depression among students.
 
-And so we have our son enrolled at a Catholic Classical school. Which is compelling from the standpoint of focusing on the liberal arts and their integration. But additionally, for us, everything connects back to Jesus Christ for *Gloria enim Dei vivens homo* ("The glory of God is man fully alive"), and we are alive insofar as we grow intellectually, morally, and spiritually through the pursuit of truth, beauty, and goodness.
+And so we have our son enrolled at a Catholic Classical school, which is compelling from the standpoint of focusing on the liberal arts (trivium and so forth) and their integration, and which hopefully engenders a love of knowledge.
+
+But additionally, for us, everything connects back to Jesus Christ for *Gloria enim Dei vivens homo* ("The glory of God is man fully alive"), and we are alive insofar as we grow intellectually, morally, and spiritually through the pursuit of truth, beauty, and goodness.
 
 Ad lucem,
 
