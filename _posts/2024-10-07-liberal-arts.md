@@ -4,11 +4,7 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?"
-
-It's an honest question to which I didn't have a great answer. Because even though I was honorably motivated by *ars artis gratia* (
-
-Well, the real answer was that I was hoping to become reasonably educated through reading the great tomes of western civilization through the tutelege nerdy professors in tweed jackets for its own sake), it's a little toffee-nosed for someone who wasn't royalty and would need to be workin' for a livin' after graduation to deliver that answer. I never intended to pursue graduate studies in Philosophy (with all those weirdos), and truth is I didn't really have a five-year plan post graduation beyond some vague ideas about "business", but I wasn't sweatin' it as there was this idea that you could and should study what you fancy.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh, what are you going to do with that?" It's a fair question and the honest answer was that I was hoping to become reasonably well-educated through the great tomes of western civilization and the tutelege of nerdy professors in tweed jackets, but that answer is a bit toffee-nosed for someone who isn't royalty and would need to be workin' for a livin' after graduation. I never intended to pursue graduate studies in Philosophy (with all those weirdos), and, truth be told, I didn't really have a five-year plan post graduation beyond some vague ideas about "business," but I wasn't sweatin' it as there was this idea that you could and should study what you fancy *(ars artis gratia)*.
 
 Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and corresponding decline in the liberal arts[^1].
 
@@ -25,9 +21,9 @@ But ancient societies (e.g., classical Greece) placed great emphasis on cultivat
 
 Contrast that to modern societies like that of the U.S. which prioritize safety and economic prosperity as the two paramount metrics of social success—good things in themselves to be sure—because anything beyond these are entirely subjective. This relegating of government to safety and prosperity is an Enlightenment "achievement" (i.e. not a new thing), but the difference is that in the 18th century, the assumption was that religion would fill in the gaps (regarding virtue). For example, "pursuit of happiness" didn't need to be spelled out in "life, liberty, and the pursuit of happiness" since God-fearing people had their Christian faith to inform them about *what* is happiness—if not eudaimonia—and *how* might we pursue it. But now that religion has been seriously attenuated in the West, the void produces a voluntaristic collision of wills, which leads straight to violence/war (Nietzsche figured this out a long time ago).
 
-Which is there value in a liberal arts education?
+And so is there value in a liberal arts education?
 
-## Pro Artibus Liberalibus
+## Pro artibus liberalibus
 
 - **Our democracy requires it.** I often walked past this beautiful epigraph on the Boylston Street side of the Boston Public Library in Copley Square: *THE COMMONWEALTH REQUIRES THE EDUCATION OF THE PEOPLE AS THE SAFEGUARD OF ORDER AND LIBERTY*. Do we still believe this? If so, do we say it and impress it upon the public? Thomas Jefferson articulated a similar sentiment in one of his letters to Madison in 1787:
 
@@ -65,7 +61,7 @@ Which is there value in a liberal arts education?
 
 - **Expertise?** Let's face it: a bachelor's degree makes one an expert in nothing. And this is not a bad thing: that you have the space to first become a broadly educated person as life will present ample opportunities to build domains of expertise.
 
-## Contra Artibus Liberalibus
+## Contra artibus liberalibus
 
 - **Your history degree is cool until a recession.** It's true: when I graduated unemployment was at a 30-year low. Compare that to those who graduated during the '07-'08 global financial crisis with a mountain of student loan debt and dire chances at finding gainful employment.
 
@@ -79,7 +75,7 @@ Which is there value in a liberal arts education?
 
 - **The liberal arts are no longer liberal.** A point argued by many including Allan Bloom in in *Closing of the American Mind,* that "value relativism," which has transformed into *wokeism* in our time, has plagued the American university. It's a fair point: if the liberal arts degree has more to do with indoctrination than free inquiry, to hell with it. Social psychologist Jonathan Haidt has spent a lot of effort quantifying the effects of political polarization in the university, and with the "Woke Left" running the Right out of town.
 
-## Final Analysis
+## In the final analysis
 
 If you think about the arguments against, they're centered around cost and ROI. Which is understandable, but also solvable, and not as important as what's at stake with the proper education of our nation. And so, for me the scales tip toward the liberal arts...but in a qualified way.
 
