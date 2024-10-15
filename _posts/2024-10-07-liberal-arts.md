@@ -4,7 +4,9 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
-When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh? What are you going to do with that?" It's a fair question, and the honest answer was that I was hoping to emerge reasonably well-educated through the great tomes of western civilization and the tutelege of some nerdy professors in tweed jackets, but that answer is a bit toffee-nosed for someone who isn't high-born and would be workin' for a livin' after graduatin'. I never intended to pursue graduate studies in Philosophy (with all those weirdos), and, truth be told, I didn't really have a firm five-year plan post-graduation beyond some vague idea about "business," but I wasn't sweatin' it as there was this refrain that you could and should study what you fancy *(ars artis gratia)*.
+When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive "Oh? What are you going to do with that?"
+
+A fair question, and the honest answer (in my head) was that I was hoping to emerge reasonably well-educated through the great tomes of western civilization and the tutelege of some nerdy professors in tweed jackets, but to utter that aloud might be a bit toffee-nosed for someone who isn't high-born and would be workin' for a livin' after graduatin'. So I think I typically conveyed some vague intention to go into "business," but I wasn't sweatin' it as there was this refrain that you could and should study what you fancy *(ars artis gratia)*.
 
 Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has not surprisingly represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and corresponding decline in the liberal arts[^1].
 
@@ -73,7 +75,7 @@ And so let's enumerate the merits of the liberal arts education:
 
 [^3]: [E28: Katherine Boyle and Mike Solana on Liberal Arts Debate, Tech Culture, and Saving San Francisco](https://www.podpage.com/moment-of-zen-1/e28-katherine-boyle-and-mike-solana-on-liberal-arts-debate-tech-culture-and-saving-san-francisco/), *Moment of Zen* podcast; June 17, 2023.
 
-- **The liberal arts are no longer liberal.** A point argued by many including Allan Bloom in in *Closing of the American Mind,* that "value relativism," which has transformed into *wokeism* in our time, has plagued the American university. It's a fair point: if the liberal arts degree has more to do with indoctrination than free inquiry, to hell with it. More recently, social psychologist Jonathan Haidt has demonstrated the deleterious effects of political polarization in the university with the "Woke Left" running the conservatives right out of town.
+- **The liberal arts are no longer liberal.** A point argued by many including Allan Bloom in *Closing of the American Mind,* that "value relativism," which has transformed into *wokeism* in our time, has plagued the American university. It's a fair point: if the liberal arts degree has more to do with indoctrination than free inquiry, to hell with it. More recently, social psychologist Jonathan Haidt has demonstrated the deleterious effects of political polarization in the university with the "Woke Left" running the conservatives right out of town.
 
 ## In the final analysis
 
@@ -92,7 +94,7 @@ We've been talking about the university, but it's important to go back to the pr
 
 > In the late 19th century, a series of progressive thinkers...set our country up to abandon a tried-and-true way of educating students in wisdom and virtue through the liberal arts and adopt a factory model meant to produce workers. The result? Plummeting reading and math scores and soaring anxiety and depression among students.
 
-And so we have our son enrolled at a Catholic Classical school, which is compelling from the standpoint of weaving the liberal arts together (via the *trivium* and so forth), and which hopefully engenders a love of knowledge.
+And so we have our son enrolled at a Catholic Classical school, which is compelling from the standpoint of its mission to weave together the liberal arts (via the *trivium* and so forth), hopefully engendering a love of learning and knowledge.
 
 But additionally, for us, everything connects back to Jesus Christ *(Logos)*, for *Gloria enim Dei vivens homo* ("The glory of God is man fully alive"), and we are alive insofar as we grow intellectually, morally, and spiritually through the pursuit of truth, beauty, and goodness.
 
