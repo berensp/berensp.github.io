@@ -4,7 +4,7 @@ title: Heav'n Rescued Land
 date: 2024-07-04
 author:	Paul Berens
 ---
-To celebrate this gorgeous Independence Day Weekend weather, I did my [default running route](/run/ggp-moraga/), which takes me through Golden Gate Park. And when I passed the Grove of Memory (a.k.a. Doughboy Meadow), some vague patriotism deep within drew me over to the statue that honors the dead of the two world wars.
+To celebrate this gorgeous Independence Day Weekend weather, I did my [default running route](/runs/ggp-moraga/), which takes me through Golden Gate Park. And when I passed the Grove of Memory (a.k.a. Doughboy Meadow), some vague patriotism deep within drew me over to the statue that honors the dead of the two world wars.
 
 ![doughboy WWI/WWII memorial statue](/assets/og/doughboy.png)
 
@@ -25,7 +25,7 @@ Everyone knows the *Star Spangled Banner*, but who wouldn't be hard-pressed to r
 
 Probably most notable for giving us our *In God We Trust* motto, but the "heav'n rescued land" and "preserv'd us a nation" are particularly striking: this young nation requires not only our blood but also Providence.
 
-In this way, I'm reminded of [*Founding Brothers*](/book/founding-brothers), because one prominent theme and key takeaway is that the long-term prosperity of United States was not a foregone conclusion. Even though we look back and see this straight line from the colonial era to the revolutionary war and through to the founding of the country; there were sundry opinions and disagreement on every matter of any consequence, and, frankly, it was sort of touch and go for a while there with several issues having the potential to undo the entire American project (e.g., the slavery debate, Federalism vs. Republicanism).
+In this way, I'm reminded of [*Founding Brothers*](/books/founding-brothers), because one prominent theme and key takeaway is that the long-term prosperity of United States was not a foregone conclusion. Even though we look back and see this straight line from the colonial era to the revolutionary war and through to the founding of the country; there were sundry opinions and disagreement on every matter of any consequence, and, frankly, it was sort of touch and go for a while there with several issues having the potential to undo the entire American project (e.g., the slavery debate, Federalism vs. Republicanism).
 
 Which then makes me think of our republic today: that even though we're almost 250 years into this political experiment—which we now take for granted and expect continued success (Newton's First Law of Motion)—when you look around the globe and through democracy's relatively short history, the whole thing is incredibly fragile.
 
