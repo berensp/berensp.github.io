@@ -8,7 +8,7 @@ When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to g
 
 A fair question, and the honest answer (in my head) was that I was hoping to emerge reasonably well-educated through the great tomes of western civilization and the tutelege of some nerdy professors in tweed jackets, but to utter that aloud might be a bit toffee-nosed for someone who isn't high-born and would be workin' for a livin' after graduatin'. So I think I typically conveyed some vague intention to go into "business," but I wasn't sweatin' it as there was this refrain that you could and should study what you fancy *(ars artis gratia)*.
 
-Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has not surprisingly represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM and corresponding decline in the liberal arts[^1].
+Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has not surprisingly represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM degrees and concomitant decline in the liberal arts[^1].
 
 [^1]: National Center for Education Statistics: from 2012 to 2020, graduates in the humanities declined by 30%. ["The Decline of Liberal Arts and Humanities"](https://www.wsj.com/articles/the-decline-of-liberal-arts-and-humanities-western-philosophy-college-students-major-degrees-progressive-conservative-odysseus-6f327963), *Wall Street Journal*; March 28, 2023.
 
@@ -23,7 +23,7 @@ But ancient societies (e.g., classical Greece) placed great emphasis on cultivat
 
 Contrast that to modern societies like that of the U.S. which prioritize safety and economic prosperity as the two paramount metrics of social success, because anything beyond these are subjective and matters of taste. This relegating of government to safety and prosperity is an Enlightenment "achievement" (i.e., not a new thing), but the difference is that in the 18th century, the assumption was that religion would fill in the gaps (regarding virtue). For example, "pursuit of happiness" didn't need to be spelled out in "life, liberty, and the pursuit of happiness" since the assumption was that God-fearing people had their Christian faith to inform them about *what* is happiness—if not eudaimonia—and *how* might they pursue it. But now that religion has been seriously attenuated in the West, the void produces a voluntaristic collision of wills, which leads straight to violence/war (Nietzsche et al. figured this out a long time ago).
 
-And so let's enumerate the merits of the liberal arts education:
+Let's enumerate the merits and faults of the liberal arts education:
 
 ## Pro artibus liberalibus
 
