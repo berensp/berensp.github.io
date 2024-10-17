@@ -5,13 +5,11 @@ permalink: /blog/
 description: ✍
 ---
 
-{% assign content = content | strip_newlines %}
-{% if content != "" %}
-  {{ content }}
-{% endif %}
+{% comment %}
+This will clear any content that might be pulled in from elsewhere
+{% endcomment %}
+{% assign content = "" %}
 
-{%- if site.posts.size > 0 -%}
-## {{ page.list_title | default: "Posts" }}
 <ul class="post-list">
   {%- for post in site.posts -%}
   <li>
@@ -19,7 +17,6 @@ description: ✍
   </li>
   {%- endfor -%}
 </ul>
-{%- endif -%}
 
 ## Can I get these via email?
 
