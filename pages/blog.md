@@ -4,21 +4,27 @@ title: Posts
 permalink: /blog/
 description: ✍
 ---
-{{ content }}
+
+{% assign content = content | strip_newlines %}
+{% if content != "" %}
+  {{ content }}
+{% endif %}
 
 {%- if site.posts.size > 0 -%}
-  # {{ page.list_title | default: "Posts" }}
-  {% for post in site.posts %}
-  - [{{ post.title | escape }}]({{ post.url | relative_url }})
-  {% endfor %}
+## {{ page.list_title | default: "Posts" }}
+<ul class="post-list">
+  {%- for post in site.posts -%}
+  <li>
+    <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+  </li>
+  {%- endfor -%}
+</ul>
 {%- endif -%}
 
 ## Can I get these via email?
 
 Most definitely, my friend.
 
-<a class="muted small" href="/">{{ site.title | escape }}</a>
-<main>
 <div id="mc_embed_signup">
     <form action="https://berens.us17.list-manage.com/subscribe/post?u=488257f22066b5de5ab8818a3&amp;id=feebd26a5e&amp;f_id=000b15e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll" style="display: flex; align-items: center;">
@@ -34,5 +40,3 @@ Most definitely, my friend.
         </div>
     </form>
 </div>
-{%- include footer.html -%}
-</main>
