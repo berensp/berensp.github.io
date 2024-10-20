@@ -3,7 +3,6 @@ layout: page
 title: Today
 permalink: /today/
 ---
-
 <h2 id="current-date">Loading...</h2>
 <ul>
   <li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
@@ -11,12 +10,12 @@ permalink: /today/
   <li>🎈 <strong>Birthday:</strong> <span id="b-day">Loading...</span></li>
   <li>📝 <strong>Quote:</strong> [forthcoming]</li>
   <li>📻 <strong>Song:</strong> [forthcoming]</li>
+  <li>📖 <strong>Daily Readings:</strong> <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
 </ul>
 <h2>Quotidie</h2>
 <ul id="quotidie-list">
   <li>Loading...</li>
 </ul>
-
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
@@ -48,9 +47,18 @@ document.addEventListener('DOMContentLoaded', function() {
       li.innerHTML = task.task;
       quotidieList.appendChild(li);
     });
+
+    // Update USCCB Daily Readings link
+    const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
+    const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
+    const dailyReadingsLink = document.getElementById('daily-readings');
+    dailyReadingsLink.href = usccbLink;
+    dailyReadingsLink.textContent = 'USCCB Daily Readings';
+
     console.log('Current Pacific Time:', pacificTime.toLocaleString());
     console.log('Lookup date for events, feasts, bdays:', currentDate);
     console.log('Current day for Quotidie:', currentDay);
+    console.log('USCCB Date:', usccbDate);
   }
   updateTimeElements();
   setInterval(updateTimeElements, 60000);
