@@ -28,7 +28,7 @@ Say hello on your favorite messaging app:
 - ~~[iMessage](/phones/)~~
 - ~~[Facebook/Instagram](../fb)~~
 
-## But why so many apps?
+## Why so many apps?
 
 ![the answer](/assets/og/xkcd_chat_systems.png)
 <a class="muted small" href="https://xkcd.com/1810/" target="_blank">"Chat Systems" (#1810)</a><span class="muted small"> by Randall Munroe, xkcd.com.</span>
