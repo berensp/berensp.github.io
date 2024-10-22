@@ -75,14 +75,14 @@ function updateRosaryInfo() {
         <li>
           <input type="checkbox" id="paternoster-${index + 1}"/>
           <label for="paternoster-${index + 1}">
-            <a href="/prayers/pater-noster/">Pater Noster</a>
+            <a href="/prayers/pater-noster/">Our Father</a>
           </label>
         </li>
         ${Array(10).fill().map((_, i) => `
           <li>
             <input type="checkbox" id="hailmary-${index + 1}-${i + 1}"/>
             <label for="hailmary-${index + 1}-${i + 1}">
-              <a href="/prayers/ave-maria/">Ave Maria</a>
+              <a href="/prayers/ave-maria/">Hail Mary</a>
             </label>
           </li>
         `).join('')}
