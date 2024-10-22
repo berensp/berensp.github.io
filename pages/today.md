@@ -5,12 +5,12 @@ permalink: /today/
 ---
 <h2 id="current-date">Loading...</h2>
 <ul>
-  <li>📆 <strong>Event:</strong> <span id="daily-event">Loading...</span></li>
-  <li>🕯️ <strong>Feast:</strong> <span id="feast-day">Loading...</span></li>
-  <li>🎈 <strong>Birthday:</strong> <span id="b-day">Loading...</span></li>
-  <li>📝 <strong>Quote:</strong> [forthcoming]</li>
-  <li>📻 <strong>Song:</strong> [forthcoming]</li>
-  <li>📖 <strong>Daily Readings:</strong> <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
+  <span id="event-container"></span>
+  <li>🕯️ <span id="feast-day">Loading...</span></li>
+  <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
+  <span id="birthday-container"></span>
+  <li>📝 [forthcoming]</li>
+  <li>📻 [forthcoming]</li>
 </ul>
 <h2>Quotidie</h2>
 <ul id="quotidie-list">
@@ -31,14 +31,26 @@ document.addEventListener('DOMContentLoaded', function() {
     const currentDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit' }).replace('/', '-');
     const currentDay = pacificTime.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
     
+    // Handle daily event
     const event = siteData.daily_events.find(e => e.date === currentDate);
-    document.getElementById('daily-event').innerHTML = event ? event.event : "No specific event today";
+    const eventContainer = document.getElementById('event-container');
+    if (event) {
+      eventContainer.innerHTML = `<li>📆 <span id="daily-event">${event.event}</span></li>`;
+    } else {
+      eventContainer.innerHTML = '';
+    }
     
     const feast = siteData.feast_days.find(f => f.date === currentDate);
     document.getElementById('feast-day').innerHTML = feast ? feast.feast : "No feast day today";
     
+    // Handle birthday
     const birthday = siteData.bdays.find(b => b.date === currentDate);
-    document.getElementById('b-day').innerHTML = birthday ? birthday.bday : "Today is an unbirthday";
+    const birthdayContainer = document.getElementById('birthday-container');
+    if (birthday) {
+      birthdayContainer.innerHTML = `<li>🎈 <span id="b-day">${birthday.bday}</span></li>`;
+    } else {
+      birthdayContainer.innerHTML = '';
+    }
     
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
@@ -53,7 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
     const dailyReadingsLink = document.getElementById('daily-readings');
     dailyReadingsLink.href = usccbLink;
-    dailyReadingsLink.textContent = 'USCCB Daily Readings';
+    dailyReadingsLink.textContent = 'Daily Readings';
 
     console.log('Current Pacific Time:', pacificTime.toLocaleString());
     console.log('Lookup date for events, feasts, bdays:', currentDate);
