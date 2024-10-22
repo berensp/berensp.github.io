@@ -16,12 +16,12 @@ category: Marian
 ## Opening
 
 <ul style="list-style:none">
-  <li><input type="checkbox"/><a href="/prayers/signum-crucis/">Signum Crucis</a></li>
-  <li><input type="checkbox"/><a href="/prayers/symbolum-apostolorum/">Symbolum Apostolorum</a></li>
-  <li><input type="checkbox"/><a href="/prayers/pater-noster/">Pater Noster</a></li>
-  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Ave Maria</a></li>
-  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Ave Maria</a></li>
-  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Ave Maria</a></li>
+  <li><input type="checkbox"/><a href="/prayers/signum-crucis/">Sign of the Cross</a></li>
+  <li><input type="checkbox"/><a href="/prayers/symbolum-apostolorum/">Apostle's Creed</a></li>
+  <li><input type="checkbox"/><a href="/prayers/pater-noster/">Our Father</a></li>
+  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Hail Mary</a></li>
+  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Hail Mary</a></li>
+  <li><input type="checkbox"/><a href="/prayers/ave-maria/">Hail Mary</a></li>
   <li><input type="checkbox"/><a href="/prayers/gloria-patri/">Gloria Patri</a></li>
 </ul>
 
@@ -30,7 +30,7 @@ category: Marian
 ## Closing
 
 <ul style="list-style:none">
-  <li><input type="checkbox"/><a href="/prayers/salve-regina/">Salve Regina</a></li>
+  <li><input type="checkbox"/><a href="/prayers/salve-regina/">Hail Holy Queen</a></li>
   <li><input type="checkbox"/><a href="/prayers/oratio-ad-finem/">Oratio ad Finem Rosarii Dicenda</a></li>
 </ul>
 
