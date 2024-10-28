@@ -9,8 +9,9 @@ permalink: /today/
   <li>🕯️ <span id="feast-day">Loading...</span></li>
   <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
   <span id="birthday-container"></span>
+  <span id="song-container"></span>
   <li>📝 [forthcoming]</li>
-  <li>📻 [forthcoming]</li>
+
 </ul>
 <h2>Quotidie</h2>
 <ul id="quotidie-list">
@@ -50,6 +51,16 @@ document.addEventListener('DOMContentLoaded', function() {
       birthdayContainer.innerHTML = `<li>🎈 <span id="b-day">${birthday.bday}</span></li>`;
     } else {
       birthdayContainer.innerHTML = '';
+    }
+
+
+    // Handle daily song
+    const dailysong = siteData.daily_song.find(s => s.date === currentDate);
+    const songContainer = document.getElementById('song-container');
+    if (dailysong) {
+      songContainer.innerHTML = `<li>📻 <span id="today-song"><a href="${dailysong.URL}" target="_blank">${dailysong.track}</a></span></li>`;
+    } else {
+      songContainer.innerHTML = '';
     }
     
     const quotidieList = document.getElementById('quotidie-list');

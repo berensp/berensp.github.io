@@ -7,6 +7,11 @@
   event: '🚀 <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">Space Shuttle Challenger disaster</a> (''86)'
 - date: "01-13"
   event: '<a href="/sf/">Commemoration of the move to San Francisco</a> (2010)'
+
+- date: "01-30"
+  event: '<a href="https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)" target="_blank">Bogside Massacre</a> (1972)'
+
+
 - date: "01-31"
   event: "National Hot Chocolate Day ☕"
 - date: "02-02"
@@ -17,6 +22,8 @@
   event: "World Nutella Day"
 - date: "02-09"
   event: "National Pizza Day 🍕, the world's greatest cuisine, according to this gastronome"
+- date: "02-10"
+  event: 'The 41st day of the year (#41)'
 - date: "02-14"
   event: "Happy St. Valentine's Day 💘"
 - date: "02-29"
@@ -24,7 +31,7 @@
 - date: "03-14"
   event: "Happy π Pi(e) Day!"
 - date: "03-15"
-  event: "Beware the Ides of March"
+  event: "Beware the Ides of March 🔪"
 - date: "03-17"
   event: "Happy St. Patrick's Day ☘"
 - date: "03-18"
@@ -45,6 +52,8 @@
   event: "🍷 Int'l Wine Day</i>"
 - date: "05-27"
   event: 'Happy Anniversary, 여보! <i>Nemo nisi mors.</i>'
+- date: "07-17"
+  event: 'National Cardiopulmonary Resuscitation Day'
 - date: "08-15"
   event: "Happy Feast of the Assumption!"
 - date: "09-17"
@@ -131,11 +140,13 @@
 - date: "11-01"
   event: 'Happy All Saints'' Day!'
 - date: "11-21"
-  event: '<a href="https://www.unesco.org/en/days/teachers" target="_blank">World Philosophy Day</a>'
+  event: '<a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a>'
 - date: "11-23"
   event: 'Doug Flutie''s Hail Mary (1984)'
+- date: "12-05"
+  event: "Happy St. Nick''s Eve—leave those shoes out!"
 - date: "12-06"
-  event: "🎅 Happy St. Nick's Day!"
+  event: "Happy St. Nick''s Day 🎅"
 - date: "12-17"
   event: '<a href="https://en.wikipedia.org/wiki/Wright_brothers#/media/File:Wright_First_Flight_1903Dec17_(full_restore_115).jpg" target="_blank">First flight</a> (1903)'
 - date: "12-24"
