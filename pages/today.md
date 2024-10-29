@@ -58,10 +58,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const dailysong = siteData.daily_song.find(s => s.date === currentDate);
     const songContainer = document.getElementById('song-container');
     if (dailysong) {
-      songContainer.innerHTML = `<li>📻 <span id="today-song"><a href="${dailysong.URL}" target="_blank">${dailysong.track}</a></span></li>`;
+      const baseUrl = "https://music.youtube.com/watch?v=";
+      songContainer.innerHTML = `<li>📻 <span id="today-song"><a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a></span></li>`;
     } else {
       songContainer.innerHTML = '';
     }
+
     
     const quotidieList = document.getElementById('quotidie-list');
     quotidieList.innerHTML = '';
