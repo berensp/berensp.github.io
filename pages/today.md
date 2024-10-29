@@ -10,7 +10,6 @@ permalink: /today/
   <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
   <span id="birthday-container"></span>
   <span id="song-container"></span>
-  <li>📝 [forthcoming]</li>
 
 </ul>
 <h2>Quotidie</h2>
