@@ -22,23 +22,23 @@ Let us pray. Pour forth, we beseech you, O Lord, your grace into our hearts: tha
 
 * * *
 
-℣. Angelus Domini anuntiavit Mariæ  
-℟. Et concepit de Spiritu Sancto.  
+℣. Angelus Dómini nuntiávit Maríæ.  
+℟. Et concépit de Spíritu Sancto.  
 [Ave Maria](/prayers/ave-maria/)
 
-℣. Ecce ancilla Domini,  
-℟. Fiat mihi secundum verbum tuum.  
+℣. Ecce ancílla Dómini,  
+℟. Fiat mihi secúndum verbum tuum.  
 [Ave Maria](/prayers/ave-maria/)
 
 ℣. Et Verbum caro factum est.  
-℟. Et habitavit in nobis.  
+℟. Et habitávit in nobis.  
 [Ave Maria](/prayers/ave-maria/)
 
-℣. Ora pro nobis, Sancta Dei Genitrix.  
-℟. Ut digni efficiamur promissionibus Christi.
+℣. Ora pro nobis, Sancta Dei Génetrix.  
+℟. Ut digni efficiámur promissiónibus Christi.
 
-Oremus.
+Orémus.
 
-Gratiam tuam, quæsumus, Domine, mentibus nostris infunde; ut qui, Angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et Crucem ad resurrectionis gloriam perducamur. Per eundem Christum Dominum nostrum.
+Grátiam tuam, quaésumus, Dómine, méntibus nostris infúnde; ut qui, ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem, ad resurrectiónis glóriam perducámur. Per eúndem Christum Dóminum nostrum.
 
 Amen.
