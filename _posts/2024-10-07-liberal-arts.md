@@ -6,7 +6,7 @@ author:	Paul Berens
 ---
 When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive *Oh? What pray tell are you going to do with that?*
 
-A fair question, and the honest answer (in my head) was that I was hoping to emerge reasonably well-educated through the great tomes of western civilization and the tutelage of some wild-haired professors in tweed jackets, but to utter that aloud might be a bit toffee-nosed for someone who wasn't high-born and would be workin' for a livin' after graduatin'. So I think I typically conveyed some vague intention to go into "business," but I wasn't overly anxious about it as there was this common refrain that you could and should study what you fancy *(ars artis gratia)*.
+A fair question, and the honest answer (in my head) was that I was hoping to emerge reasonably well-educated through the great tomes of western civilization and the tutelage of some wild-haired professors in tweed jackets. But to utter that aloud might be a bit toffee-nosed for someone who wasn't high-born and would be workin' for a livin' after graduatin'. So I think I typically conveyed some vague intention to go into "business," but I wasn't overly anxious about it as there was this common refrain that you could and should study what you fancy *(ars artis gratia)*.
 
 Since the mid-20th century with the GI Bill, the university degree has been democratized, and for most students and their families the degree has not surprisingly represented an earnings premium; and *a fortiori* today, manifest in the sharp increase in STEM degrees and concomitant decline in the liberal arts[^1].
 
