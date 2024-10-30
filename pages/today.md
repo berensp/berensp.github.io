@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const songContainer = document.getElementById('song-container');
     if (dailysong) {
       const baseUrl = "https://music.youtube.com/watch?v=";
-      songContainer.innerHTML = `<li>📻 <span id="today-song"><i><a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a></i></span></li>`;
+      songContainer.innerHTML = `<li>📻 <span id="today-song"><a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a></span></li>`;
     } else {
       songContainer.innerHTML = '';
     }
