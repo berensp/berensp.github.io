@@ -1,9 +1,9 @@
 ---
 layout: prayer
-title: Ave Maria
+title: Ave María
 category: Marian
 ---
-Ave Maria, gratia plena,  
+Ave María, grátia plena,  
 Dóminus tecum.  
 Benedícta tu in muliéribus,  
 et benedíctus fructus ventris tui, Iesus.  
