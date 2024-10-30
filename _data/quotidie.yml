@@ -2,7 +2,7 @@ monday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: '1️⃣ thing <input type="text" size="15"> (2:00)'
   - task: '🌱 <a href="https://www.duolingo.com/" target="_blank">Study 한글</a> (0:10)'
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: '📖 <a href="/books/">Read</a> (0:30)'
@@ -15,7 +15,7 @@ tuesday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: '1️⃣ thing <input type="text" size="15"> (2:00)'
   - task: '🌱 <a href="https://www.duolingo.com/" target="_blank">Study 한글</a> (0:10)'
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: '📖 <a href="/books/">Read</a> (0:30)'
   - task: '📿 <a href="/prayers/rosary">Sorrowful Mysteries</a>  (0:15)'
@@ -27,7 +27,7 @@ wednesday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: '1️⃣ thing <input type="text" size="15"> (2:00)'
   - task: '🌱 <a href="https://www.duolingo.com/" target="_blank">Study 한글</a> (0:10)'
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: '📖 <a href="/books/">Read</a> (0:30)'
   - task: '📿 <a href="/prayers/rosary">Glorious Mysteries</a> (0:15)'
@@ -38,7 +38,7 @@ thursday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: '1️⃣ thing <input type="text" size="15"> (2:00)'
   - task: '🌱 <a href="https://www.duolingo.com/" target="_blank">Study 한글</a> (0:10)'
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: "🏃‍♂️ Run or 🚴‍♂️ ride"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: '📖 <a href="/books/">Read</a> (0:30)'
@@ -51,7 +51,7 @@ friday:
   - task: '🙏 <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
   - task: '1️⃣ thing <input type="text" size="15"> (2:00)'
   - task: '🌱 <a href="https://www.duolingo.com/" target="_blank">Study 한글</a> (0:10)'
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: '📖 <a href="/books/">Read</a> (0:30)'
   - task: '📿 <a href="/prayers/rosary">Sorrowful Mysteries</a> (0:15)'
@@ -62,7 +62,7 @@ saturday:
   - task: "🥞 Breakfast"
   - task: "🧹 Clean"
   - task: "⚽ Play"
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: '🌱 <a href="https://www.duolingo.com/" target="_blank">Study 한글</a> (0:10)'
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: '📖 <a href="/books/">Read</a> (0:30)'
@@ -73,7 +73,7 @@ sunday:
   - task: "☕ Cafecito"
   - task: "⛪ Missa"
   - task: "⚽ Play"
-  - task: "💪 Pushups (30x)"
+  - task: "💪 Pushups (1:00)"
   - task: '🗃️ <a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
   - task: "📋 Prepare for the week ahead"
   - task: '📖 <a href="/books/">Read</a> (0:30)'
