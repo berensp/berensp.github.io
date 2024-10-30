@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
     const dailyReadingsLink = document.getElementById('daily-readings');
     dailyReadingsLink.href = usccbLink;
-    dailyReadingsLink.textContent = 'Daily Readings';
+    dailyReadingsLink.textContent = 'Today''s readings';
 
     console.log('Current Pacific Time:', pacificTime.toLocaleString());
     console.log('Lookup date for events, feasts, bdays:', currentDate);
