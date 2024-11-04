@@ -4,7 +4,7 @@
 - date: "01-07"
   event: "Happy Epiphany!"
 - date: "01-28"
-  event: '🚀 <a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">Space Shuttle Challenger disaster</a> (''86)'
+  event: '<a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">Space Shuttle Challenger disaster</a> (1986)'
 - date: "01-13"
   event: '<a href="/sf/">Commemoration of the move to San Francisco</a> (2010)'
 - date: "01-30"
@@ -54,7 +54,7 @@
 - date: "08-15"
   event: "Happy Feast of the Assumption!"
 - date: "09-17"
-  event: "📜 Happy Constitution Day"
+  event: "Constitution Day 📜"
 - date: "09-18"
   event: '¡Felices Fiestas Patrias, Chile! 🇨🇱'
 - date: "09-19"
@@ -71,13 +71,13 @@
 - date: "09-25"
   event: "National Quesadilla Day...into which I could get."
 - date: "09-26"
-  event: "🥞 National Pancake Day"
+  event: "National Pancake Day 🥞"
 - date: "09-27"
-  event: "🍫🥛 Chocolate Milk Day"
+  event: "Chocolate Milk Day 🍫🥛"
 - date: "09-28"
   event: '<a href="https://en.wikipedia.org/wiki/Siege_of_Yorktown" target="_blank">commemoration of the Siege of Yorktown</a>'
 - date: "09-29"
-  event: "☕ National Coffee Day"
+  event: "National Coffee Day ☕"
 - date: "10-01"
   event: "Pumpkin Spice Day—head straight to your local Trader Joe's."
 - date: "10-02"
@@ -142,9 +142,25 @@
   event: 'Hallowe''en 🎃'
 - date: "11-01"
   event: 'Michelangelo''s Sistine Chapel Ceiling first exhibited (1512)'
+- date: "11-02"
+  event: 'Cheerleading begins in the US @ at U. of Minn. (1898)'
+- date: "11-03"
+  event: 'First US automobile show opens at Madison Sq. Garden (1900)'
+- date: "11-04"
+  event: 'Iran Hostage Crisis (1979)'
+- date: "11-05"
+  event: 'FDR first and only US president to be elected to third term Crisis (1940)'
+- date: "11-06"
+  event: 'Bolshevik revolution begins (1917)'
+- date: "11-07"
+  event: 'Battle of Tippecanoe (1811)'
+- date: "11-08"
+  event: 'National Cappuccino Day ☕'
+- date: "11-09"
+  event: 'Berlin Wall falls (1989)'
 - date: "11-21"
   event: '<a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a>'
-- date: "11-23"
+- date: "11-26"
   event: 'Doug Flutie''s Hail Mary (1984)'
 - date: "12-05"
   event: "Happy St. Nick''s Eve—leave those shoes out!"
