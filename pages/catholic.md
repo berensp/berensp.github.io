@@ -13,8 +13,8 @@ Ergo, I'm Catholic because that's the divine gameplan...and it being the fountai
 
 ## The Inimitability of Catholicism
 
-But if I had to summarize what's truly special and unique about Catholicism, I'd say a few things rise to the very top:
-1. **The Eucharist.** I would've previously said *sacramentality*—grace breaking through the veil—but the Holy Eucharist is paramount.
+But if I had to summarize what's truly special and unique about Catholicism, a few things rise to the top:
+1. **The Sacraments.** Grace breaking through the veil: Baptism, Penance, etc.; but paramount: the Eucharist.
 2. **Historical Continuity.** From the Apostles through antiquity to the Middle Ages to the modern period; through Her victories and saints, Her failures and sinners; the Church has endured for two millenia uninterrupted (against all odds).[^1]
 3. **Doctrinal Steadfastness.** On the whole, the Church isn't trying to win a popularity contest, and so does not modify its teachings and pronouncements in response to the whims of popular culture, and I quite respect this.
 
