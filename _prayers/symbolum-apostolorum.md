@@ -25,6 +25,8 @@ carnis resurrectionem,
 vitam aeternam.  
 Amen.
 
+* * *
+
 I believe in God,  
 the Father almighty,  
 Creator of heaven and earth,  
