@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Shoddy Form of Gov't
+title: Tyranny of Direct Democracy
 date: 2024-11-05
 author:	Paul Berens
 ---
@@ -9,11 +9,11 @@ Today marks the 60th quadrennial presidential election; which sounds like a gran
 Party politics aside, as I complete my ballot (with my trusty sidekick [see below]) and head to the polling station, the notion I'm contemplating is this crazy style of government we've got here in California and locally: **the direct democracy**.
 
 ![completing the ballot](/assets/og/post_ballot.png)
-<span class="muted small">My assistant completing my ballot.</span>
+<span class="muted small">My most excellent assistant completing the 2024 presidential ballot.</span>
 
-"Direct democracy" sounds great, right? After all, America is a bastion of *democracy* and if it's somehow going *direct* to the people then all the better, right?
+"Direct democracy" sounds great, right? After all, America is a bastion of *democracy,* and going *direct* to the people indicates a purity, that nothing should be lost in translation. So better right?
 
-Wrong. Turns out it's terrible. And this experiment has been run continuously in California since 1911 so we've got a fair amount of data.
+Wrong. Turns out it's terrible. At least for we folks in Calfornia where this experiment has been run continuously since 1911.
 
 Exempli gratia:
 
@@ -29,8 +29,8 @@ And even once you've arrived at your well-informed answer and your confidence is
 
 You know, it's almost like you'd want a small group of people whom the *demos* trusts and feels would be competent and fair-minded to represent us in deciding such matters.
 
-There are occasions when the features of direct democracy are useful. Like when you have to recall a district attorney whose woke ideologies come to be at odds with the very duties he's elected to carry out.
+There are occasions when the features of direct democracy are useful. Like when you have to recall a district attorney whose woke ideologies come to be at odds with the very duties he's elected to carry out. And there are places in the world where it seems to work out: like Liechtenstein...though they also have a total population similar to that of the Outer Richmond neighborhood of San Francisco, so go figure.
 
-But for the most part, when we look at California, we should conclude that the democratic republic—not the direct democracy—is the way to go.
+But for the most part, when we look at California, we should conclude that the democratic republic or some form of representative democracy—and not the direct democracy—is the way to go. At least for us non-Liechtensteiners.
 
 — ᴘ. ᴍ. ʙ.
