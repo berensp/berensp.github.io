@@ -6,7 +6,7 @@ author:	Paul Berens
 ---
 Today marks the 60th quadrennial presidential election; which sounds like a grand affair, worthy of celebration; and yet here we are with our two somewhat underwhelming presidential candidates. *Sigh*.
 
-And yet as I complete my ballot (with my trusty sidekick [see below]), as many Californians and San Franciqueños will tell you, you need to spend more (or much more) time thinking about and working on the *propositions* than on the *candidates*. And that's because of this crazy style of government we've got here in California and locally: **the direct democracy**.
+And yet as I complete my ballot (with my trusty sidekick [see below]), as many Californians and San Francisqueños will tell you, you need to spend more (or much more) time thinking about and working on the *propositions* than on the *candidates*. And that's because of this crazy style of government we've got here in California and locally: **the direct democracy**.
 
 ![completing the ballot](/assets/og/post_ballot.png)
 <span class="muted small">My most excellent assistant completing our ballot.</span>
