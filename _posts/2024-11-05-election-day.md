@@ -4,9 +4,9 @@ title: Direct Democracy
 date: 2024-11-05
 author:	Paul Berens
 ---
-It's the 60th quadrennial presidential election which sounds like a grand affair, worthy of celebration, and yet here we are with our two somewhat underwhelming candidates.
+Today marks the 60th quadrennial presidential election which sounds like a grand affair, worthy of celebration, and yet here we are with our two somewhat underwhelming presidential candidates. *Sigh*.
 
-But party politics aside, as I complete my ballot and head to the polling station (with my trusty sidekick [see below]), the notion I'm contemplating is this crazy style of government we've got here in California and locally: **the direct democracy**.
+Party politics aside, as I complete my ballot (with my trusty sidekick [see below]) and head to the polling station, the notion I'm contemplating is this crazy style of government we've got here in California and locally: **the direct democracy**.
 
 ![completing the ballot](/assets/og/post_ballot.png)
 <span class="muted small">My assistant completing my ballot.</span>
@@ -29,10 +29,8 @@ And even once you've arrived at your well-informed answer and your confidence is
 
 You know, it's almost like you'd want a small group of people whom the *demos* trusts and feels would be competent and fair-minded to represent us in deciding such matters.
 
-There are occasions when features of direct democracy are useful. Like when you have to recall a district attorney whose personal philosophies come to be at odds with the very duties he's elected to carry out.
+There are occasions when the features of direct democracy are useful. Like when you have to recall a district attorney whose woke ideologies come to be at odds with the very duties he's elected to carry out.
 
-But for the most part, when we look at California, we should conclude that the democratic republic s 
-
-And contrary to popular belief the US is not a direct democracy but rather a Republic
+But for the most part, when we look at California, we should conclude that the democratic republic—not the direct democracy—is the way to go.
 
 — ᴘ. ᴍ. ʙ.
