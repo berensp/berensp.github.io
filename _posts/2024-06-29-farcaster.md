@@ -4,11 +4,11 @@ title: Farcaster
 date: 2024-06-29
 author:	Paul Berens
 ---
-I originally stumbled upon [Dan Romero on Twitter](https://x.com/dwr) (I think), which then led me to his blog, which I found nice and simple and subsequently [forked and adapted](this-site.html). He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails called [Farcaster](https://www.farcaster.xyz/).
+I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to [his blog](https://danromero.org/), which I found nice and simple and subsequently [forked and adapted](this-site.html) as you can probably tell. He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails called [Farcaster](https://www.farcaster.xyz/).
 
-As far as blockchain went I had dabbled in the *casino* (h/t to [bro-in-law Frank-형](https://warpcast.com/dios)), but was inexperienced with the *computer*, and yet I was curious to learn about it—NFTs and so forth—and so I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the very same day.
+As far as blockchain went I had dabbled in the *casino* side (h/t to [bro-in-law Frank-형](https://warpcast.com/dios)), but was inexperienced with the *computer* side, and yet I was curious to learn about it—NFTs and so forth—and so I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the very same day.
 
-Which is funny because I had [deep-sixed my Facebook account nine months earlier for all the typical reasons](/fb.html).
+It was funny to be joining a new social network because I had [deep-sixed my Facebook and Instagram accounts](/fb.html) nine months earlier for all the typical reasons.
 
 So it does beg the question...
 
