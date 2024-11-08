@@ -5,7 +5,7 @@ permalink: /catholic/
 ---
 *"I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else."* (—C.S. Lewis)
 
-I don't mean to suggest that [the credo](/prayers/symbolum-apostolorum/) can be improved, but here's how I'd articulate Catholicism in my own words:
+I won't for a moment suggest that [the credo](/prayers/symbolum-apostolorum/) can be improved, but here's how I'd articulate Catholicism in my own words:
 
 > I believe that the eternal, omnipotent, omniscient, omnibenevolent, perfectly-just God created us out of sheer *agape*, and also granted us free will, which we took and abused (original sin). And so He pursued us like the Hound of Heaven—being madly in love with us—through the centuries via prophets and kings and through a special people (Israel) and finally through His only son, Jesus Christ, to save us from ourselves (because addicts can't just pull themselves up out of their addiction "by their bootstraps"), which He did by being horrifically crucified, though innocent, on a cross in order to expiate the past, present, and future sin of the world. He founded and left us His Church to give all the means to be saved through that sacrifice.
 
