@@ -3,7 +3,7 @@ layout: page
 title: Bio
 permalink: /bio/
 ---
-- Product marketer and business strategy leader with management consulting foundation, presently bringing data products to market and helping build SaaS business at [Varian](https://varian.com/).
+- Product marketer and business strategy leader with management consulting foundation, presently bringing data products to market and helping build SaaS business at [@VarianMedSys](https://x.com/VarianMedSys). Previously: [@HP](https://x.com/HP), [@Deloitte](https://x.com/Deloitte), et al.
 - Deep experience with product market fit, go-to-market strategy, positioning, integrated marketing / demand generation, SaaS, measurement and analytics, and product launches.
 - Passionate about telling resonant stories, unlocking great potential through technology, uncovering unanticipated insights, forming and nurturing relationships, and creating *Arbejdsglæde*.
 - [@BC](https://x.com/bostoncollege) Eagle and [@UMich](https://x.com/UMich) Wolverine
