@@ -57,7 +57,7 @@ Let's enumerate the merits and faults of the liberal arts education:
 
 	> A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.
 	
-	It's true. When I conduct my *which __ people, living or dead, would you invite to dinner?* thought experiment, most I'd select are polymaths: Leonardo da Vinci, Ben Franklin[^2], Lewis Carroll, Teddy Roosevelt, Martin Luther King Jr., et al.
+	It's true. When I conduct my *which __ people, living or dead, would you invite to dinner?* thought experiment, most I'd select are polymaths: Leonardo da Vinci, Ben Franklin[^2], Lewis Carroll, G. K. Chesterton, Teddy Roosevelt, Martin Luther King Jr., et al.
 
 [^2]: Ironically, Ben Franklin had disdain for the liberal arts being useless, and set up UPenn to "train" students in business, etc.
 
