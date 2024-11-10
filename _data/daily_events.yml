@@ -51,6 +51,8 @@
   event: "Int'l Wine Day 🍷"
 - date: "05-27"
   event: 'Happy Anniversary, 여보! <i>Nemo nisi mors.</i>'
+- date: "07-11"
+  event: '<a href="/books/founding-brothers/">Burr–Hamilton duel</a>'
 - date: "07-17"
   event: 'National Cardiopulmonary Resuscitation Day'
 - date: "08-15"
@@ -160,8 +162,18 @@
   event: 'National Cappuccino Day ☕'
 - date: "11-09"
   event: 'Berlin Wall falls (1989)'
+- date: "11-10"
+  event: '"Sesame Street" premieres on PBS TV (1969)'
+- date: "11-11"
+  event: 'Mayflower anchors at Provincetown Harbor, Mass. (1620)'
+- date: "11-12"
+  event: 'The Oakland Bay Bridge opens (1936)'
+- date: "11-13"
+  event: 'The Holland Tunnel opens (1927), The Bhola cyclone kills ~500k in East Pakistan (1970)'
 - date: "11-21"
   event: '<a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a>'
+- date: "11-23"
+  event: 'National Espresso Day ☕'
 - date: "11-26"
   event: 'Doug Flutie''s Hail Mary (1984)'
 - date: "12-05"
