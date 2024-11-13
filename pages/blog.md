@@ -22,7 +22,7 @@ This will clear any content that might be pulled in from elsewhere
     <form action="https://berens.us17.list-manage.com/subscribe/post?u=488257f22066b5de5ab8818a3&amp;id=feebd26a5e&amp;f_id=000b15e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
         <div id="mc_embed_signup_scroll" style="display: flex; align-items: center;">
             <div class="mc-field-group" style="margin-right: 10px; flex-grow: 0;">
-                <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Get posts in your inbox" style="width: 250px; min-width: 120px; max-width: 100%; padding: 8px; font-size: 16px;">
+                <input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value="" placeholder="Get these posts in your inbox" style="width: 250px; min-width: 120px; max-width: 100%; padding: 8px; font-size: 16px;">
             </div>
             <div aria-hidden="true" style="position: absolute; left: -5000px;">
                 <input type="text" name="b_488257f22066b5de5ab8818a3_feebd26a5e" tabindex="-1" value="">
