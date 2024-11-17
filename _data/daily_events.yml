@@ -55,8 +55,12 @@
   event: '<a href="/books/founding-brothers/">Burr–Hamilton duel</a>'
 - date: "07-17"
   event: 'National Cardiopulmonary Resuscitation Day'
+- date: "07-20"
+  event: 'Neil Armstrong becomes first person to step onto Moon''s surface (1969)'
 - date: "08-15"
   event: "Happy Feast of the Assumption!"
+- date: "08-25"
+  event: 'Columbia Records releases Springsteen''s third album <a href="https://music.youtube.com/playlist?list=OLAK5uy_mSOhVYfA4mGwMGSRP_OIh3B7yQXu8I0b0" target="_blank"><i>Born To Run</i></a> (1975)'
 - date: "09-17"
   event: "Constitution Day 📜"
 - date: "09-18"
@@ -79,7 +83,7 @@
 - date: "09-27"
   event: "Chocolate Milk Day 🍫🥛"
 - date: "09-28"
-  event: '<a href="https://en.wikipedia.org/wiki/Siege_of_Yorktown" target="_blank">commemoration of the Siege of Yorktown</a>'
+  event: 'Siege of Yorktown (1781)'
 - date: "09-29"
   event: "National Coffee Day ☕"
 - date: "10-01"
@@ -87,9 +91,9 @@
 - date: "10-02"
   event: "Gandhi Jayanti"
 - date: "10-03"
-  event: '🧤 <a href="https://en.wikipedia.org/wiki/Murder_trial_of_O._J._Simpson" target="_blank">O.J. acquittal</a> (''95)'
+  event: 'O.J. acquittal (1995) 🧤'
 - date: "10-04"
-  event: '<a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">Introduction of the Gregorian Calendar</a> (1582)'
+  event: 'Introduction of the Gregorian Calendar</a> (1582)'
 - date: "10-05"
   event: '<a href="https://www.unesco.org/en/days/teachers" target="_blank">World Teachers'' Day</a>'
 - date: "10-06"
@@ -107,7 +111,7 @@
 - date: "10-12"
   event: 'Columbus goes ashore at Guanahaní (🇧🇸)'
 - date: "10-13"
-  event: '<a href="https://en.wikipedia.org/wiki/Miracle_of_the_Sun" target="_blank">Miracle of the Sun</a>, National Metastatic Breast Cancer Awareness Day'
+  event: 'Miracle of the Sun (1917), National Metastatic Breast Cancer Awareness Day'
 - date: "10-14"
   event: 'Nazi Germany announces its withdrawal from the League of Nations (1933)'
 - date: "10-15"
@@ -119,9 +123,9 @@
 - date: "10-18"
   event: '<a href="https://en.wikipedia.org/wiki/Alaska_Day" target="_blank">Happy Alaska Day!</a>—best $7.2M we ever spent'
 - date: "10-19"
-  event: '<a href="https://en.wikipedia.org/wiki/Siege_of_Yorktown" target="_blank">Surrender at Yorktown</a> (1781); <a href="https://en.wikipedia.org/wiki/Black_Monday_(1987)" target="_blank">Black Monday</a> (1987)'
+  event: 'Surrender at Yorktown (1781); Black Monday (1987)'
 - date: "10-20"
-  event: '<a href="https://en.wikipedia.org/wiki/Lynyrd_Skynyrd_plane_crash" target="_blank">Lynyrd Skynyrd plane crash</a> (1977)'
+  event: 'Lynyrd Skynyrd plane crash (1977)'
 - date: "10-21"
   event: '<a href="https://en.wikipedia.org/wiki/Battle_of_Trafalgar" target="_blank">Battle of Trafalgar</a> (1805)'
 - date: "10-22"
@@ -174,10 +178,26 @@
   event: 'New York and Harlem Railway, the world''s first street-railroad, begins operating (1832)'
 - date: "11-15"
   event: 'Articles of Confederation, the first US constitution, is approved by the Continental Congress (1777)'
+- date: "11-16"
+  event: 'Rod Carew wins AL MVP award—go Twins (1977)'
+- date: "11-17"
+  event: '<a href="/books/devil-in-the-white-city/">The Devil in the White City</a> is arrested in Boston (1894)'
+- date: "11-18"
+  event: 'Zoilo Versalles is named AL MVP—go Twins (1965)'
+- date: "11-19"
+  event: 'The Gettysburg Address by Abraham Lincoln (1863)'
+- date: "11-20"
+  event: 'Boston College beats Army 38-24 at Dublin''s Lansdowne Road Stadium, the first NCAA American Football game to be played in Europe (1988)'
 - date: "11-21"
   event: '<a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a>'
+- date: "11-22"
+  event: 'Mount St. Helens erupts (1842); JFK assassinated (1963)'
 - date: "11-23"
   event: 'National Espresso Day ☕'
+- date: "11-24"
+  event: 'Lee Harvey Oswald assassinated on live television (1963)'
+- date: "11-25"
+  event: '<a href="https://www.un.org/en/observances/ending-violence-against-women-day" target="_blank">International Day for the Elimination of Violence against Women</a>'
 - date: "11-26"
   event: 'Doug Flutie''s Hail Mary (1984)'
 - date: "12-05"
