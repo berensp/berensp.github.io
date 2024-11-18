@@ -3,26 +3,26 @@ layout: prayer
 title: Symbolum Apostolorum
 category: Inter Missam
 ---
-Credo in Deum Patrem omnipotentem,  
-Creatorem caeli et terrae.  
+Credo in Deum Patrem omnipoténtem,  
+Creatórem cæli et terræ.  
 Et in Jesum Christum,  
-Filium ejus unicum,  
-Dominum nostrum,  
-qui conceptus est de Spiritu Sancto,  
-natus ex Maria Virgine,  
-passus sub Pontio Pilato,  
-crucifixus, mortuus, et sepultus,  
-descendit ad inferos,  
-tertia die resurrexit a mortuis,  
-ascendit ad caelos,  
-sedet ad dexteram Dei Patris omnipotentis,  
-inde venturus est judicare vivos et mortuos.  
-Credo in Spiritum Sanctum,  
-sanctam Ecclesiam catholicam,  
-sanctorum communionem,  
-remissionem peccatorum,  
-carnis resurrectionem,  
-vitam aeternam.  
+Fílium ejus únicum,  
+Dóminum nostrum,  
+qui concéptus est de Spíritu Sancto,  
+natus ex María Vírgine,  
+passus sub Póntio Piláto,  
+crucifíxus, mórtuus, et sepúltus,  
+descéndit ad ínferos,  
+tértia die resurréxit a mórtuis,  
+ascéndit ad cælos,  
+sedet ad déxteram Dei Patris omnipoténtis,  
+inde ventúrus est judicáre vivos et mórtuos.  
+Credo in Spíritum Sanctum,  
+sanctam Ecclésiam cathólicam,  
+sanctórum communiónem,  
+remissiónem peccatórum,  
+carnis resurrectiónem  
+et vitam ætérnam.  
 Amen.
 
 * * *
