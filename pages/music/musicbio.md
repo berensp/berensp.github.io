@@ -24,7 +24,7 @@ Come college I had had enough time singing and playing and performing in front o
 
 Post-college I found a real void in my life that the Heightsmen once occupied—some musical but also social/fraternal. It wasn't until my dear friend and silk-smooth-singing' fellow Heightsman Michael McAndrew moved back up to Boston for law school that he and I joined forces with jazz wunderkind Paul Findlen to start a band with a "soul-rock" feel[^2].
 
-[^2]: As well as three white dudes could.
+[^2]: As well as three white fellas could.
 
 Before we ever got signed to a major label, I left for business school in Ann Arbor. Yes, there was a b-school band and open mic nights and such, but the major creative outlet was a revue called *Follies*.
 
