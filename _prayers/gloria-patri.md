@@ -13,9 +13,9 @@ et in sǽcula sæculórum.
 Amen.
 
 O mi Iesu,  
-dimitte nobis debita nostra.  
+dimitte nobis débita nostra.  
 Libera nos ab igne inferni;  
 Conduc in caelum ómnes ánimas,  
 Praesertim illas  
-quae maxime indigent misericordia tua.  
+quae máxime indigent misericordia tua.  
 Amen.
