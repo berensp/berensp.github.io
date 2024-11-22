@@ -38,7 +38,7 @@
 - date: "04-01"
   event: "April Fools"
 - date: "04-10"
-  event: 'Happy Siblings Day, Sibs!'
+  event: 'Siblings Day!'
 - date: "04-22"
   event: 'Earth Day 🌎'
 - date: "04-23"
@@ -47,12 +47,14 @@
   event: '<a href="https://www.unesco.org/en/days/press-freedom" target="_blank">World Press Freedom Day</a>'
 - date: "05-04"
   event: '<a href="https://youtube.com/shorts/C_G6miYiud0?si=bEiHUCmUffX1obtt" target="_blank">May the Fourth (be with you)</a>'
+- date: "05-18"
+  event: 'Mount St. Helens erupts (1980)'
 - date: "05-25"
   event: "Int'l Wine Day 🍷"
 - date: "05-27"
-  event: 'Happy Anniversary, 여보! <i>Nemo nisi mors.</i>'
+  event: 'Our anniversary—뽀뽀, 여보! <i>Nemo nisi mors.</i>'
 - date: "07-11"
-  event: '<a href="/books/founding-brothers/">Burr–Hamilton duel</a>'
+  event: '<a href="/books/founding-brothers/">Burr–Hamilton duel</a> (1804)'
 - date: "07-17"
   event: 'National Cardiopulmonary Resuscitation Day'
 - date: "07-20"
@@ -189,9 +191,9 @@
 - date: "11-20"
   event: 'Boston College beats Army 38-24 at Dublin''s Lansdowne Road Stadium, the first NCAA American Football game to be played in Europe (1988)'
 - date: "11-21"
-  event: '<a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a>'
+  event: '(first) <a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a> (2002)'
 - date: "11-22"
-  event: 'Mount St. Helens erupts (1842); JFK assassinated (1963)'
+  event: 'John F. Kennedy assassinated (1963)'
 - date: "11-23"
   event: 'National Espresso Day ☕'
 - date: "11-24"
