@@ -7,7 +7,7 @@ permalink: /today2/
 <table class="schedule-table">
   <thead>
     <tr>
-      <th style="width: 55px">Time</th>
+      <th style="width: 50px">Time</th>
       <th>Task</th>
     </tr>
   </thead>
@@ -33,6 +33,9 @@ permalink: /today2/
 .schedule-table th {
   background-color: #f5f5f5;
 }
+.current-time-row {
+  background-color: #fff3cd;
+}
 </style>
 
 <script>
@@ -41,6 +44,22 @@ document.addEventListener('DOMContentLoaded', function() {
   
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
+  }
+  
+  function isCurrentTimeSlot(taskTime, nextTaskTime) {
+    const now = new Date(getPacificTime());
+    const currentHourMinute = now.getHours() * 60 + now.getMinutes();
+    
+    const [taskHours, taskMinutes] = taskTime.split(':').map(Number);
+    const taskTotalMinutes = taskHours * 60 + taskMinutes;
+    
+    let nextTaskTotalMinutes = 24 * 60; // Default to end of day
+    if (nextTaskTime) {
+      const [nextHours, nextMinutes] = nextTaskTime.split(':').map(Number);
+      nextTaskTotalMinutes = nextHours * 60 + nextMinutes;
+    }
+    
+    return currentHourMinute >= taskTotalMinutes && currentHourMinute < nextTaskTotalMinutes;
   }
   
   function updateTimeElements() {
@@ -71,9 +90,15 @@ document.addEventListener('DOMContentLoaded', function() {
         return timeA.localeCompare(timeB);
       });
       
-      sortedTasks.forEach(taskObj => {
+      sortedTasks.forEach((taskObj, index) => {
         const row = document.createElement('tr');
         let taskHtml = taskObj.task;
+        
+        // Check if this is the current time slot
+        const nextTask = sortedTasks[index + 1];
+        if (taskObj.time && isCurrentTimeSlot(taskObj.time, nextTask?.time)) {
+          row.classList.add('current-time-row');
+        }
         
         // Check if READINGS is anywhere in the task string
         if (taskHtml.includes('READINGS')) {
@@ -91,22 +116,24 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     }
 
-    const feast = siteData.feast_days.find(f => f.date === currentDate);
-    document.getElementById('feast-day').innerHTML = feast ? feast.feast : "No feast day today";
-    
+   
+    const feastContainer = document.getElementById('feast-container');
+    const feast = siteData.feast_days.find(e => e.date === currentDate);
+    feastContainer.innerHTML = feast ? `<span class="muted small">🕯️ ${feast.feast}` : '';
+
     const eventContainer = document.getElementById('event-container');
     const event = siteData.daily_events.find(e => e.date === currentDate);
-    eventContainer.innerHTML = event ? `📆 ${event.event}` : '';
+    eventContainer.innerHTML = event ? `<span class="muted small">📆 ${event.event}` : '';
     
     const birthdayContainer = document.getElementById('birthday-container');
     const birthday = siteData.bdays.find(b => b.date === currentDate);
-    birthdayContainer.innerHTML = birthday ? `🎈 ${birthday.bday}` : '';
+    birthdayContainer.innerHTML = birthday ? `<span class="muted small">🎈 ${birthday.bday}` : '';
     
     const songContainer = document.getElementById('song-container');
     const dailysong = siteData.daily_song.find(s => s.date === currentDate);
     if (dailysong) {
       const baseUrl = "https://music.youtube.com/watch?v=";
-      songContainer.innerHTML = `📻 <a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
+      songContainer.innerHTML = `<span class="muted small">📻 </span><a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
     } else {
       songContainer.innerHTML = '';
     }
@@ -117,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<span class="muted small"><span id="event-container"></span></span><br>
-<span class="muted small">🕯️ <span id="feast-day">Loading...</span></span><br>
-<span class="muted small"><span id="birthday-container"></span></span><br>
-<span class="muted small"><span id="song-container"></span></span>
+<span id="event-container"></span><br>
+<span id="feast-day"></span><br>
+<span id="birthday-container"></span><br>
+<span id="song-container"></span></span>
