@@ -7,7 +7,7 @@ permalink: /today2/
 <table class="schedule-table">
   <thead>
     <tr>
-      <th style="width: 65px">Time</th>
+      <th style="width: 55px">Time</th>
       <th>Task</th>
     </tr>
   </thead>
