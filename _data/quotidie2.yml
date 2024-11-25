@@ -41,9 +41,21 @@ saturday:
   - task: "Evening prayer"
     time: "18:00"
 sunday:
-  - task: "Morning prayer"
-    time: "06:30"
-  - task: "Angelus"
+  - task: "Rise, wash"
+    time: "06:00"
+  - task: "Missa"
+    time: "09:30"
+  - task: '<a href="/prayers/angelus/">Angelus</a>'
     time: "12:00"
-  - task: "Evening prayer"
+  - task: 'Sup'
     time: "18:00"
+  - task: 'Storytime'
+    time: "19:30"
+  - task: '<a href="/prayers/rosary">Glorious Mysteries</a>'
+    time: "20:30"
+  - task: '<a href="/assets/og/ben-franklin-schedule.jpg">Put things in their places</a>'
+    time: "20:45"
+  - task: '<a href="/books/">Read</a>'
+    time: "21:30"
+  - task: 'Sleep'
+    time: "22:00"
