@@ -1,49 +1,49 @@
 monday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
 tuesday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
 wednesday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
 thursday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
 friday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
 saturday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
 sunday:
-  - task: Morning prayer
-    time: 06:30
-  - task: Angelus
-    time: 12:00
-  - task: Evening prayer
-    time: 18:00
+  - task: "Morning prayer"
+    time: "06:30"
+  - task: "Angelus"
+    time: "12:00"
+  - task: "Evening prayer"
+    time: "18:00"
