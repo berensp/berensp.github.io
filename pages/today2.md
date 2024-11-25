@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
           const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
           // Replace READINGS with the formatted link
-          taskHtml = taskHtml.replace('READINGS', `<a href="${usccbLink}" target="_blank">Today's readings</a>`);
+          taskHtml = taskHtml.replace('READINGS', `<a href="${usccbLink}" target="_blank">today's readings</a>`);
         }
         
         row.innerHTML = `
