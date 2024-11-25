@@ -71,12 +71,23 @@ document.addEventListener('DOMContentLoaded', function() {
         return timeA.localeCompare(timeB);
       });
       
+      // Create the USCCB readings entry
+      const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
+      const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
+      
       sortedTasks.forEach(taskObj => {
         const row = document.createElement('tr');
-        row.innerHTML = `
-          <td>${taskObj.time || ''}</td>
-          <td>${taskObj.task}</td>
-        `;
+        if (taskObj.task === "Today's readings") {
+          row.innerHTML = `
+            <td>${taskObj.time || ''}</td>
+            <td>📖 <a href="${usccbLink}" target="_blank">Today's readings</a></td>
+          `;
+        } else {
+          row.innerHTML = `
+            <td>${taskObj.time || ''}</td>
+            <td>${taskObj.task}</td>
+          `;
+        }
         scheduleBody.appendChild(row);
       });
     }
@@ -100,18 +111,13 @@ document.addEventListener('DOMContentLoaded', function() {
     } else {
       songContainer.innerHTML = '';
     }
-
-    const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
-    const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
-    const dailyReadingsLink = document.getElementById('daily-readings');
-    dailyReadingsLink.href = usccbLink;
-    dailyReadingsLink.textContent = 'Today\'s readings';
   }
 
   updateTimeElements();
   setInterval(updateTimeElements, 60000);
 });
 </script>
+
 
 <ul>
   <span id="event-container"></span>
