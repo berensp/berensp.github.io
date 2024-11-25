@@ -10,9 +10,7 @@ permalink: /today2/
   <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
   <span id="birthday-container"></span>
   <span id="song-container"></span>
-
 </ul>
-
 <table class="schedule-table">
   <thead>
     <tr>
@@ -27,9 +25,26 @@ permalink: /today2/
   </tbody>
 </table>
 
+<style>
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+.schedule-table th,
+.schedule-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+.schedule-table th {
+  background-color: #f5f5f5;
+}
+</style>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const siteData = {% raw %}{{ site.data | jsonify }}{% endraw %};
+  const siteData = JSON.parse('{{ site.data | jsonify | replace: "'", "\\'" }}');
   
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
