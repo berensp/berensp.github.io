@@ -1,5 +1,5 @@
-sunday:
-  - task: 'Rise, Today's readings, <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
+monday:
+  - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">Orate ante labori</a>'
     time: "06:00"
   - task: '1 thing <input type="text" size="15">'
     time: "09:00"
