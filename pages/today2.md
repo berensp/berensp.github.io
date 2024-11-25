@@ -119,21 +119,21 @@ document.addEventListener('DOMContentLoaded', function() {
    
     const feastContainer = document.getElementById('feast-container');
     const feast = siteData.feast_days.find(e => e.date === currentDate);
-    feastContainer.innerHTML = feast ? `<span class="muted small">🕯️ ${feast.feast}` : '';
+    feastContainer.innerHTML = feast ? `<span class="muted small">🕯️ ${feast.feast}</span>` : '';
 
     const eventContainer = document.getElementById('event-container');
     const event = siteData.daily_events.find(e => e.date === currentDate);
-    eventContainer.innerHTML = event ? `<span class="muted small">📆 ${event.event}` : '';
+    eventContainer.innerHTML = event ? `<span class="muted small">📆 ${event.event}</span>` : '';
     
     const birthdayContainer = document.getElementById('birthday-container');
     const birthday = siteData.bdays.find(b => b.date === currentDate);
-    birthdayContainer.innerHTML = birthday ? `<span class="muted small">🎈 ${birthday.bday}` : '';
+    birthdayContainer.innerHTML = birthday ? `<span class="muted small">🎈 ${birthday.bday}</span>` : '';
     
     const songContainer = document.getElementById('song-container');
     const dailysong = siteData.daily_song.find(s => s.date === currentDate);
     if (dailysong) {
       const baseUrl = "https://music.youtube.com/watch?v=";
-      songContainer.innerHTML = `<span class="muted small">📻 </span><a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
+      songContainer.innerHTML = `<span class="muted small">📻 </span><a class="muted small" href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
     } else {
       songContainer.innerHTML = '';
     }
