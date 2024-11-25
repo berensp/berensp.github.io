@@ -147,4 +147,4 @@ document.addEventListener('DOMContentLoaded', function() {
 <span id="event-container"></span><br>
 <span id="feast-container"></span><br>
 <span id="birthday-container"></span><br>
-<span id="song-container"></span></span>
+<span id="song-container"></span>
