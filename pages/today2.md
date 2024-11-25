@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
           const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
           const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
           // Replace READINGS with the formatted link
-          taskHtml = taskHtml.replace('READINGS', `📖 <a href="${usccbLink}" target="_blank">Today's readings</a>`);
+          taskHtml = taskHtml.replace('READINGS', `<a href="${usccbLink}" target="_blank">Today's readings</a>`);
         }
         
         row.innerHTML = `
@@ -96,17 +96,17 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const eventContainer = document.getElementById('event-container');
     const event = siteData.daily_events.find(e => e.date === currentDate);
-    eventContainer.innerHTML = event ? `<li>📆 ${event.event}</li>` : '';
+    eventContainer.innerHTML = event ? `📆 ${event.event}` : '';
     
     const birthdayContainer = document.getElementById('birthday-container');
     const birthday = siteData.bdays.find(b => b.date === currentDate);
-    birthdayContainer.innerHTML = birthday ? `<li>🎈 ${birthday.bday}</li>` : '';
+    birthdayContainer.innerHTML = birthday ? `🎈 ${birthday.bday}` : '';
     
     const songContainer = document.getElementById('song-container');
     const dailysong = siteData.daily_song.find(s => s.date === currentDate);
     if (dailysong) {
       const baseUrl = "https://music.youtube.com/watch?v=";
-      songContainer.innerHTML = `<li>📻 <a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a></li>`;
+      songContainer.innerHTML = `📻 <a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
     } else {
       songContainer.innerHTML = '';
     }
@@ -119,6 +119,5 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <span class="muted small"><span id="event-container"></span></span>
 <span class="muted small">🕯️ <span id="feast-day">Loading...</span></span>
-<span class="muted small">📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></span>
 <span class="muted small"><span id="birthday-container"></span></span>
 <span class="muted small"><span id="song-container"></span></span>
