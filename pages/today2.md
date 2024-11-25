@@ -44,7 +44,7 @@ permalink: /today2/
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const siteData = JSON.parse('{{ site.data | jsonify | replace: "'", "\\'" }}');
+  const siteData = {{ site.data | jsonify }};
   
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
@@ -80,8 +80,10 @@ document.addEventListener('DOMContentLoaded', function() {
       
       sortedTasks.forEach(taskObj => {
         const row = document.createElement('tr');
-        row.innerHTML = '<td>' + (taskObj.time || '') + '</td>' +
-                       '<td>' + taskObj.task + '</td>';
+        row.innerHTML = `
+          <td>${taskObj.time || ''}</td>
+          <td>${taskObj.task}</td>
+        `;
         scheduleBody.appendChild(row);
       });
     }
@@ -91,23 +93,23 @@ document.addEventListener('DOMContentLoaded', function() {
     
     const eventContainer = document.getElementById('event-container');
     const event = siteData.daily_events.find(e => e.date === currentDate);
-    eventContainer.innerHTML = event ? '<li>📆 ' + event.event + '</li>' : '';
+    eventContainer.innerHTML = event ? `<li>📆 ${event.event}</li>` : '';
     
     const birthdayContainer = document.getElementById('birthday-container');
     const birthday = siteData.bdays.find(b => b.date === currentDate);
-    birthdayContainer.innerHTML = birthday ? '<li>🎈 ' + birthday.bday + '</li>' : '';
+    birthdayContainer.innerHTML = birthday ? `<li>🎈 ${birthday.bday}</li>` : '';
     
     const songContainer = document.getElementById('song-container');
     const dailysong = siteData.daily_song.find(s => s.date === currentDate);
     if (dailysong) {
       const baseUrl = "https://music.youtube.com/watch?v=";
-      songContainer.innerHTML = '<li>📻 <a href="' + baseUrl + dailysong.songId + '" target="_blank">' + dailysong.track + '</a></li>';
+      songContainer.innerHTML = `<li>📻 <a href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a></li>`;
     } else {
       songContainer.innerHTML = '';
     }
 
     const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
-    const usccbLink = 'https://bible.usccb.org/bible/readings/' + usccbDate + '.cfm';
+    const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
     const dailyReadingsLink = document.getElementById('daily-readings');
     dailyReadingsLink.href = usccbLink;
     dailyReadingsLink.textContent = 'Today\'s readings';
