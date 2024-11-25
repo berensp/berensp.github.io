@@ -4,17 +4,10 @@ title: Today
 permalink: /today2/
 ---
 <h2 id="current-date">Loading...</h2>
-<ul>
-  <span id="event-container"></span>
-  <li>🕯️ <span id="feast-day">Loading...</span></li>
-  <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
-  <span id="birthday-container"></span>
-  <span id="song-container"></span>
-</ul>
 <table class="schedule-table">
   <thead>
     <tr>
-      <th style="width: 100px">Time</th>
+      <th style="width: 65px">Time</th>
       <th>Task</th>
     </tr>
   </thead>
@@ -119,3 +112,11 @@ document.addEventListener('DOMContentLoaded', function() {
   setInterval(updateTimeElements, 60000);
 });
 </script>
+
+<ul>
+  <span id="event-container"></span>
+  <li>🕯️ <span id="feast-day">Loading...</span></li>
+  <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
+  <span id="birthday-container"></span>
+  <span id="song-container"></span>
+</ul>
