@@ -71,23 +71,22 @@ document.addEventListener('DOMContentLoaded', function() {
         return timeA.localeCompare(timeB);
       });
       
-      // Create the USCCB readings entry
-      const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
-      const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
-      
       sortedTasks.forEach(taskObj => {
         const row = document.createElement('tr');
-        if (taskObj.task === "Today's readings") {
-          row.innerHTML = `
-            <td>${taskObj.time || ''}</td>
-            <td>📖 <a href="${usccbLink}" target="_blank">Today's readings</a></td>
-          `;
-        } else {
-          row.innerHTML = `
-            <td>${taskObj.time || ''}</td>
-            <td>${taskObj.task}</td>
-          `;
+        let taskHtml = taskObj.task;
+        
+        // Check if READINGS is anywhere in the task string
+        if (taskHtml.includes('READINGS')) {
+          const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
+          const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
+          // Replace READINGS with the formatted link
+          taskHtml = taskHtml.replace('READINGS', `📖 <a href="${usccbLink}" target="_blank">Today's readings</a>`);
         }
+        
+        row.innerHTML = `
+          <td>${taskObj.time || ''}</td>
+          <td>${taskHtml}</td>
+        `;
         scheduleBody.appendChild(row);
       });
     }
@@ -118,11 +117,8 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-
-<ul>
-  <span id="event-container"></span>
-  <li>🕯️ <span id="feast-day">Loading...</span></li>
-  <li>📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></li>
-  <span id="birthday-container"></span>
-  <span id="song-container"></span>
-</ul>
+<span class="muted small"><span id="event-container"></span></span>
+<span class="muted small">🕯️ <span id="feast-day">Loading...</span></span>
+<span class="muted small">📖 <a id="daily-readings" href="#" target="_blank">Loading...</a></span>
+<span class="muted small"><span id="birthday-container"></span></span>
+<span class="muted small"><span id="song-container"></span></span>
