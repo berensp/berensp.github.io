@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<span class="muted small"><span id="event-container"></span></span>
-<span class="muted small">🕯️ <span id="feast-day">Loading...</span></span>
-<span class="muted small"><span id="birthday-container"></span></span>
+<span class="muted small"><span id="event-container"></span></span><br>
+<span class="muted small">🕯️ <span id="feast-day">Loading...</span></span><br>
+<span class="muted small"><span id="birthday-container"></span></span><br>
 <span class="muted small"><span id="song-container"></span></span>
