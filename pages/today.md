@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Today
-permalink: /today2/
+permalink: /today/
 ---
 <h2 id="current-date">Loading...</h2>
 <table class="schedule-table">
