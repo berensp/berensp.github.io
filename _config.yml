@@ -26,6 +26,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-last-modified-at
   - jekyll-paginate
   - jekyll-relative-links
   - jekyll-optional-front-matter

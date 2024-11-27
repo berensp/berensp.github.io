@@ -1,19 +1,35 @@
 ---
 layout: home
 ---
-<div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
-{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
+{% assign recipe_count = site.recipes | size %}
+{% assign prayer_count = site.prayers | size %}
+{% assign run_count = site.runs | size %}
+{% assign ride_count = site.rides | size %}
+{% assign book_count = site.books | size %}
+{% assign post_count = site.posts | size %}
 
-<a href="/prayers/"><img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;"></a>
+{% assign total_content = site.posts.size
+    | plus: site.books.size
+    | plus: site.prayers.size
+    | plus: site.rides.size
+    | plus: site.runs.size
+    | plus: site.recipes.size %}
 
-✌ Hi, I'm [Paul Berens](/infobox/).
+<img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
 
-Presently living in [San Francisco](/sf/) with my beautiful family, and [nurturing data products at Varian](/bio/).
+✌ Hi, I'm [Paul Berens](/infobox/): product marketer, go-to-marketer, skier, and diaper-changer.
 
-Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>.
+Here's my [now](/now/) page[^1], which is up-to-date—but the up-to-the-*minute* one is the [today](/today/) page.
 
-{% if currently_reading %}
-Currently [reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}.
-{% endif %}
+[^1]: Q: What's a "now" page? <a href="https://nownownow.com/about" target="_blank">Answer</a>.
+
+What value does this website bring me? {{ total_content }} freebies:
+- {{ post_count }} [scintillating mini-essays](/blog/)
+- {{ book_count }} [book ideas for your next read](/books/)
+- {{ prayer_count }} [English and Latin prayers](/prayers/)
+- {{ ride_count }} [riding routes](/cycling/) and {{ run_count }} [running routes](/running/) for your workouts
+- {{ recipe_count }} [kid-friendly recipes](/recipes/)
+
+I enjoy [reading](/books/), [writing](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>.
 
 Get in touch via <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a> and [elsewhere](/contact/).
