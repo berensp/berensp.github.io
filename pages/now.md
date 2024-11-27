@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-date: 2024-11-27
+last_modified_at: 2024-11-27
 description: What am I up to these days. 
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
