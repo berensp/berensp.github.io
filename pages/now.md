@@ -2,6 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
+date: 2024-11-27
 description: What am I up to these days. 
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
@@ -10,13 +11,13 @@ description: What am I up to these days.
 <script src="/assets/js/timediff.js"></script>
 <script src="/assets/js/current-date.js"></script>
 
-My <code>/now</code> page so I'd better keep this thing updated. "Now" is sorta *nowadays*, but if you're looking for *right now* (i.e., <span id="current-date">Loading...</span>), then that's <a href="/today"><code>/today</code></a>.
+"Now" being *nowadays*, but for *right now* (i.e., <span id="current-date">Loading...</span>), that's the [today](/today/) page.
 
-📍 Living in [San Francisco](/sf/) for the last <span id="TimeinSF"></span> now
+📍 Living in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now.
 
-👨‍👩‍👧‍👦 Raising some kids with my lovely wife
+👨‍👩‍👧‍👦 Raising some kids with my lovely wife.
 
-💼 Helping build and grow a SaaS business (product marketing / go-to-market) [@VarianMedSys](https://x.com/VarianMedSys)
+💼 Helping build and grow a SaaS business / digital product portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys).
 
 ✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 
@@ -24,6 +25,8 @@ My <code>/now</code> page so I'd better keep this thing updated. "Now" is sorta 
 📚 Currently [reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}
 {% endif %}
 
-🚴‍♂️ [Bicycling](/cycling/) and [running](/running/)—mostly the latter—where I can
+🚴‍♂️ [Bicycling](/cycling/) and [running](/running/)—mostly the latter—when/where I can.
 
-🌱 Learning a little bit of front-end via Claude; kanban; Korean (한국말)
+🌱 Learning a little bit of front-end via Claude; kanban; Korean (한국말).
+
+<span class="muted small">Last updated: {{ page.last_modified_at }}—except time in SF and time since last blog post which are real-time.</span>
