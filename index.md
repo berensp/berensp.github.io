@@ -15,7 +15,7 @@ layout: home
     | plus: site.runs.size
     | plus: site.recipes.size %}
 
-{% assign total_routes = site.rides.size | plus: site.runs.size}
+{% assign total_routes = site.rides.size | plus: site.runs.size %}
 
 <img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
 
