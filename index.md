@@ -19,11 +19,11 @@ layout: home
 
 <img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
 
-✌ Hi, I'm [Paul Berens](/infobox/): product marketer, go-to-marketer, skier, and diaper-changer.
+✌ Hi, I'm [Paul Berens](/infobox/): [product-/go-to-marketer](/bio), [skier](/skiing), [investor](/invest), [parishioner](/catholic), and diaper-changer.
 
 What I'm up to [now](/now/)*adays*, or more specifically, [today](/today/).
 
-**Q:** What value can you extract from this website? **A:** {{ total_content }} freebies 👇
+**Q:** What value may be extracted from this site? **A:** {{ total_content }} freebies 👇
 - [{{ post_count }} mini-essays](/blog/) to ruminate on
 - [{{ book_count }} book ideas](/books/) for your next read
 - [{{ prayer_count }} prayers](/prayers/) to get right with the Lord

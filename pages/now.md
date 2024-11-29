@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-last_modified_at: 2024-11-27
+last_modified_at: 2024-11-29
 description: What am I up to these days. 
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
@@ -11,7 +11,7 @@ description: What am I up to these days.
 <script src="/assets/js/timediff.js"></script>
 <script src="/assets/js/current-date.js"></script>
 
-"Now" being *nowadays*, but for *right now* (i.e., <span id="current-date">Loading...</span>), that's the [today](/today/) page.
+"Now" being *nowadays*; for *right now* (i.e., <span id="current-date">Loading...</span>), skip ahead to [today](/today/).
 
 📍 Living in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now.
 
