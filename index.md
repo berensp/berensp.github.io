@@ -15,7 +15,7 @@ layout: home
     | plus: site.runs.size
     | plus: site.recipes.size %}
 
-{% assign total_routes = site.rides.size | plus: site.runs.size %}
+{% assign route_count = site.rides.size | plus: site.runs.size %}
 
 <img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
 
@@ -23,11 +23,11 @@ layout: home
 
 What I'm up to [now](/now/)*adays*, or more specifically, [today](/today/).
 
-**Q: What value can you extract from this website?** **A:** How about **{{ total_content }} freebies?**
-- [{{ post_count }} half-baked mini-essays](/blog/)
-- [{{ book_count }} book ideas for your next read](/books/)
-- [{{ prayer_count }} English and Latin prayers](/prayers/)
-- [{{ ride_count }} riding routes](/cycling/) and [{{ run_count }} running routes](/running/) for your workouts
+**Q:** What value can you extract from this website? **A:** {{ total_content }} freebies 👇
+- [{{ post_count }} mini-essays](/blog/) to ruminate on
+- [{{ book_count }} book ideas](/books/) for your next read
+- [{{ prayer_count }} prayers](/prayers/) to get right with the Lord
+- {{ route_count }} [riding](/cycling/) and [running](/running/) routes for happy workouts
 - [{{ recipe_count }} surefire kid-friendly recipes](/recipes/)
 
 Get in touch via <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a> and [elsewhere](/contact/).
