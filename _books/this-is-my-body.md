@@ -2,7 +2,7 @@
 layout: bookreview
 title: This Is My Body
 author: Bishop Robert Barron
-category: Just Finished
+category: Last Read
 finish_date: 2024-09-02
 book_url: https://www.google.com/books/edition/This_Is_My_Body/eBFLzwEACAAJ?hl=en
 ogimage: bkreview_this_is_my_body.jpg
