@@ -22,6 +22,8 @@ My constructivist continuing education (i.e. tinkering):
 - <mark>Piano</mark> (why did I ever stop? 😣)
 - <mark>Bridge</mark>
 
+* * *
+<span class="muted small"><b>Legend:</b></span><br>
 <span class="muted small">📖 <mark>self education</mark></span><br>
 <span class="muted small">🛠️ <mark_paleturquoise>new tool</mark_paleturquoise></span><br>
 <span class="muted small">🧪 <mark_lilac>experiment</mark_lilac></span><br>
