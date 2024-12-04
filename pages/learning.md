@@ -23,7 +23,7 @@ My constructivist continuing education (i.e. tinkering):
 - <mark>[Genealogy](/ancestry/)</mark>
 - <mark>Bridge</mark>
 
-<span class="muted small">📖 <mark>self education</span></mark>
-<span class="muted small">🛠️ <mark_paleturquoise>new tool</span></mark_paleturquoise>
-<span class="muted small">🧪 <mark_lilac>experiment</span></mark_lilac>
-<span class="muted small">💪 <mark_lightgray>health/fitness</span></mark_lightgray>
+<span class="muted small">📖 <mark>self education</mark></span><br>
+<span class="muted small">🛠️ <mark_paleturquoise>new tool</mark_paleturquoise></span><br>
+<span class="muted small">🧪 <mark_lilac>experiment</mark_lilac></span><br>
+<span class="muted small">💪 <mark_lightgray>health/fitness</mark_lightgray></span>
