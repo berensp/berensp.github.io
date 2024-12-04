@@ -2,7 +2,7 @@
 layout: bookreview
 title: Horse
 author: Geraldine Brooks
-category: Just Finished
+category: Last Read
 finish_date: 2024-08-31
 book_url: https://www.google.com/books/edition/Horse/xd5CEAAAQBAJ?hl=en&gbpv=0
 ogimage: bkreview_horse.jpg
