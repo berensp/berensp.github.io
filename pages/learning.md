@@ -9,25 +9,21 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- 📖 The world of web3, Ethereum, <a href="https://gallery.so/pb" target="_blank">NFTs</a>
-- 🛠️ <a href="https://notion.so" target="_blank">Notion</a>
-- 📖 Large language models (so 2023)
-- 🛠️ front-end stuff (Jekyll, Liquid, JavaScript)
-- 📖 [Investing](/invest/)
-- 📖 Korean (한국말)
-- 🛠️ Audacity for home recording
+- <mark>The world of web3, Ethereum, <a href="https://gallery.so/pb" target="_blank">NFTs</a></mark>
+- <mark_paleturquoise><a href="https://notion.so" target="_blank">Notion</a></mark_paleturquoise>
+- <mark_paleturquoise>Jekyll, Liquid, JavaScript</mark_paleturquoise> - front-end stuff
+- <mark><a href="/invest/">Investing</a></mark>
+- <mark>Korean (한국말)</mark>
+- <mark_paleturquoise>Audacity</mark_paleturquoise> for home recording
 
 ## Expected Endeavours
-- 🛠️ <a href="https://obsidian.md/" target="_blank">Obsidian</a> (and backing up to GitHub Pages)
-- 🛠️ [Using Airtable as a Jekyll website db](https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)
-- 📖 Piano (why did I ever stop? 😣)
-- 📖 [Genealogy](/ancestry/)
+- <mark_paleturquoise><a href="https://obsidian.md/" target="_blank">Obsidian</a></mark_paleturquoise> (and backing up to GitHub Pages)
+- <mark_paleturquoise>[Using Airtable as a Jekyll website db](https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)</mark_paleturquoise>
+- <mark>Piano</mark> (why did I ever stop? 😣)
+- <mark>[Genealogy](/ancestry/)</mark>
+- <mark>Bridge</mark>
 
-💭 = General Thought
-🛠️ = New Tool
-🧪 = Experiment 
-💪 = Health/Fitness
-🛒 = Recent Purchase
-✔️ Helpful Hack
-📖 = Self Education
-🆕 = General Update
+<span class="muted small">📖 <mark>self education</span></mark>
+<span class="muted small">🛠️ <mark_paleturquoise>new tool</span></mark_paleturquoise>
+<span class="muted small">🧪 <mark_lilac>experiment</span></mark_lilac>
+<span class="muted small">💪 <mark_lightgray>health/fitness</span></mark_lightgray>
