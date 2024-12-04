@@ -11,10 +11,10 @@ My constructivist continuing education (i.e. tinkering):
 ## Present Pursuits
 - <mark>The world of web3, Ethereum, <a href="https://gallery.so/pb" target="_blank">NFTs</a></mark>
 - <mark_paleturquoise><a href="https://notion.so" target="_blank">Notion</a></mark_paleturquoise>
-- <mark_paleturquoise>Jekyll, Liquid, JavaScript</mark_paleturquoise> - front-end stuff
+- <mark_paleturquoise>Jekyll, Liquid, JavaScript</mark_paleturquoise> – front-end stuff
 - <mark><a href="/invest/">Investing</a></mark>
 - <mark>Korean (한국말)</mark>
-- <mark_paleturquoise>Audacity</mark_paleturquoise> for home recording
+- <span><mark_paleturquoise>Audacity</mark_paleturquoise> for home recording</span>
 
 ## Expected Endeavours
 - <mark_paleturquoise><a href="https://obsidian.md/" target="_blank">Obsidian</a></mark_paleturquoise> (and backing up to GitHub Pages)
