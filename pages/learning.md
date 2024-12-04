@@ -11,16 +11,15 @@ My constructivist continuing education (i.e. tinkering):
 ## Present Pursuits
 - <mark>The world of web3, Ethereum, <a href="https://gallery.so/pb" target="_blank">NFTs</a></mark>
 - <mark_paleturquoise><a href="https://notion.so" target="_blank">Notion</a></mark_paleturquoise>
-- <mark_paleturquoise>Jekyll, Liquid, JavaScript</mark_paleturquoise> – front-end stuff
+- <span><mark_paleturquoise>Jekyll, Liquid, JavaScript</mark_paleturquoise> – front-end stuff</span>
 - <mark><a href="/invest/">Investing</a></mark>
 - <mark>Korean (한국말)</mark>
 - <span><mark_paleturquoise>Audacity</mark_paleturquoise> for home recording</span>
 
 ## Expected Endeavours
-- <mark_paleturquoise><a href="https://obsidian.md/" target="_blank">Obsidian</a></mark_paleturquoise> (and backing up to GitHub Pages)
-- <mark_paleturquoise>[Using Airtable as a Jekyll website db](https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/)</mark_paleturquoise>
+- <span><mark_paleturquoise><a href="https://obsidian.md/" target="_blank">Obsidian</a></mark_paleturquoise> (and backing up to GitHub Pages)</span>
+- <mark_paleturquoise><a href="https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/" target="_blank">Using Airtable as a Jekyll website db</a></mark_paleturquoise>
 - <mark>Piano</mark> (why did I ever stop? 😣)
-- <mark>[Genealogy](/ancestry/)</mark>
 - <mark>Bridge</mark>
 
 <span class="muted small">📖 <mark>self education</mark></span><br>
