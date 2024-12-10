@@ -14,7 +14,7 @@ It's tragically broken—*hic manebimus optime?*—due to a convergence of facto
 [^3]: Moritz, Michael, <a href="https://www.nytimes.com/2023/02/26/opinion/san-francisco-democrats-board-of-supervisors.html" target="_blank">"Even Democrats Like Me Are Fed Up With San Francisco"</a>, *New York Times*, Feb. 26, 2023
 [^4]: Heller, Nathan, <a href="https://www.newyorker.com/magazine/2023/10/23/what-happened-to-san-francisco-really" target="_blank">"What Happened to San Francisco, Really?"</a>, *The New Yorker*, Oct. 16, 2023
 
-*However,* overall, its flaws are overcome by its beauty and charming [fog](/fog/); its interesting people and its eccentricities.
+*However,* overall, its flaws are overcome by its beauty and charming [fog](/fog/); its interesting people and its eccentricities[^5]; and Rice-A-Roni.
 
 I concur with Om Malik:
 
