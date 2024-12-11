@@ -24,7 +24,7 @@ Say hello on your favorite messaging app:
 | Telegram | <a href="https://t.me/berensp" target="_blank">@berensp</a> |
 | 𝕏 (Twitter) | <a href="https://x.com/berensp" target="_blank">@berensp</a> |
 
-	<mark><span class="muted small">web3</span></mark>
+<mark><span class="muted small">web3</span></mark>
 
 ## No se puede
 - ~~[iMessage](/phones/)~~
