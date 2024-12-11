@@ -6,6 +6,9 @@ ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
 Say hello on your favorite messaging app:
+- **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">@paul</a>) – for web3 nerds
+
+
 
 | Asset | Account |
 | :--- | :--- |
