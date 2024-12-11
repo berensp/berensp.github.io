@@ -7,7 +7,7 @@ description: Say hello on these apps, messengers, etc.
 ---
 Say hello on your favorite messaging app:
 - **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">@paul</a>) – for web3 nerds
-- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>)
+- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>) – I'm down with discord despite even if I'm not a gamer
 - **Email** (hey@[this domain]) – it's old school, but still works so well; DAU
 - **<mark>Farcaster</mark>** (<a href="https://warpcast.com/berensp.eth" target="_blank">@berensp.eth</a>) – web3 social
 - **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>) – should probably delete this...
