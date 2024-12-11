@@ -8,4 +8,4 @@ permalink: /bio/
 - Passionate about telling resonant stories, unlocking great potential through technology, uncovering unanticipated insights, forming and nurturing relationships, and creating *Arbejdsglæde*.
 - [@BC](https://x.com/bostoncollege) Eagle and [@UMich](https://x.com/UMich) Wolverine
 - In free time, can be found [reading](/books/), [writing](/blog/), [riding](/cycling/), [learning](/learning/), and [preparing meatloaf](/recipes/meatloaf/).
-- Professional profiles at <a href="https://angel.co/berens" target="_blank">AngelList</a> and <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>.
+- Professional profiles at <a href="https://wellfound.com/u/berensp" target="_blank">AngelList</a> and <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a>.
