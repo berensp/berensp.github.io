@@ -30,4 +30,4 @@ What I'm up to [now](/now/)adays, or more specifically, [today](/today/).
 - {{ route_count }} [cycling](/cycling/) + [running](/running/) routes for happy workouts
 - [{{ recipe_count }} surefire kid-friendly recipes](/recipes/) for picky eaters
 
-Get in touch via <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a> and [elsewhere](/contact/).
+Get in touch via <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a> and [elsewhere](/contact/).
