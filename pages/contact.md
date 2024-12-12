@@ -13,7 +13,7 @@ Say hello on your favorite messaging app:
 - **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>) – <code>¯\_(ツ)_/¯</code>
 - **Google Chat** (<a href="https://chat.google.com/" target="_blank">[my gmail addie]</a>) – one group chat that's still going strong
 - **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>) – if you're Korean
-- **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>) – obligatory social media; would rather message elsewhere
+- **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>) – obligatory professional social media; would rather message elsewhere
 - **Marco Polo** (<a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">@paul-b-4yhvV</a>) – asynchronous video chats
 - **Mastodon** (<a rel="me" href="https://mas.to/@pmb" target="_blank">@pmb@mas.to</a>) – oh, fediverse...
 - **Matrix** (<a href="https://matrix.to/#/@berens:matrix.org" target="_blank">@berens</a>) – decentralized messenger
