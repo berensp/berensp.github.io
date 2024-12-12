@@ -4,7 +4,7 @@ title: Email me
 permalink: /email/
 description: He lies Paul; he did email
 ---
-Are you an evil AI bot posing as a human? Be honest now. If that's a sincere no, feel free to send me an electronic mail via this form:
+If you promise you're not an evil AI bot posing as a human, feel free to send me an electronic mail via this form:
 
 <form
   action="https://formspree.io/f/xknkengj"
