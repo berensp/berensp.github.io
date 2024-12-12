@@ -7,10 +7,10 @@ description: Say hello on these apps, messengers, etc.
 ---
 Say hello on your favorite messaging app:
 - **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">@paul</a>) – for web3 nerds
-- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>) – I'm down despite not being a gamer
-- **Email** (hey@[this domain]) – it's old school, but still works so well; DAU
+- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>) – despite not being a gamer
+- **Email** (hey@[this domain]) – old school; DAU
 - **<mark>Farcaster</mark>** (<a href="https://warpcast.com/berensp.eth" target="_blank">@berensp.eth</a>) – web3 social
-- **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>) – should probably delete...
+- **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>) – <code>¯\_(ツ)_/¯</code>
 - **Google Chat** (<a href="https://chat.google.com/" target="_blank">[my gmail addie]</a>) – one group chat that's still going strong
 - **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>) – if you're not Korean, keep 'er movin'
 - **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>) – obligatory social media; would rather message elsewhere
