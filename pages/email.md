@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Email
+title: Email me
 permalink: /email/
 description: He lies Paul; he did email
 ---
+Are you an evil AI bot posing as a human? Be honest now. If that's a sincere no, feel free to send me an electronic mail via this form:
+
 <form
   action="https://formspree.io/f/xknkengj"
   method="POST"
   style="display: flex; flex-direction: column; max-width: 500px; gap: 1rem;"
 >
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-    <label for="email">Your Email:</label>
+    <label for="email">Your email addie:</label>
     <input 
       type="email" 
       id="email" 
@@ -32,7 +34,7 @@ description: He lies Paul; he did email
   </div>
 
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-    <label for="message">Your Message:</label>
+    <label for="message">Message:</label>
     <textarea 
       id="message" 
       name="message" 
