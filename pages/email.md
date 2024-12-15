@@ -2,7 +2,7 @@
 layout: page
 title: Email me
 permalink: /email/
-description: He lies Paul; he did email
+description: Here lies Paul; he did email
 ---
 If you promise you're not an evil AI bot posing as a human, feel free to send me an electronic mail via this form:
 
@@ -14,6 +14,12 @@ If you promise you're not an evil AI bot posing as a human, feel free to send me
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
     <input 
       type="email" 
+      style=" 
+       font-size: 1em;
+       padding: 0.5rem; 
+       border: 1px solid #ccc; 
+       border-radius: 4px;
+       "
       id="email" 
       name="email" 
       placeholder="Your email addie" 
