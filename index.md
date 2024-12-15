@@ -19,7 +19,7 @@ layout: home
 
 <img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
 
-✌ Hi, I'm Paul Berens (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3)): [product-/go-to-marketer](/bio), [learner](/learning/), [parishioner](/catholic), [skier](/skiing), and diaper-changer.
+✌ Hi, I'm Paul Berens (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3)): [product-/go-to-marketer](/bio), [learner](/learning/), [worshiper](/catholic), [traveler](/travels/), [skier](/skiing), [diaper-changer](/diapering/).
 
 What I'm up to [now](/now/)adays, or more specifically, [today](/today/).
 
