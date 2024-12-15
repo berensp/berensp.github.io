@@ -42,6 +42,7 @@ If you promise you're not an evil AI bot posing as a human, feel free to send me
   <button 
     type="submit" 
     style="
+      font-size: 1em;
       padding: 0.75rem 1.5rem;
       background-color: #007bff;
       color: white;
