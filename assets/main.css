@@ -94,6 +94,11 @@ input:not([type="checkbox"]), textarea {
     appearance: none;
 }
 
+input:not([type="checkbox"]):focus, textarea:focus {
+    outline: none;  /* Remove default focus outline */
+    border-color: #007bff;  /* Match your button's blue */
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);  /* Optional: adds a subtle blue glow */
+}
 
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
