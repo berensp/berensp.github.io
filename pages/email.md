@@ -4,7 +4,7 @@ title: Email me
 permalink: /email/
 description: Here lies Paul; he did email
 ---
-If you promise you're not an evil AI bot posing as a human, feel free to send me an electronic mail via this form:
+If you promise you're not an evil AI bot posing as a human, feel free to send me an electronic mail:
 
 <form
   action="https://formspree.io/f/xknkengj"
@@ -32,7 +32,7 @@ If you promise you're not an evil AI bot posing as a human, feel free to send me
     <textarea 
       id="message" 
       name="message" 
-      placeholder="Your message here" 
+      placeholder="Your message or question or joke or business proposal here" 
       required 
       rows="5" 
       style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; resize: vertical;"

@@ -85,7 +85,7 @@ hr {
   line-height: 0.8em;
 }
 
-input, textarea {
+input:not([type="checkbox"]), textarea {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 1em;
     line-height: 1.5em;
@@ -93,6 +93,7 @@ input, textarea {
     -moz-appearance: none;
     appearance: none;
 }
+
 
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
