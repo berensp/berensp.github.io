@@ -36,6 +36,22 @@ permalink: /today/
 .current-time-row {
   background-color: #fff3cd;
 }
+.schedule-table input:not([type="checkbox"]) {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 0.5rem;
+}
+.schedule-table input:not([type="checkbox"]):focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.8);
+}
 </style>
 
 <script>
