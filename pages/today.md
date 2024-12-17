@@ -39,13 +39,13 @@ permalink: /today/
 .schedule-table input:not([type="checkbox"]) {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 1em;
-    line-height: 1.5em;
+    line-height: 1.2em;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
     border: 1px solid #ccc;
     border-radius: 4px;
-    padding: 0.5rem;
+    padding: 0.25rem;
 }
 .schedule-table input:not([type="checkbox"]):focus {
     outline: none;
