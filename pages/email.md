@@ -32,7 +32,7 @@ If you promise you're not an evil AI bot posing as a human, feel free to send me
     <textarea 
       id="message" 
       name="message" 
-      placeholder="Your flattering remark or rant or joke or business proposal here" 
+      placeholder="Your query or remark or investor pitch here" 
       required 
       rows="5" 
       style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; resize: vertical;"
