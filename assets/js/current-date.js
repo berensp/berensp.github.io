@@ -14,8 +14,18 @@ function updateCurrentDate(elementId) {
   // Debug logging for footer year update
   const footerYearElements = document.querySelectorAll('.footer-year');
   footerYearElements.forEach(element => {
-    console.log("Footer year before:", element.textContent); // Will show the Jekyll-generated year
+    console.log("Footer year before:", element.textContent);
     element.textContent = year;
-    console.log("Footer year after:", element.textContent); // Will show the JavaScript-updated year
+    console.log("Footer year after:", element.textContent);
   });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  // Initial update
+  updateCurrentDate('current-date');
+  
+  // Update every minute (60000 milliseconds)
+  setInterval(() => {
+    updateCurrentDate('current-date');
+  }, 60000);
+});
