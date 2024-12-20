@@ -19,14 +19,14 @@ layout: home
 
 <img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
 
-Hi, I'm **Paul Berens** (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3)): [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [diaper-changer](/diapering/).
+Hi, I'm <mark>**Paul Berens**</mark> (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3)): [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [diaper-changer](/diapering/).
 
-**Now**: What I'm up to [now](/now/)(adays), or more specifically, [today](/today/).
+<mark>**Now**</mark>: What I'm up to [now](/now/)(adays), or more specifically, [today](/today/).
 
-**Beliefs** (strong opinions, loosely held): You can't get smarter without reading. Technology is super—I'm an enthusiast—but it ain't gonna save us. History helps us realize how easy we've got it. *Silentium universi* (sorry, Fermi). 
+<mark>**Beliefs**</mark>: You can't get smarter without reading. Technology is great—I'm an enthusiast—but it ain't gonna save us. History helps us realize how good we've got it. *Silentium universi* (sorry, Fermi). 
 
-**Values** that I prize—even when I fail to uphold myself: [Candor](http://sl4.org/crocker.html), creativity, curiosity, excellence, forgiveness, friendship, humour, inclusion, integrity, knowledge, love, resourcefulness, tradition, wisdom.
+<mark>**Values**</mark> that I prize (even when I fail to uphold myself): [candor](http://sl4.org/crocker.html), creativity, curiosity, etiquette, excellence, family, forgiveness, friendship, humour, inclusion, integrity, knowledge, love, resourcefulness, tradition, wisdom.
 
-**{{ total_content }} freebies on this website**: [{{ post_count }} mini-essays](/blog/), [{{ book_count }} book ideas](/books/), [{{ prayer_count }} English and Latin prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
+<mark>**{{ total_content }} freebies on this website**</mark>: [{{ post_count }} mini-essays](/blog/), [{{ book_count }} book ideas](/books/), [{{ prayer_count }} English and Latin prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
 
-**Get in touch**: via <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a> and [elsewhere](/contact/).
+<mark>**Get in touch**</mark>: via <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a> and [elsewhere](/contact/).
