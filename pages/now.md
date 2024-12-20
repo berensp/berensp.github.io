@@ -3,7 +3,7 @@ layout: page
 title: Now
 permalink: /now/
 last_modified_at: 2024-11-29
-description: What am I up to these days. 
+description: What I'm up to these days. 
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
 {% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
@@ -17,7 +17,7 @@ description: What am I up to these days.
 
 👨‍👩‍👧‍👦 Raising some kids with my lovely wife.
 
-💼 Helping build and grow a SaaS business / digital product portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys).
+💼 Helping build and grow a SaaS business / digital product portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys). ([Bio](/bio/).)
 
 ✍ Occasionally assembling thoughts in [mini-essay form](/blog/) — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 
