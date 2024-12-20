@@ -27,6 +27,6 @@ description: What I'm up to these days.
 
 🚴‍♂️ [Bicycling](/cycling/) and [running](/running/)—mostly the latter—when/where I can.
 
-🌱 Learning a little bit of front-end via Claude; kanban; Korean (한국말).
+🌱 [Learning](/learning/) a little bit of front-end via Claude; kanban; Korean (한국말).
 
 <span class="muted small">Last updated: {{ page.last_modified_at }}—except time in SF and time since last blog post which are real-time.</span>
