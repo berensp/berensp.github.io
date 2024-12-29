@@ -3,7 +3,7 @@ layout: page
 title: Apologia
 permalink: /apologia/
 ---
-*"The difficulty explaining [why I am Catholic](/catholic/) is that there are ten thousand reasons all amounting to one reason: that Catholicism is true."* (—G.K. Chesterton, *Twelve Modern Apostles and Their Creeds*, 1926)
+*"The difficulty explaining [why I am Catholic](/catholic) is that there are ten thousand reasons all amounting to one reason: that Catholicism is true."* (—G.K. Chesterton, *Twelve Modern Apostles and Their Creeds*, 1926)
 
 ## The Best Arguments for God's Existence
 - **Aquinas' Argument from Motion.** *(a.k.a. Argument of the Unmoved Mover).* Each change has a cause, but an infinite regress is impossible, and so there must be a first mover.
