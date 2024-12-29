@@ -81,7 +81,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Religion</td>
-      <td style="text-align: left"><a href="/catholic/">Catholicism</a></td>
+      <td style="text-align: left"><a href="/catholic">Catholicism</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Politics</td>
