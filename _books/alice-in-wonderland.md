@@ -2,11 +2,11 @@
 layout: bookreview
 title: Alice's Adventures in Wonderland
 author: Lewis Carroll
-category: Favourites
+category: Miscellany
 book_url: https://www.google.com/books/edition/Alice_s_Adventures_in_Wonderland/AjIWAAAAYAAJ?hl=en&gbpv=0
 ogimage: bkreview_alice.jpg
 ---
-A fun story in its own right, but also an introduction to logic puzzles, linguistic riddles, and math satire[^1]. Carroll (Dodgson) has allusions to mathematics all over *Wonderland*—particularly to what were new concepts at the time (like imaginary numbers)—and then employs *reductio ad absurdum* to expose weaknesses and/or poke fun.
+A fun story in its own right, but also an introduction to logic puzzles, linguistic riddles and puns, and math satire[^1]. Carroll (Dodgson) has allusions to mathematics all over *Wonderland*—particularly to what were new concepts at the time (like imaginary numbers)—and then employs *reductio ad absurdum* to expose weaknesses and/or poke fun.
 
 [^1]: Bayley, Melanie. ["Alice's Adventures in Algebra: Wonderland Solved."](https://www.newscientist.com/article/mg20427391-600-alices-adventures-in-algebra-wonderland-solved/) *New Scientist Ltd.*, 16 December 2009.
 
