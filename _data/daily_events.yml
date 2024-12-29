@@ -1,8 +1,16 @@
 # _data/daily_events.yml
 - date: "01-01"
-  event: "Happy New Year!"
-- date: "01-07"
-  event: "Happy Epiphany!"
+  event: 'Happy New Year 🎆'
+- date: "01-02"
+  event: 'Ninth day of Christmas (nine ladies dancing)'
+- date: "01-03"
+  event: 'Tenth day of Christmas (ten lords a-leaping)'
+- date: "01-04"
+  event: 'Eleventh day of Christmas (eleven pipers piping)'
+- date: "01-05"
+  event: 'Twelfth Night'
+- date: "01-06"
+  event: 'Epiphany'
 - date: "01-28"
   event: '<a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">Space Shuttle Challenger disaster</a> (1986)'
 - date: "01-13"
@@ -12,7 +20,7 @@
 - date: "01-31"
   event: "National Hot Chocolate Day ☕"
 - date: "02-02"
-  event: "It's Groundhog Day...all over again."
+  event: 'Candlemas'
 - date: "02-04"
   event: "World Cancer Day. Here's to all those in the fight."
 - date: "02-05"
@@ -263,4 +271,16 @@
 - date: "12-24"
   event: 'Twas the night before Christmas. <i>Stille Nacht, heilige Nacht</i>.'
 - date: "12-25"
-  event: "🎄 Merry Christmas!"
+  event: 'Merry Christmas 🎄'
+- date: "12-26"
+  event: 'Second day of Christmas (two turtle doves)'
+- date: "12-27"
+  event: 'Third day of Christmas (three French hens)'
+- date: "12-28"
+  event: 'Fourth day of Christmas (four calling birds)'
+- date: "12-29"
+  event: 'Fifth day of Christmas (five golden rings)'
+- date: "12-30"
+  event: 'Sixth day of Christmas (six geese a-laying)'
+- date: "12-31"
+  event: 'Réveillon de la Saint-Sylvestre'
