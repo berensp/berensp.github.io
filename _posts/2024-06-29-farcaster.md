@@ -19,7 +19,7 @@ So it does beg the question...
 - Payments are built in since a wallet is attached to each user
 - More innovation (because people are incented to build *and* because platform risk is mitigated)
 - No getting deplatformed and having to start over on another network (i.e. you carry your social graph with you)
-- (See Chris Dixon's [*Read Write Own*](/book/read-write-own/) for all the additional arguments and details.)
+- (See Chris Dixon's [*Read Write Own*](/books/read-write-own/) for all the additional arguments and details.)
 
 ## First impressions:
 - Week 1: "I seem to have wandered into a house party to which I was not invited."

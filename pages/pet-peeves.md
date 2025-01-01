@@ -4,18 +4,18 @@ title: Pet Peeves
 permalink: /pet-peeves/
 description: Hey, get off my lawn!
 ---
-Only a *kvetch* would list his pet peeves, but I'll just say that I'm particular about certain things...
-- Mechanical pencils (it's complete folly how one needs to apply the perfect amount of force at the perfect angle to not break the graphite)
-- Mealy apples
-- Speed bumps
-- Brushing your teeth at a workplace bathroom
-- Whistling (i.e., impinging on your right to peaceful enjoyment of life)
+Only a total *kvetch* would list his pet peeves, so I'll just frame it as me being a bit particular about certain things...
+- Mechanical pencils – it's complete folly how they require the perfect amount of force at the perfect angle for the graphite not to snap
+- Mealy apples – self-explanatory
+- Speed bumps – at least in SF a NIMBY thing
+- Brushing your teeth in a workplace restroom
+- Whistling – i.e., impinging on our right to peaceful enjoyment of life
 - Rules of the road:
-	- Failing to observe walk-on-the-right etiquette
-	- Able-bodied people ambling—being to dignified to hustle—across crosswalks, making others wait for you.
+	- Walking on the left
+	- Able-bodied people ambling across crosswalks while others are waiting
 	- Cyclists blowing through intersections
 	- Bicyclists riding on sidewalks
-- Changing/tweaking/effing with branding/branded elements
+- People with mediocre English skills but who fancy themselves grammarians and offer edits
 - WinZip
 - Things people say:
 	- Introducing oneself to a group with "For those who don't know me…" if you’re not at least a C-list celebrity
