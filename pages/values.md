@@ -3,19 +3,20 @@ layout: page
 title: Values
 permalink: /values/
 ---
-- [candor](http://sl4.org/crocker.html)
-- creativity
-- curiosity
-- etiquette
-- excellence
-- family
-- forgiveness
-- friendship
-- humour
-- inclusion
-- integrity
-- knowledge
-- love
-- resourcefulness
-- tradition
-- wisdom
+Not that I embody these; I just hold them in high regard.
+- [Candor](http://sl4.org/crocker.html)
+- Creativity
+- Curiosity
+- Etiquette
+- Excellence
+- Family
+- Forgiveness
+- Friendship
+- Humour
+- Inclusion
+- Integrity
+- Knowledge
+- Love
+- Resourcefulness
+- Tradition
+- Wisdom
