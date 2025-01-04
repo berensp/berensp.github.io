@@ -7,7 +7,7 @@ description: Gimme that old time religion.
 ---
 *"Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect."* (—Roman 12:2)
 
-When I was growing in Saint Paul, Minnesota; it was the Mecca of post-Vatican II contemporary Catholic music (i.e. *Glory & Praise* and *Gather*). Mom was actually a member of this scene, attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, et al.[^1] 
+When I was growing up in Saint Paul, Minnesota; it was the Mecca of post-Vatican II contemporary Catholic music (i.e. *Glory & Praise* and *Gather*). Mom was actually a member of this scene, attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, et al.[^1] 
 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
 
@@ -32,7 +32,7 @@ But a few things converged for me a few years into married life:
 ...and so when we returned to California in Spring 2021 we switched parishes to Star of the Sea, a traditional parish in the Richmond District of SF. I had actually discovered Star the year prior as I was Tridentine-curious, but once we joined the parish we attended the "ordinary form" due to the timeslot, however, it's still orthodox in all respects.
 
 ## Why Orthodoxy?
-There are all kinds of little things I found attractive about the traditional Catholicism (e.g., at Star of the Sea): *ad orientem*[^2],Communion at the rail and on the tongue from a priest, Gregorian chant/sacred polyphony, the space for silence, a reverent congregation in Sunday attire, etc. It stirred my soul; and the funny thing is that we were already at an objectively stunning church, perhaps the most beautiful in San Francisco.[^3]
+There are all kinds of little things I found attractive about the traditional Catholicism (e.g., at Star of the Sea): *ad orientem*[^2], Communion at the rail and on the tongue from a priest, Gregorian chant/sacred polyphony, the space for silence, a reverent congregation in Sunday attire, etc. It stirred my soul; and the funny thing is that we were already at an objectively stunning church, perhaps the most beautiful in San Francisco.[^3]
 
 [^2]: People sometimes attack this by saying the celebrant has his back to the congregation (as is disrespectful). But it really makes a lot of sense when you think that we're all (priest included) facing liturgical East to offer up prayer together to God.
 
@@ -54,14 +54,14 @@ At one of the parishes I've attended with my parents, everyone just remains stan
 
 Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jersey it shows respect, conveys how important I think it is, and then behavior conforms as well *(vestis virum facit)*.
 
-## Not holier than thou...quite the opposite
+## Not holier than thou—quite the opposite
 The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are too cool for school; holier than thou; supercilious. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
 
 As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's kinda me with the Faith: I went seriously off course—that's as much as a confession as you're going to get, Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back". And I'm sure I'll be doing so for years to come, God willing.
 
 I might liken it to cycling: I love riding with stronger cyclists because when you've got someone to chase, someone to pull you up the climbs; you end up riding harder and stronger. Similarly, when a large segment of your parish is pretty committed to their faith lives, it helps you with your own piety (a virtuous cycle or flywheel).
 
-You might say: that's great, Paul, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you. I mean, I think people can have different sensibilities about worship just like they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) probably constitute the vast majority of parishes in this country, and c) are likely the biggest on-ramp into the Faith for converts.
+You might say: well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you. And sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) probably constitute the vast majority of parishes in this country, and c) are likely the biggest on-ramp into the Faith for converts.
 
 But I also think we're dealing with something with immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53). But isn't Catholic conservatism just clinging to old comforts and tradition for its own sake, mainly because its adherents are afraid or skeptical of change? I'd argue that no, it's ultimately in service of the truth, and I see its effects. And yes, it's now counter-cultural and weird and uncool, but I'm with St. Alphonsus Liguori:
 
