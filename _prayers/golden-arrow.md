@@ -7,4 +7,4 @@ May the most holy, most sacred, most adorable, most mysterious and unutterable N
 
 *This prayer is said to have been revealed by Jesus Himself to a Carmelite nun of Tours in 1843 as a reparation for blasphemy. "This Golden Arrow will wound My Heart delightfully," He said, "and heal the wounds inflicted by blasphemy."*
 
-["At the Name of Jesus" by Ed Bolduc, Contemporary Choir, St. Dominic's San Francisco](https://youtu.be/cFjJEmyu2nI)
+[Musical reflection: *At the Name of Jesus*](https://youtu.be/cFjJEmyu2nI)
