@@ -5,9 +5,10 @@ date: 2025-01-03
 author:	Paul Berens
 description: Gimme that old time religion.
 ---
-When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e. *Glory & Praise* and *Gather*). Mom was actually a member of this scene, attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, et al.[^1] 
+When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). As a liturgical music director Mom was actually a member of this scene—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, Fr. John Foley[^1] et al.[^2]
 
-[^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
+[^1]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his Easter tunes.
+[^2]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
 
 At our parish, we'd have guitars strummin' to peace-lovin' favorites like *Anthem*:
 
@@ -23,18 +24,18 @@ We are question, we are creed.
 Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo Gratias!*
 
 But a few things (slowly) converged for me a few years into married life:
-1. A self-consciousness of certain shortcomings of my music ministry: e.g., difficulty with focus during Mass; a feeling of *performing* more than *worshipping*; questions about reverence (e.g., I'm standing on the altar, back to the tabernacle)...none of it malicious; but still concerning.
-2. A deepening faith—or at least desire for it—aided by our parish, my own spiritual reading, and various friends/acquaintances
-3. Kids + pandemic took us out of music ministry, and out of California altogether for a while
+1. A deepening faith—or at least desire for it—aided by our parish, my own spiritual reading, and various friends/acquaintances
+2. A self-consciousness of certain shortcomings of my music ministry: e.g., difficulty with focus during Mass; a feeling of *performing* more than *worshipping*; questions about reverence (e.g., I'm standing on the altar, back to the tabernacle)...none of it malicious; but still perturbing.
+3. Kids and Pandemic took us out of music ministry, and out of California altogether for a while
 
-...and so when we returned to California in Spring 2021 we switched parishes to Star of the Sea, a traditional parish in the Richmond District of SF. I had actually discovered Star the year prior as I was Tridentine-curious, but once we joined the parish we attended the "ordinary form".
+...and so when we returned to California in Spring 2021 we switched parishes to Star of the Sea, a traditional parish in the Richmond District of San Francisco. I had actually discovered Star the year prior as I was *Tridentine-curious*, but once we joined the parish we attended the "ordinary form".
 
-## Why Orthodoxy?
-There are all kinds of little things I found attractive about the traditional Catholicism (e.g., at Star of the Sea): *ad orientem*[^2], Communion at the rail and on the tongue from a priest, Gregorian chant/sacred polyphony, the space for silence, a reverent congregation in Sunday attire, etc. It stirred my soul; and the funny thing is that we were already at an objectively stunning church, perhaps the most beautiful in San Francisco.[^3]
+## Why Traditionalism?
+There are all kinds of little things I found attractive about the traditional Catholicism at Star of the Sea: *ad orientem*[^2], Communion at the rail and on the tongue (from a priest), Gregorian chant/sacred polyphony, the space for silence, a pious congregation in Sunday attire, etc. The sanctity and beauty stirred my soul; and the funny thing is that we were coming from what is arguably the most objectively beautiful church in all of San Francisco.[^3]
 
 [^2]: People sometimes attack this by saying the celebrant has his back to the congregation (as is disrespectful). But it really makes a lot of sense when you think that we're all (priest included) facing liturgical East to offer up prayer together to God.
 
-[^3]: In this way, it reminds me of Evelyn Waugh's [*Brideshead Revisited*](/books/brideshead/), going from one transcendental (the beautiful) to another (the true)—to not disparage St. Dominic's, but rather to lift up Star of the Sea as something that radiates, thanks to the blessing of Our Lady, Stella Maris (perhaps in response to 24-hour adoration and other devotions).
+[^3]: In this way, it reminds me of Evelyn Waugh's [*Brideshead Revisited*](/books/brideshead/), going from one transcendental (the beautiful) to another (the true)—not at all to disparage St. Dominic's, but rather to lift up Star of the Sea as something that radiates, thanks to the blessing of Our Lady, Stella Maris (perhaps in response to 24-hour adoration and other devotions).
 
 But the deeper why to me is about cognitive dissonance...or, in reality, reducing it.
 
@@ -44,17 +45,19 @@ Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and no
 
 [^4]: I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don’t have a Licentiate in Sacred Theology. Bishop Barron talks about how we (inadvertently?) disconnected meal and sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
 
-Reminds me of Annie Dillard's quote[^5]:
+Reminds me of (the first part of) this Annie Dillard quote[^5]:
 
 [^5]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares, which has more comic than theological value.
 
 > On the whole, I do not find Christians, outside of the catacombs, sufficiently sensible of conditions. Does anyone have the foggiest idea what sort of power we so blithely invoke? Or, as I suspect, does no one believe a word of it...
 
-At one of the parishes I've attended with my parents, everyone just remains standing during the Eucharistic Prayer, which is sanctioned but presents a problem in that your posture belies the reality, and so your brain gets mixed up.
+At one of the parishes I've attended, everyone just remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture belies the reality, and so your brain doesn't compute.
 
-Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jersey it shows respect, conveys how important I think it is, and then behavior conforms as well *(vestis virum facit)*.
+Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jersey it conveys respect, signals the importance[^6], and then (hopefully) behavior conforms as well *(vestis virum facit)*.
 
-## Not holier than thou—quite the opposite
+[^6]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
+
+## Not holier than thou
 The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are too cool for school; holier than thou; supercilious. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
 
 As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's a lot like me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back". And I'm sure I'll be doing so for years to come, God willing.
