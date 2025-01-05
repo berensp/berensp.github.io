@@ -36,7 +36,6 @@ img {
   }
 }
 
-
 a {
   color: #0074D9; 
 }
@@ -97,7 +96,6 @@ hr {
     text-decoration: underline;
 }
 
-
 input:not([type="checkbox"]), textarea {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 1em;
@@ -113,16 +111,17 @@ input:not([type="checkbox"]):focus, textarea:focus {
     box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.6);  /* Increased opacity from 0.25 to 0.6 */
 }
 
-
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
-    } 
+} 
+
 body {
     top: 0px !important; 
-    }
+}
 
-
-#map { height: 180px; }
+#map { 
+    height: 180px; 
+}
 
 blockquote {
   background: #ebf2ff;
@@ -130,7 +129,56 @@ blockquote {
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
+
 blockquote p {
   display: inline-block;
 }
 
+/* Footnote styles */
+sup, sub {
+  /* Adjust the vertical position */
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+  
+  /* Reduce the font size */
+  font-size: 75%;
+  
+  /* Prevent line-height disruption */
+  line-height: 0;
+  
+  /* Add some spacing */
+  margin: 0 2px;
+  
+  /* Optional: style the footnote number */
+  color: #666;
+}
+
+/* Style the footnote links specifically */
+sup a {
+  text-decoration: none;
+  padding: 0 2px;
+}
+
+/* Style the footnote list at the bottom */
+.footnotes {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #eee;
+  font-size: 0.9em;
+}
+
+.footnotes ol {
+  padding-left: 1.5em;
+}
+
+.footnotes li {
+  margin: 0.5em 0;
+  color: #666;
+}
+
+/* Style the footnote back-links */
+.footnotes .footnote-backref {
+  margin-left: 0.5em;
+  text-decoration: none;
+}
