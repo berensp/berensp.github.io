@@ -16,10 +16,10 @@ We are sower, we are seed.
 We are harvest, we are hunger.  
 We are question, we are creed.
 
-Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, et al.[^1]; and collaborating with the likes of Fr. John Foley[^2].
+Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2].
 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
-[^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his Easter tunes.
+[^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
 
 Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo Gratias!*
 
@@ -41,7 +41,7 @@ But the deeper reason for traditional Catholic liturgy has to do with cognitive 
 
 Consider that somewhere in the neighborhood of two-thirds of US Catholics don't believe in the Real Substance (transubstantiation). You might suppose that's the result of society becoming more scentific ergo more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
 
-Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^5]. I fully agree (for myself): my brain is decidedly not agile enough to pivot between homily jokes and inexhaustible mystery breaking through the veil through the Eucharist, and I think, the traditional liturgy is meant to spare us from that manoeuvre.
+Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^5]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
 
 [^5]: For what it's worth, I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don't have a Licentiate in Sacred Theology. Bishop Barron talks about the disconnection of meal from sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
 
