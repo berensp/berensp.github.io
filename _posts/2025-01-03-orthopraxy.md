@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orthodoxy
+title: Orthopraxy
 date: 2025-01-03
 author:	Paul Berens
 description: Gimme that old time religion.
