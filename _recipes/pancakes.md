@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Lisa's Pancakes
+title: Pancakes
 preptime: 40
 cooktime: 10
 yield: 5 servings
@@ -27,8 +27,10 @@ yield: 5 servings
 ## Instructions
 1. Combine dry ingredients into wet
 2. Let sit for ~20-30 minutes
-3. Fry 'em on the griddle
+3. Fry 'em on the griddle in coconut oil
 
 Buen provecho.
 
 — ᴘ. ᴍ. ʙ.
+
+<a class="muted small" href="https://www.allrecipes.com" target="_blank">Original recipe here</a><span class="muted small">...but significantly improved by Lisa.</span>
