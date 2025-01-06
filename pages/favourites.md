@@ -5,7 +5,7 @@ permalink: /favourites/
 ---
 - 🍿 [movies](/movies/)
 - 📚 [books](/books/)
-- 🏃‍♂️ [runs](/run/)
+- 🏃‍♂️ [runs](/running/)
 - 🚴‍♂️ [rides](/cycling)
 - quotes
 - purchases
