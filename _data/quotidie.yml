@@ -84,7 +84,7 @@ friday:
 saturday:
   - task: 'Rise, READINGS'
     time: "07:00"
-  - task: 'Pancakes!'
+  - task: '<a href="/recipes/pancakes/">Pancakes!</a>'
     time: "08:30"
   - task: '<a href="/prayers/angelus/">Angelus</a>, lunch'
     time: "12:00"
