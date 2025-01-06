@@ -23,6 +23,22 @@ description: fun facts
     </tr>
 
     <tr>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Alma Matres</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">Grad</td>
+      <td style="text-align: left"><a href="https://x.com/UMich" target="_blank">@UMich</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Undergrad</td>
+      <td style="text-align: left"><a href="https://x.com/bostoncollege" target="_blank">@BC</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Military</td>
+      <td style="text-align: left"><a href="https://x.com/AllThingsSTA" target="_blank">@STA</a></td>
+    </tr>
+
+    <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sporty Things</th>
     </tr>
     <tr>
@@ -40,14 +56,6 @@ description: fun facts
     <tr>
       <td style="text-align: left">Marathons<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
       <td style="text-align: left">1</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Miles ridden</td>
-      <td style="text-align: left"><a href="https://opensea.io/assets/base/0xbe85b86188553a014a96997770c30a67a847bb8b/24" target="_blank">>3861</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Miles run</td>
-      <td style="text-align: left"><a href="https://opensea.io/assets/base/0xbe85b86188553a014a96997770c30a67a847bb8b/26" target="_blank">>1872</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Skydives</td>
@@ -77,7 +85,7 @@ description: fun facts
       <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Cocktail Party Fodder</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Miscellany</th>
     </tr>
     <tr>
       <td style="text-align: left">Religion</td>
