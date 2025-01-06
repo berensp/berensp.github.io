@@ -151,6 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
      songContainer.innerHTML = `<span class="muted small">📻 </span><a class="muted small" href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
    } else {
      songContainer.innerHTML = '';
+     }
    }
 
   updateTimeElements();
