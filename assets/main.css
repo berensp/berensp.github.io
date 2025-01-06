@@ -161,6 +161,7 @@ sup a {
 }
 
 /* Style the footnote list at the bottom */
+.footnotes,
 #footnotes {
   margin-top: 2em;
   padding-top: 1em;
@@ -169,13 +170,20 @@ sup a {
   padding-left: 1.5em;
 }
 
+.footnotes li,
 #footnotes li {
   margin: 0.5em 0;
   color: #666;
 }
 
 /* Style the footnote back-links */
+.footnotes .footnote-backref,
 #footnotes a[title="Return to article"] {
   margin-left: 0.5em;
   text-decoration: none;
+}
+
+/* Additional styles for Markdown-generated footnotes */
+.footnotes ol {
+  padding-left: 0;  /* Remove extra padding since it's handled by .footnotes */
 }
