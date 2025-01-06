@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Pancakes
+title: Lisa's Pancakes
 preptime: 40
 cooktime: 10
 yield: 5 servings
