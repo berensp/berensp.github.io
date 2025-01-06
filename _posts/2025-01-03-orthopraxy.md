@@ -16,10 +16,10 @@ We are sower, we are seed.
 We are harvest, we are hunger.  
 We are question, we are creed.
 
-Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, et al.[^1]; and collaborating with the likes of Fr. John Foley[^2].
+Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2].
 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
-[^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his Easter tunes.
+[^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
 
 Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo Gratias!*
 
