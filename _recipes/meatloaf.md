@@ -5,7 +5,7 @@ preptime: 15
 cooktime: 60
 yield: ~4 servings
 ---
-## Meatloaf ingredients
+## Ingredients
 
 <ul style="list-style:none">
   <li><input type="checkbox"/>1 lb. ground beef (or ground turkey s'il vous plaît)</li>
