@@ -16,10 +16,10 @@ We are sower, we are seed.
 We are harvest, we are hunger.  
 We are question, we are creed.
 
-Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, Fr. John Foley[^1] et al.[^2]
+Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, Fr. Michael Joncas, et al.[^1]; and collaborating with the likes of Fr. John Foley[^2].
 
-[^1]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his Easter tunes.
-[^2]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
+[^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
+[^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his Easter tunes.
 
 Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo Gratias!*
 
@@ -62,7 +62,7 @@ The stereotype regarding the "traditionalists"—or pick your moniker of those a
 
 As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back"[^8]. And I'm sure I'll be doing so for years to come, God willing.
 
-[^8]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., the people understanding that departed souls require prayer vs. another people "celebrating the life of" the departed and then never praying for them because they're assumed to be "in a better place" (i.e., Heaven) may have actual consequences. But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
+[^8]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., the people understanding that departed souls require prayer vs. another people "celebrating the life of" the departed and then never praying for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
 
 I'd also liken it to cycling: I appreciate riding with stronger cyclists because when you've got someone to chase, someone to pull you up the climbs; you end up riding harder and stronger. Similarly, when a large segment of your parish is pretty committed to their faith lives, it helps you with your own piety (a virtuous cycle or flywheel).
 
