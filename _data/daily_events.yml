@@ -29,6 +29,10 @@
   event: 'The clarinet is invented in Nürnberg, Germany (1690)'
 - date: "01-15"
   event: 'First US ski club forms (Berlin, NH) (1882)'
+- date: "01-16"
+  event: 'The "Parallel" schooner explosion (1887)'
+- date: "01-17"
+  event: 'Cook crosses Antarctic Circle (1773)'
 - date: "01-28"
   event: 'Challenger disaster (1986)'
 - date: "01-30"
@@ -91,6 +95,8 @@
   event: 'Columbia Records releases Springsteen''s third album <a href="https://music.youtube.com/playlist?list=OLAK5uy_mSOhVYfA4mGwMGSRP_OIh3B7yQXu8I0b0" target="_blank"><i>Born To Run</i></a> (1975)'
 - date: "09-03"
   event: 'Treaty of Paris signed (1783)'
+- date: "09-06"
+  event: 'Regular Cable Car service begins on Clay St, San Francisco (1873)'
 - date: "09-11"
   event: 'The Atari 2600 released in North America (1977)'
 - date: "09-17"
