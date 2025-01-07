@@ -20,4 +20,4 @@ description: What I'm up to these days.
 - [Learning](/learning/) a little bit of front-end via Claude; kanban; Korean (한국말)
 - [Bicycling](/cycling/) and [running](/running/)—mostly the latter—when/where I can
 
-<span class="muted small">Last updated: {{ page.last_modified_at }}—except ${time in SF} and ${time since last blog post} which are real-time calcs; and ${current book title} which is pulling from a </span><a class="muted small" href="https://jekyllrb.com/docs/collections/" target="_blank">collection.</a></span>
+<span class="muted small">Last updated: {{ page.last_modified_at }}—except ${time in SF} and ${time since last blog post} which are real-time calcs; and ${current book title} which is pulling from a </span><a class="muted small" href="https://jekyllrb.com/docs/collections/" target="_blank">collection.</a>
