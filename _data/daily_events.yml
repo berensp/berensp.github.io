@@ -19,26 +19,34 @@
   event: 'Apple CEO Steve Jobs announces the iPhone (2007)'
 - date: "01-10"
   event: 'Julius Caesar crosses the Rubicon <i>(alea iacta est)</i> (49 BC)'
+- date: "01-11"
+  event: 'First public demo of Morse Code (1838)'
+- date: "01-12"
+  event: 'Vikes lose to Steelers 16-6 in Super Bowl IX (1975)'
+- date: "01-13"
+  event: 'National Geographic Society founded in D.C. (1888)'
 - date: "01-28"
-  event: '<a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">Space Shuttle Challenger disaster</a> (1986)'
+  event: 'Challenger disaster (1986)'
 - date: "01-13"
   event: '<a href="/sf/">Commemoration of the move to San Francisco</a> (2010)'
 - date: "01-30"
   event: '<a href="https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)" target="_blank">Bogside Massacre</a> (1972)'
 - date: "01-31"
-  event: "National Hot Chocolate Day ☕"
+  event: "National Hot Chocolate Day"
 - date: "02-02"
   event: 'Candlemas'
 - date: "02-04"
-  event: "World Cancer Day. Here's to all those in the fight."
+  event: "World Cancer Day"
 - date: "02-05"
   event: "World Nutella Day"
 - date: "02-09"
-  event: "National Pizza Day 🍕, the world's greatest cuisine, according to this gastronome"
+  event: "National Pizza Day 🍕"
 - date: "02-10"
-  event: 'The 41st day of the year (#41)'
+  event: 'The 41st day of the year'
 - date: "02-14"
   event: "Happy St. Valentine's Day 💘"
+- date: "02-16"
+  event: "State record: -59°F (-51°C), Pokegama Dam, MN (1903)"
 - date: "02-29"
   event: "Happy Leap Day! (See you in another four.)"
 - date: "03-14"
