@@ -39,7 +39,7 @@ There are all kinds of little things I found attractive about the traditional Ca
 
 But the deeper reason for traditional Catholic liturgy has to do with cognitive dissonance and the Eucharist.
 
-Did you know that somewhere in the neighborhood of two-thirds of US Catholics don't believe in the Real Substance (transubstantiation)? Mind-blowing. Especially when you consider that it's the "the source and summit of the Christian life"[^5].
+Did you know that somewhere in the neighborhood of two-thirds of US Catholics don't believe in the Real Substance (transubstantiation)? Astonishing. Especially when you consider that it's the "the source and summit of the Christian life"[^5].
 
 [^5]: *The Catechism of the Catholic Church* (1324).
 
