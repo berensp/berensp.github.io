@@ -13,4 +13,4 @@ Let us settle accounts on your favourite payment app:
 
 	<mark><span class="muted small">crypto</span></mark>
 
-![monopoly man](/assets/og/monopoly.man.png)
+<p><img src="/assets/og/monopoly.man.png" alt="Monopoly Man" style="width: 50%;">
