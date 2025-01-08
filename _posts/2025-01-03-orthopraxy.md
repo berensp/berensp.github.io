@@ -51,7 +51,7 @@ Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and no
 
 Reminds me of (the first part of) this Annie Dillard quote[^7]:
 
-[^7]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares, which has more comic than theological value.
+[^7]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
 
 > On the whole, I do not find Christians, outside of the catacombs, sufficiently sensible of conditions. Does anyone have the foggiest idea what sort of power we so blithely invoke? Or, as I suspect, does no one believe a word of it...
 
