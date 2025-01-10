@@ -4,7 +4,7 @@ title: Pet Peeves
 permalink: /pet-peeves/
 description: Hey, get off my lawn!
 ---
-Only a total kvetch would promulgate his pet peeves, so just think of it as me being a bit particular about certain things...
+Only a total kvetch would promulgate his pet peeves...so...let's get into it:
 - Brushing your teeth in a workplace restroom
 - Mealy apples – self-explanatory
 - Mechanical pencils – it's complete folly how the graphite demands the perfect amount of force at the perfect angle to not snap
