@@ -28,6 +28,7 @@ yield: 5 servings
 1. Combine dry ingredients into wet
 2. Let sit for ~20-30 minutes
 3. Fry 'em on the griddle in coconut oil
+4. Serve with copious amounts of bacon
 
 Buen provecho.
 
