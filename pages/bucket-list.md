@@ -21,7 +21,7 @@ description: the ultimate to-do list
 - **The Arts**
 	- Commit a poem to memory (e.g., *The Hound of Heaven*)
 	- Put on a Chautauqua
-	- Be able to play **Jungleland** on piano
+	- Be able to play *Jungleland* on piano
 	- ~~Act in a play/musical~~
 	- ~~Sing national anthem at pro ball game~~
 
