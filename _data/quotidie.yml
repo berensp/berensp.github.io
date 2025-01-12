@@ -11,6 +11,8 @@ monday:
     time: "18:00"
   - task: '<a href="/prayers/rosary">Joyful Mysteries</a>'
     time: "20:45"
+  - task: 'Put out rubbish bins'
+    time: "21:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:30"
   - task: 'Sleep'
@@ -73,6 +75,8 @@ friday:
     time: "12:00"
   - task: 'Afternoon work'
     time: "13:00"
+  - task: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy</a>'
+    time: "15:00"
   - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
     time: "18:00"
   - task: '<a href="/prayers/rosary">Sorrowful Mysteries</a>'
@@ -101,7 +105,7 @@ saturday:
 sunday:
   - task: 'Rise, READINGS'
     time: "07:00"
-  - task: 'Missa'
+  - task: '<a href="/prayers/st-ambrose/">Missa</a>'
     time: "09:30"
   - task: '<a href="/prayers/angelus/">Angelus</a>, lunch'
     time: "12:00"
