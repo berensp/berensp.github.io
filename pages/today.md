@@ -55,8 +55,18 @@ permalink: /today/
 </style>
 
 <script>
+
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
+  
+  function getTimeZoneAbbreviation() {
+    const formatter = new Intl.DateTimeFormat('en-US', {
+      timeZoneName: 'short',
+      timeZone: 'America/Los_Angeles'
+    });
+    const parts = formatter.formatToParts(new Date());
+    return parts.find(part => part.type === 'timeZoneName').value;
+  }
   
   function getPacificTime() {
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
@@ -80,6 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   function updateTimeElements() {
     const pacificTime = new Date(getPacificTime());
+    const timeZoneAbbr = getTimeZoneAbbreviation();
     const currentDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit' }).replace('/', '-');
     const currentDay = pacificTime.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
     
@@ -93,13 +104,16 @@ document.addEventListener('DOMContentLoaded', function() {
     const scheduleBody = document.getElementById('schedule-body');
     scheduleBody.innerHTML = '';
     
-    // Get the day's tasks from quotidie
+    // Update the table header to include the current time zone
+    const timeHeader = document.querySelector('.schedule-table th');
+    if (timeHeader) {
+      timeHeader.textContent = timeZoneAbbr;
+    }
+    
+    // Rest of your existing updateTimeElements code...
     const todaysTasks = siteData.quotidie[currentDay];
-    console.log('Current day:', currentDay);
-    console.log('Today\'s tasks:', todaysTasks);
     
     if (todaysTasks) {
-      // Sort tasks by time
       const sortedTasks = todaysTasks.sort((a, b) => {
         const timeA = a.time || '23:59';
         const timeB = b.time || '23:59';
@@ -110,17 +124,13 @@ document.addEventListener('DOMContentLoaded', function() {
         const row = document.createElement('tr');
         let taskHtml = taskObj.task;
         
-        // Check if this is the current time slot
-        const nextTask = sortedTasks[index + 1];
-        if (taskObj.time && isCurrentTimeSlot(taskObj.time, nextTask?.time)) {
+        if (taskObj.time && isCurrentTimeSlot(taskObj.time, sortedTasks[index + 1]?.time)) {
           row.classList.add('current-time-row');
         }
         
-        // Check if READINGS is anywhere in the task string
         if (taskHtml.includes('READINGS')) {
           const usccbDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit', year: '2-digit' }).replace(/\//g, '');
           const usccbLink = `https://bible.usccb.org/bible/readings/${usccbDate}.cfm`;
-          // Replace READINGS with the formatted link
           taskHtml = taskHtml.replace('READINGS', `<a href="${usccbLink}" target="_blank">readings</a>`);
         }
         
@@ -131,32 +141,12 @@ document.addEventListener('DOMContentLoaded', function() {
         scheduleBody.appendChild(row);
       });
     }
-
-   const eventContainer = document.getElementById('event-container');
-   const event = siteData.daily_events.find(e => e.date === currentDate);
-   eventContainer.innerHTML = event ? `<span class="muted small">📆 ${event.event}</span>` : '';
-
-   const feastContainer = document.getElementById('feast-container');
-   const feast = siteData.feast_days.find(e => e.date === currentDate);
-   feastContainer.innerHTML = feast ? `<span class="muted small">🕯️ ${feast.feast}</span>` : '';
-
-   const birthdayContainer = document.getElementById('birthday-container');
-   const birthday = siteData.bdays.find(b => b.date === currentDate);
-   birthdayContainer.innerHTML = birthday ? `<span class="muted small">🎈 ${birthday.bday}</span>` : '';
-
-   const songContainer = document.getElementById('song-container');
-   const dailysong = siteData.daily_song.find(s => s.date === currentDate);
-   if (dailysong) {
-     const baseUrl = "https://music.youtube.com/watch?v=";
-     songContainer.innerHTML = `<span class="muted small">📻 </span><a class="muted small" href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
-   } else {
-     songContainer.innerHTML = '';
-     }
-   }
+  }
 
   updateTimeElements();
   setInterval(updateTimeElements, 60000);
 });
+
 </script>
 
 <div id="event-container"></div>
