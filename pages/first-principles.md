@@ -16,3 +16,8 @@ permalink: /first-principles/
 - **Technology:**
 	- It's great—I'm very much an enthusiast—but it ain't gonna save us
 	- We need a decentralized web (see [Farcaster](/farcaster.html) and [*Read Write Own*](/books/read-write-own/) posts)
+
+## Useful Frameworks / Theories
+- [Pournelle's Iron Law of Bureaucracy](https://gordonbrander.com/pattern/pournelles-iron-law-of-bureaucracy/)
+- [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
+- [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
