@@ -104,14 +104,15 @@ document.addEventListener('DOMContentLoaded', function() {
     const scheduleBody = document.getElementById('schedule-body');
     scheduleBody.innerHTML = '';
     
-    // Update the table header to include the current time zone
+    // Update the table header to show just the time zone
     const timeHeader = document.querySelector('.schedule-table th');
     if (timeHeader) {
       timeHeader.textContent = timeZoneAbbr;
     }
     
-    // Rest of your existing updateTimeElements code...
     const todaysTasks = siteData.quotidie[currentDay];
+    console.log('Current day:', currentDay);
+    console.log('Today\'s tasks:', todaysTasks);
     
     if (todaysTasks) {
       const sortedTasks = todaysTasks.sort((a, b) => {
@@ -140,6 +141,27 @@ document.addEventListener('DOMContentLoaded', function() {
         `;
         scheduleBody.appendChild(row);
       });
+    }
+
+    const eventContainer = document.getElementById('event-container');
+    const event = siteData.daily_events.find(e => e.date === currentDate);
+    eventContainer.innerHTML = event ? `<span class="muted small">📆 ${event.event}</span>` : '';
+
+    const feastContainer = document.getElementById('feast-container');
+    const feast = siteData.feast_days.find(e => e.date === currentDate);
+    feastContainer.innerHTML = feast ? `<span class="muted small">🕯️ ${feast.feast}</span>` : '';
+
+    const birthdayContainer = document.getElementById('birthday-container');
+    const birthday = siteData.bdays.find(b => b.date === currentDate);
+    birthdayContainer.innerHTML = birthday ? `<span class="muted small">🎈 ${birthday.bday}</span>` : '';
+
+    const songContainer = document.getElementById('song-container');
+    const dailysong = siteData.daily_song.find(s => s.date === currentDate);
+    if (dailysong) {
+      const baseUrl = "https://music.youtube.com/watch?v=";
+      songContainer.innerHTML = `<span class="muted small">📻 </span><a class="muted small" href="${baseUrl}${dailysong.songId}" target="_blank">${dailysong.track}</a>`;
+    } else {
+      songContainer.innerHTML = '';
     }
   }
 
