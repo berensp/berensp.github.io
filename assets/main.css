@@ -45,7 +45,7 @@ img {
         width: 100%;
     }
     .video-wrapper {
-        padding-bottom: 100%; /* Taller on mobile */
+        padding-bottom: 125%; /* Taller on mobile */
     }
 }
 
