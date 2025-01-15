@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Today
+title: date
 permalink: /today/
 ---
-<h2 id="current-date">Loading...</h2>
 <table class="schedule-table">
   <thead>
     <tr>
@@ -55,7 +54,6 @@ permalink: /today/
 </style>
 
 <script>
-
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
   
@@ -94,7 +92,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const currentDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit' }).replace('/', '-');
     const currentDay = pacificTime.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
     
-    document.getElementById('current-date').textContent = pacificTime.toLocaleString('en-US', { 
+    // Update page title (h1) with current date
+    document.querySelector('h1').textContent = pacificTime.toLocaleString('en-US', { 
       weekday: 'long', 
       year: 'numeric', 
       month: 'long', 
@@ -111,8 +110,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     const todaysTasks = siteData.quotidie[currentDay];
-    console.log('Current day:', currentDay);
-    console.log('Today\'s tasks:', todaysTasks);
     
     if (todaysTasks) {
       const sortedTasks = todaysTasks.sort((a, b) => {
@@ -168,7 +165,6 @@ document.addEventListener('DOMContentLoaded', function() {
   updateTimeElements();
   setInterval(updateTimeElements, 60000);
 });
-
 </script>
 
 <div id="event-container"></div>
