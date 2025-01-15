@@ -32,7 +32,7 @@ tuesday:
     time: "13:00"
   - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
     time: "18:00"
-  - task: 'Ad Oratio, <a href="/prayers/rosary">Sorrowful Mysteries</a>'
+  - task: '<a href="/prayers/ad-oratio/">Ad Oratio</a>'
     time: "21:00"
   - task: 'Sleep'
     time: "22:20"
