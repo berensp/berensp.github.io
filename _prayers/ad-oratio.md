@@ -12,7 +12,7 @@ category: Miscellany
 - [Pater Noster](/prayers/pater-noster/)
 - [Ave Maria](/prayers/ave-maria/)
 - [Gloria Patri](/prayers/gloria-patri/)
-- [Anima Christi](prayers/anima-christi/)
+- [Anima Christi](/prayers/anima-christi/)
 - [Suspice](/prayers/suspice/)
 - [Rosary](/prayers/rosary/)
 
