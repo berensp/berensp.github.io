@@ -22,7 +22,7 @@ monday:
 tuesday:
   - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">orate ante labori</a>'
     time: "06:00"
-  - task: 'Cold cereal'
+  - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE&si=i1i8vrj2E4E2kU5W" target="_blank">Milk & cereal</a>'
     time: "07:15"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15">'
     time: "09:00"
