@@ -1,6 +1,6 @@
 ---
 layout: page
-title: date
+title: Today
 permalink: /today/
 ---
 <table class="schedule-table">
