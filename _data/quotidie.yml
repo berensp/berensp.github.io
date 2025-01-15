@@ -3,11 +3,11 @@ monday:
     time: "06:00"
   - task: 'Eggwich'
     time: "07:15"
-  - task: 'Prosecute <input type="text" placeholder="the one thing" size="15" font-size: 16px>'
+  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "09:00"
   - task: 'Lunch'
     time: "12:00"
-  - task: 'Afternoon work'
+  - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
     time: "18:00"
@@ -24,11 +24,11 @@ tuesday:
     time: "06:00"
   - task: 'Cold cereal'
     time: "07:15"
-  - task: 'Prosecute <input type="text" placeholder="the one thing" size="15">'
+  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15">'
     time: "09:00"
   - task: 'Lunch'
     time: "12:00"
-  - task: 'Afternoon work'
+  - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
     time: "18:00"
@@ -41,11 +41,11 @@ wednesday:
     time: "06:00"
   - task: 'Waffle Wednesday'
     time: "07:15"
-  - task: 'Prosecute <input type="text" placeholder="the one thing" size="15" font-size: 16px>'
+  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "09:00"
   - task: 'Lunch'
     time: "12:00"
-  - task: 'Afternoon work'
+  - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
     time: "18:00"
@@ -60,11 +60,11 @@ thursday:
     time: "06:00"
   - task: 'Bagel meets my coffee'
     time: "07:15"
-  - task: 'Prosecute <input type="text" placeholder="the one thing" size="15" font-size: 16px>'
+  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "09:00"
   - task: 'Lunch'
     time: "12:00"
-  - task: 'Afternoon work'
+  - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
     time: "18:00"
@@ -79,11 +79,11 @@ friday:
     time: "06:00"
   - task: 'Breakfast'
     time: "07:15"
-  - task: 'Prosecute <input type="text" placeholder="the one thing" size="15" font-size: 16px>'
+  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "09:00"
   - task: 'Veg lunch'
     time: "12:00"
-  - task: 'Afternoon work'
+  - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy</a>'
     time: "15:00"
