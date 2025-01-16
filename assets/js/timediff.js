@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Time in SF calculation
-  const SFArrival = new Date('2010-01-13'); // SF Arrival date
+  const SFArrival = new Date('2010-01-13T17:05:00-08:00'); // SF Arrival date at 17:05 PST on ✈ WN221
   console.log("SF Arrival Date:", SFArrival.toString());
 
   const currentTime = new Date();
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const postDateEl = document.querySelector('#postDate');
   if (postDateEl) {
     const datePart = postDateEl.getAttribute('data-post-date').split('T')[0];
-    const adjustedDateStr = datePart + 'T02:30:00-08:00'; // Assuming date is in PST
+    const adjustedDateStr = datePart + 'T06:30:00-08:00'; // Assuming date is in PST
     console.log("Adjusted Date String:", adjustedDateStr);
 
     const postDate = new Date(adjustedDateStr);
