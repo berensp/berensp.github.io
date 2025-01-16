@@ -1,119 +1,129 @@
 monday:
-  - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">orate ante labori</a>'
+  - task: 'Rise, wash, READINGS'
     time: "06:00"
   - task: 'Eggwich'
-    time: "07:15"
+    time: "07:00"
+  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+    time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
-    time: "09:00"
+    time: "08:30"
   - task: 'Lunch'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, arrange things'
     time: "18:00"
-  - task: '<a href="/prayers/rosary">Joyful Mysteries</a>'
-    time: "20:45"
   - task: 'Put out rubbish bins'
-    time: "21:00"
+    time: "20:50"
   - task: '<a href="/books/">Read</a>'
-    time: "21:30"
+    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Joyful Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
 tuesday:
-  - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">orate ante labori</a>'
+  - task: 'Rise, wash, READINGS'
     time: "06:00"
   - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE&si=i1i8vrj2E4E2kU5W" target="_blank">Milk & cereal</a>'
-    time: "07:15"
-  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15">'
-    time: "09:00"
+    time: "07:00"
+  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+    time: "08:25"
+  - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
+    time: "08:30"
   - task: 'Lunch'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, diversion with the children'
     time: "18:00"
   - task: '<a href="/prayers/ad-oratio/">Ad Oratio</a>'
     time: "21:00"
   - task: 'Sleep'
     time: "22:20"
 wednesday:
-  - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">orate ante labori</a>'
+  - task: 'Rise, wash, READINGS'
     time: "06:00"
   - task: 'Waffle Wednesday'
-    time: "07:15"
+    time: "07:00"
+  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+    time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
-    time: "09:00"
+    time: "08:30"
   - task: 'Lunch'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, arrange things'
     time: "18:00"
-  - task: '<a href="/prayers/rosary">Glorious Mysteries</a>'
-    time: "20:45"
   - task: '<a href="/books/">Read</a>'
-    time: "21:30"
+    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Glorious Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
 thursday:
-  - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">orate ante labori</a>'
+  - task: 'Rise, wash, READINGS'
     time: "06:00"
   - task: 'Bagel meets my coffee'
-    time: "07:15"
+    time: "07:00"
+  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+    time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
-    time: "09:00"
+    time: "08:30"
   - task: 'Lunch'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, overlook my accounts'
     time: "18:00"
-  - task: '<a href="/prayers/rosary">Luminous Mysteries</a>'
-    time: "20:45"
   - task: '<a href="/books/">Read</a>'
-    time: "21:30"
+    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Luminous Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
 friday:
-  - task: 'Rise, READINGS, <a href="/prayers/orate-ante-labori/">orate ante labori</a>'
+  - task: 'Rise, wash, READINGS'
     time: "06:00"
   - task: 'Breakfast'
-    time: "07:15"
+    time: "07:00"
+  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+    time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
-    time: "09:00"
+    time: "08:30"
   - task: 'Veg lunch'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy</a>'
     time: "15:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, diversion with the children'
     time: "18:00"
-  - task: '<a href="/prayers/rosary">Sorrowful Mysteries</a>'
-    time: "20:45"
   - task: '<a href="/books/">Read</a>'
-    time: "21:30"
+    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Sorrowful Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
 saturday:
-  - task: 'Rise, READINGS'
+  - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: '<a href="/recipes/pancakes/">Pancakes!</a>'
+  - task: 'Contrive day's business over <a href="/recipes/pancakes/">pancakes!</a>'
     time: "08:30"
   - task: 'Lunch'
     time: "12:00"
   - task: 'Play'
     time: "13:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, diversion with the children'
     time: "18:00"
-  - task: '<a href="/prayers/rosary">Joyful Mysteries</a>'
-    time: "20:45"
   - task: '<a href="/books/">Read</a>'
-    time: "21:30"
+    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Joyful Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
 sunday:
-  - task: 'Rise, READINGS'
+  - task: 'Rise, wash, READINGS'
     time: "07:00"
   - task: 'French toast'
     time: "07:45"
@@ -123,11 +133,11 @@ sunday:
     time: "12:00"
   - task: 'Play'
     time: "13:00"
-  - task: 'Dine, clean, <a href="/assets/og/ben-franklin-schedule.jpg">arrange things</a>'
+  - task: 'Dine, clean, arrange things'
     time: "18:00"
-  - task: '<a href="/prayers/rosary">Glorious Mysteries</a>'
-    time: "20:45"
   - task: '<a href="/books/">Read</a>'
-    time: "21:30"
+    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Glorious Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
