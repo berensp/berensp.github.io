@@ -1,13 +1,20 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Time in SF calculation
-  const SFArrival = new Date('2010-01-14'); // SF Arrival date
+  const SFArrival = new Date('2010-01-13'); // SF Arrival date
   console.log("SF Arrival Date:", SFArrival.toString());
 
   const currentTime = new Date();
   console.log("Current Time (local):", currentTime.toString());
-
+  
+  // Calculate exact time difference
   const diffMsSF = currentTime - SFArrival.getTime();
-  const TimeInSF = (Math.round((diffMsSF / (1000 * 60 * 60 * 24 * 365)) * 10) / 10).toFixed(1);
+  const exactDays = diffMsSF / (1000 * 60 * 60 * 24);
+  const exactYears = exactDays / 365.25;
+  
+  // Always round down to nearest tenth
+  const TimeInSF = (Math.floor(exactYears * 10) / 10).toFixed(1);
+  
+  console.log("Exact years:", exactYears);
   console.log("Time in SF (years):", TimeInSF);
 
   const timeInSFEl = document.getElementById('TimeinSF');
