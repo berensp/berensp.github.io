@@ -39,40 +39,43 @@ There are all kinds of little things I found attractive about the traditional Ca
 
 But the deeper reason for traditional Catholic liturgy has to do with cognitive dissonance and the Eucharist.
 
-Did you know that somewhere in the neighborhood of two-thirds of US Catholics don't believe in the Real Substance (transubstantiation)? Astonishing. Especially when you consider that it's the "the source and summit of the Christian life"[^5].
+Did you know that nearly seven-in-ten US Catholics don't believe in the Real Substance (transubstantiation)[^5]? Astonishing. Especially when you consider that it's the "the source and summit of the Christian life"[^6].
 
-[^5]: *The Catechism of the Catholic Church* (1324).
+[^5]: Pew Research Center, July 23, 2019, ["What Americans Know About Religion"](https://www.pewresearch.org/wp-content/uploads/sites/20/2019/07/Religious-Knowledge-full-draft-FOR-WEB-2.pdf)
+
+
+[^6]: *The Catechism of the Catholic Church* (1324).
 
 You might suppose that's the result of society becoming more scentific ergo more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
 
-Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^6]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
+Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^7]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
 
-[^6]: For what it's worth, I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don't have a Licentiate in Sacred Theology. Bishop Barron talks about the disconnection of meal from sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
+[^7]: For what it's worth, I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don't have a Licentiate in Sacred Theology. Bishop Barron talks about the disconnection of meal from sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
 
-Reminds me of (the first part of) this Annie Dillard quote[^7]:
+Reminds me of (the first part of) this Annie Dillard quote[^8]:
 
-[^7]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
+[^8]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
 
 > On the whole, I do not find Christians, outside of the catacombs, sufficiently sensible of conditions. Does anyone have the foggiest idea what sort of power we so blithely invoke? Or, as I suspect, does no one believe a word of it...
 
 At one of the parishes I've attended, everyone just remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture belies the reality, and so your brain doesn't compute.
 
-Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jersey it conveys respect, signals the importance[^8], and then (hopefully) behavior conforms as well *(vestis virum facit)*.
+Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jersey it conveys respect, signals the importance[^9], and then (hopefully) behavior conforms as well *(vestis virum facit)*.
 
-[^8]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
+[^9]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
 
 ## Not holier than thou
 The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are too cool for school; holier than thou; supercilious. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
 
-As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back"[^9]. And I'm sure I'll be doing so for years to come, God willing.
+As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back"[^10]. And I'm sure I'll be doing so for years to come, God willing.
 
-[^9]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., one group understanding that departed souls require prayer versus another people "celebrating the life of" the departed and then maybe not continuing to pray for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
+[^10]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., one group understanding that departed souls require prayer versus another people "celebrating the life of" the departed and then maybe not continuing to pray for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
 
 I'd also liken it to cycling: I appreciate riding with stronger cyclists because when you've got someone to chase, someone to pull you up the climbs; you end up riding harder and stronger. Similarly, when a large segment of your parish is pretty committed to their faith lives, it helps you with your own piety (a virtuous cycle or flywheel).
 
-You might say: well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you. And sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) probably constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a certain segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53). And Catholic conservatism isn't just clinging to old comforts and tradition for its own sake; it's ultimately in service of the truth, and I believe its effects are real and visible. And yes, it's now counter-cultural and uncool[^10], but St. Paul encourages us in his letter to the Romans (12:2):
+You might say: well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you. And sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) probably constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a certain segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53). And Catholic conservatism isn't just clinging to old comforts and tradition for its own sake; it's ultimately in service of the truth, and I believe its effects are real and visible. And yes, it's now counter-cultural and uncool[^11], but St. Paul encourages us in his letter to the Romans (12:2):
 
-[^10]: St. Alphonsus Liguori has a good answer to this: "Do not consider what others do, or how they do it; for there are but few who really work for their own sanctification."
+[^11]: St. Alphonsus Liguori has a good answer to this: "Do not consider what others do, or how they do it; for there are but few who really work for their own sanctification."
 
 > Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect.
 
