@@ -3,7 +3,7 @@ monday:
     time: "06:00"
   - task: 'Eggwich'
     time: "07:00"
-  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+  - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
@@ -26,7 +26,7 @@ tuesday:
     time: "06:00"
   - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE&si=i1i8vrj2E4E2kU5W" target="_blank">Milk & cereal</a>'
     time: "07:00"
-  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+  - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
@@ -45,7 +45,7 @@ wednesday:
     time: "06:00"
   - task: 'Waffle Wednesday'
     time: "07:00"
-  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+  - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
@@ -66,7 +66,7 @@ thursday:
     time: "06:00"
   - task: 'Bagel meets my coffee'
     time: "07:00"
-  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+  - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
@@ -87,7 +87,7 @@ friday:
     time: "06:00"
   - task: 'Breakfast'
     time: "07:00"
-  - task: 'Contrive day's business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
+  - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
@@ -108,7 +108,7 @@ friday:
 saturday:
   - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: 'Contrive day's business over <a href="/recipes/pancakes/">pancakes!</a>'
+  - task: 'Contrive day''s business over <a href="/recipes/pancakes/">pancakes!</a>'
     time: "08:30"
   - task: 'Lunch'
     time: "12:00"
