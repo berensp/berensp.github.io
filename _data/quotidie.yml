@@ -17,7 +17,7 @@ monday:
     time: "20:50"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Joyful Mysteries</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Joyful Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
@@ -57,7 +57,7 @@ wednesday:
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Glorious Mysteries</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Glorious Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
@@ -78,7 +78,7 @@ thursday:
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Luminous Mysteries</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Luminous Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
@@ -101,7 +101,7 @@ friday:
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Sorrowful Mysteries</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Sorrowful Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
@@ -118,7 +118,7 @@ saturday:
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Joyful Mysteries</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Joyful Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
@@ -137,7 +137,7 @@ sunday:
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> / <a href="/prayers/rosary">Glorious Mysteries</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Glorious Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
