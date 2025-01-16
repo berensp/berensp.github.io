@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: Examen
-category: Miscellany
+category: Hora Somni
 ---
 *"Speak little, listen much."* (—St. Ignatius of Loyolase)
 
