@@ -108,8 +108,10 @@ friday:
 saturday:
   - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: 'Contrive day''s business over <a href="/recipes/pancakes/">pancakes!</a>'
-    time: "08:30"
+  - task: 'Contrive day''s business over <a href="/recipes/pancakes/">pancakes</a>'
+    time: "08:00"
+  - task: 'Play'
+    time: "09:00"
   - task: 'Lunch'
     time: "12:00"
   - task: 'Play'
