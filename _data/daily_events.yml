@@ -35,10 +35,30 @@
   event: 'Cook crosses Antarctic Circle (1773)'
 - date: "01-18"
   event: 'America''s 1st UFO sighting (1644)'
+- date: "01-19"
+  event: 'First electric lighting system employing overhead wires begins service at Roselle, NJ (1883)'
+- date: "01-20"
+  event: 'FDR sworn in for an unprecedented (and never to be repeated) fourth term as US president (1945)'
+- date: "01-21"
+  event: 'Louis XVI executed by guillotine for "high treason" (1793)'
+- date: "01-22"
+  event: '<i>Roe v. Wade</i> (1973)'
+- date: "01-23"
+  event: 'Nixon announces an accord has been reached to end the Vietnam War (1973)'
+- date: "01-24"
+  event: "James Marshall finds gold in Sutter's Mill in Coloma, CA (1848)"
+- date: "01-25"
+  event: 'First transcontinental telephone call (1915)'
+- date: "01-26"
+  event: 'American speed skater claims the first ever Winter Olympics gold medal (Chamonix) (1924)'
+- date: "01-27"
+  event: 'Thomas Edison patents electric incandescent lamp (1880)'
 - date: "01-28"
   event: 'Challenger disaster (1986)'
+- date: "01-29"
+  event: 'George W. Bush in SotU address describes "Axis of Evil" (2002)'
 - date: "01-30"
-  event: '<a href="https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)" target="_blank">Bogside Massacre</a> (1972)'
+  event: 'Bogside Massacre (1972)'
 - date: "01-31"
   event: "National Hot Chocolate Day"
 - date: "02-02"
@@ -79,6 +99,8 @@
   event: '<a href="https://www.unesco.org/en/days/press-freedom" target="_blank">World Press Freedom Day</a>'
 - date: "05-04"
   event: '<a href="https://youtube.com/shorts/C_G6miYiud0?si=bEiHUCmUffX1obtt" target="_blank">May the Fourth (be with you)</a>'
+- date: "05-11"
+  event: 'Minnesota admitted as 32nd US state (1858)'
 - date: "05-18"
   event: 'Mount St. Helens erupts (1980)'
 - date: "05-25"
@@ -197,7 +219,7 @@
 - date: "11-04"
   event: 'Iran Hostage Crisis (1979)'
 - date: "11-05"
-  event: 'FDR first and only US president to be elected to third term (1940)'
+  event: 'Date returned to in "Back to the Future" by Marty McFly (1955)'
 - date: "11-06"
   event: 'Bolshevik revolution begins (1917)'
 - date: "11-07"
