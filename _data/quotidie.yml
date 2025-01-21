@@ -24,8 +24,8 @@ monday:
 tuesday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE&si=i1i8vrj2E4E2kU5W" target="_blank">Milk & cereal</a>'
-    time: "07:00"
+  - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE" target="_blank">Milk & cereal</a>'
+    time: "07:20"
   - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
@@ -34,7 +34,7 @@ tuesday:
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: 'Dine, clean, diversion with the children'
+  - task: 'Dine, clean, diversion with the offspring'
     time: "18:00"
   - task: '<a href="/prayers/ad-oratio/">Ad Oratio</a>'
     time: "21:00"
@@ -97,7 +97,7 @@ friday:
     time: "13:00"
   - task: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy</a>'
     time: "15:00"
-  - task: 'Dine, clean, diversion with the children'
+  - task: 'Dine, clean, diversion with the offspring'
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
@@ -116,7 +116,7 @@ saturday:
     time: "12:00"
   - task: 'Play'
     time: "13:00"
-  - task: 'Dine, clean, diversion with the children'
+  - task: 'Dine, clean, more diversion'
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
