@@ -3,6 +3,21 @@ layout: prayer
 title: Suspice
 category: Miscellany
 ---
+Tomad, Señor, y recibid, toda mi libertad,  
+mi memoria, mi entendimiento,  
+y toda mi voluntad,  
+Todo mi haber y mi poseer.  
+
+Vos me lo diste,  
+a vos, Señor, lo torno.  
+
+Todo es vuestro.  
+Disponed de todo a vuestra voluntad.  
+Dadme vuestro amor y gracia que ésta me basta.  
+Amén.  
+
+* * *
+
 Suscipe, Domine, universam meam libertatem.  
 Accipe memoriam, intellectum,  
 atque voluntatem omnem.  
@@ -29,18 +44,3 @@ To Thee, O Lord, I return it.
 All is Thine, dispose of it wholly according to Thy will.  
 Give me Thy love and Thy grace,  
 for this is sufficient for me.  
-
-* * *
-
-Tomad, Señor, y recibid, toda mi libertad,  
-mi memoria, mi entendimiento,  
-y toda mi voluntad,  
-Todo mi haber y mi poseer.  
-
-Vos me lo diste,  
-a vos, Señor, lo torno.  
-
-Todo es vuestro.  
-Disponed de todo a vuestra voluntad.  
-Dadme vuestro amor y gracia que ésta me basta.  
-Amén.  
