@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: St. Teresa de Ávila
-category: Miscellany
+category: Saints
 ---
 Nada te turbe,  
 Nada te espante,  
