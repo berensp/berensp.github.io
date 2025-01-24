@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: O Blessed Host
+title: Litany to the Blessed Host
 category: Miscellany
 ---
 O Blessed Host, in whom is contained the testament of God's mercy for us, and especially for poor sinners.
@@ -63,6 +63,4 @@ O Blessed Host, I trust in You when my toils and efforts will be misjudged by ot
 
 O Blessed Host, I trust in You when Your judgments will resound over me; it is then that I will trust in the sea of Your mercy.
 
-Most Holy Trinity, I trust in Your infinite mercy. God is my Father and so I, His child, have every claim to His divine Heart; and the greater the darkness, the more complete our trust should be.
-
-I do not understand how it is possible not to trust in Him who can do all things. With Him, everyhing; without Him, nothing. He is Lord. He will not allow those who have placed all their trust in Him to be put to shame.
+<span class="muted small">Composed by St. Maria Faustina Kowalska.</span>
