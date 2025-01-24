@@ -7,7 +7,7 @@ Nada te turbe,
 Nada te espante,  
 Todo se pasa,  
 Dios no se muda,  
-La paciencia
+La paciencia  
 Todo lo alcanza;  
 Quien a Dios tiene  
 Nada le falta:  
