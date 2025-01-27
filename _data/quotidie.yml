@@ -138,7 +138,9 @@ sunday:
   - task: 'Dine, clean, arrange things'
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
-    time: "21:00"
+    time: "20:30"
+  - task: 'Prepare for the week ahead'
+    time: "21:30"
   - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Glorious Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
