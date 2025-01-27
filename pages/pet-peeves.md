@@ -6,8 +6,7 @@ description: Hey, get off my lawn!
 ---
 Only a total kvetch would promulgate his pet peeves...so...let's get into it:
 - Brushing your teeth in a workplace restroom
-- Mealy apples – self-explanatory
-- Mechanical pencils – it's complete folly how the graphite demands the perfect amount of force at the perfect angle to not snap
+- Mechanical pencils
 - People with mediocre English skills but who fancy themselves grammarians offering their edits
 - Rules of the road:
 	- Walking on the left
@@ -18,6 +17,5 @@ Only a total kvetch would promulgate his pet peeves...so...let's get into it:
 - Things people say:
 	- Introducing oneself to a group with "For those who don't know me…" if you’re not at least a C-list celebrity
 	- "...and this is something I like to call [generic word / word someone else coined]."
-- Whistling – i.e., impinging on our right to peaceful enjoyment of life
-- WinZip
-
+- Whistling
+- WinZip®
