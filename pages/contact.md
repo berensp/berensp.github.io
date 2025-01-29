@@ -15,7 +15,7 @@ Say hello on your favorite messaging app:
 - **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>)
 - **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>)
 - **Marco Polo** (<a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">@paul-b-4yhvV</a>)
-- **Mastodon** (<a rel="me" href="https://mas.to/@pmb" target="_blank">@pmb@mas.to</a>) – <a href="https://x.com/berensp/status/1588784671844085760" target="_blank">
+- **Mastodon** (<a rel="me" href="https://mas.to/@pmb" target="_blank">@pmb@mas.to</a>)
 - **Matrix** (<a href="https://matrix.to/#/@berens:matrix.org" target="_blank">@berens</a>)
 - **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>)
 - **Strava** (<a href="https://www.strava.com/athletes/berenzino" target="_blank">@berenzino</a>)
