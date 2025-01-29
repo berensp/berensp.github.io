@@ -6,21 +6,21 @@ ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
 Say hello on your favorite messaging app:
-- **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">@paul</a>) – decentralized msg
-- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>) – despite not gaming
-- **Email** (<a href="/email/">click here</a>) – old school; DAU
-- **<mark>Farcaster</mark>** (<a href="https://warpcast.com/berensp.eth" target="_blank">@berensp.eth</a>) – decentralized social
-- **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>) – <code>¯\_(ツ)_/¯</code>
-- **Google Chat** (<a href="https://chat.google.com/" target="_blank">[gmail addie]</a>) – because gmail...
-- **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>) – if you're Korean
-- **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>) – proletarian social media
-- **Marco Polo** (<a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">@paul-b-4yhvV</a>) – asynch video chats
-- **Mastodon** (<a rel="me" href="https://mas.to/@pmb" target="_blank">@pmb@mas.to</a>) – <a href="https://x.com/berensp/status/1588784671844085760" target="_blank">oh, fediverse</a>...
-- **Matrix** (<a href="https://matrix.to/#/@berens:matrix.org" target="_blank">@berens</a>) – decentralized msg
-- **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>) – ♥; DAU
-- **Strava** (<a href="https://www.strava.com/athletes/berenzino" target="_blank">@berenzino</a>) – fitness tracker w/ right proper messaging
-- **Telegram** (<a href="https://t.me/berensp" target="_blank">@berensp</a>) – DAU
-- **𝕏 (Twitter)** (<a href="https://x.com/berensp" target="_blank">@berensp</a>) – DMs open
+- **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/paul.converse.xyz" target="_blank">@paul</a>)
+- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>)
+- **Email** (<a href="/email/">click here</a>)
+- **<mark>Farcaster</mark>** (<a href="https://warpcast.com/berensp.eth" target="_blank">@berensp.eth</a>)
+- **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>)
+- **Google Chat** (<a href="https://chat.google.com/" target="_blank">[gmail addie]</a>)
+- **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>)
+- **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>)
+- **Marco Polo** (<a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">@paul-b-4yhvV</a>)
+- **Mastodon** (<a rel="me" href="https://mas.to/@pmb" target="_blank">@pmb@mas.to</a>) – <a href="https://x.com/berensp/status/1588784671844085760" target="_blank">
+- **Matrix** (<a href="https://matrix.to/#/@berens:matrix.org" target="_blank">@berens</a>)
+- **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>)
+- **Strava** (<a href="https://www.strava.com/athletes/berenzino" target="_blank">@berenzino</a>)
+- **Telegram** (<a href="https://t.me/berensp" target="_blank">@berensp</a>)
+- **𝕏 (Twitter)** (<a href="https://x.com/berensp" target="_blank">@berensp</a>)
 
 	<mark><span class="muted small">web3</span></mark>
 
