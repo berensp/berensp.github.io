@@ -8,6 +8,7 @@ permalink: /first-principles/
 - **Epistemology:**
 	- It's hard to get smarter without reading
 	- As a society we may be increasing our knowledge base and growing technologically, but that doesn't necessarily translate to *wisdom*.
+	- Relatedly, we should be vigilant of *argumentum ad populum*.
 - **History:**
 	- Preserves and reminds us of useful ideas that may be as good/better than today's thinking
 	- Useful in helping us realize how good/easy we've got it
