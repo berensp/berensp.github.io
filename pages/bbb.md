@@ -4,7 +4,7 @@ title: Berens Birney Bdays
 permalink: /bbb/
 description: One social medium per bday wish
 ---
-Our semi-annual[^1] birthday exchanges where the only rule is that you can’t have posted on that platform previously.
+Our semi-annual[^1] birthday exchanges where the only rule is that you can't have posted on that platform previously.
 
 [^1]: Lucky that our birthdays are almost *exactly* a half year apart.
 
@@ -27,11 +27,11 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 | 2024-3-31 | <a href="https://warpcast.com/pmb/0x28ae5363" target="_blank">Farcaster</a>[^3] | PB→MB |
 | 2024-9-30 | <a href="https://steamcommunity.com/chat/" target="_blank">Steam</a> | MB→PB |
 
-[^2]: A stretch to qualify, but I definitely 'preciate you sharing your trove of Christmas movies.
+[^2]: A stretch to qualify as a messenger, but I definitely 'preciate you sharing yo' trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
 
 ## Ineligible:
-- **Google Products:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
+- **<a href="https://killedbygoogle.com/" target="_blank">The Illustrious Google Graveyard</a>:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
 - **Meta Products:** FB Messenger, Instagram[^4]
 - **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a></mark>[^5]
 
@@ -39,12 +39,13 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can’t h
 [^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
 ## Eligible:
-- <a href="https://signal.me/#eu/ZIW9Fp74JntNZR6qR3lzP75kawn7rnT4aCdYIPAOG6eeO25MvYpC5a36bQqXv57v" target="_blank">Signal</a>
+- <a href="https://bsky.app/profile/berens.co" target="_blank">Bluesky</a>
+- <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a>
 - <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
 - <a href="https://keybase.io/berens" target="_blank">Keybase</a>[^6]
 - <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
 
-[^6]: Better use quickly as it's falling apart.
+[^6]: May not be a good idea anymore as it's been languishing since the Zoom acquisition.
 
 <mark><span class="muted small">defunct</span></mark>
 
