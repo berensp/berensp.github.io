@@ -8,7 +8,7 @@ description: Say hello on these apps, messengers, etc.
 Say hello on your favorite messaging app:
 - **Bluesky** (<a href="https://bsky.app/profile/berens.co" target="_blank">@berens.co</a>)
 - **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/berensp.converse.xyz" target="_blank">@berensp</a>)
-- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berenzino</a>)
+- **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berensp</a>)
 - **Email** (<a href="/email/">click here</a>)
 - **<mark>Farcaster</mark>** (<a href="https://warpcast.com/berensp.eth" target="_blank">@berensp.eth</a>)
 - **<mark>friend.tech</mark>** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>)
@@ -16,7 +16,7 @@ Say hello on your favorite messaging app:
 - **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>)
 - **LinkedIn** (<a href="https://www.linkedin.com/in/berensp/" target="_blank">@berensp</a>)
 - **Marco Polo** (<a rel="me" href="https://marcopolo.me/s/paul-b-4yhvV" target="_blank">@paul-b-4yhvV</a>)
-- **Mastodon** (<a rel="me" href="https://mas.to/@berensp" target="_blank">@berenp@mas.to</a>)
+- **Mastodon** (<a rel="me" href="https://mas.to/@berensp" target="_blank">@berensp@mas.to</a>)
 - **Matrix** (<a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">@berensp</a>)
 - **Reddit** (<a href="https://www.reddit.com/user/berensp/" target="_blank">@berensp</a>)
 - **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>)
