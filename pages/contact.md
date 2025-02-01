@@ -25,10 +25,10 @@ Say hello on your favorite messaging app:
 - **Telegram** (<a href="https://t.me/berensp" target="_blank">@berensp</a>)
 - **𝕏 (Twitter)** (<a href="https://x.com/berensp" target="_blank">@berensp</a>)
 
-[^1]: Terrible, Marco Polo. Roll out vanity URLs right this minute.
-[^2]: Some day I'll buy back @berensp for a large, undisclosed sum of money.
-
 	<mark><span class="muted small">web3</span></mark>
+
+[^1]: Good grief, Marco Polo. Roll out vanity URLs right this minute.
+[^2]: Some day I'll buy strava.com/athletes/berensp for a large, undisclosed sum.
 
 ## No se puede
 - ~~[iMessage](/phones/)~~
