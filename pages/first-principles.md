@@ -4,7 +4,6 @@ title: First Principles
 permalink: /first-principles/
 ---
 - **Astrobiology:** until I see some new evidence, I'm in the *Silentium universi* camp.
-- **Empiricism:** [Cut flowers theory](/cut-flowers.html)
 - **Epistemology:**
 	- It's hard to get smarter without reading
 	- As a society we may be increasing our knowledge base and growing technologically, but that doesn't necessarily translate to *wisdom*.
@@ -22,3 +21,5 @@ permalink: /first-principles/
 - [Pournelle's Iron Law of Bureaucracy](https://gordonbrander.com/pattern/pournelles-iron-law-of-bureaucracy/)
 - [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
 - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
+- [Cut flowers theory](/cut-flowers.html)
+- [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
