@@ -67,14 +67,14 @@ Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jers
 ## You Say Tomato, I Say Tomato
 
 1. <span class="header-text">The Gen Z Retort:</span> "Well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you."
-	- <span class="header-text">Sed contra:</span> Sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53).
+	- **Sed contra:** Sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53).
 
 2. <span class="header-text">The Boomer Retort:</span> "I grew up with priests turning their backs to us and uttering Mass parts inaudbily—why would we go back to that?!"
-	- <span class="header-text">Sed contra:</span> Postconciliar liturgy may be partially responsible for disaffiliation[^10] though it's hard to ascribe how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
+	- **Sed contra:** Postconciliar liturgy may be partially responsible for disaffiliation[^10] though it's hard to ascribe how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
 
 [^10]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
 
-When you look at what the research reveals[^11] about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met". When the liturgy becomes about *me and my needs,* the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay but too long, and I'll give the music a B+*. Same concept, but different angle: there's an overemphasis on *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
+When you look at what the research reveals about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met"[^11]. When the liturgy becomes about *me and my needs,* the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay but too long, and I'll give the music a B+*. Same concept, but different angle: the Mass got off-kilter by over-emphasizing *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
 
 [^11]: Pew Research Center, "Faith in Flux: Leaving Catholicism," April 27, 2009 (revised February 2011).
 
