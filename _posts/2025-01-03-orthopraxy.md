@@ -21,56 +21,56 @@ Mom was actually a member of this scene as liturgical music director of a local 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
 [^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
 
-Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo gratias*.
+Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. Then fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' allowed me to cross paths with my now wife—*Deo gratias*.
 
 But a few things (slowly) converged for me a few years into married life:
 1. A [deepening faith](/catholic.html)—or at least desire for it—aided by our parish, my own spiritual reading, and various friends/acquaintances
-2. A self-consciousness of certain peccadilloes related to my music ministry: e.g., difficulty with focus during Mass; a feeling of *performing* more than *worshipping*; questions about reverence (e.g., I'm standing on the altar, back to the tabernacle)...none of it malicious; but still disconcerting.
+2. A self-consciousness of certain peccadilloes related to my music ministry: e.g., difficulty with focus during Mass; a feeling of *performing* more than *worshipping*; questions about reverence (e.g., I'm standing on the altar, back to the tabernacle; applause)...none of it malicious; but still disconcerting.
 3. Kids and Pandemic took us out of music ministry, and out of California altogether for a while
 
 ...and so when we returned to California in Spring 2021 we switched parishes to Star of the Sea, a traditional parish in the Richmond District of San Francisco. I had actually discovered Star the year prior as I was *Tridentine-curious*, but once we joined the parish we attended the Novus Ordo.
 
 ## Lex orandi, lex credendi
 
-There are all kinds of little things I found attractive about the traditional Catholicism at Star of the Sea: *ad orientem*[^3], Communion at the rail and on the tongue (from a priest), Gregorian chant/sacred polyphony, the space for silence, the pious families it attracts, etc. The sanctity and beauty stirred my soul; and the funny thing is that we were coming from what is arguably the most objectively beautiful church in all of San Francisco.[^4]
+There are all kinds of little things I found attractive about the traditional Catholicism at Star of the Sea: *ad orientem*, Communion at the rail and on the tongue (from a priest), Gregorian chant/sacred polyphony, the space for silence, the pious families it attracts, etc. The sanctity and beauty stirred my soul; and the funny thing is that we were coming from what is arguably the most objectively beautiful church in all of San Francisco.[^3]
 
-[^3]: People sometimes attack this by saying the celebrant has his back to the congregation (as is disrespectful). But it really makes a lot of sense when you think that we're all (priest included) facing liturgical East to offer up prayer together to God.
-
-[^4]: In this way, it reminds me of Evelyn Waugh's [*Brideshead Revisited*](/books/brideshead/), going from one transcendental (the beautiful) to another (the true)—not at all to disparage St. Dominic's, but rather to lift up Star of the Sea as something that radiates, thanks to the blessing of Our Lady, Stella Maris (perhaps in response to 24-hour adoration and other devotions).
+[^3]: In this way, it reminds me of Evelyn Waugh's [*Brideshead Revisited*](/books/brideshead/), going from one transcendental (the beautiful) to another (the true)—not at all to disparage St. Dominic's, but rather to lift up Star of the Sea as something that radiates, thanks to the blessing of Our Lady, Stella Maris (perhaps in response to 24-hour adoration and other devotions).
 
 But the deeper reason for traditional Catholic liturgy has to do with cognitive dissonance and the Eucharist.
 
-Did you know that nearly seven-in-ten US Catholics don't believe in the Real Substance (transubstantiation)[^5]? In some ways I can understand this, as the proposition does boggle the mind; but then when you consider that it's the "the source and summit of the Christian life"[^6], that figure is more astonishing.
+Did you know that nearly seven-in-ten US Catholics don't believe in the Real Presence[^4]? In some ways I can understand this, as the proposition of transubstantiation does boggle the mind; but then when you consider that it's the "the source and summit of the Christian life"[^5], that figure is more astonishing.
 
-[^5]: Pew Research Center, July 23, 2019, ["What Americans Know About Religion"](https://www.pewresearch.org/wp-content/uploads/sites/20/2019/07/Religious-Knowledge-full-draft-FOR-WEB-2.pdf)
+[^4]: Pew Research Center, July 23, 2019, ["What Americans Know About Religion"](https://www.pewresearch.org/wp-content/uploads/sites/20/2019/07/Religious-Knowledge-full-draft-FOR-WEB-2.pdf)
 
-[^6]: *The Catechism of the Catholic Church* (1324).
+[^5]: *The Catechism of the Catholic Church* (1324).
 
-You might suppose that's the result of society becoming more scientific *ergo* more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
+You might suppose that it's the result of society becoming more scientific *ergo* more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
 
-Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^7]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between, for example, homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
+Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^6]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between, for example, homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
 
-[^7]: For what it's worth, I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don't have a Licentiate in Sacred Theology. Bishop Barron talks about the disconnection of meal from sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
+[^6]: For what it's worth, I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don't have a Licentiate in Sacred Theology. Bishop Barron talks about the disconnection of meal from sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
 
-Reminds me of (the first part of) this Annie Dillard quote[^8]:
+Reminds me of (the first part of) this Annie Dillard quote[^7]:
 
-[^8]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
+[^7]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
 
 > On the whole, I do not find Christians, outside of the catacombs, sufficiently sensible of conditions. Does anyone have the foggiest idea what sort of power we so blithely invoke? Or, as I suspect, does no one believe a word of it...
 
-At one of the parishes I've attended, everyone just remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture belies the reality, and so your brain doesn't compute.
+At one of the parishes I've attended, everyone remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture is discordant with what is really happening, and so your brain doesn't compute.
 
-Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jersey it conveys respect, signals the importance[^9], and then (hopefully) behavior conforms as well *(vestis virum facit)*.
+Not just posture but dress. If I opt for the shirt 'n' tie over my Vikings jersey it signals the importance[^8], and then (hopefully) my behavior conforms as well *(vestis virum facit)*.
 
-[^9]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
+[^8]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
 
-## You Say Tomato, I Say Tomato
+## You say tomato, I say tomato
 
-1. <span class="header-text">The Gen Z Retort:</span> "Well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you."
-	- ***Sed contra:*** Sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just a nice piety; rather it's our lifeline (Jn 6:53).
+1. <span class="header-text">The Gen Z Retort:</span> "Well, that's great and all, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you."
+	- ***Sed contra:*** Sure, people can have different preferences and sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in the US, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just a nice piety; rather it's our lifeline (Jn 6:53).
 
 2. <span class="header-text">The Boomer Retort:</span> "I grew up with priests turning their backs to us and uttering Mass parts inaudibly—why would we go back to that?!"
-	- ***Sed contra:*** Postconciliar liturgy may be partially responsible for disaffiliation[^10] though it's hard to ascribe precisely how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
+	- ***Sed contra:*** There are good reasons for various ancient (occasionally misunderstood) rubrics and liturgical practices[^9], but maybe the more important reason is that Vatican II liturgical reforms (as thoughtful and well-intended as they were) may have backfired, becoming at least partially responsible for disaffiliation[^10]—though, to be fair, it's hard to ascribe precisely how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae)*.
+
+[^9]: For example, *ad orientem* is less about the celebrant "having his back to the congregation," and more about all of us (priest included) facing liturgical East to offer up prayer together to God. Or with communion on the tongue and from a priest: priests are the exclusive ordinary administers of Holy Communion because their hands are consecrated.
 
 [^10]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
 
