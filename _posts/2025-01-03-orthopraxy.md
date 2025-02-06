@@ -21,7 +21,7 @@ Mom was actually a member of this scene as liturgical music director of a local 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
 [^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
 
-Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo Gratias*.
+Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. In fact, you can fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' made me cross paths with my now wife—*Deo gratias*.
 
 But a few things (slowly) converged for me a few years into married life:
 1. A [deepening faith](/catholic.html)—or at least desire for it—aided by our parish, my own spiritual reading, and various friends/acquaintances
@@ -46,7 +46,7 @@ Did you know that nearly seven-in-ten US Catholics don't believe in the Real Sub
 
 [^6]: *The Catechism of the Catholic Church* (1324).
 
-You might suppose that's the result of society becoming more scentific ergo more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
+You might suppose that's the result of society becoming more scientific *ergo* more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
 
 Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^7]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between, for example, homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
 
@@ -67,10 +67,10 @@ Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jers
 ## You Say Tomato, I Say Tomato
 
 1. <span class="header-text">The Gen Z Retort:</span> "Well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you."
-	- **Sed contra:** Sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53).
+	- ***Sed contra:*** Sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53).
 
-2. <span class="header-text">The Boomer Retort:</span> "I grew up with priests turning their backs to us and uttering Mass parts inaudbily—why would we go back to that?!"
-	- **Sed contra:** Postconciliar liturgy may be partially responsible for disaffiliation[^10] though it's hard to ascribe how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
+2. <span class="header-text">The Boomer Retort:</span> "I grew up with priests turning their backs to us and uttering Mass parts inaudibly—why would we go back to that?!"
+	- ***Sed contra:*** Postconciliar liturgy may be partially responsible for disaffiliation[^10] though it's hard to ascribe how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
 
 [^10]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
 
