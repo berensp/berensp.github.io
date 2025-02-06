@@ -9,8 +9,9 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- <mark><a href="/invest/">Investing</a></mark>
+- <span><mark_lilac>Exodus 90</mark_lilac> (cold showers!)</span>
 - <span><mark_paleturquoise>Jekyll, Liquid, YAML, JavaScript</mark_paleturquoise> (front-end stuff)</span>
+- <mark><a href="/invest/">Investing</a></mark>
 - <mark>Korean (한국말)</mark>
 - <mark_paleturquoise><a href="https://notion.so" target="_blank">Notion</a></mark_paleturquoise>
 
