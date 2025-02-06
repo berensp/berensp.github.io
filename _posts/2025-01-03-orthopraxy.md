@@ -40,7 +40,7 @@ There are all kinds of little things I found attractive about the traditional Ca
 
 But the deeper reason for traditional Catholic liturgy has to do with cognitive dissonance and the Eucharist.
 
-Did you know that nearly seven-in-ten US Catholics don't believe in the Real Substance (transubstantiation)[^5]? In some ways I can understand, as the proposition does boggle the mind; but then when you consider that it's the "the source and summit of the Christian life"[^6], that figure is more astonishing.
+Did you know that nearly seven-in-ten US Catholics don't believe in the Real Substance (transubstantiation)[^5]? In some ways I can understand this, as the proposition does boggle the mind; but then when you consider that it's the "the source and summit of the Christian life"[^6], that figure is more astonishing.
 
 [^5]: Pew Research Center, July 23, 2019, ["What Americans Know About Religion"](https://www.pewresearch.org/wp-content/uploads/sites/20/2019/07/Religious-Knowledge-full-draft-FOR-WEB-2.pdf)
 
@@ -64,28 +64,30 @@ Not just posture but dress. If I opt for the shirt 'n' tie over the Vikings jers
 
 [^9]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
 
-## Not holier than thou
-The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are too cool for school; holier than thou; supercilious. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
-
-As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back"[^10]. And I'm sure I'll be doing so for years to come, God willing.
-
-[^10]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., one group understanding that departed souls require prayer versus another people "celebrating the life of" the departed and then maybe not continuing to pray for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
-
-I'd also liken it to cycling: I appreciate riding with stronger cyclists because when you've got someone to chase, someone to pull you up the climbs; you end up riding harder and stronger. Similarly, when a large segment of your parish is pretty committed to their faith lives, it helps you with your own piety (a virtuous cycle or flywheel).
-
 ## You Say Tomato, I Say Tomato
 
 1. <span class="header-text">The Gen Z Retort:</span> "Well, that's great, but these are all just stylistic preferences—strawberry vs. vanilla—so you do you."
 	- <span class="header-text">Sed contra:</span> Sure, people can have different sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in this country, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just some nice piety; it's our lifeline (Jn 6:53).
 
 2. <span class="header-text">The Boomer Retort:</span> "I grew up with priests turning their backs to us and uttering Mass parts inaudbily—why would we go back to that?!"
-	- <span class="header-text">Sed contra:</span> Postconciliar liturgy may be partially responsible for disaffiliation[^11] though it's hard to ascribe how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
+	- <span class="header-text">Sed contra:</span> Postconciliar liturgy may be partially responsible for disaffiliation[^10] though it's hard to ascribe how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae*).
 
-[^11]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
+[^10]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
 
-When you look at what the research reveals[^12] as to the reasons people leave the Faith, it isn't the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met". When the liturgy becomes about *me and my needs,* then I'm a consumer, a spectator, evaluating the "perforamnce": *I'll give the homily a B+ and the music an A-*. At the same time, there was an overemphasis on *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
+When you look at what the research reveals[^11] about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met". When the liturgy becomes about *me and my needs,* the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay but too long, and I'll give the music a B+*. Same concept, but different angle: there's an overemphasis on *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
 
-[^12]: Pew Research Center, "Faith in Flux: Leaving Catholicism," April 27, 2009 (revised February 2011).
+[^11]: Pew Research Center, "Faith in Flux: Leaving Catholicism," April 27, 2009 (revised February 2011).
+
+## Not holier than thou
+The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are too cool for school; holier than thou; supercilious. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
+
+As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to "bend back"[^12]. And I'm sure I'll be doing so for years to come, God willing.
+
+[^12]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., one group understanding that departed souls require prayer versus another people "celebrating the life of" the departed and then maybe not continuing to pray for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
+
+I'd also liken it to cycling: I appreciate riding with stronger cyclists because when you've got someone to chase, someone to pull you up the climbs; you end up riding harder and stronger. Similarly, when a large segment of your parish is pretty committed to their faith lives, it helps you with your own piety (a virtuous cycle or flywheel).
+
+* * *
 
 Traditional Catholicism isn't clinging to old comforts and tradition for its own sake; it's ultimately in service of the truth, and, I believe, its effects are real and visible. And yes, it's now counter-cultural and uncool[^13], but St. Paul encourages us in his letter to the Romans (12:2):
 
