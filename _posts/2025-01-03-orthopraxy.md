@@ -5,6 +5,9 @@ date: 2025-01-03
 author:	Paul Berens
 description: Gimme that old time religion.
 ---
+![La Disputa](/assets/og/post_Disputa_del_Sacramento)
+<span class="muted small">Raphael, <i>Disputa del Sacramento,</i> 1509-1510, fresco, Stanza della Segnatura, Apostolic Palace, Vatican City.</span>
+
 When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). At my original parish, we'd have guitars strummin' to peace-lovin' favorites like *Anthem*:
 
 > We are called, we are chosen.  
@@ -46,21 +49,19 @@ Did you know that nearly seven-in-ten US Catholics don't believe in the Real Pre
 
 You might suppose that it's the result of society becoming more scientific *ergo* more materialistic. Or perhaps a catechetical failure. Both probably partly explain it. But I believe there's a liturgical factor.
 
-Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ")[^6]. Wholehearted agreement here: my brain is decidedly not agile enough to pivot between, for example, homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
+Shia LaBeouf became Catholic not so long ago (and a TLM adherent as well) and noted the strange juxtaposition of casual preaching with the sublimeness of the sacrament ("letting your hair down right before you're asking me to fully believe that we're about to walk through the death of Christ"). Wholehearted agreement here: my brain is decidedly not agile enough to pivot between, for example, homily jokes and inexhaustible mystery breaking through the veil in the Eucharist; and, I think, the traditional liturgy is meant to spare us from that maneuver.
 
-[^6]: For what it's worth, I do believe Vatican II is partly to blame. Whether it was ill-conceived or just poorly (or only partially) implemented, I'm not qualified to weigh in on the debate as I don't have a Licentiate in Sacred Theology. Bishop Barron talks about the disconnection of meal from sacrifice, overemphasizing the former at the expense of the latter. I think that's probably a good insight.
+Reminds me of (the first part of) this Annie Dillard quote[^6]:
 
-Reminds me of (the first part of) this Annie Dillard quote[^7]:
-
-[^7]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
+[^6]: I jettisoned the latter part of the quote about crash helmets and life preservers and signal flares as I'd say it's got more comic than theological value.
 
 > On the whole, I do not find Christians, outside of the catacombs, sufficiently sensible of conditions. Does anyone have the foggiest idea what sort of power we so blithely invoke? Or, as I suspect, does no one believe a word of it...
 
-At one of the parishes I've attended, everyone remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture is discordant with what is really happening, and so your brain doesn't compute.
+At one of the parishes I've attended, everyone remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture is discordant with what is really transpiring before you, and so your brain doesn't compute.
 
-Not just posture but dress. If I opt for the shirt 'n' tie over my Vikings jersey it signals the importance[^8], and then (hopefully) my behavior conforms as well *(vestis virum facit)*.
+Not just posture but dress. If I opt for the shirt 'n' tie over my Vikings jersey it signals the importance[^7], and then (hopefully) my behavior conforms as well *(vestis virum facit)*.
 
-[^8]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
+[^7]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
 
 ## You say tomato, I say tomato
 
@@ -68,30 +69,30 @@ Not just posture but dress. If I opt for the shirt 'n' tie over my Vikings jerse
 - ***Sed contra:*** Sure, people can have different preferences and sensibilities about worship as they can about anything else in life, and I don't wish to demean more liberal parishes, which a) most of my loved ones attend b) constitute the vast majority of parishes in the US, and c) are an on-ramp into the Faith for a *certain* segment of converts. But I also think we're dealing with something of immense importance: the Mass isn't just a nice piety; rather it's our lifeline (Jn 6:53).
 
 <span class="header-text">The Boomer Retort:</span> "I grew up with priests turning their backs to us and uttering Mass parts inaudibly—why would we go back to that?!"
-- ***Sed contra:*** There are good reasons for various ancient (occasionally misunderstood) rubrics and liturgical practices[^9], but maybe the more important reason is that Vatican II liturgical reforms (as thoughtful and well-intended as they were) may have backfired, becoming at least partially responsible for disaffiliation[^10]—though, to be fair, it's hard to ascribe precisely how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae)*.
+- ***Sed contra:*** There are good reasons for various ancient (occasionally misunderstood) rubrics and liturgical practices[^8], but maybe the more important reason is that Vatican II liturgical reforms (as thoughtful and well-intended as they were) may have backfired, becoming at least partially responsible for disaffiliation[^9]—though, to be fair, it's hard to ascribe precisely how much as there other exogenous factors at play (e.g., failure in catechesis, the sexual revolution colliding with *Humanae Vitae)*.
 
-[^9]: For example, *ad orientem* is less about the celebrant "having his back to the congregation," and more about all of us (priest included) facing liturgical East to offer up prayer together to God. Or with communion on the tongue and from a priest: priests are the exclusive ordinary administers of Holy Communion because their hands are consecrated.
+[^8]: For example, *ad orientem* is less about the celebrant "having his back to the congregation," and more about all of us (priest included) facing liturgical East to offer up prayer together to God. Or with communion on the tongue and from a priest: priests are the exclusive ordinary administers of Holy Communion because their hands are consecrated.
 
-[^10]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
+[^9]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
 
-When you look at what the research reveals about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met"[^11]. When the liturgy becomes about *me and my needs,* the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay but too long, and I'll give the music a B+*. Same concept, but different angle: the Mass got off-kilter by over-emphasizing *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
+When you look at what the research reveals about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met"[^10]. When the liturgy becomes about *me and my needs,* the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay, but too long; and I'll give the music a B+*. Same concept, but different angle: the Mass got off-kilter by over-emphasizing *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
 
-[^11]: Pew Research Center, "Faith in Flux: Leaving Catholicism," April 27, 2009 (revised February 2011).
+[^10]: Pew Research Center, "Faith in Flux: Leaving Catholicism," April 27, 2009 (revised February 2011).
 
 ## Not holier than thou
 The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are holier than thou, supercilious, too cool for school. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
 
-As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to help me "bend back"[^12].
+As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to help me "bend back"[^11].
 
-[^12]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., one group understanding that departed souls require prayer versus another people "celebrating the life of" the departed and then maybe not continuing to pray for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
+[^11]: To be clear, a huge ingredient in my "bending back" and my attraction to traditionalism is the fidelity to doctrine and the sound catechesis of the congregation, both of which make a huge difference (e.g., one group understanding that departed souls require prayer versus another people "celebrating the life of" the departed and then maybe not continuing to pray for them because they're assumed to be "in a better place" [i.e., Heaven] may have real consequences). But this piece isn't about *all* of traditionalism—just the liturgical aspects—even though the doctrinal aspects are arguably a lot more meaningful.
 
 I'd also liken it to cycling: I appreciate riding with stronger cyclists because when you've got someone to chase, someone to pull you up the climbs; you end up riding harder and stronger. Similarly, when a large segment of your parish is pretty committed to their faith lives, it helps you with your own piety (a virtuous cycle or flywheel).
 
 * * *
 
-Traditional Catholicism is ultimately in service of the truth (as opposed to clinging to old comforts for their own sake), and, I believe, its effects are real and visible. And yes, it's now counter-cultural and uncool[^13], but St. Paul encourages us in his letter to the Romans (12:2):
+Traditional Catholicism is ultimately in service of the truth (as opposed to clinging to old comforts for their own sake), and, I believe, its effects are real and visible. And yes, it's now counter-cultural and uncool[^12], but St. Paul encourages us in his letter to the Romans (12:2):
 
-[^13]: St. Alphonsus Liguori has a good answer to this: "Do not consider what others do, or how they do it; for there are but few who really work for their own sanctification."
+[^12]: St. Alphonsus Liguori has a good answer to this: "Do not consider what others do, or how they do it; for there are but few who really work for their own sanctification."
 
 > Do not conform yourselves to this age but be transformed by the renewal of your mind, that you may discern what is the will of God, what is good and pleasing and perfect.
 
