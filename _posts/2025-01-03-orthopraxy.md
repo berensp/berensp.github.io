@@ -5,7 +5,7 @@ date: 2025-01-03
 author:	Paul Berens
 description: Gimme that old time religion.
 ---
-![La Disputa](/assets/og/post_Disputa_del_Sacramento)
+![La Disputa](/assets/og/post_Disputa_del_Sacramento.jpg)
 <span class="muted small">Raphael, <i>Disputa del Sacramento,</i> 1509-1510, fresco, Stanza della Segnatura, Apostolic Palace, Vatican City.</span>
 
 When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). At my original parish, we'd have guitars strummin' to peace-lovin' favorites like *Anthem*:
