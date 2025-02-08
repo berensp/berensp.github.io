@@ -6,20 +6,9 @@ author:	Paul Berens
 description: Gimme that old time religion.
 ---
 ![La Disputa](/assets/og/post_Disputa_del_Sacramento.jpg)
-<span class="muted small">Raphael, <i>Disputa del Sacramento,</i> 1509-1510, fresco, Stanza della Segnatura, Apostolic Palace, Vatican City.</span>
+<span class="muted small">Raphael, <i>Disputa del Sacramento,</i> 1509-1510.</span>
 
-When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). At my original parish, we'd have guitars strummin' to peace-lovin' favorites like *Anthem*:
-
-> We are called, we are chosen.  
-We are Christ for one another.  
-We are promised to tomorrow,  
-while we are for him today.  
-We are sign, we are wonder.  
-We are sower, we are seed.  
-We are harvest, we are hunger.  
-We are question, we are creed.
-
-Mom was actually a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2].
+When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). Mom was a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2].
 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
 [^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
