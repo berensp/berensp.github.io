@@ -10,10 +10,11 @@ description: Gimme that old time religion.
 
 When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). Mom was a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2].
 
-[^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Pena, Msgr. Richard Schuler, Richard Proulx, et al.
+[^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Peña, Msgr. Richard Schuler, Richard Proulx, et al.
+
 [^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
 
-Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and at my Jesuit university, and I was your average liberal Catholic fella. Then fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' allowed me to cross paths with my now wife—*Deo gratias*.
+Then at age 16 I learned guitar, and by the time I was in college, I found *myself* being the guitar-strummin' guy at the guitar Masses. Couple that with my formation in the Faith, both in high school and college, and I was your typical Jesuit-educated, Catholic mainstreamer. Then fast-forward all through my adulthood to the Contemporary Choir at St. Dominic's in San Francisco where my liturgical guitar-strummin' allowed me to cross paths with my now wife—*Deo gratias*.
 
 But a few things (slowly) converged for me a few years into married life:
 1. A [deepening faith](/catholic.html)—or at least desire for it—aided by our parish, my own spiritual reading, and various friends/acquaintances
@@ -79,7 +80,9 @@ I'd also liken it to cycling: I appreciate riding with stronger cyclists because
 
 * * *
 
-Traditional Catholicism is ultimately in service of the truth (as opposed to clinging to old comforts for their own sake), and, I believe, its effects are real and visible. And yes, it's now counter-cultural and uncool[^12], but St. Paul encourages us in his letter to the Romans (12:2):
+Traditional Catholicism is ultimately in service of the truth (as opposed to clinging to old comforts for their own sake), and, I believe, its effects are real and visible.
+
+And yes, it's now counter-cultural and uncool[^12], but St. Paul encourages us in his letter to the Romans (12:2):
 
 [^12]: St. Alphonsus Liguori has a good answer to this: "Do not consider what others do, or how they do it; for there are but few who really work for their own sanctification."
 
