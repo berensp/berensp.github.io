@@ -38,4 +38,4 @@ Buen provecho.
 
 — ᴘ. ᴍ. ʙ.
 
-<a class="muted small" href="https://www.allrecipes.com/recipe/231380/best-turkey-meatloaf/" target="_blank">Original recipe here</a><span class="muted small">...but the carrot idea was all me.</span>
+<a class="muted small" href="https://www.allrecipes.com/recipe/231380/best-turkey-meatloaf/" target="_blank">Original recipe here</a><span class="muted small">...but the idea to sneak in some carrots was all me.</span>
