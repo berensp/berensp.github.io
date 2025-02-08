@@ -23,3 +23,4 @@ permalink: /first-principles/
 - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
 - [Cut flowers theory](/cut-flowers.html)
 - [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
+- [Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712)
