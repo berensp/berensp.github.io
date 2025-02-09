@@ -13,7 +13,7 @@ ogimage: bookshelf.bw.png
 <h2>{{ category }}</h2>
 <ul class="more-space">
     {% for bookreview in books_in_category %}
-  <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i> by {{ bookreview.author }}</li>
+  <li><i><a class="bookreview-link" href="{{ bookreview.url | relative_url }}">{{ bookreview.title | escape }}</a></i></li>
     {% endfor %}
 </ul>
   {% endif %}
