@@ -65,7 +65,7 @@ Not just posture but dress. If I opt for the shirt 'n' tie over my Vikings jerse
 
 [^9]: Bullivant, Stephen. *Mass Exodus: Catholic Disaffiliation in Britain and America Since Vatican II*. Oxford University Press, 2019.
 
-When you look at what the research reveals about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met"[^10]. When the liturgy becomes about *me and my needs,*[^11] the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay, but too long; and I'll give the music a B+*. And then what happens when you amass enough mediocre reviews: at best you become disenchanted or disillusioned; at worst you disappear.
+When you look at what the research reveals about the reasons people leave the Faith, it isn't first and foremost the hot button issues nor the sexual abuse scandal, it's "I just gradually drifted away from the religion," and for Catholics who become Protestants, it's that their "spiritual needs weren't being met"[^10]. When the liturgy becomes about *me and my needs,*[^11] the worshipper becomes a consumer or spectator, evaluating the "performance": *the homily was okay, but too long; and I'll give the music a B+*. And then what happens when you amass enough mediocre reviews? At best you become disenchanted or disillusioned; at worst you disappear.
 
 [^10]: Pew Research Center, "Faith in Flux: Leaving Catholicism," April 27, 2009 (revised February 2011).
 
