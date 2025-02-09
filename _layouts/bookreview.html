@@ -7,7 +7,7 @@ layout: default
 <span class="muted small">By {{ page.author }}</span>
 
 {% if page.ogimage %}
-  <a href="{{ page.book_url }}">
+  <p><a href="{{ page.book_url }}">
     <img src="{{ site.url }}/assets/og/{{ page.ogimage | relative_url }}" alt="Book Image" style="max-height: 150px; width: auto;">
   </a>
 {% endif %}
