@@ -167,6 +167,9 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<script src="/assets/js/weather.js"></script>
+
+<div id="weather-container"></div>
 <div id="event-container"></div>
 <div id="feast-container"></div>
 <div id="birthday-container"></div>
