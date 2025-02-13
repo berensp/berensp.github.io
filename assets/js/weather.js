@@ -58,15 +58,16 @@ class WeatherWidget {
 
         try {
             const data = await this.weatherPromise;
+            console.log('Weather data received:', data);  // Debug log
             const currentTemp = Math.round(data.current.temperature_2m);
             const minTemp = Math.round(data.daily.temperature_2m_min[0]);
             const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
             const emoji = this.getWeatherEmoji(data.daily.weather_code[0]);
 
-            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}° (${minTemp}°-${maxTemp}°) in the 94116</span>`;
+            container.innerHTML = `<a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</a>`;
         } catch (error) {
             console.error('Error fetching weather:', error);
-            container.innerHTML = '<span class="muted small">❌ Weather unavailable</span>';
+            container.innerHTML = '';
         }
     }
 
