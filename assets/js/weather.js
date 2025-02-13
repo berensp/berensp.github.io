@@ -1,7 +1,22 @@
-// weather.js
+// Show loading state immediately
+const container = document.getElementById('weather-container');
+if (container) {
+    container.innerHTML = '<span class="muted small">🌡️ Loading weather...</span>';
+}
+
+// Start fetching weather data immediately
+const weatherPromise = fetch('https://api.open-meteo.com/v1/forecast' +
+    '?latitude=37.7500278' +
+    '&longitude=-122.4596111' +
+    '&daily=weather_code,temperature_2m_max,temperature_2m_min' +
+    '&current=temperature_2m' +
+    '&timezone=America/Los_Angeles' +
+    '&forecast_days=1'
+).then(response => response.json());
 
 class WeatherWidget {
     constructor() {
+        this.weatherPromise = weatherPromise;
         this.apiUrl = 'https://api.open-meteo.com/v1/forecast' +
             '?latitude=37.7500278' +
             '&longitude=-122.4596111' +
@@ -9,20 +24,6 @@ class WeatherWidget {
             '&current=temperature_2m' +
             '&timezone=America/Los_Angeles' +
             '&forecast_days=1';
-    }
-
-    async fetchWeather() {
-        try {
-            const response = await fetch(this.apiUrl);
-            if (!response.ok) {
-                throw new Error(`HTTP error! status: ${response.status}`);
-            }
-            const data = await response.json();
-            this.displayWeather(data);
-        } catch (error) {
-            console.error('Error fetching weather:', error);
-            this.showError();
-        }
     }
 
     getWeatherEmoji(code) {
@@ -49,27 +50,33 @@ class WeatherWidget {
         return weatherEmojis[code] || '❓';
     }
 
-    displayWeather(data) {
+    async displayWeather() {
         const container = document.getElementById('weather-container');
         if (!container) return;
 
-        const currentTemp = Math.round(data.current.temperature_2m);
-        const minTemp = Math.round(data.daily.temperature_2m_min[0]);
-        const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
-        const emoji = this.getWeatherEmoji(data.daily.weather_code[0]);
+        try {
+            const data = await this.weatherPromise;
+            const currentTemp = Math.round(data.current.temperature_2m);
+            const minTemp = Math.round(data.daily.temperature_2m_min[0]);
+            const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
+            const emoji = this.getWeatherEmoji(data.daily.weather_code[0]);
 
-        container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</span>`;
-    }
-
-    showError() {
-        const container = document.getElementById('weather-container');
-        if (container) {
+            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</span>`;
+        } catch (error) {
+            console.error('Error fetching weather:', error);
             container.innerHTML = '<span class="muted small">❌ Weather unavailable</span>';
         }
     }
 
+container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</span>`
+
+    async fetchWeather() {
+        this.weatherPromise = fetch(this.apiUrl).then(response => response.json());
+        await this.displayWeather();
+    }
+
     init() {
-        this.fetchWeather();
+        this.displayWeather();
         // Refresh weather data every 30 minutes
         setInterval(() => this.fetchWeather(), 30 * 60 * 1000);
     }
