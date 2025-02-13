@@ -1,3 +1,5 @@
+// weather.js
+
 // Show loading state immediately
 const container = document.getElementById('weather-container');
 if (container) {
@@ -61,14 +63,12 @@ class WeatherWidget {
             const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
             const emoji = this.getWeatherEmoji(data.daily.weather_code[0]);
 
-            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</span>`;
+            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}° (${minTemp}°-${maxTemp}°) in the 94116</span>`;
         } catch (error) {
             console.error('Error fetching weather:', error);
             container.innerHTML = '<span class="muted small">❌ Weather unavailable</span>';
         }
     }
-
-container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</span>`
 
     async fetchWeather() {
         this.weatherPromise = fetch(this.apiUrl).then(response => response.json());
