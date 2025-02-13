@@ -58,7 +58,7 @@ class WeatherWidget {
         const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
         const emoji = this.getWeatherEmoji(data.daily.weather_code[0]);
 
-        container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}° (${minTemp}°-${maxTemp}°)</span>`;
+        container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</span>`;
     }
 
     showError() {
