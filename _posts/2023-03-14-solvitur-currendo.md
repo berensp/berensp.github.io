@@ -4,12 +4,12 @@ title: Solvitur Correndo
 date: 2023-03-14
 author:	Paul Berens
 description: It is solved by running.
-ogimage: historic.trail.slow.gif
+ogimage: post_historic.trail.slow.gif
 ---
 The other day I'm loping down the [Historic Trail on Mount Sutro](/runs/twin-peaks-sutro), and as I run past this particular point on the path, the podcast episode that I had listened to some *seven days prior* begins replaying in my brain. Almost verbatim. And I realize that this mental replay is nicely synchronized with where I was on the trail on the first listen. *(Nota bene: mine is by no means an exceptional memory.)*
 
 <center>
-<img src='/assets/videos/historic.trail.slow.gif'>
+<img src='/assets/og/post_historic.trail.slow.gif'>
 </center>
 
 You may know (I did not) that the phenomenon whereby our brains associate memories with physical surroundings to facilitate their subsequent retrieval is known as *context-dependent memory,* and that the underlying physiological mechanism is thought to involve the hippocampus, which is able to create a kind of "neural map" that allows memories to be organized based on their location and tagged with contextual cues (sights, sounds, smells). The [method of loci](https://en.wikipedia.org/wiki/method_of_loci) exploits this faculty where "memory athletes" can construct a "memory palace" that allows them to recall and recite, for example, an insane number of digits of pi.

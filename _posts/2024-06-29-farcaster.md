@@ -3,6 +3,7 @@ layout: post
 title: Farcaster
 date: 2024-06-29
 author:	Paul Berens
+ogimage: post_ui_farcaster.png
 ---
 I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to [his blog](https://danromero.org/), which I found nice and simple and subsequently [forked and adapted](this-site.html) as you can probably tell. He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails called [Farcaster](https://www.farcaster.xyz/).
 
@@ -28,7 +29,7 @@ So it does beg the question...
 
 [^1]: Merkle Manufactory, the company behind Farcaster and Warpcast, is a pacesetter in this respect for the entire community, shipping pretty major stuff almost weekly at one point.
 
-<center><img src="/assets/og/ui_your_week_fcast.png" alt="pb – your week on Farcaster" style="width: 60%;"></center>
+<center><img src="/assets/og/post_ui_your_week_fcast.png" alt="pb – your week on Farcaster" style="width: 60%;"></center>
 
 On that last point, this was something people frequently mentioned and agreed, typified by [this "cast"](https://warpcast.com/bradq/0x465df2):
 
@@ -63,4 +64,4 @@ Excelsior,
 
 — ᴘ. ᴍ. ʙ.
 
-<center><img src="/assets/og/ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 60%;"></center>
+<center><img src="/assets/og/post_ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 60%;"></center>

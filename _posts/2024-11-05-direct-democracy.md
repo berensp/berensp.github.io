@@ -5,7 +5,7 @@ date: 2024-11-05
 author:	Paul Berens
 description: They were on to something with that representative democracy.
 ---
-Today marks the 60th quadrennial presidential election, and so I'm ceremoniously completing my ballot with my trusty sidekick (see below). Yet, as many Californians and San Francisqueños will tell you, you need to spend more time considering the *propositions* than the *candidates* due to the crazy form of government we've got here: **the direct democracy**.
+Today marks the 60th quadrennial presidential election, and so I'm ceremoniously completing my ballot with my trusty sidekick. Yet, as many Californians and San Francisqueños will tell you, you need to spend more time considering the *propositions* than the *candidates* due to the crazy form of government we've got here: **the direct democracy**.
 
 ![completing the ballot](/assets/og/post_ballot.png)
 <span class="muted small">My most excellent assistant completing our ballot.</span>

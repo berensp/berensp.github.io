@@ -4,7 +4,6 @@ title:	Editio Princeps / Tsundoku
 date:	2021-04-23
 author:	Paul Berens
 description: First post...finally. Might as well make it about books.
-ogimage: curricle-canv-sm.png
 ---
 And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this blog, but it isn't to be...just yet.
 
@@ -16,7 +15,7 @@ I'll begin by wishing you and yours a...
 
 ...from this enthusiastic-but-unremarkable reader guilty of *Tsundoku,* the practice of buying a lot of books and letting them pile up because you intend to read them but haven't yet.
 
-![New Yorker Tsundoku](/assets/og/tsundoku.png "Bedtime Stories, by Bruce Eric Kaplan")
+![New Yorker Tsundoku](/assets/og/post_tsundoku.png "Bedtime Stories, by Bruce Eric Kaplan")
 
 Of course there are two sides to this equation, the acquisition side and the consumption side, and for me the issue is more the latter for the following reasons:
 

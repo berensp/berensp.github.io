@@ -3,7 +3,7 @@ layout: post
 title: Rebirth of the Album
 date: 2024-08-18
 author:	Paul Berens
-ogimage: needle-placement.png
+ogimage: post_vinyl_nook.jpg
 ---
 ![Bro's vinyl vibestation](/assets/og/post_vinyl_nook.jpg)
 <span class="muted small">Bro's vinyl vibestation.</span>
@@ -25,7 +25,7 @@ Let me say more about #3...
 
 I grew up around [our sister's and parents' 45s and LPs](/vinyl/), and so I was baptized in the "technology". The LP ("long play" record) was literally meant for that: to be played a long while…well, at least one side of an album. Because if you wanted to skip or replay a track you had to get up, walk over to the record player, pick up the needle, and try to set it down precisely between tracks, which, when you invariably missed to the left or the right of the target, was this slightly unsettling scratch-and-abrupt-start situation. (Also, you had the sense you were putting wear and tear on the needle with each lift and set.)
 
-![tricky needle placement](/assets/og/needle-placement.png)
+![tricky needle placement](/assets/og/post_needle-placement.png)
 
 Anyway, albums—particularly *concept albums*—were designed to be listened through, and were (supposed to be, though not always[^2]) created not as a haphazard assemblage of the ten or so songs, some hits surrounded by filler tracks; but a carefully curated collection of tracks that hung together cohesively to present a narrative or carry a motif.
 
