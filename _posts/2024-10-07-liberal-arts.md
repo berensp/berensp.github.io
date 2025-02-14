@@ -4,6 +4,9 @@ title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
 ---
+![Dead Poets Society, 1989](/assets/og/post_dead-poets-society.png)
+<span class="muted small">Dead Poets Society, 1989.</span>
+
 When I'd tell people I was majoring in Philosophy it wasn't uncommon for me to get a reflexive *Oh? What pray tell are you going to do with that?*
 
 A fair question, and the honest answer (in my head) was that I was hoping to emerge reasonably well-educated through the great tomes of western civilization and the tutelage of some wild-haired professors in tweed jackets. But that might be a bit toffee-nosed for someone who wasn't high-born and would be workin' for a livin' after graduatin'. So I think I typically conveyed some vague intention to go into "business," but I wasn't overly anxious about it as there was this common refrain that you could and should study what you fancy *(ars artis gratia)*.
@@ -71,7 +74,9 @@ Let's enumerate the merits and faults of the liberal arts education:
 
 - **Taxpayers shouldn't necessarily be subsidizing history degrees.** Continuing from the last point, if the markets don't demand it, we shouldn't be footing the bill: i.e., the student loans, tax exempt statuses of universities, etc. America hasn't invested in community colleges and vocational schools to the extent we need to, and a shifting of dollars could potentially incent the right behaviors. Again, there's a narrative that everyone needs and deserves a four-year degree when the truth of the matter is that some students would be better suited with a more technical, and cost-effective education. Again, not fair, but if you or your family has the cash, there's an art history degree available for you from a private college, and the 30-year ROI might not be there; but that's not the concern of the state. The other approach would be to address the outrageous cost of the four-year degree, but as long as the Harvard degree 
 
-- **Just get your history degree for a dollar fifty in late chahges from the public library.** There's a fun debate on the liberal arts on the Moment of Zen podcast[^3], and one of the memes was, "you can literally just read [the classics]" on your own time. This is a weak argument. I mean, yes, with some resolve and the help of a good study guide you could slog your way through, for example, the *Divine Comedy* and other similarly-dense texts, but how much more effectively and richer to do it with an excellent professor and a lively class discussion? Because you could redirect this flippant statement in the other direction: why would you spend your college years learning computer science when *a)* you can do that on your own time with some videos and AI tools and *b)* the programming languages and tools you learn in those years will be obsolete in five to ten years anyway.
+- **Just get your history degree for a dollar fifty in late chahges from the public library.** 
+
+A recent episode of the Moment of Zen podcast[^3] featured an intriguing debate about liberal arts education, where someone glibly suggested, "you can literally just read [the classics]" on your own time. This echoes Grant Allen's famous quip about not letting schooling interfere with education. While there's some merit to this view—and, in fact, I'm that guy catching up on the literary classics he should have read years ago—my experience wrestling with the *Divine Comedy* (and similarly dense texts) has made me question this assumption: i.e., how much richer would my understanding be with an excellent professor and a lively class discussion? Moreover, this flippant argument about self-study could just as easily be turned against technical fields: why spend college years studying computer science when you can learn it independently through videos and AI tools, especially considering that programming languages and tools often become obsolete within a decade?
 
 [^3]: [E28: Katherine Boyle and Mike Solana on Liberal Arts Debate, Tech Culture, and Saving San Francisco](https://www.podpage.com/moment-of-zen-1/e28-katherine-boyle-and-mike-solana-on-liberal-arts-debate-tech-culture-and-saving-san-francisco/), *Moment of Zen* podcast; June 17, 2023.
 
@@ -82,11 +87,6 @@ Let's enumerate the merits and faults of the liberal arts education:
 If you think about the arguments against, they're centered around cost and ROI. Which is understandable, but also solvable, and, I'd argue, not as important as what's at stake with the proper education of our nation. And so, for me the scales tip toward the liberal arts...but in a qualified way.
 
 If we know what we want, we can do it all: kids emerge from the university fully formed and erudite, but also ready to jump into the workforce and contribute. Many schools nobly try to thread this needle by offering a thoughtfully constructed, highly rigorous and integrated liberal arts core curriculum (the *Ratio Studiorum,* if you will). It may not be such a bad runner-up to a liberal arts degree: it whets the appetites of those who will then delve into the world of ideas via Philosophy, English, etc.; and the accounting majors at least have the substratum that they'll hopefully build upon whenever and however they might, and won't have mortgaged the entirety of their undergraduate years to job training.
-
-<center>
-<img src="/assets/og/post_dead-poets-society.png" alt="Dead Poets Society, 1989">
-<span class="muted small">Dead Poets Society, 1989.</span>
-</center>
 
 We've been talking about the university, but it's important to go back to the primary grades, and think about our educational models, because how we learn and what we gear into starts at a young age. Chelsea Niemiec from the University of Dallas summarizes the issue[^4]:
 
