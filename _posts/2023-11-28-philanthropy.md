@@ -5,8 +5,8 @@ date: 2023-11-28
 author:	Paul Berens
 ogimage: post_st-thomas-alms.jpg
 ---
-![Saint Thomas of Villanova Giving Alms](/assets/og/post_st-thomas-alms.jpg)
-<span class="muted small"><i>Saint Thomas of Villanova Giving Alms,</i> Bartolomé Esteban Murillo, 1668.</span>
+<img src="/assets/og/post_st-thomas-alms.jpg" alt="Saint Thomas of Villanova Giving Alms" style="width: 50%;">
+<span class="muted small"><i>St. Thomas of Villanova Giving Alms,</i> Bartolomé Esteban Murillo.</span>
 
 Giving Tuesday is a refreshing, chilled glass of water in between the Black Friday-to-Cyber Monday gorging and the remaining holiday consumption season. I suppose some of it amounts to "causewashing" and ineffectual organizations, but most of the causes and charitable orgs I come across I find at least well-intentioned if not very good.
 
