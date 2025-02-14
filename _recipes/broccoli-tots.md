@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Homemade Broccoli Tots
+title: Broccoli Tots
 preptime: 10
 cooktime: 25
 yield: makes ~15-20
