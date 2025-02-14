@@ -6,7 +6,7 @@ author:	Paul Berens
 ---
 To celebrate this gorgeous Independence Day Weekend weather, I did my [default running route](/runs/ggp-moraga/), which takes me through Golden Gate Park. And when I passed the Grove of Memory (a.k.a. Doughboy Meadow), some vague patriotism deep within drew me over to the statue that honors the dead of the two world wars.
 
-![doughboy WWI/WWII memorial statue](/assets/og/doughboy.png)
+![doughboy WWI/WWII memorial statue](/assets/og/post_doughboy.png)
 
 I removed my running hat and stayed for a quiet moment.
 

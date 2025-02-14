@@ -3,6 +3,7 @@ layout: post
 title: Delighters and Actionable Insights
 date: 2024-07-29
 author:	Paul Berens
+ogimage: post_brooks_adrenaline_gts_23.png
 ---
 I've been tracking my [runs](/running/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is a little, quiet one: **The Shoe Mileage Tracker**.
 
@@ -11,11 +12,11 @@ Easy peasy:
 2. Strava logs each run activity against this pair
 3. Strava notifies you once the accumulated mileage has reached your (configurable) target distance, comme ci:
 
-<center><img src="/assets/og/phone_strava_message.png" alt="Strava actionable insight" style="width: 60%;"></center>
+<center><img src="/assets/og/post_phone_strava_message.png" alt="Strava actionable insight" style="width: 60%;"></center>
 
 ...and now you've got a data-informed justification for purchasing the new kicks:
 
-<center><img src="/assets/og/brooks_adrenaline_gts_23.png" alt="Adrenaline GTS 23" style="width: 60%;"></center>
+<center><img src="/assets/og/post_brooks_adrenaline_gts_23.png" alt="Adrenaline GTS 23" style="width: 60%;"></center>
 
 Actually, this is nontrivial to me, because I've had my share of running-related knee and shin and foot injuries, some of which were attributable to going too far in shoes whose midsoles I'd already stomped out.
 
@@ -25,7 +26,7 @@ Ergo, high user value (at least for me) + $0 (included) = *delighter feature* pe
 
 ## The Kano Model for feature prioritization
 
-<center><img src="/assets/og/kano.png" alt="The Kano Model"></center>
+<center><img src="/assets/og/post_kano.png" alt="The Kano Model"></center>
 
 - **Must-haves.** Table stakes (or "Main Variable" [h/t to Christie Nordhielm's Big Picture marketing framework]). Prioritize these highest and implement early in product lifecycle. Typically don't monetize directly.
 	- Example from my Google Pixel 8 Pro: pretty much anything you require of any smartphone (e.g., calling, texting, GPS, access to an app store, etc.).
@@ -48,7 +49,7 @@ The Shoe Mileage Tracker fits into this category: i.e., information derived from
 
 The email marketers over at Credit Karma have taken the unsolicited approach—and done it well—for quite some time (despite dealing with boring subject matter). Here's a good example from them:
 
-<center><img src="/assets/og/phone_credit-karma.png" alt="credit karma example actionable insight" style="width: 60%;"></center>
+<center><img src="/assets/og/post_phone_credit-karma.png" alt="credit karma example actionable insight" style="width: 60%;"></center>
 
 #1 *bam*—they hit you right between the eyes with the insight:
 
