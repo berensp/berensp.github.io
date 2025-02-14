@@ -5,9 +5,10 @@ date: 2024-08-18
 author:	Paul Berens
 ogimage: needle-placement.png
 ---
-Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
+![Bro's vinyl vibestation](/assets/og/post_vinyl_nook.jpg)
+<span class="muted small">Bro's vinyl vibestation.</span>
 
-![bro's vinyl station](/assets/og/bro_vinyl_station.jpg)
+Hanging out at my brother's house last weekend, I found myself admiring his vinyl collection, which he's casually been building over the last decade.
 
 He's got excellent musical taste and sensibilities (and introduced me to many of my now-favorite bands), but his interest in vinyl isn't because he's an audiophile who would argue that the subtle nuances in the music are lost in any other format[^1].
 
