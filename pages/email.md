@@ -2,9 +2,9 @@
 layout: page
 title: Email me
 permalink: /email/
-description: Here lies Paul; he did email
+description: ⚰ Here lies Paul; he did email.
 ---
-If you promise you're not an evil AI bot posing as a human, feel free to send me an electronic mail:
+If you can promise you're not an evil AI bot posing as a human, feel free to drop me an electronic mail:
 
 <form
   action="https://formspree.io/f/xknkengj"
