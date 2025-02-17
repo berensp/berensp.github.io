@@ -87,7 +87,7 @@ class WeatherWidget {
             const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
             const emoji = this.getWeatherEmoji(data.current.weather_code);
 
-            container.innerHTML = `<a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</a>`;
+            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the </span><a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">94116</a>`;
         } catch (error) {
             console.error('Error fetching weather:', error);
             container.innerHTML = '';
