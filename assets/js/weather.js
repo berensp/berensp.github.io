@@ -32,7 +32,7 @@ class WeatherWidget {
     getWeatherEmoji(code) {
         // Get current hour to determine if it's night time
         const hour = new Date().getHours();
-        const isNight = hour <= 5 || hour >= 21;  // Night between 8 PM and 6 AM
+        const isNight = hour <= 6 || hour >= 20;  // Night between 8 PM and 6 AM
 
         const weatherEmojis = {
             0: isNight ? '🌙' : '☀️',   // Clear sky
@@ -43,7 +43,7 @@ class WeatherWidget {
             48: '🌁',                    // Depositing rime fog (SF marine layer)
             51: '🌦️',                    // Light drizzle
             53: '🌧️',                    // Moderate drizzle
-            55: '🌧️',                    // Dense drizzle
+            55: '💧',                    // Dense drizzle
             61: '🌦️',                    // Slight rain
             63: '🌧️',                    // Moderate rain
             65: '⛈️',                    // Heavy rain
@@ -79,24 +79,46 @@ class WeatherWidget {
             }
             this.lastUpdateTime = now;
             
-            console.log('Current temp:', data.current.temperature_2m);
-            console.log('Daily forecast:', data.daily);
+            console.log('Current weather code:', data.current.weather_code);
+            console.log('Weather data:', data);
 
             const currentTemp = Math.round(data.current.temperature_2m);
             const minTemp = Math.round(data.daily.temperature_2m_min[0]);
             const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
+            
+            if (typeof data.current.weather_code === 'undefined') {
+                console.error('Weather code is undefined in response');
+                throw new Error('Missing weather code');
+            }
+            
             const emoji = this.getWeatherEmoji(data.current.weather_code);
 
             container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the </span><a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">94116</a>`;
         } catch (error) {
-            console.error('Error fetching weather:', error);
-            container.innerHTML = '';
+            console.error('Error displaying weather:', error);
+            // Don't clear the container on error, keep showing the last valid data
+            if (!container.innerHTML) {
+                container.innerHTML = '';
+            }
+            // Try to refresh data if there's an error
+            setTimeout(() => this.fetchWeather(), 60000);
         }
     }
 
     async fetchWeather() {
-        this.weatherPromise = fetch(this.apiUrl).then(response => response.json());
-        await this.displayWeather();
+        try {
+            const response = await fetch(this.apiUrl);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            this.weatherPromise = response.json();
+            await this.displayWeather();
+            console.log('Weather refreshed successfully at:', new Date().toLocaleTimeString());
+        } catch (error) {
+            console.error('Error refreshing weather:', error);
+            // Try again in 1 minute if there's an error
+            setTimeout(() => this.fetchWeather(), 60000);
+        }
     }
 
     init() {
