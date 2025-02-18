@@ -107,13 +107,14 @@ class WeatherWidget {
 
     async fetchWeather() {
         try {
+            console.log('Fetching new weather data from API...');
             const response = await fetch(this.apiUrl);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
             this.weatherPromise = response.json();
             await this.displayWeather();
-            console.log('Weather refreshed successfully at:', new Date().toLocaleTimeString());
+            console.log('API call completed successfully at:', new Date().toLocaleTimeString());
         } catch (error) {
             console.error('Error refreshing weather:', error);
             // Try again in 1 minute if there's an error
