@@ -93,7 +93,7 @@ class WeatherWidget {
             
             const emoji = this.getWeatherEmoji(data.current.weather_code);
 
-            container.innerHTML = `<a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the 94116</a>`;
+            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the </span><a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">94116</a>`;
         } catch (error) {
             console.error('Error displaying weather:', error);
             // Don't clear the container on error, keep showing the last valid data
