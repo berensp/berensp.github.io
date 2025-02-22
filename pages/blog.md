@@ -4,7 +4,7 @@ title: Posts
 permalink: /blog/
 description: ✍
 ---
-<img src="/assets/og/mjb_pencil_20250222.png">
+<img src="/assets/og/mjb_pencil_20250222.png" alt="Pencil, by MJB, 2025-02-22" style="width: 50%;">
 
 {% comment %}
 This will clear any content that might be pulled in from elsewhere
