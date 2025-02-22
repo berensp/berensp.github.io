@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Safetyism
-permalink: /safety/
+permalink: /safetyism/
 date: 2025-02-22
 author: Paul Berens
 description: 조심!
