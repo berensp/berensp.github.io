@@ -3,6 +3,7 @@ layout: page
 title: Running
 permalink: /running/
 description: correr
+ogimage: tahoe.half.bw.png
 ---
 <img src="/assets/og/tahoe.half.bw.png" width="50%" height="50%">
 
