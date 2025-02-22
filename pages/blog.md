@@ -3,6 +3,7 @@ layout: page
 title: Posts
 permalink: /blog/
 description: ✍
+ogimage: mjb_pencil_20250222.png
 ---
 <img src="/assets/og/mjb_pencil_20250222.png" alt="Pencil, by MJB, 2025-02-22" style="width: 50%;">
 

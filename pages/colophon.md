@@ -2,6 +2,7 @@
 layout: page
 title: Colophon
 permalink: /colophon/
+ogimage: divider-g2fa5b2a44_1280.png
 ---
 *"Explicit iste liber, scriptor sit crimine liber, Christus scriptorem custodiat ac det honorem."*[^1]
 
@@ -17,7 +18,7 @@ Anno Domini MMXX. Omnia iura reservata.
 
 <p>
 <center>
-<img src="/assets/images/divider-g2fa5b2a44_1280.png" alt="angel">
+<img src="/assets/og/divider-g2fa5b2a44_1280.png" alt="angel">
 </center>
 
 <center>

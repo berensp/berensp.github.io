@@ -3,6 +3,7 @@ layout: page
 title: Cycling
 permalink: /cycling/
 description: I want to ride my bicycle; I want to ride my bike.
+ogimage: marin.ride.bw.png
 ---
 <img src="/assets/og/marin.ride.bw.png" width="50%" height="50%">
 

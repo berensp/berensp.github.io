@@ -3,8 +3,9 @@ layout: page
 title: Prayers
 permalink: /prayers/
 description: We got to pray just to make it today.
+ogimage: angel-song-of-bethlehem.png
 ---
-<p><img src="/assets/images/angel-song-of-bethlehem.png" alt="Angel from the Song of Bethlehem" style="width: 50%;">
+<p><img src="/assets/og/angel-song-of-bethlehem.png" alt="Angel from the Song of Bethlehem" style="width: 50%;">
 
 {% assign categories = "Hora Somni,Ante Missam,Inter Missam,Marian,Saints,Miscellany" | split: "," %}
 
