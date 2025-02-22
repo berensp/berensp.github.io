@@ -35,17 +35,13 @@ But then came the overshoot:
 - Physical safety is table stakes; psychological/emotional safety is all the rage ("safe spaces," "trigger warnings," "microaggressions") → institutionalization
 - Technology/AI enables constant monitoring and safety optimization
 
-## Masculinity Crisis
-
-Also I wonder if there's a part of the story that is attributable to men. Men being the traditional protectors, ensurers of safety. And to a certain extent excessive safety concerns and protocols has had an emasculating effect, and produces a crisis of purpose for males. After all, isn't this what produced Jordan Peterson: the void left from the vanishing of meaning from the lives of young adult males? His is a doctrine of personal responsibility which entails ditching your comforts and taking on sufferings and burdens as a means to personal growth and meaning. A few men from my church and I just embarked on this faith-based fraternity program together, and I noticed it right away: how good it is to have guy time—and not just drinking buddies; but something that goes a little deeper.
-
-## A Spiritual Dimension
+Also I wonder if there's a part of the story that pertains to masculinity; men being the traditional protectors, ensurers of safety. And to a certain extent excessive safety concerns and protocols has had an emasculating effect, and produces a crisis of purpose for males. After all, isn't this what produced Jordan Peterson: the void left from the vanishing of meaning from the lives of young adult males? His is a doctrine of personal responsibility which entails ditching your comforts and taking on sufferings and burdens as a means to personal growth and meaning. A few men from my church and I just embarked on this faith-based fraternity program together, and I noticed it right away: how good it is to have guy time—and not just drinking buddies; but something that goes a little deeper.
 
 And, in fact, this program is based on asceticism, which leads me to my spiritual/religious points: our safety culture comforts have made us a little weaker and softer. Even things like snacking—guilty—starts out as an innocuous indulgence, but the "we are what we repeatedly do" aphorism applies equally to virtue *and* vice. Apart from any religious tradition, people intuitively know that character is built through suffering, which could be physical suffering (e.g., the current ice bath craze, or the popularity of Stoicism) or psychological suffering (i.e., ditching your psychological safety in favor of adventure [e.g., the hobbits leaving the comfort of the Shire to go on their adventure, the Twelve apostles leaving their families and livelihoods to go on a great adventure]). Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, a "noonday demon," as the desert monks called it.
 
-## The Tytler Cycle
-
 Alexander Tytler Cycle predicted this for us: after abundance comes complacency and apathy, then dependence, and finally bondage. And isn't it true that safetyism is a classic "first world problem"? The craziest things that happened with regard to psychological safety came about during our zero interest rate environment; whereas when the economic winds blow the other way, it's more like "yeah, get back to work".
+
+![Tytler's Cycle](/assets/og/post_tytler.png)
 
 ## How do we course correct?
 - Engender the means of distinguishing necessary vs. unnecessary risks. Part of this implies trustworthy information sources that aren't trying to distort reality. (This is increasingly easier said than done, I know.)
