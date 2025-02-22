@@ -4,6 +4,8 @@ title: Posts
 permalink: /blog/
 description: ✍
 ---
+<img src="/assets/og/mjb_pencil_20250222.png">
+
 {% comment %}
 This will clear any content that might be pulled in from elsewhere
 {% endcomment %}
