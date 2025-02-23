@@ -24,3 +24,4 @@ permalink: /first-principles/
 - [Cut flowers theory](/cut-flowers.html)
 - [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
 - [Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712)
+- [Tytler's Cycle](https://thinkingwest.com/2022/11/16/tytlers-cycle-of-civilizations/)

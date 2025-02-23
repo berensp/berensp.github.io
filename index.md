@@ -17,7 +17,8 @@ layout: home
 
 {% assign route_count = site.rides.size | plus: site.runs.size %}
 
-<img src="/assets/images/avatar_pmb_bw.png" alt="PMB avatar b/w" style="width: 25%;">
+<img src="/assets/images/pmb.portrait.png" alt="portrait" style="width: 30%;">
+<span class="muted small">Portrait by Liz Perry</span>
 
 Hi, I'm <span class="header-text">Paul Berens</span> (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3))<b>:</b> [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [diaper-changer](/diapering/).
 
