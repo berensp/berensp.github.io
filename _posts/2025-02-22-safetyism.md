@@ -12,7 +12,7 @@ ogimage: post_erbeck.bike.jump.jpg
 
 *Stay safe!*
 
-How often do you hear this valediction? In fact, it's so common you probably rarely notice or think about it, but it begs the question *safe from what?* And, naturally, the answer is *from everything, you tottering codpiece!*
+How often do you hear this valediction? Often enough that you probably rarely notice or think about it, but it begs the question *safe from what?* And the correct answer is *from everything, you tottering codpiece!*
 
 Of course, we went overboard with "safetyism" during the Pandemic, but the wheels were set in motion long before that.
 
@@ -49,9 +49,9 @@ Alexander Tytler Cycle predicted this stage for us—well, for everyone: after a
 
 And isn't it true that safetyism is a classic "first world problem"? The craziest things that happened with regard to psychological safety came about during our recent zero interest rate environment (i.e. good times); whereas when the economic winds blow the other way, it's more like "yeah, get back to work".
 
-## How do we course correct?
+## How do we right the ship?
 
-It has to happen at multiple levels but subsidiarity demands it begins with me and my family:
+It has to happen at multiple levels, but subsidiarity demands it begins with me and my family:
 
 ### Local
 - Seek out high-quality information and news media as a means of quantifying risks.
@@ -65,6 +65,6 @@ It has to happen at multiple levels but subsidiarity demands it begins with me a
 
 * * *
 
-To be clear, safety is a good thing—as a dad and husband I want a certain amount—but we've crowned it as one of the highest goods, which is a serious mistake. Let us swing the pendulum back the other direction. 
+To be clear, safety is a lovely thing—Maslow filed it under "basic needs," and as a dad and husband I want a certain amount. But we've crowned it as one of the highest goods, which is foolish and misguided. Let us swing the pendulum back the other direction. 
 
 — ᴘ. ᴍ. ʙ.
