@@ -16,11 +16,11 @@ How often do you hear this valediction? Often enough that you probably rarely no
 
 Of course, we went overboard with "safetyism" during the Pandemic, but the wheels were set in motion long before that.
 
-A lot of people of an older generation will rehearse something similar to this, but it's my experience as well: in the summers when I was a kid, we'd be anywhere in a three block radius of our house with neighbor friends "until the street lights [came] on" or we heard our mother's distinct "woo-woo" loon call, letting us know it was time to come in for dinner or bath. That's clearly not how it works anymore, and a specific turning point (at least in my home state of Minnesota), was the abduction of Jacob Wetterling. It was disturbing and it rocked the community to the point that it made people rethink their assumptions about safety and trust. And so "helicopter parenting" and "stranger danger" were born, to where now kids are driven everywhere and generally can't leave their parents' sight unless they're under the supervision of a fingerprinted and background-checked adult. (Jonathan Haidt articulates this cultural change well in one of his recent books.)
+A lot of people of an older generation will rehearse something similar to this, but it's my experience as well: in the summers when I was a kid, we'd be anywhere in a three block radius of our house with neighbor friends "until the street lights [came] on" or we heard our mother's distinct "woo-woo" loon call, letting us know it was time to come in for dinner or bath. That's clearly not how it works anymore, and a specific turning point (at least in my home state of Minnesota), was the abduction of Jacob Wetterling. It was disturbing and it rocked the community to the point that it made people rethink their assumptions about safety and trust. And so "helicopter parenting" and "stranger danger" were born, to where now kids are driven everywhere and generally can't leave their parents' sight unless they're under the supervision of a fingerprinted and background-checked adult. (Jonathan Haidt explains this cultural change well in one of his recent books.)
 
-But the rise of safetyism is a nuanced and multifactor phenomenon:
+But the rise of safetyism was/is a nuanced and multifactor phenomenon:
 - **News media (and now social media)** amplified one-off crimes or accidents, and created the impression that threats are everywhere and all the time. (Basically the above.)
-- **Smaller families** (from declining birth rates) meant greater focus on each child, but fewer children also meant...
+- **Smaller families** (from declining birth rates) meant greater focus on each child, but fewer children also meant increasing...
 - **Prosperity** allowed for the purchase of safety (as a feature): e.g., safer cars, houses in safer neighborhoods, air purifiers, organic foods, etc. 
 - **Technology** enabled our safety obsession: wireless cameras, location tracking, etc.
 - **Attenuation of our institutions (civic/religious)** that helped us trust each other, and process risk and mortality
@@ -33,7 +33,7 @@ And what have we purchased with safetyism? For a time, quite a bit: seatbelts, l
 But then came the negative externalities:
 - **Postponed adulthood.** Grown children living with their parents indefinitely, being insured by their parents, and even having have their parents phone their manager if there's a problem at work.
 - **"Safe spaces," "trigger warnings," "microaggressions".** What began as concern and sensitivity has evolved into a doctrine of emotional safety; first normalized, then celebrated, and finally codified in our universities, corporations, and government agencies.
-- **Emasculated men.** As institutions and bureaucracies replaced men's traditional role as protectors, they stripped away a core source of meaning and identity. This void helped create Jordan Peterson, who speaks to young men who find themselves obsolete in a world where safety comes prepackaged.
+- **Hombres emasculados.** As institutions and bureaucracies replaced men's traditional role as protectors, they stripped away a core source of meaning and identity. This void helped create Jordan Peterson, who speaks to young men who find themselves obsolete in a world where safety comes prepackaged.
 
 On that last point, Peterson's doctrine of personal responsibility entails ditching your comforts and taking on sufferings and burdens as a means to personal growth and meaning. A few men from my church and I just embarked on this faith-based fraternity program together, and I noticed it right away how good it is to have quality guy time—and not just drinking buddies, but something that goes a little deeper.
 
@@ -41,7 +41,7 @@ And, in fact, this program is based on asceticism, which leads me to my spiritua
 - Physical suffering (immediate, concrete): e.g., the current ice bath craze, or the popularity of Stoicism *or*
 - Psychological suffering (potential suffering): i.e., ditching your psychological safety in favor of adventure (e.g., the hobbits leaving the comfort of the Shire to go on their adventure, or Twelve apostles leaving their families and livelihoods to follow Jesus).
 
-Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, which the desert monks believed to come from being "too safe" in their cells. But the other sin it relates to is idolatry: worshipping one's own life or safety above all else (e.g., this longevity movement of which Bryan Johnson is the poster child). Rather, *propter vitam vivendi perdere causas,* roughly translated as "to lose the reasons for living, for the sake of life."
+Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, which the desert monks believed to come from being "too safe" in their cells. But the other sin it relates to is idolatry: worshipping one's own life or safety above all else (e.g., the present longevity movement of which Bryan Johnson is the poster child). Rather, *propter vitam vivendi perdere causas,* roughly translated as "to lose the reasons for living, for the sake of life."
 
 Alexander Tytler Cycle predicted this stage for us—well, for everyone: after abundance comes complacency and apathy, then dependence, and finally bondage.
 
@@ -51,10 +51,10 @@ And isn't it true that safetyism is a classic "first world problem"? The crazies
 
 ## How do we right the ship?
 
-It has to happen at multiple levels, but subsidiarity demands it begins with me and my family:
+It has to happen at multiple levels, but subsidiarity demands it begins with me and my household:
 
 ### Local
-- Seek out high-quality information and news media as a means of quantifying risks.
+- Seek out high-quality information and news media as a means of quantifying risks (distinguishing from hype).
 - Adopt Nassim Taleb's Anti-Fragile (Stoic?) framework: do hard things (advertisities make you grow), go through life as a "flâneur", and develop an anti-education.
 - Employ parenting strategies that foster resilience (e.g., my own take on a Hunger Games of sorts?).
 
@@ -65,6 +65,6 @@ It has to happen at multiple levels, but subsidiarity demands it begins with me 
 
 * * *
 
-To be clear, safety is a lovely thing—Maslow filed it under "basic needs," and as a dad and husband I want a certain amount. But we've crowned it as one of the highest goods, which is foolish and misguided. Let us swing the pendulum back the other direction. 
+To be clear, safety is not a terrible thing—Maslow filed it under "basic needs," and as a dad and husband I want a certain amount. But we've crowned it as one of the highest goods, which is foolish and misguided. Let us swing the pendulum back the other direction. 
 
 — ᴘ. ᴍ. ʙ.
