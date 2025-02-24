@@ -71,7 +71,7 @@ When you look at what the research reveals about the reasons people leave the Fa
 
 [^11]: Another related angle is that the postconciliar Mass got off-kilter by over-emphasizing *meal* at the expense of *sacrifice,* a critical point Bishop Barron has made.
 
-## Not holier than thou
+## Seeking True North
 The stereotype regarding the "traditionalists"—or pick your moniker of those attending more conservative parishes—is that they are holier than thou, supercilious, too cool for school. I'm sure that's the case in certain places, but the opposite of what I've found at Star...maybe because traditionalists are aware of the stereotype and work all the harder for their own humility.
 
 As for me, I'm just a sinner who's working out his salvation with fear and trembling. No lie. There's a Jungian principle called *Enantiodromia,* a running contrariwise. When a sapling is bent in one direction, you don't just push on it; you pull hard from the other side until it's straight. That's me with the Faith: I went seriously off course—that's as much specificity as you're going to get in that confession, Dear Reader—and I believe the Holy Spirit helped me find a traditional parish to help me "bend back"[^12].
