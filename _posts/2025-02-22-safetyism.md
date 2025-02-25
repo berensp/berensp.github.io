@@ -12,7 +12,7 @@ ogimage: post_erbeck.bike.jump.jpg
 
 A lot of people of an older generation will rehearse something similar to this, but it's my experience as well: in the summers when I was a kid, we'd roam (or ride bikes) anywhere within a three-block radius of our house with neighborhood friends until the street lights came on or we heard our mother's distinct "woo-woo" loon call, letting us know it was time to come in for dinner or bath. That's clearly not how it works anymore, and a specific turning point (at least in my home state of Minnesota), was the abduction of Jacob Wetterling, a deeply disturbing event that rocked the community to the point that it made people rethink their assumptions about safety and trust. And so "helicopter parenting" and "stranger danger" were born, to where now kids are driven everywhere and generally can't leave their parents' sight unless they're under the supervision of a fingerprinted and background-checked adult. (Jonathan Haidt explains this cultural change well in one of his recent books.)
 
-The pandemic represented a peak in our culture of 'safetyism,' but the wheels were set in motion long before that. This rise was/is a nuanced and multifactor phenomenon:
+Of course we achieved peak "safetyism" during the pandemic, but the wheels were set in motion long before that. This rise was/is a nuanced and multifactor phenomenon:
 - **News media (and now social media)** amplified one-off crimes or accidents, and created the impression that threats are everywhere and all the time. (Basically the above.)
 - **Smaller families** (from declining birth rates) meant greater focus on each child, but fewer children also meant increasing...
 - **Prosperity** allowed for the purchase of safety (as a feature): e.g., safer cars, houses in safer neighborhoods, air purifiers, organic foods, etc. 
@@ -59,7 +59,7 @@ It has to happen at multiple levels, but subsidiarity demands it begins with me 
 
 * * *
 
-To be clear, safety is not a terrible thing—Maslow filed it under "basic needs"—but we've crowned it as one of the highest goods and outsourced to a nanny state. Let us swing the pendulum back the other direction. But until then...
+To be clear, safety is not a terrible thing—Maslow filed it under "basic needs"—but we've crowned it as one of the highest goods and outsourced to a nanny state. Let us swing the pendulum back the other direction. But 'til then...
 
 Stay safe,
 
