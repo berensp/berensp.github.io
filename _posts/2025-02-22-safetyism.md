@@ -10,13 +10,7 @@ ogimage: post_erbeck.bike.jump.jpg
 ![Cousin bike jump](/assets/og/post_erbeck.bike.jump.jpg)
 <span class="muted small">What—no helmet?! (My cousin Aaron, back in the day.)</span>
 
-*Stay safe!*
-
-How often do you hear this valediction? Often enough that you probably rarely notice or think about it, but it begs the question *safe from what?* And the correct answer is *from everything, you tottering codpiece!*
-
-Of course, we went overboard with "safetyism" during the Pandemic, but the wheels were set in motion long before that.
-
-A lot of people of an older generation will rehearse something similar to this, but it's my experience as well: in the summers when I was a kid, we'd be anywhere in a three block radius of our house with neighbor friends "until the street lights [came] on" or we heard our mother's distinct "woo-woo" loon call, letting us know it was time to come in for dinner or bath. That's clearly not how it works anymore, and a specific turning point (at least in my home state of Minnesota), was the abduction of Jacob Wetterling. It was disturbing and it rocked the community to the point that it made people rethink their assumptions about safety and trust. And so "helicopter parenting" and "stranger danger" were born, to where now kids are driven everywhere and generally can't leave their parents' sight unless they're under the supervision of a fingerprinted and background-checked adult. (Jonathan Haidt explains this cultural change well in one of his recent books.)
+A lot of people of an older generation will rehearse something similar to this, but it's my experience as well: in the summers when I was a kid, we'd roam (or ride bikes) anywhere within a three-block radius of our house with neighborhood friends until the street lights came on or we heard our mother's distinct "woo-woo" loon call, letting us know it was time to come in for dinner or bath. That's clearly not how it works anymore, and a specific turning point (at least in my home state of Minnesota), was the abduction of Jacob Wetterling. It was disturbing and it rocked the community to the point that it made people rethink their assumptions about safety and trust. And so "helicopter parenting" and "stranger danger" were born, to where now kids are driven everywhere and generally can't leave their parents' sight unless they're under the supervision of a fingerprinted and background-checked adult. (Jonathan Haidt explains this cultural change well in one of his recent books.) Of course, we went overboard with "safetyism" during the Pandemic, but the wheels were set in motion long before that.
 
 But the rise of safetyism was/is a nuanced and multifactor phenomenon:
 - **News media (and now social media)** amplified one-off crimes or accidents, and created the impression that threats are everywhere and all the time. (Basically the above.)
@@ -65,6 +59,8 @@ It has to happen at multiple levels, but subsidiarity demands it begins with me 
 
 * * *
 
-To be clear, safety is not a terrible thing—Maslow filed it under "basic needs," and as a dad and husband I want a certain amount. But we've crowned it as one of the highest goods, which is foolish and misguided. Let us swing the pendulum back the other direction. 
+To be clear, safety is not a terrible thing—Maslow filed it under "basic needs"—but we've crowned it as one of the highest goods and outsourced to a nanny state. Let us swing the pendulum back the other direction. But until then...
+
+Stay safe,
 
 — ᴘ. ᴍ. ʙ.

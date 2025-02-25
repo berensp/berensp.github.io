@@ -6,7 +6,7 @@ ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
 Say hello on your favorite messaging app:
-- **Bluesky** (<a href="https://bsky.app/profile/berens.co" target="_blank">@berensp</a>)
+- **Bluesky** (<a href="https://bsky.app/profile/berensp.bsky.social" target="_blank">@berensp</a>)
 - **Clubhouse** (<a href="https://clubhouse.com/@berensp" target="_blank">@berensp</a>)
 - **<mark>Converse</mark>** (<a href="https://converse.xyz/dm/berensp.converse.xyz" target="_blank">@berensp</a>)
 - **Discord** (<a href="https://discordapp.com/users/181094465874821120" target="_blank">@berensp</a>)
