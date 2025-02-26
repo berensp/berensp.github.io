@@ -10,7 +10,7 @@ description: Gimme that old time religion.
 
 St. Paul, Minnesota, was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns) when I was growing up there. Mom was a member of this scene as liturgical music director of our little parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2]
 
-[^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Peña, Msgr. Richard Schuler, Richard Proulx, et al.
+[^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Peña, Msgr. Richard Schuler, Richard Proulx, et al.
 
 [^2]: The great Fr. John Foley, S.J. came over to our house one time to collaborate with Mom on one of his tunes.
 
@@ -27,7 +27,7 @@ But a few things (slowly) converged for me a few years into married life:
 
 There are all kinds of little things I found attractive about the traditional Catholicism at Star of the Sea: *ad orientem*, Communion at the rail and on the tongue (from a priest), Gregorian chant/sacred polyphony, the space for silence, the pious families it attracts, etc. The sanctity and beauty stirred my soul; and the funny thing is that we were coming from what is arguably the most objectively beautiful church in all of San Francisco.[^3]
 
-[^3]: In this way, it reminds me of Evelyn Waugh's [*Brideshead Revisited*](/books/brideshead/), going from one transcendental (the beautiful) to another (the true)—not at all to disparage St. Dominic's, but rather to lift up Star of the Sea as something that radiates, thanks to the blessing of Our Lady, Stella Maris (perhaps in response to 24-hour adoration and other devotions).
+[^3]: In this way, it reminds me of Evelyn Waugh's [*Brideshead Revisited*](/books/brideshead/), going from one transcendental (the beautiful) to another (the true)—not at all to disparage St. Dominic's, but rather to lift up Star of the Sea as something that radiates, thanks to the blessing of Our Lady, Stella Maris (perhaps as a result of 24-hour adoration and other devotions).
 
 But the deeper reason for traditional Catholic liturgy has to do with cognitive dissonance and the Eucharist.
 
@@ -49,7 +49,7 @@ Reminds me of (the first part of) this Annie Dillard quote[^6]:
 
 At one of the parishes I've attended, everyone remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture is discordant with what is really transpiring before you, and so your brain doesn't compute.
 
-Not just posture but dress. If I opt for the shirt 'n' tie over my Vikings jersey it signals the importance[^7], and then (hopefully) my behavior conforms as well *(vestis virum facit)*.
+Not just posture but dress *(vestis virum facit)*. I realized a number of years ago that the Mass is infinitely more important than the fancy secular events I'd get dressed up for, so I try to put on a tie and leave the Vikings jersey at home[^7], to honor the Lord but also to keep in mind that I'm at the mystical wedding feast of the lamb.
 
 [^7]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
 
