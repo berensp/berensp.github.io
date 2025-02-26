@@ -49,7 +49,7 @@ Reminds me of (the first part of) this Annie Dillard quote[^6]:
 
 At one of the parishes I've attended, everyone remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture is discordant with what is really transpiring before you, and so your brain doesn't compute.
 
-Not just posture but dress *(vestis virum facit)*. I realized a number of years ago that the Mass is infinitely more important than the fancy secular events I'd get dressed up for, so I try to put on a tie and leave the Vikings jersey at home[^7], to honor the Lord but also to keep in mind that I'm at the mystical wedding feast of the lamb.
+Not just posture but dress *(vestis virum facit)*. I realized a number of years ago that the Mass is infinitely more important than the fancy secular events I'd get dressed up for, so I try to put on a tie and leave the Vikings jersey at home[^7], to honor the Lord but also to keep in the fore of my mind that I'm at the mystical wedding feast of the lamb.
 
 [^7]: <a href="https://bible.usccb.org/bible/matthew/22?11" target="_blank">Mt 22:11-12</a>: "But when the king came in to meet the guests he saw a man there not dressed in a wedding garment. He said to him, 'My friend, how is it that you came in here without a wedding garment?' But he was reduced to silence."
 
