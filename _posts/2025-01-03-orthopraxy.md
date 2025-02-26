@@ -84,7 +84,7 @@ I'd also liken it to cycling: I appreciate riding with stronger cyclists because
 
 Traditional Catholicism is ultimately in service of the truth (as opposed to clinging to old comforts for their own sake), and, I believe, its effects are real and visible.
 
-And yes, it's now counter-cultural and uncool[^13], but St. Paul encourages us in his letter to the Romans (12:2):
+And yes, it's now counter-cultural and unfashionable[^13], but St. Paul encourages us in his letter to the Romans (12:2):
 
 [^13]: St. Alphonsus Liguori has a good answer to this: "Do not consider what others do, or how they do it; for there are but few who really work for their own sanctification."
 
