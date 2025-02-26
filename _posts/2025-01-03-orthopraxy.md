@@ -8,7 +8,7 @@ description: Gimme that old time religion.
 ![La Disputa](/assets/og/post_Disputa_del_Sacramento.jpg)
 <span class="muted small">Raphael, <i>Disputa del Sacramento,</i> 1509-1510.</span>
 
-When I was growing up in Saint Paul, Minn.; it was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns). Mom was a member of this scene as liturgical music director of a local parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2].
+St. Paul, Minnesota, was the Mecca of post-Vatican II contemporary Catholic music (i.e., *Glory & Praise* and *Gather* hymns) when I was growing up there. Mom was a member of this scene as liturgical music director of our little parish—to my enduring pride and amazement—attending workshops with Marty Haugen, David Haas, et al.[^1]; working alongside Fr. Michael Joncas; and collaborating with the likes of Fr. John Foley, S.J.[^2]
 
 [^1]: It's amazing (in a nerdy kinda way) how the Twin Cities became the epicenter of contemporary Catholic music, but there's a huge list of composers hailing from (or at least connected to) the Minneapolis/St. Paul: Sr. Delores Dufner, Daniel Kantor, Lynn Trapp, Tony Alonso, Lori True, Donna Peña, Msgr. Richard Schuler, Richard Proulx, et al.
 
