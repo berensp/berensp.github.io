@@ -18,13 +18,25 @@ permalink: /apologia/
 [^5]: [Jer 31:33](https://bible.usccb.org/bible/jeremiah/31?33)
 
 ## The Best Arguments for the Christian God / Jesus Christ
-- **C.S. Lewis' "Liar, Lunatic, Lord" Paradigm.** People like the idea of saying that Jesus was "good moral teacher who was bringing a message of peace and forgiveness to the world yadda yadda" but Lewis makes the case that He didn't leave open that possibility as His claims and assertions (about being God)—remember that's why he was crucified?—were either true or else blasphemous whether *knowingly* (liar) or *unknowingly* (lunatic). 
+- **C.S. Lewis' "Liar, Lunatic, Lord" Paradigm.** People like the idea of saying that Jesus was "good moral teacher who was bringing a message of peace and forgiveness to the world yadda yadda" but Lewis makes the case that He didn't leave open that possibility as His claims and assertions (about being God)—remember that's why he was crucified?—were either true or else blasphemous whether *knowingly* (liar) or *unknowingly* (lunatic).
+- **Events surrounding the Resurrection.** The empty tomb, Paul's accounts (Resurrected Christ appearing to the 500, etc.), early Christians going to their deaths proclaiming the Gospel, etc.
+- **Fulfillment of Old Testament Prophecies.** Jesus fulfilled numerous messianic prophecies, including:
+	- Birth in Bethlehem (Micah 5:2)
+	- Born of a virgin (Isaiah 7:14)
+	- Ministry in Galilee (Isaiah 9:1-2)
+	- Entry into Jerusalem on a donkey (Zechariah 9:9)
+	- Betrayal for 30 pieces of silver (Zechariah 11:12-13)
+	- Crucifixion details (Psalm 22)
+
+## The Best Arguments for Catholicism
 - **The longevity of the Church.** The idea that the Church, run by broken, sinful, misguided humans has outlasted the Roman Empire by one and a half millenia is incredible. It should've been run aground long ago. It's almost as if it's being guided by an invisible hand.
-- **Miracles / Apparitions / Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^6]; but in my estimation it's a small percentage and doesn't explain away all accounts...that have, by the way, remarkable consistencies.
+- **Eucharistic Miracles.** e.g.: Miracle of Lanciano (8th century), The Corporal of Bolsena (13th century), The Eucharistic Miracle of Santarém (13th century), The Hosts of Siena, Italy (18th century), The Miracle of Chirattakonam, India (21st century).
+- **Marian Apparitions.** Guadalupe, Fátima, Lourdes, La Salette, Knock, Champion, and so many others. 
+- **Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^6]; but in my estimation it's a small percentage and doesn't explain away all accounts...that have, by the way, remarkable consistencies; many of which are quite thematically, doctrinally Catholic.
 
 [^6]: Although I'd argue most people don't have the Broadway-level acting ability to fool the masses.
 
-## Best/Most Popular Arguments Against God / Faith
+## The Best Arguments *Against* God / Faith
 - **Theodicy.** a.k.a. "The Problem of Evil" (e.g., "How could a good God allow bone cancer in a two-year-old child?"). One of the most difficult counterarguments—in fact, I believe Aquinas admitted that—as it is emotionally gripping, but can be convincingly argued theologically (perhaps best with the Book of Job).
 - **Hypocriticism.** This one grabs me: if Christianity is true, it should make its adherents good, and the world should recognize the veracity of the Faith by the good works produced by these people. And yet, to quote Fr. Lupe from my friend Fr. Jeremy's article[^7], "I've had a deep conviction that most middle-class Catholics are phony Christians, just as materialistic and self-seeking, and as liable to go along with others, as any non-Christian, and often more so." So true. But as Frank Turek says, "when someone plays Beethoven poorly you don't blame Beethoven; you blame the player." Ergo, the Church (in the words of Pope Francis) is a "hospital for sinners, not a museum of saints."
 - **Faith vs. Reason / Faith vs. Science.** This one is ubiquitous and cited nowadays as a top reason—if not *the* top reason—for disaffiliation. Which is somewhat surprising since a) it's a falsely-aporetic conflict, and b) looking to the scientific method to prove or disprove the existence of God is self-refuting.
