@@ -32,7 +32,7 @@ So it does beg the question...
 
 [^1]: Merkle Manufactory, the company behind Farcaster and Warpcast, is a pacesetter in this respect for the entire community, shipping pretty major stuff almost weekly at one point.
 
-<center><img src="/assets/og/post_ui_your_week_fcast.png" alt="pb – your week on Farcaster" style="width: 60%;"></center>
+<img src="/assets/og/post_ui_your_week_fcast.png" alt="pb – your week on Farcaster" style="width: 40%;">
 
 On that last point, this was something people frequently mentioned and agreed, typified by [this "cast"](https://warpcast.com/bradq/0x465df2):
 
