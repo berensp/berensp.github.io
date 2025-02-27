@@ -5,6 +5,9 @@ date: 2024-06-29
 author:	Paul Berens
 ogimage: post_ui_farcaster.png
 ---
+<img src="/assets/og/post_ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 50%;">
+<span class="muted small">Farcaster UI circa June 2024.</span>
+
 I originally stumbled upon Dan Romero [on Twitter](https://x.com/dwr) (I think), which then led me to [his blog](https://danromero.org/), which I found nice and simple and subsequently [forked and adapted](this-site.html) as you can probably tell. He was at Coinbase at the time, but I took notice when he revealed that he was building a new social network on crypto rails called [Farcaster](https://www.farcaster.xyz/).
 
 As far as blockchain went I had dabbled in the *casino* side (h/t to [bro-in-law Frank-형](https://warpcast.com/dios)), but was inexperienced with the *computer* side, and yet I was curious to learn about it—NFTs and so forth—and so I DM'd Dan 2022-06-21 to jump on Farcaster and joined the Android Alpha the very same day.
@@ -63,5 +66,3 @@ Of course this is just the beginning, but that's a bit of my experience to date.
 Excelsior,
 
 — ᴘ. ᴍ. ʙ.
-
-<center><img src="/assets/og/post_ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 60%;"></center>
