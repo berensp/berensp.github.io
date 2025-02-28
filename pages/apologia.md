@@ -43,8 +43,6 @@ permalink: /apologia/
 	- ***Sed contra:*** The x factor here is free will, necessary for *agape*.
 - **Faith vs. Reason / Faith vs. Science.** This one is ubiquitous and cited nowadays as a top reason—if not *the* top reason—for disaffiliation.
 	- ***Sed contra:*** It surprises me somewhat that people find it so compelling since a) it's a falsely-aporetic conflict, and b) looking to the scientific method to prove or disprove the existence of God is self-refuting.
-- **Geographic/Cultural Hypothesis of Religious Adherence.** The "born into it" principle (e.g., if you're born in Saudi Arabia, you're statistically unlikely to become Christian). Of course this is less true today than it was years ago (in our globalizing, secularizing world).
-	- ***Sed contra:*** Trotted out frequently, because, well, people find it gripping, but ultimately, this is classic genetic fallacy.
 - **Occam's Razor.** Natural explanations for the universe, life, consciousness, and morality don't require positing supernatural entities, making theism an unnecessary hypothesis.
 	- ***Sed contra:*** But they do.
 
@@ -52,13 +50,16 @@ permalink: /apologia/
 
 
 ## The Best Arguments *Against* Christianity
+- **Geographic/Cultural Hypothesis of Religious Adherence.** The "born into it" principle (e.g., if you're born in Saudi Arabia, you're statistically unlikely to become Christian). Of course this is less true today than it was years ago (in our globalizing, secularizing world).
+	- ***Sed contra:*** Trotted out frequently, because, well, people find it gripping, but ultimately, this is classic genetic fallacy.
 - **Historical Reliability Concerns.** Critical scholarship raises questions about New Testament reliability (e.g., Gospels written decades after events by non-eyewitnesses, contradictions or inconsistencies among Gospel accounts, limited non-Christian corroboration for extraordinary claims, evidence of theological development and embellishment over time).
 - **Pagan Parallels.** Elements of Jesus' story (virgin birth, resurrection, miracle-working) have parallels in pre-Christian Mediterranean religions, suggesting cultural borrowing.
 - **Questionable Prophecies.** Jesus' prediction of his imminent return and the Kingdom of God (Mark 9:1, 13:30) hasn't materialized after 2,000 years.
 - **Scientific Conflicts.** Biblical accounts of creation, the flood, and other miraculous events conflict with established scientific understanding.
 
 ## The Best Arguments *Against* Catholicism
-- **Papal Authority Claims.** Let's just admit that there have been terrible popes. And at the very least, early church leadership was more collegial than papal, with Rome gradually asserting primacy over centuries; but I think many people get the concept of papal infallibility wrong and don't understand that the pope errs like anyone else and rarely speaks *ex cathedra*.
+- **Papal Authority Claims.** Let's just admit that there have been terrible popes. And at the very least, early church leadership was more collegial than papal, with Rome gradually asserting primacy over centuries.
+	- ***Sed contra:*** I think many people get the concept of papal infallibility wrong, and don't understand that the pope errs like anyone else and rarely speaks *ex cathedra*. One must separate the man from the office.
 - **Doctrinal Innovations / Biblical Contradictions** Many Catholic doctrines (purgatory, Marian dogmas, papal infallibility) developed centuries after the apostolic period with debatable biblical support. Similarly, practices like priestly celibacy, prohibition of female clergy, and prayer to saints appear to contradict certain biblical passages.
 	- ***Sed contra:*** This actually biblical support for all of these; even if each one isn't explicitly mentioned in scripture. And that's precisely why there is a (one) church, guided by the H.S.; and not leaving interpretation to each one (yielding ~30k Protestant churches).
 - **Hypocriticism / Historical Abuses** - The Inquisition, Crusades, corruption scandals, and clergy abuse crises undermine claims of divine guidance and moral authority. I.e., if Christianity is true, it should make its adherents good, and the world should recognize the veracity of the Faith by the good works produced by these people. And yet, to quote Fr. Lupe from my friend Fr. Jeremy's article[^7], "I've had a deep conviction that most middle-class Catholics are phony Christians, just as materialistic and self-seeking, and as liable to go along with others, as any non-Christian, and often more so." So true.
