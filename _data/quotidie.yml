@@ -11,14 +11,12 @@ monday:
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
+  - task: 'Put out rubbish bins'
+    time: "17:45"
   - task: 'Dine, clean, arrange things'
     time: "18:00"
-  - task: 'Put out rubbish bins'
-    time: "20:50"
-  - task: '<a href="/books/">Read</a>'
+  - task: '<a href="/prayers/ad-oratio/">Ad Oratio</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Joyful Mysteries</a>'
-    time: "21:45"
   - task: 'Sleep'
     time: "22:00"
 tuesday:
@@ -36,8 +34,10 @@ tuesday:
     time: "13:00"
   - task: 'Dine, clean, diversion with the offspring'
     time: "18:00"
-  - task: '<a href="/prayers/ad-oratio/">Ad Oratio</a>'
+  - task: '<a href="/books/">Read</a>'
     time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Sorrowful Mysteries</a>'
+    time: "21:45"
   - task: 'Sleep'
     time: "22:20"
 wednesday:
@@ -95,8 +95,6 @@ friday:
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy</a>'
-    time: "15:00"
   - task: 'Dine, clean, diversion with the offspring'
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
