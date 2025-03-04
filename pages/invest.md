@@ -11,6 +11,7 @@ I've contributed some ducats to the following startups in their early rounds:
 - <a href="https://www.withvincent.com/" target="_blank">Vincent</a> (<a href="https://thesyndicate.com/" target="_blank">Syndicate</a>) – alt investing
 - <a href="https://www.luminous.com/" target="_blank">Luminous</a> (<a href="https://www.av.vc/" target="_blank">AVG</a>) – photonics, supercomputers
 - <a href="https://www.findanomaly.com/" target="_blank">Anomaly</a> (<a href="https://www.av.vc/" target="_blank">AVG</a>) – claim processing automation
+- <a href="https://laplaceint.com/" target="_blank">Laplace Interventional</a> (<a href="https://featuresvc.co/" target="_blank">Features</a>) – med device (TTVR)
 
 Have also made direct investments in the following funds:
 - Basecamp 2021 (<a href="https://www.av.vc/" target="_blank">AVG</a>)
