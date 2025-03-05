@@ -4,7 +4,7 @@ title: Investments
 permalink: /invest/
 description: Content from berens.co is for informational purposes only and should not be relied upon for business or investment advice. 
 ---
-I've contributed some ducats to the following startups in their early rounds:
+We've contributed ducats to the following startups in their early rounds:
 - <a href="https://www.hurree.co/" target="_blank">Hurree</a> (<a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a>) – cross-platform analytics
 - <a href="https://getdex.com/" target="_blank">Dex</a> (SPV) – personal CRM / modern rolodex
 - <a href="https://www.nursewallet.co/" target="_blank">NurseWallet</a> (<a href="https://www.chainstaycapital.com/" target="_blank">Chainstay</a>) – money app for nurses (fintech)
