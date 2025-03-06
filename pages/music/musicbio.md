@@ -4,15 +4,12 @@ title: Music Odyssey
 permalink: /musicbio/
 description: My journey through music
 ---
-*"For the love you bring won't mean a thing / Unless you sing, sing, sing, sing, sing, sing, sing, sing"* (—*Sing* by Travis)
+<notabene>⚠ It's likely this will not interest you, Dear Reader — assuming you're not my wife nor my mother — so read on at your own risk as this is effectively some journaling on how music came into my life. ⚠</notabene>
 
-<notabene>⚠ It's very likely this will not interest you, Dear Reader — assuming you're not my wife nor my mother — so read on at your own risk as this is effectively some journaling on how music came into my life. ⚠</notabene>
+<img src="/assets/og/mom.gmabrennan.jpg" alt="phone" width="70%" height="70%">
+<span class="muted small">From one generation to the next: my mother sitting with her Grandma Kate. (Uncle John [?] looking on.)</span>
 
-Music's in my soul by nature and nurture, thanks firstly to my mother who herself was inspired by her Grandma Kate:
-
-<center><img src="/assets/og/mom.gmabrennan.jpg" alt="phone" width="70%" height="70%"></center>
-
-My mom took up piano at a young age, but discovered she both loved it and had exceptional talent early on: playing all the weddings and funerals at her church by the fourth grade, did college on a full ride music scholarship, joined the USO Tour, and the list goes on. Instead of being a professional musician on the Lawrence Welk Show—she declined—she married my dad and taught music to grade school students and also played at our church, St. Cecilia's, patroness of music. So [live piano music was a fixture in our home](/xmas-music.html), and I grew up singin' in church just one pew behind Mom because participating in sung worship wasn't exactly optional. I also started my own piano lessons in kindergarten, but Mom's policy was if you weren't demonstrating your own motivation and love for piano by sixth grade, she wasn't going to force it and would let us opt out. And so I regrettably quit near that first opportunity.[^1]
+Music's in my soul by nature and nurture, thanks firstly to my mother. Mom took up piano at a young age, but discovered she both loved it and had exceptional talent early on: playing all the weddings and funerals at her church by the fourth grade, did college on a full ride music scholarship, joined the USO Tour, and the list goes on. Instead of being a professional musician on the Lawrence Welk Show—she declined—she married my dad and taught music to grade school students and also played at our church, St. Cecilia's, patroness of music. So [live piano music was a fixture in our home](/xmas-music.html), and I grew up singin' in church just one pew behind Mom because participating in sung worship wasn't exactly optional. I also started my own piano lessons in kindergarten, but Mom's policy was if you weren't demonstrating your own motivation and love for piano by sixth grade, she wasn't going to force it and would let us opt out. And so I regrettably quit near that first opportunity.[^1]
 
 [^1]: Embarrassingly enough, my wife had just about the same number of years of piano and is competent enough to sight-read fairly complex music whereas I just know the chords to a few Springsteen and Dawes songs.
 
@@ -26,10 +23,13 @@ Post-college I found a real void in my life that the Heightsmen once occupied—
 
 [^2]: As well as three white fellas could.
 
+<img src="https://i.imgur.com/56nlP2l.gif">
+<span class="muted small">Say Hey's world wide webpage (circa 2004)</span>
+
 Before we ever got signed to a major label, I left for business school in Ann Arbor. Yes, there was a b-school band and open mic nights and such, but the major creative outlet was a revue called *Follies*.
 
 I moved to Chicago and on the one hand was a part of a church choir that really pushed my music literacy with beautiful intricate liturgical pieces, and then on the other hand found myself in a cover band that had me singing screamy rock songs. I guess both have their place.
 
-In California, I filled the music need with various jam sessions: my friend Patricia Ang's Musical Playground, a monthly get-togeher at a member's living room filled with instruments and harmonies and improvisation; Nolan Love's "Harvest Party" in Petaluma; and the annual "Coffeehouse" (open mic night/talent show) at my church. But *most* importantly, I picked up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey.
+In California, I filled the music need with various jam sessions: my friend Patricia Ang's Musical Playground, a monthly get-togeher at a member's living room filled with instruments and harmonies and improvisation; Nolan Love's "Harvest Party" in Petaluma; and the annual "Coffeehouse" (open mic night/talent show) at my church.
 
-<p><a class="muted small" href="/music/">← back to music</a>
+But *most* importantly, I picked up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey.

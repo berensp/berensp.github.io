@@ -47,7 +47,7 @@ Alexander Tytler Cycle predicted this stage for us—well, for everyone: after a
 
 ![Tytler's Cycle](/assets/og/post_tytler.png)
 
-And isn't it true that safetyism is a classic "first world problem"? The craziest things that happened with regard to psychological safety came about during our recent zero interest rate environment (i.e. good times); whereas when the economic winds blow the other way, it's more like "yeah, get back to work".
+And isn't it true that safetyism is a classic "first world problem"? The craziest things that happened with regard to psychological safety came about during our recent zero interest rate environment (i.e. good times); whereas when the economic winds blow the other way, it's more like "okay, yeah, get back to work".
 
 ## How do we right the ship?
 
