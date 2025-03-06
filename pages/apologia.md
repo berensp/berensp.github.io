@@ -5,7 +5,7 @@ permalink: /apologia/
 ---
 *"The difficulty explaining [why I am Catholic](/catholic) is that there are ten thousand reasons all amounting to one reason: that Catholicism is true."* (—G.K. Chesterton, *Twelve Modern Apostles and Their Creeds*, 1926)
 
-## The Best Arguments for God's Existence
+## 🛐 Best Arguments for God's Existence
 - **Aquinas' Argument from Motion.** *(a.k.a. Argument of the Unmoved Mover).* Each change has a cause, but an infinite regress is impossible, and so there must be a first mover.
 - **The Finely-tuned Universe.** The heavens declare the glory of God. "The Penrose Number"[^1], The Cosmological Constant[^2], and the overall intelligibility and knowability of the universe...or as Eugene Wigner puts (right in the title of his article): the "unreasonable effectiveness of mathematics in the physical sciences"[^3]. And not just the universe, but the earth being so anomalous[^4].
 - **Argument from Desire.** "If there is a desire in my heart which corresponds to nothing in this world, perhaps I am made for another world?" [Best musically formulated by U2](https://music.youtube.com/watch?v=TAxs0qIBw0g&si=t6cmLQhnwojXVny3).
@@ -17,7 +17,7 @@ permalink: /apologia/
 [^4]: Enrichment and depletion in the "right elements in the right amounts" (low sulfur; abundant light, high-strength metals; Goldilocks levels of vital poisons [Molybdenum, Iron, Arsenic], etc.). (Luminosity) stability of the sun.- Of the 92 elements in the periodic table all but two of them (manganese and iron) are extremely anomalous in terms of what we see in the crust of the Earth relative to rocky material elsewhere in the universe.
 [^5]: [Jer 31:33](https://bible.usccb.org/bible/jeremiah/31?33)
 
-## The Best Arguments for Christianity
+## ✝️ Best Arguments for Christianity
 - **C.S. Lewis' "Liar, Lunatic, Lord" Paradigm.** People like the idea of saying that Jesus was "good moral teacher who was bringing a message of peace and forgiveness to the world yadda yadda" but Lewis makes the case that He didn't leave open that possibility as His claims and assertions (about being God)—remember that's why he was crucified?—were either true or else blasphemous whether *knowingly* (liar) or *unknowingly* (lunatic).
 - **Events surrounding the Resurrection.** The empty tomb, Paul's accounts (Resurrected Christ appearing to the 500, etc.), early Christians going to their deaths proclaiming the Gospel, etc.
 - **Fulfillment of Old Testament Prophecies.** Jesus fulfilled numerous messianic prophecies, including:
@@ -30,7 +30,7 @@ permalink: /apologia/
 
 [^6]: Now you may be thinking: *but isn't this a common motif in the pagan myths?* You've been watching too many YouTube videos, my friend.
 
-## The Best Arguments for Catholicism
+## 🇻🇦 Best Arguments for Catholicism
 - **The longevity of the Church.** The idea that the Church, run by broken, sinful, misguided humans has outlasted the Roman Empire by one and a half millenia is incredible. It should've been run aground long ago. It's almost as if it's being guided by an invisible hand.
 - **Eucharistic Miracles.** e.g.: Miracle of Lanciano (8th century), The Corporal of Bolsena (13th century), The Eucharistic Miracle of Santarém (13th century), The Hosts of Siena, Italy (18th century), The Miracle of Chirattakonam, India (21st century).
 - **Marian Apparitions.** Guadalupe, Fátima, Lourdes, La Salette, Knock, Champion, and so many others. 
@@ -38,7 +38,7 @@ permalink: /apologia/
 
 [^7]: Although, I'd argue most people don't have the Broadway-level acting ability to fool the masses.
 
-## The Best Arguments *Against* God's Existence
+## 🛐 Best Arguments *Against* God's Existence
 - **Theodicy (a.k.a. "The Problem of Evil").** The existence of profound suffering seems incompatible with an omnipotent, omniscient, omnibenevolent deity. Why would such a being permit genocide, childhood cancer, natural disasters, etc.? One of the most difficult counterarguments—in fact, I believe Aquinas admitted that—as it is emotionally gripping.
 	- ***Sed contra:*** It can be convincingly argued theologically (perhaps best with the Book of Job): are you equipped to understand God's purposes?
 - **Divine Hiddenness.** If God exists and desires a relationship with humans, He would make His existence more evident and accessible to everyone. The uneven distribution of religious experience and belief (seemingly based on cultural and familial context) suggests natural rather than supernatural causes, and seems to contradict the existence of an all-loving, omnipotent deity.
@@ -48,7 +48,7 @@ permalink: /apologia/
 - **Occam's Razor.** Natural explanations for the universe, life, consciousness, and morality don't require positing supernatural entities, making theism an unnecessary hypothesis.
 	- ***Sed contra:*** But they do. Natural explanations alone fall short when it comes to metaphysical questions. As Thomas Aquinas argued, God is not a complex addition to our ontology but rather the simple, necessary foundation of all contingent reality.
 
-## The Best Arguments *Against* Christianity
+## ✝️ Best Arguments *Against* Christianity
 - **Geographic/Cultural Hypothesis of Religious Adherence.** The "born into it" principle (e.g., if you're born in Saudi Arabia, you're statistically unlikely to become Christian). Of course this is less true today than it was years ago (in our globalizing, secularizing world).
 	- ***Sed contra:*** Trotted out frequently, because, well, people find it gripping, but ultimately, this is classic genetic fallacy.
 - **Historical Reliability Concerns.** Critical scholarship raises questions about New Testament reliability (e.g., Gospels written decades after events by non-eyewitnesses, contradictions or inconsistencies among Gospel accounts, limited non-Christian corroboration for extraordinary claims, evidence of theological development and embellishment over time).
@@ -59,7 +59,7 @@ permalink: /apologia/
 	- ***Sed contra:*** I chalk this up to bad biblical interpretation / exegesis (e.g., Mk 9:1 referring to the Transfiguration or Pentecost; not the Second Coming).
 - **Scientific Conflicts.** Biblical accounts of creation, the flood, and other miraculous events conflict with established scientific understanding.
 
-## The Best Arguments *Against* Catholicism
+## 🇻🇦 Best Arguments *Against* Catholicism
 - **Papal Authority Claims.** Let's just admit that there have been terrible popes. And at the very least, early church leadership was more collegial than papal, with Rome gradually asserting primacy over centuries.
 	- ***Sed contra:*** I think many people get the concept of papal infallibility wrong, and don't understand that the pope errs like anyone else and rarely speaks *ex cathedra*. One must separate the man from the office.
 - **Doctrinal Innovations / Biblical Contradictions** Many Catholic doctrines (purgatory, Marian dogmas, papal infallibility) developed centuries after the apostolic period with debatable biblical support. Similarly, practices like priestly celibacy, prohibition of female clergy, and prayer to saints appear to contradict certain biblical passages.
@@ -68,3 +68,5 @@ permalink: /apologia/
 	- ***Sed contra:*** As Frank Turek says, "when someone plays Beethoven poorly you don't blame Beethoven; you blame the player." Ergo, the Church (in the words of Pope Francis) is a "hospital for sinners, not a museum of saints." Also, Christ himself predicted the Church would contain both wheat and weeds (Matthew 13:24-30), and warned that scandals would come (Matthew 18:7). The Church's survival despite human failings actually supports her divine guidance—what other human institution could withstand such corruption? And then on the other side, one has to admit some good: i.e., the Church as western civilization's greatest source of hospitals, universities, scientific advancement, artistic achievement, and humanitarian aid.
 
 [^8]: Fr. Jeremy Zipple, S.J., "[Remembering 'Father Lupe': A radical Jesuit, rebel armies, the CIA and a mysterious disappearance](https://www.americamagazine.org/politics-society/2023/09/20/james-carney-jesuit-revolutionary-honduras-martyr-246126)," *America Magazine*, September 20, 2023.
+
+What's a good argument or doubt or counterargument that I've neglected to include or that could be bolstered?
