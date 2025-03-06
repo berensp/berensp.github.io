@@ -22,19 +22,21 @@ permalink: /apologia/
 - **Events surrounding the Resurrection.** The empty tomb, Paul's accounts (Resurrected Christ appearing to the 500, etc.), early Christians going to their deaths proclaiming the Gospel, etc.
 - **Fulfillment of Old Testament Prophecies.** Jesus fulfilled numerous messianic prophecies, including:
 	- Birth in Bethlehem (Micah 5:2)
-	- Born of a virgin (Isaiah 7:14)
+	- Born of a virgin (Isaiah 7:14)[^6]
 	- Ministry in Galilee (Isaiah 9:1-2)
 	- Entry into Jerusalem on a donkey (Zechariah 9:9)
 	- Betrayal for 30 pieces of silver (Zechariah 11:12-13)
 	- Crucifixion details (Psalm 22)
 
+[^6]: Now you may be thinking: *but isn't this a common motif in the pagan myths?* You've been watching too many YouTube videos, my friend.
+
 ## The Best Arguments for Catholicism
 - **The longevity of the Church.** The idea that the Church, run by broken, sinful, misguided humans has outlasted the Roman Empire by one and a half millenia is incredible. It should've been run aground long ago. It's almost as if it's being guided by an invisible hand.
 - **Eucharistic Miracles.** e.g.: Miracle of Lanciano (8th century), The Corporal of Bolsena (13th century), The Eucharistic Miracle of Santarém (13th century), The Hosts of Siena, Italy (18th century), The Miracle of Chirattakonam, India (21st century).
 - **Marian Apparitions.** Guadalupe, Fátima, Lourdes, La Salette, Knock, Champion, and so many others. 
-- **Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^6]; but in my estimation it's a small percentage and doesn't explain away all accounts...that have, by the way, remarkable consistencies; many of which are quite thematically, doctrinally Catholic.
+- **Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^7]; but in my estimation it's a small percentage and doesn't explain away all accounts...that have, by the way, remarkable consistencies; many of which are quite thematically, doctrinally Catholic.
 
-[^6]: Although I'd argue most people don't have the Broadway-level acting ability to fool the masses.
+[^7]: Although, I'd argue most people don't have the Broadway-level acting ability to fool the masses.
 
 ## The Best Arguments *Against* God's Existence
 - **Theodicy (a.k.a. "The Problem of Evil").** The existence of profound suffering seems incompatible with an omnipotent, omniscient, omnibenevolent deity. Why would such a being permit genocide, childhood cancer, natural disasters, etc.? One of the most difficult counterarguments—in fact, I believe Aquinas admitted that—as it is emotionally gripping.
@@ -46,15 +48,13 @@ permalink: /apologia/
 - **Occam's Razor.** Natural explanations for the universe, life, consciousness, and morality don't require positing supernatural entities, making theism an unnecessary hypothesis.
 	- ***Sed contra:*** But they do. Natural explanations alone fall short when it comes to metaphysical questions. As Thomas Aquinas argued, God is not a complex addition to our ontology but rather the simple, necessary foundation of all contingent reality.
 
-[^7]: Fr. Jeremy Zipple, S.J., "[Remembering 'Father Lupe': A radical Jesuit, rebel armies, the CIA and a mysterious disappearance](https://www.americamagazine.org/politics-society/2023/09/20/james-carney-jesuit-revolutionary-honduras-martyr-246126)," *America Magazine*, September 20, 2023.
-
 ## The Best Arguments *Against* Christianity
 - **Geographic/Cultural Hypothesis of Religious Adherence.** The "born into it" principle (e.g., if you're born in Saudi Arabia, you're statistically unlikely to become Christian). Of course this is less true today than it was years ago (in our globalizing, secularizing world).
 	- ***Sed contra:*** Trotted out frequently, because, well, people find it gripping, but ultimately, this is classic genetic fallacy.
 - **Historical Reliability Concerns.** Critical scholarship raises questions about New Testament reliability (e.g., Gospels written decades after events by non-eyewitnesses, contradictions or inconsistencies among Gospel accounts, limited non-Christian corroboration for extraordinary claims, evidence of theological development and embellishment over time).
 	- ***Sed contra:*** Au contraire, monsieur: the Gospels were written within the lifetime of eyewitnesses, when false claims could've still been challenged. Also, the original disciples died martyrs' deaths rather than recant their testimony. Early non-Christian sources (Josephus, Tacitus, Pliny) confirm key aspects of Christian claims. The alleged contradictions are actually complementary perspectives that enrich rather than undermine the historical account.
 - **Pagan Parallels.** Elements of Jesus' story (virgin birth, resurrection, miracle-working) have parallels in pre-Christian Mediterranean religions, suggesting cultural borrowing.
-	- ***Sed contra:*** This comes out a lot: "What about Sol Invictus or Osiris?" But these are almost always either exaggerated or superficial or based on post-Christian sources. Then there's the fact that the gospels trade in historical accounts; not myth-writing.
+	- ***Sed contra:*** This comes out a lot: "What about Sol Invictus or Osiris?" But these are almost always exaggerated or superficial or based on post-Christian sources. Then there's the fact that the gospels trade in historical accounts; not myth-writing.
 - **Questionable Prophecies.** Jesus' prediction of his imminent return and the Kingdom of God (Mark 9:1, 13:30) hasn't materialized after 2,000 years.
 	- ***Sed contra:*** I chalk this up to bad biblical interpretation / exegesis (e.g., Mk 9:1 referring to the Transfiguration or Pentecost; not the Second Coming).
 - **Scientific Conflicts.** Biblical accounts of creation, the flood, and other miraculous events conflict with established scientific understanding.
@@ -64,5 +64,7 @@ permalink: /apologia/
 	- ***Sed contra:*** I think many people get the concept of papal infallibility wrong, and don't understand that the pope errs like anyone else and rarely speaks *ex cathedra*. One must separate the man from the office.
 - **Doctrinal Innovations / Biblical Contradictions** Many Catholic doctrines (purgatory, Marian dogmas, papal infallibility) developed centuries after the apostolic period with debatable biblical support. Similarly, practices like priestly celibacy, prohibition of female clergy, and prayer to saints appear to contradict certain biblical passages.
 	- ***Sed contra:*** This actually biblical support for all of these; even if each one isn't explicitly mentioned in scripture. And that's precisely why there is a (one) church, guided by the H.S.; and not leaving interpretation to each one (yielding ~30k Protestant churches).
-- **Hypocriticism / Historical Abuses** - The Inquisition, Crusades, corruption scandals, and clergy abuse crises undermine claims of divine guidance and moral authority. I.e., if Christianity is true, it should make its adherents good, and the world should recognize the veracity of the Faith by the good works produced by these people. And yet, to quote Fr. Lupe from my friend Fr. Jeremy's article[^7], "I've had a deep conviction that most middle-class Catholics are phony Christians, just as materialistic and self-seeking, and as liable to go along with others, as any non-Christian, and often more so." So true.
+- **Hypocriticism / Historical Abuses** - The Inquisition, Crusades, corruption scandals, and clergy abuse crises undermine claims of divine guidance and moral authority. I.e., if Christianity is true, it should make its adherents good, and the world should recognize the veracity of the Faith by the good works produced by these people. And yet, to quote Fr. Lupe from my friend Fr. Jeremy's article[^8], "I've had a deep conviction that most middle-class Catholics are phony Christians, just as materialistic and self-seeking, and as liable to go along with others, as any non-Christian, and often more so." So true.
 	- ***Sed contra:*** As Frank Turek says, "when someone plays Beethoven poorly you don't blame Beethoven; you blame the player." Ergo, the Church (in the words of Pope Francis) is a "hospital for sinners, not a museum of saints." Also, Christ himself predicted the Church would contain both wheat and weeds (Matthew 13:24-30), and warned that scandals would come (Matthew 18:7). The Church's survival despite human failings actually supports her divine guidance—what other human institution could withstand such corruption? And then on the other side, one has to admit some good: i.e., the Church as western civilization's greatest source of hospitals, universities, scientific advancement, artistic achievement, and humanitarian aid.
+
+[^8]: Fr. Jeremy Zipple, S.J., "[Remembering 'Father Lupe': A radical Jesuit, rebel armies, the CIA and a mysterious disappearance](https://www.americamagazine.org/politics-society/2023/09/20/james-carney-jesuit-revolutionary-honduras-martyr-246126)," *America Magazine*, September 20, 2023.
