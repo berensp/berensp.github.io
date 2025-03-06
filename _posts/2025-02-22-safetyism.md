@@ -31,11 +31,17 @@ But then came the negative externalities:
 
 On that last point, Peterson's doctrine of personal responsibility entails ditching your comforts and taking on sufferings and burdens as a means to personal growth and meaning. A few men from my church and I just embarked on this faith-based fraternity program together, and I noticed it right away how good it is to have quality guy time—and not just drinking buddies, but something that goes a little deeper.
 
-And, in fact, this program is based on asceticism, which leads me to my spiritual/religious points: our safety culture has made us a little weaker and softer, but it's a vicious cycle because that weakness/softness makes us desire (and demand) that someone else take us of us with comforts and safety. Even comforts like snacking—guilty right here—starts out as an innocuous indulgence, but the "we are what we repeatedly do" aphorism applies equally to virtue *and* vice. Apart from any religious tradition, people intuit that character is built through suffering, which includes:
+And, in fact, this program is based on asceticism, which leads me to my spiritual/religious points: our safety culture has made us a little weaker and softer, but it's a vicious cycle because that weakness/softness makes us desire (and demand) that someone else take us of us with comforts and safety. Even comforts like snacking—guilty right here—starts out as an innocuous indulgence, but the "we are what we repeatedly do" aphorism applies equally to virtue *and* vice. Pope Benedict XVI tells us, "The world offers you comfort, but you were not made for comfort. You were made for greatness."
+
+Apart from any religious tradition, people intuit that character is built through suffering, which includes:
 - Physical suffering (immediate, concrete): e.g., the current ice bath craze, or the popularity of Stoicism *or*
 - Psychological suffering (potential suffering): i.e., ditching your psychological safety in favor of adventure (e.g., the hobbits leaving the comfort of the Shire to go on their adventure, or Twelve apostles leaving their families and livelihoods to follow Jesus).
 
-Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, which the desert monks believed to come from being "too safe" in their cells. But the other sin it relates to is idolatry: worshipping one's own life or safety above all else (e.g., the present longevity movement of which Bryan Johnson is the poster child). Rather, *propter vitam vivendi perdere causas,* roughly translated as "to lose the reasons for living, for the sake of life."
+Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, which the desert monks believed to come from being "too safe" in their cells. Or what Pascal called *divertissement:* the things that distract us from the life's greatest questions and its purposes. 
+
+But the other sin it relates to is idolatry: worshipping one's own life or safety or comforts above all else (e.g., the present longevity movement of which Bryan Johnson is the poster child). Rather, *propter vitam vivendi perdere causas,* roughly translated as "to lose the reasons for living, for the sake of life." As Christ retorts to the devil, "It is written, 'One does not live by bread alone.'"[^2]
+
+[^2]: [Lk 4:4](https://bible.usccb.org/bible/luke/4?4): Christ's first temptation in the desert.
 
 Alexander Tytler Cycle predicted this stage for us—well, for everyone: after abundance comes complacency and apathy, then dependence, and finally bondage.
 
