@@ -7,9 +7,9 @@ description: My journey through music
 <notabene>⚠ Achtung: this is more journaling than incisive essay, so it might bore you to death, Dear Reader, assuming you're not my wife or my mother ⚠</notabene>
 
 <img src="/assets/og/mom.gmabrennan.jpg" alt="phone" width="70%" height="70%">
-<span class="muted small">The love of music passed from one generation to another: my mother sitting with her Grandma Kate.</span>
+<span class="muted small">The love of music passed from generation to generation: Mom sitting with her Grandma Kate.</span>
 
-Music's in my soul by nature and nurture, thanks firstly to my mother. Mom took up piano at a young age, but discovered she both loved it and had exceptional talent early on: playing all the weddings and funerals at her church by the fourth grade, did college on a full ride music scholarship, joined the USO Tour, and the list goes on. Instead of being a professional musician on the Lawrence Welk Show—she turned down her offer—she married my dad and taught music to grade school students and also played at our church, St. Cecilia's, patroness of music. So [live piano music was a fixture in our home](/xmas-music.html), and I grew up singin' in church just one pew behind Mom because participating in sung worship wasn't exactly optional. I also started my own piano lessons in kindergarten, but Mom's policy was if you weren't demonstrating your own motivation and love for piano by sixth grade, she wasn't going to force it and would let us opt out. And so I regrettably quit near that first opportunity.[^1]
+Music's in my soul by nature and nurture, thanks firstly to my mother. Mom took up piano at a young age, but discovered she both loved it and had exceptional talent early on: playing all the weddings and funerals at her church by the fourth grade, did college on a full ride music scholarship, joined the USO Tour, and the list goes on. Instead of being a professional musician on the Lawrence Welk Show—she turned down the job offer—she married my dad and taught music to grade school students and also played at our church, St. Cecilia's, patroness of music. So [live piano music was a fixture in our home](/xmas-music.html), and I grew up singin' in church just one pew behind Mom because participating in sung worship wasn't exactly optional. I also started my own piano lessons in kindergarten, but Mom's policy was if you weren't demonstrating your own motivation and love for piano by sixth grade, she wasn't going to force it and would let us opt out. And so I regrettably quit near that first opportunity.[^1]
 
 [^1]: Embarrassingly enough, my wife had just about the same number of years of piano and is competent enough to sight-read fairly complex music whereas I just know the chords to a few Springsteen and Dawes songs.
 
@@ -27,6 +27,9 @@ Post-college I found a real void in my life that the Heightsmen once occupied—
 Before we ever got signed to a major label, I left for business school in Ann Arbor. Yes, there was a b-school band and open mic nights and such, but the major creative outlet was a revue called *Follies*.
 
 I moved to Chicago and on the one hand was a part of a church choir that really pushed my music literacy with beautiful intricate liturgical pieces, and then on the other hand found myself in a cover band that had me singing screamy rock songs. I guess both have their place.
+
+<img src="https://i.imgur.com/l3aLa3v.gif">
+<span class="muted small">Playing at some neon-lit, smoke-stained, sticky-floored hideaway.</span>
 
 In California, I filled the music need with various jam sessions: my friend Patricia Ang's Musical Playground, a monthly get-together at a member's living room filled with instruments and harmonies and improvisation; Nolan Love's "Harvest Party" in Petaluma; and the annual "Coffeehouse" (open mic night/talent show) at my church.
 
