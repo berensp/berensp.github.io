@@ -35,6 +35,6 @@ In California, I filled the music need with various jam sessions: my friend Patr
 
 But *most* importantly, I picked back up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey.
 
-![a wedding serenade](/assets/og/post_serenade.jpg)
+![a wedding serenade](/assets/og/post_serenade.png)
 
 — ᴘ. ᴍ. ʙ.
