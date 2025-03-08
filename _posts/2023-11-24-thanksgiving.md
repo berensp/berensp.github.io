@@ -6,6 +6,9 @@ author:	Paul Berens
 ---
 *Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.* (—Philippians 4:6)
 
+!["Grace" by Eric Enstrom (1918)](/assets/og/post_thanksgiving.jpg)
+<span class="muted small">"Grace" by Eric Enstrom (1918)</span>
+
 Thanksgiving gatherings at my parents' home were and still are large gatherings (never fewer than a couple dozen) with all the traditional victuals (that could compete with the best Thanksgiving tables across this land), but are perhaps most famous for the postprandial period when people set down their dessert forks, the music is turned off, and we go around the table and offer up a word of thanks. And by word I mean many words, because
 1. this is the Irish side of the family, and so if you provide a platform, out will come the amusing stories and wistful memories and political musings and so on; and
 2. every person two years old and up is invited to participate, and so this sharing of what you are thankful for takes the better part of an hour.
