@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /blog/
+permalink: /posts/
 description: ✍
 ogimage: mjb_pencil_20250222.png
 ---

@@ -25,6 +25,6 @@ Hi, I'm <span class="header-text">Paul Berens</span> (['b&#x026A;r&#x0259;nz](/a
 
 <span class="header-text">Now:</span> What I'm up to [now](/now/)(adays), or more specifically, [today](/today/).
 
-<span class="header-text">{{ total_content }} freebies on this website:</span> [{{ post_count }} mini-essays](/blog/), [{{ book_count }} book ideas](/books/), [{{ prayer_count }} prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
+<span class="header-text">{{ total_content }} freebies on this website:</span> [{{ post_count }} mini-essays](/posts/), [{{ book_count }} book ideas](/books/), [{{ prayer_count }} prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
 
 <span class="header-text">Get in touch:</span> via <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a>, [email](/email/), and [elsewhere](/contact/).

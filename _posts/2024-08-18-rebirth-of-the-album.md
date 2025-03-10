@@ -3,6 +3,7 @@ layout: post
 title: Rebirth of the Album
 date: 2024-08-18
 author:	Paul Berens
+tag: music
 ogimage: post_vinyl_nook.jpg
 ---
 ![Bro's vinyl vibestation](/assets/og/post_vinyl_nook.jpg)
