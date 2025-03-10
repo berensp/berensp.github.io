@@ -2,6 +2,8 @@
 layout: page
 title: Music Odyssey
 permalink: /musicbio/
+author: Paul Berens
+tag: music
 description: My journey through music
 ---
 <notabene>⚠ Achtung: this is more journaling than incisive essay, so it might bore you to death, Dear Reader, assuming you're not my wife or my mother ⚠</notabene>
