@@ -3,7 +3,7 @@ layout: post
 title: Songs of Good Cheer
 date: 2023-12-16
 author:	Paul Berens
-tag: music
+tags: ["music"]
 ogimage: post_mom.at.piano.png
 ---
 <img src="/assets/og/post_mom.at.piano.png" width="50%" height="70%">

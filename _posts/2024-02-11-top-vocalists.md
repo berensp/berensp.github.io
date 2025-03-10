@@ -3,7 +3,7 @@ layout: post
 title: Top Rock Vocalists
 date: 2024-02-12
 author:	Paul Berens
-tag: music
+tags: ["music"]
 ---
 I should be writing on something a bit more sophisticated or of greater social import, but a) it's been forever since I've put finger-to-keyboard with respect to this blog and b) we just saw [*The Greatest Night in Pop*](https://www.youtube.com/watch?v=MD3oU1gowu4), which was a lot of fun, but got me thinking—with all of those rockstars coming together in one place on one night[^1]—about that essential question I ruminate on from time to time (as a former college a cappella nerd), and that is: *who are the greatest rock 'n' roll vocalists of all time?* (Rock because this becomes infinitely harder as you broaden the scope into, say, R&B.)
 
