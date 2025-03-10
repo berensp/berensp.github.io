@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+<h1>Posts tagged with "{{ page.tag }}"</h1>
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% if post.tags contains page.tag %}
+    <li>
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p><a class="muted small" href="/posts/">← back to all posts</a></p>
+
+{%- include footer.html -%}
