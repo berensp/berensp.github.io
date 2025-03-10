@@ -4,6 +4,8 @@ layout: default
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 <h1>Posts tagged with "{{ page.tag }}"</h1>
 
+<img src="/assets/og/mjb_pencil_20250222.png" alt="Pencil, by MJB, 2025-02-22" style="width: 50%;">
+
 <ul class="post-list">
   {% for post in site.posts %}
     {% if post.tags contains page.tag %}
