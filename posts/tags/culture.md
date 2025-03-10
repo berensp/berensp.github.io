@@ -1,5 +1,5 @@
 ---
 layout: tag_page
-tag: ["culture"]
+tag: culture
 permalink: /posts/tag/culture/
 ---
