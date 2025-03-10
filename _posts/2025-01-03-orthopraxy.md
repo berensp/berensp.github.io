@@ -3,7 +3,7 @@ layout: post
 title: Orthopraxy
 date: 2025-01-03
 author:	Paul Berens
-tag: theology, music
+tags: ["theology"]
 description: Gimme that old time religion.
 ---
 ![La Disputa](/assets/og/post_Disputa_del_Sacramento.jpg)

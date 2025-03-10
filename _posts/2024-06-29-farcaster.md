@@ -3,6 +3,7 @@ layout: post
 title: Farcaster
 date: 2024-06-29
 author:	Paul Berens
+tags: ["tech", "social"]
 ogimage: post_ui_farcaster.png
 ---
 <img src="/assets/og/post_ui_farcaster.png" alt="Farcaster UI circa June 2024" style="width: 50%;">
