@@ -3,7 +3,7 @@ layout: post
 title: Heav'n Rescued Land
 date: 2024-07-04
 author:	Paul Berens
-tags: ["democracy", "books"]
+tags: ["american identity", "book references"]
 ---
 ![doughboy WWI/WWII memorial statue](/assets/og/post_doughboy.png)
 <span class="muted small">The Doughboy Statue, M. Earl Cummings, 1930.</span>

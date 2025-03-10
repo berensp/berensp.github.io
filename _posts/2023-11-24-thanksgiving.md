@@ -3,7 +3,7 @@ layout: post
 title: The Giving Thanks Part
 date: 2023-11-23
 author:	Paul Berens
-tags: ["theology"]
+tags: ["theology", "culture", "american identity", "family"]
 ---
 *Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God.* (—Philippians 4:6)
 

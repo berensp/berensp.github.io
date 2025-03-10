@@ -3,7 +3,7 @@ layout: post
 title: Intentional Philanthropy
 date: 2023-11-28
 author:	Paul Berens
-tags: ["ethics", "theology"]
+tags: ["first principles", "theology", "culture"]
 ogimage: post_st-thomas-alms.jpg
 ---
 <img src="/assets/og/post_st-thomas-alms.jpg" alt="Saint Thomas of Villanova Giving Alms" style="width: 50%;">
