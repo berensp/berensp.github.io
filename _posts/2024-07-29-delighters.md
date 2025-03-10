@@ -3,7 +3,7 @@ layout: post
 title: Delighters and Actionable Insights
 date: 2024-07-29
 author:	Paul Berens
-tags: ["tech"]
+tags: ["tech", "product"]
 ogimage: post_brooks_adrenaline_gts_23.png
 ---
 I've been tracking my [runs](/running/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is a little, quiet one: **The Shoe Mileage Tracker**.
