@@ -3,6 +3,7 @@ layout: post
 title:	Cut Flowers Theory
 date:	2022-05-06
 author:	Paul Berens
+tags: ["first principles"]
 description: You can keep them alive...for a time.
 ogimage: post_tulips.png
 ---
@@ -12,9 +13,9 @@ In data analytics, teasing out[^1] the effects of explanatory variables on a res
 
 But sometimes there's a delayed reaction (response lag) and for some period of time you don't see the effect you'd expect to see.
 
-Enter **Cut Flowers Theory&trade;**[^2], a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. 
+Enter **Cut Flowers Theory&trade;**, a useful little mental model / framework I've been thinking about recently that seemingly pops up everywhere and conveniently works in different contexts. The "cut flower" concept originally comes from [Will Herberg's Cut Flower Culture](https://en.wikipedia.org/wiki/Will_Herberg#%22Cut_flower_culture%22)[^2], but here we're expanding it beyond its original use cases.
 
-[^2]: I didn't come up with the "cut flower" concept ex nihilo; I'm just expanding on [Will Herberg's Cut Flower Culture](https://en.wikipedia.org/wiki/Will_Herberg#%22Cut_flower_culture%22)...if it is really his (can you trust a dude who falsified his academic record?). 
+[^2]: If it's really his—can you trust a dude who falsified his academic record?
 
 In a nutshell: freshly cut flowers at first look just as beautiful and smell just as fragrant as when they were planted in soil, but in fact they're beginning to wither and die the moment their stems are severed from the roots. So, too, with certain phenomena that are dependent upon and sustained by other external and often invisible forces or beings: in the short-term you don't notice any degradation, but in the long-term you do.
 

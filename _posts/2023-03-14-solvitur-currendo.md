@@ -3,6 +3,7 @@ layout: post
 title: Solvitur Correndo
 date: 2023-03-14
 author:	Paul Berens
+tags: ["neurobiology", "first principles", "personal development"]
 description: It is solved by running.
 ogimage: post_historic.trail.slow.gif
 ---

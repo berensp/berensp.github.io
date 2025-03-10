@@ -4,6 +4,7 @@ title: Safetyism
 permalink: /safetyism/
 date: 2025-02-22
 author: Paul Berens
+tags: ["first principles", "culture", "american identity"]
 description: 조심!
 ogimage: post_erbeck.bike.jump.jpg
 ---
@@ -43,7 +44,7 @@ But the other sin it relates to is idolatry: worshipping one's own life or safet
 
 [^2]: [Lk 4:4](https://bible.usccb.org/bible/luke/4?4): Christ's first temptation in the desert.
 
-Alexander Tytler Cycle predicted this stage for us—well, for everyone: after abundance comes complacency and apathy, then dependence, and finally bondage.
+Alexander Tytler predicted this stage for us—well, for everyone: after abundance comes complacency and apathy, then dependence, and finally bondage.
 
 ![Tytler's Cycle](/assets/og/post_tytler.png)
 
