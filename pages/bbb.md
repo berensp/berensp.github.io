@@ -4,9 +4,9 @@ title: Berens Birney Bdays
 permalink: /bbb/
 description: One social medium per bday wish
 ---
-Our semi-annual[^1] birthday exchanges where the only rule is that you can't have posted on that platform previously.
+The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours truly where the only rule is that you can't have posted on that platform previously.
 
-[^1]: Lucky that our birthdays are almost *exactly* a half year apart.
+[^1]: How lucky that our birthdays are almost exactly a half year apart.
 
 ## History:
 
@@ -39,14 +39,13 @@ Our semi-annual[^1] birthday exchanges where the only rule is that you can't hav
 [^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
 ## Eligible:
-- <a href="https://bsky.app/profile/berens.co" target="_blank">Bluesky</a>
-- <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a>
-- <a href="https://www.kakaocorp.com/page/service/service/KakaoTalk?lang=ENG&tab=all" target="_blank">KakaoTalk</a>
-- <a href="https://keybase.io/berens" target="_blank">Keybase</a>[^6]
-- <a href="https://reddit.com/user/berensp" target="_blank">Reddit</a>
-
-[^6]: May not be a good idea anymore as it's been languishing since the Zoom acquisition.
+- **Bluesky** (<a href="https://bsky.app/profile/berensp.bsky.social" target="_blank">@berensp</a>)
+- **Clubhouse** (<a href="https://clubhouse.com/@berensp" target="_blank">@berensp</a>)
+- **Converse** (<a href="https://converse.xyz/dm/berensp.converse.xyz" target="_blank">@berensp</a>)
+- **friend.tech** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>)
+- **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>)
+- **Matrix** (<a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">@berensp</a>)
+- **Reddit** (<a href="https://www.reddit.com/user/berensp/" target="_blank">@berensp</a>)
+- **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>)
 
 <mark><span class="muted small">defunct</span></mark>
-
-
