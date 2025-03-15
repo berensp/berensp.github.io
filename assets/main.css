@@ -7,6 +7,7 @@ body {
   padding: 2rem;
   margin: auto;
   background: #fafafa; 
+  top: 0px !important; /* Prevents Google Translate shifting */
 }
 
 header {
@@ -161,10 +162,6 @@ input:not([type="checkbox"]):focus, textarea:focus {
     display: none !important;
 } 
 
-body {
-    top: 0px !important; 
-}
-
 #map { 
     height: 180px; 
 }
@@ -232,4 +229,32 @@ sup a {
 /* Additional styles for Markdown-generated footnotes */
 .footnotes ol {
   padding-left: 0;  /* Remove extra padding since it's handled by .footnotes */
+}
+
+/* Added styles from head.html */
+mark { 
+  background-color: rgb(253, 236, 166);
+  color: black;
+}
+
+mark_paleturquoise { 
+  background-color: rgb(175, 238, 238);
+  color: black;
+}
+
+mark_lilac {
+  background-color: rgb(243, 228, 255);
+  color: black;
+}
+
+mark_lightgray {
+  background-color: rgb(211, 211, 211);
+  color: black;
+}
+
+notabene {
+  background-color: rgb(211, 211, 211);
+  color: rgb(79,79,79);
+  font-style: italic;
+  display: inline-block;
 }
