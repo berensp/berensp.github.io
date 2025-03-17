@@ -43,13 +43,13 @@ The stability of the Earth,
 The firmness of Rocks.  
 
 V.  
-I bind  to myself today  
+I bind to myself today  
 God's Power to pilot me,  
 God's Might to uphold me,  
 God's Wisdom to guide me,  
 God's Eye to look before me,  
 God's Ear to hear me,  
-God's  Word to speak for me,  
+God's Word to speak for me,  
 God's Hand to guard me,  
 God's Way to lie before me,  
 God's Shield to shelter me,  
@@ -81,7 +81,7 @@ That I may receive abundant reward.
 VIII.  
 Christ with me, Christ before me, Christ behind me,  
 Christ in me, Christ beneath me, Christ above me,  
- Christ at my right, Christ at my left,  
+Christ at my right, Christ at my left,  
 Christ when lying down, Christ in sitting,  
 Christ in rising up.  
 
