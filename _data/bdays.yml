@@ -167,7 +167,7 @@
 - date: "03-30"
   bday: "Maria Andrews"
 - date: "03-31"
-  bday: 'Matt Birney'
+  bday: '<a href="/bbb/">Matt Birney</a>'
 - date: "04-02"
   bday: 'Henry Berens, Aunt Helen <i>(Requiescat in pace)</i>'
 - date: "04-04"
@@ -428,7 +428,7 @@
 - date: "11-08"
   bday: "Vanessa Orellana, Steph Lacambra, Chris Kiely, Luke Demuth"
 - date: "11-09"
-  bday: '<a href="https://en.wikipedia.org/wiki/Gyeongjong_of_Goryeo" target="_blank">Gyeongjong</a> (955)'
+  bday: 'Gyeongjong (955)'
 - date: "11-10"
   bday: "Sarah McGoohan"
 - date: "11-11"
