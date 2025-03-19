@@ -32,7 +32,7 @@ If you can promise you're not an evil AI bot posing as a human, feel free to dro
     <textarea 
       id="message" 
       name="message" 
-      placeholder="Your query or remark or knee-slapper here" 
+      placeholder="Your investor pitch or conspiracy theory here" 
       required 
       rows="5" 
       style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px; resize: vertical;"

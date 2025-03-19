@@ -21,9 +21,9 @@ layout: home
 
 Hi, I'm <span class="header-text">Paul Berens</span> (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3))<b>:</b> [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [diaper-changer](/diapering/).
 
-<span class="header-text">Strong beliefs, loosely held:</span> [first principles](/first-principles/), [values](/values/), [pet peeves](/pet-peeves/), [resolutions](/resolutions/).
-
 <span class="header-text">Now:</span> What I'm up to [now](/now/)(adays), or more specifically, [today](/today/).
+
+<span class="header-text">Strong beliefs, loosely held:</span> [first principles](/first-principles/), [values](/values/), [pet peeves](/pet-peeves/), [resolutions](/resolutions/).
 
 <span class="header-text">{{ total_content }} freebies on this website:</span> [{{ post_count }} mini-essays](/posts/), [{{ book_count }} book ideas](/books/), [{{ prayer_count }} prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
 
