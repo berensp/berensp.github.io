@@ -14,7 +14,7 @@ Well, all these hard-working American farmers—many recent European emigrants�
 It's very well-researched and laid out, but the reason this is a favorite of mine is that my <a href="https://www.wikitree.com/wiki/Miessner-9" target="_blank">paternal grandmother</a>'s family went through these harsh realities at this exact time in this very same county in Montana. In fact, she was born there, but when she was still a toddler her family was forced to abandon their homestead and catch an eastbound train to Wisconsin before they starved. The Lutheran Church helped finance their escape and getting them back on their feet, creating such a sense of indebtedness that when Grandma converted to Roman Catholic years later, her parents were a little resentful—how could she turn her back on the institution that literally saved their family?
 
 ![Miessner family in Montana](/assets/og/bkreview_Montana25.jpg)
-<span class="muted small">The Miessner family in Montana (circa 1925) (Grandma in white).</span>
+<span class="muted small">Miessner family (Grandma in white). Rothiemay, MT (1925).</span>
 
 Anyway, back to the book: it's a fascinating read and great antidote for wallowing in self-pity.
 
