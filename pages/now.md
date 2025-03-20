@@ -17,7 +17,7 @@ description: What I'm up to these days.
 
 - **[Living in San Francisco](/sf/)** for some <span id="TimeinSF"></span> now with my beautiful family
 - **[Growing](/bio/)** a SaaS biz / digital products portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys)
-- **[Writing](/posts/)** across a smörgåsbord of topics — most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
+- **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - **[Reading](/books/)** *{{ currently_reading.title }}* by {{ currently_reading.author }}
 - **[Learning](/learning/)** Exodus 90 disciplines; a little bit of front-end (via Claude); kanban
 - **[Riding](/cycling/)** and **[running](/running/)**—mostly the latter—when/where I can
