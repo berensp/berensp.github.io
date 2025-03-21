@@ -21,17 +21,17 @@ description: the ultimate to-do list
 ## The Arts
 - Commit a poem to memory (e.g., *The Hound of Heaven*)
 - Put on a Chautauqua
-- Be able to play *Jungleland* on piano
+- Play *Jungleland* on piano
 - ~~Act in a play/musical~~
 - ~~Sing national anthem at pro ball game~~
 
 ## Sports
 - Complete a triathalon
 - Hanggliding
-- ~~Cat skiing~~
 - Heli-skiing
-- ~~Run a marathon~~
 - Qualify for the Boston Marathon
+- ~~Cat skiing~~
+- ~~Run a marathon~~
 - ~~Skydive~~
 
 ## General
