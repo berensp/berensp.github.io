@@ -4,8 +4,32 @@ title: Bucket List
 permalink: /bucket-list/
 description: the ultimate to-do list
 ---
-## Travel
+## Athletica
+- Complete a triathalon
+- Hanggliding
+- Heli-skiing
+- Qualify for the Boston Marathon
+- ~~Cat skiing~~
+- ~~Run a marathon~~
+- ~~Skydive~~
+
+## Artes
+- Commit a poem to memory (e.g., *The Hound of Heaven*)
+- Put on a Chautauqua
+- Play *Jungleland* on piano
+- ~~Act in a play/musical~~
+- ~~Sing national anthem at pro ball game~~
+
+## Cultura
+- Become proficient in a dance (e.g., Salsa)
+- Learn Bridge
+- Read the entire Bible
+
+## Fides
+- The Five First Saturdays Devotion
 - Do a pilgrimage (e.g., Camino de Santiago de Compostela)
+
+## Itinerantur
 - Hike a long-distance trail (e.g. Appalachia, Pacific Crest)
 - Take a train(s) across the US
 - Get to all 50 states—[three to go](/states/)
@@ -13,26 +37,5 @@ description: the ultimate to-do list
 - Summit a west coast mountain (Whitney, Rainier, Denali)
 - Visit the missions of California
 
-## Culture
-- Become proficient in a dance (e.g., Salsa)
-- Learn Bridge
-- Read the entire Bible
-
-## The Arts
-- Commit a poem to memory (e.g., *The Hound of Heaven*)
-- Put on a Chautauqua
-- Be able to play *Jungleland* on piano
-- ~~Act in a play/musical~~
-- ~~Sing national anthem at pro ball game~~
-
-## Sports
-- Complete a triathalon
-- Hanggliding
-- ~~Cat skiing~~
-- Heli-skiing
-- ~~Run a marathon~~
-- Qualify for the Boston Marathon
-- ~~Skydive~~
-
-## General
+## Miscellanea
 - ~~Win a car in a raffle~~
