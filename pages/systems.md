@@ -5,7 +5,7 @@ permalink: /systems/
 ---
 A running list of useful frameworks and mental models, and first principles:
 
-## Decision-making / metrics:**
+## Decision-making / Metrics
  - [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
  - [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
  - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
