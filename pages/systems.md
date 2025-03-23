@@ -39,7 +39,7 @@ A running list of useful frameworks, mental models, and first principles:
 
 ## Technology
 - I'm a tech enthusiast, but not a tech solutionist (i.e. it ain't gonna save us): Jevons Paradox, Ellul Principle, Collingridge Dilemma, [Heidegger's Critique of Tech](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology), Neil Postman's Technopoly.
-- It's ambitious, but we need a decentralized internet (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/books/read-write-own/))
+- It's ambitious, but we should work toward a decentralized web (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/books/read-write-own/))
 
 ## Miscellanea
 - **Astrobiology:** [*Silentium universi*](https://en.wikipedia.org/wiki/Fermi_paradox)
