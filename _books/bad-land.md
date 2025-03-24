@@ -18,6 +18,6 @@ It's very well-researched and laid out, but the reason this is a favorite of min
 ![Miessner family in Montana](/assets/og/bkreview_Montana25.jpg)
 <span class="muted small">Miessner family (Grandma in white). Rothiemay, MT (1925).</span>
 
-Anyway, back to the book: it's a fascinating read and great antidote for wallowing in self-pity.
+Anyway, the book is both a fascinating read and great antidote for wallowing in self-pity.
 
 — ᴘ. ᴍ. ʙ.
