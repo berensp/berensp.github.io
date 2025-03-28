@@ -38,11 +38,13 @@ Apart from any religious tradition, people intuit that character is built throug
 - Physical suffering (immediate, concrete): e.g., the current ice bath craze, or the popularity of Stoicism *or*
 - Psychological suffering (potential suffering): i.e., ditching your psychological safety in favor of adventure (e.g., the hobbits leaving the comfort of the Shire to go on their adventure, or Twelve apostles leaving their families and livelihoods to follow Jesus).
 
-Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, which the desert monks believed to come from being "too safe" in their cells. Or what Pascal called *divertissement:* the things that distract us from the life's greatest questions and its purposes. 
+Did Christ Himself play it safe? Clearly not, hence the Cross. But "to love is to suffer and there can be no love otherwise," says Fyodor Dostoevsky. And what's the opposite of love? Hate, right? No, apathy. Or perhaps *acedia*, which the desert monks believed to come from being "too safe" in their cells. Or what Pascal called *divertissement:* the things that distract us from the life's greatest questions and its purposes. It reminds me of [*The Screwtape Letters*](/books/screwtape/) where Screwtape advises Wormwood about the strategy of keeping the "patient" preoccupied with everyday concerns rather than directly opposing or arguing him out of the faith[^2].
 
-But the other sin it relates to is idolatry: worshipping one's own life or safety or comforts above all else (e.g., the present longevity movement of which Bryan Johnson is the poster child). Rather, *propter vitam vivendi perdere causas,* roughly translated as "to lose the reasons for living, for the sake of life." As Christ retorts to the devil, "It is written, 'One does not live by bread alone.'"[^2]
+[^2]: "It is funny how mortals always picture us as putting things into their minds: in reality our best work is done by keeping things out." ―C.S. Lewis, *The Screwtape Letters*.
 
-[^2]: [Lk 4:4](https://bible.usccb.org/bible/luke/4?4): Christ's first temptation in the desert.
+But the other sin it relates to is idolatry: worshipping one's own life or safety or comforts above all else (e.g., the present longevity movement of which Bryan Johnson is the poster child). Rather, *propter vitam vivendi perdere causas,* roughly translated as "to lose the reasons for living, for the sake of life." As Christ retorts to the devil, "It is written, 'One does not live by bread alone.'"[^3]
+
+[^3]: [Lk 4:4](https://bible.usccb.org/bible/luke/4?4): Christ's first temptation in the desert.
 
 Alexander Tytler predicted this stage for us—well, for everyone: after abundance comes complacency and apathy, then dependence, and finally bondage.
 
