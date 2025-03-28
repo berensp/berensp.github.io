@@ -97,6 +97,8 @@ friday:
     time: "13:00"
   - task: 'Dine, clean, diversion with the offspring'
     time: "18:00"
+  - task: 'Review the week and <a href="/resolutions/">resolutions</a>'
+    time: "20:30"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
   - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Sorrowful Mysteries</a>'
