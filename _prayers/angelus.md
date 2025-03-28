@@ -8,7 +8,7 @@ category: Marian
 [Hail Mary](/prayers/ave-maria/)
 
 ℣. Behold the handmaid of the Lord,  
-℟. Be it done unto me according to your Word.  
+℟. Be it done unto me according to thy Word.  
 [Hail Mary](/prayers/ave-maria/)
 
 ℣. And the Word was made flesh,  
@@ -18,9 +18,19 @@ category: Marian
 ℣. Pray for us, O holy Mother of God,  
 ℟. That we may be made worthy of the promises of Christ.
 
-Let us pray. Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that we, to whom the incarnation of Christ, Thy Son, was made known by the message of an angel, may by His Passion and Cross be brought to the glory of His Resurrection, through the same Christ our Lord.
+Let us pray. 
 
+Pour forth, we beseech you, O Lord,  
+Thy grace into our hearts;  
+that we, to whom the incarnation of Christ, Thy Son,  
+was made known by the message of an angel,  
+may by His Passion and Cross  
+be brought to the glory of His Resurrection,  
+through the same Christ Our Lord.  
 Amen.
+
+℟. May the divine assistance remain always with us.  
+℣. And may the souls of the faithful departed, by the mercy of God, rest in peace.
 
 * * *
 
@@ -41,6 +51,14 @@ Amen.
 
 Orémus.
 
-Grátiam tuam, quaésumus, Dómine, méntibus nostris infúnde; ut qui, ángelo nuntiánte, Christi Fílii tui incarnatiónem cognóvimus, per passiónem eius et crucem, ad resurrectiónis glóriam perducámur. Per eúndem Christum Dóminum nostrum.
-
+Grátiam tuam, quaésumus, Dómine,  
+méntibus nostris infúnde;  
+ut qui, ángelo nuntiánte,  
+Christi Fílii tui incarnatiónem cognóvimus,  
+per passiónem eius et crucem,  
+ad resurrectiónis glóriam perducámur.  
+Per eúndem Christum Dóminum nostrum.  
 Amen.
+
+℣. Divínum auxílium máneat semper nobíscum.  
+℟. Et fidélium ánimæ, per misericórdiam Dei, requiéscant in pace. Amen.
