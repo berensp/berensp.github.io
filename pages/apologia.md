@@ -69,4 +69,4 @@ permalink: /apologia/
 
 [^8]: Fr. Jeremy Zipple, S.J., "[Remembering 'Father Lupe': A radical Jesuit, rebel armies, the CIA and a mysterious disappearance](https://www.americamagazine.org/politics-society/2023/09/20/james-carney-jesuit-revolutionary-honduras-martyr-246126)," *America Magazine*, September 20, 2023.
 
-What's a good argument or doubt or counterargument that I've neglected to include or that could be bolstered?
+In spite of all these useful and compelling arguments, *si enim comprehendis, non est Deus,* as St. Augustine puts it, which is a proper and humble qualification when you're dealing with the mystery and transcendence of God.
