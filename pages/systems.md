@@ -3,7 +3,7 @@ layout: page
 title: Systems
 permalink: /systems/
 ---
-A running list of useful frameworks, mental models, and first principles:
+A running list of useful frameworks, mental models, heuristics, and first principles:
 
 ## Decision-making / Metrics
 - [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
