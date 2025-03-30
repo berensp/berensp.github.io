@@ -4,7 +4,7 @@ title: Safetyism
 permalink: /safetyism/
 date: 2025-02-22
 author: Paul Berens
-tags: ["first principles", "culture", "american identity"]
+tags: ["first principles", "culture", "american identity", "theology"]
 description: 조심!
 ogimage: post_erbeck.bike.jump.jpg
 ---
@@ -32,7 +32,7 @@ But then came the negative externalities:
 
 On that last point, Peterson's doctrine of personal responsibility entails ditching your comforts and taking on sufferings and burdens as a means to personal growth and meaning. A few men from my church and I just embarked on this faith-based fraternity program together, and I noticed it right away how good it is to have quality guy time—and not just drinking buddies, but something that goes a little deeper.
 
-And, in fact, this program is based on asceticism, which leads me to my spiritual/religious points: our safety culture has made us a little weaker and softer, but it's a vicious cycle because that weakness/softness makes us desire (and demand) that someone else take us of us with comforts and safety. Even comforts like snacking—guilty right here—starts out as an innocuous indulgence, but the "we are what we repeatedly do" aphorism applies equally to virtue *and* vice. Pope Benedict XVI tells us, "The world offers you comfort, but you were not made for comfort. You were made for greatness."
+And, in fact, this program is based on asceticism, which leads me to my spiritual/religious points: our safety culture has made us a little weaker and softer, but it's a vicious cycle because that weakness and softness makes us desire (and demand) that someone else take care of us with comforts and safety. Even comforts like snacking—guilty right here—starts out as an innocuous indulgence, but the "we are what we repeatedly do" aphorism applies equally to virtue *and* vice. Pope Benedict XVI told us, "The world offers you comfort, but you were not made for comfort. You were made for greatness."
 
 Apart from any religious tradition, people intuit that character is built through suffering, which includes:
 - Physical suffering (immediate, concrete): e.g., the current ice bath craze, or the popularity of Stoicism *or*
