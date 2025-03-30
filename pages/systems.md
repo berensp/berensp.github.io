@@ -28,7 +28,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 - [Conway's Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi)
 
 ## Psychology/Behavior 
-- Cognitive biases (Availability Heuristic, etc.) (See [Safetyism post](/safetyism/))
+- Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism/))
 - Status/Signaling (Veblen goods, stated vs. revealed preferences)
 - Personal Utility Function and Financial Calculation Gap (gap between monetary returns and full economic utility) (e.g., housing rent vs. buy calculation)
 
