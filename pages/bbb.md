@@ -26,6 +26,7 @@ The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours trul
 | 2023-9-29 | <a href="https://mas.to/@mbirney@fosstodon.org/111150123297043833" target="_blank">Mastodon</a> | MB→PB |
 | 2024-3-31 | <a href="https://warpcast.com/pmb/0x28ae5363" target="_blank">Farcaster</a>[^3] | PB→MB |
 | 2024-9-30 | <a href="https://steamcommunity.com/chat/" target="_blank">Steam</a> | MB→PB |
+| 2025-3-31 | <a href="https://bsky.app/profile/berensp.bsky.social/post/3lloou3tb2s2u" target="_blank">Bluesky</a> | PB→MB |
 
 [^2]: A stretch to qualify as a messenger, but I definitely 'preciate you sharing yo' trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
@@ -39,7 +40,6 @@ The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours trul
 [^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
 ## Eligible:
-- **Bluesky** (<a href="https://bsky.app/profile/berensp.bsky.social" target="_blank">@berensp</a>)
 - **Clubhouse** (<a href="https://clubhouse.com/@berensp" target="_blank">@berensp</a>)
 - **Converse** (<a href="https://converse.xyz/dm/berensp.converse.xyz" target="_blank">@berensp</a>)
 - **friend.tech** (<a href="https://friend.tech/berensp" target="_blank">@berensp</a>)
