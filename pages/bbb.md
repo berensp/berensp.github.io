@@ -31,14 +31,6 @@ The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours trul
 [^2]: A stretch to qualify as a messenger, but I definitely 'preciate you sharing yo' trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
 
-## Ineligible:
-- **<a href="https://killedbygoogle.com/" target="_blank">The Illustrious Google Graveyard</a>:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
-- **Meta Products:** FB Messenger, Instagram[^4]
-- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a></mark>[^5]
-
-[^4]: Can't recall which of these we've exploited—with the exception of regular Facebook (because I had email notifications enabled for wall posts back then 😄)—but I [deep-sixed all Meta accounts in September 2021](/fb). (I guess I'm exempting WhatsApp because it is encrypted and hard to avoid as an Android user.)
-[^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
-
 ## Eligible:
 - **Clubhouse** (<a href="https://clubhouse.com/@berensp" target="_blank">@berensp</a>)
 - **Converse** (<a href="https://converse.xyz/dm/berensp.converse.xyz" target="_blank">@berensp</a>)
@@ -47,5 +39,13 @@ The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours trul
 - **Matrix** (<a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">@berensp</a>)
 - **Reddit** (<a href="https://www.reddit.com/user/berensp/" target="_blank">@berensp</a>)
 - **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>)
+
+## Ineligible:
+- **<a href="https://killedbygoogle.com/" target="_blank">The Illustrious Google Graveyard</a>:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
+- **Meta Products:** FB Messenger, Instagram[^4]
+- **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a></mark>[^5]
+
+[^4]: Can't recall which of these we've exploited—with the exception of regular Facebook (because I had email notifications enabled for wall posts back then 😄)—but I [deep-sixed all Meta accounts in September 2021](/fb). (I guess I'm exempting WhatsApp because it is encrypted and hard to avoid as an Android user.)
+[^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
 <mark><span class="muted small">defunct</span></mark>
