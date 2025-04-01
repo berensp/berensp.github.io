@@ -5,6 +5,11 @@ permalink: /apologia/
 ---
 *"The difficulty explaining [why I am Catholic](/catholic) is that there are ten thousand reasons all amounting to one reason: that Catholicism is true."* (—G.K. Chesterton, *Twelve Modern Apostles and Their Creeds*, 1926)
 
+Mostly for my own reference and because I find theology and apologetics endlessly fascinating, I thought I'd better keep a running tally of some of the most common and/or most interesting arguments and counterarguments for:
+- God's Existence
+- Christianity (i.e. the Triune God and the Divinity of Jesus Christ)
+- Catholicism as the best expression of Christianity
+
 ## 🛐 Best Arguments for God's Existence
 - **Aquinas' Argument from Motion.** *(a.k.a. Argument of the Unmoved Mover).* Each change has a cause, but an infinite regress is impossible, and so there must be a first mover.
 - **The Finely-tuned Universe.** The heavens declare the glory of God. "The Penrose Number"[^1], The Cosmological Constant[^2], and the overall intelligibility and knowability of the universe...or as Eugene Wigner puts (right in the title of his article): the "unreasonable effectiveness of mathematics in the physical sciences"[^3]. And not just the universe, but the earth being so anomalous[^4].
