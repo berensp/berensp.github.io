@@ -9,7 +9,7 @@ Mostly for my own reference and because I find theology and apologetics endlessl
 
 God's Existence  
 └── Christianity  
-	└── Catholicism
+    └── Catholicism
 
 ## 🛐 Best Arguments for God's Existence
 - **Aquinas' Argument from Motion.** *(a.k.a. Argument of the Unmoved Mover).* Each change has a cause, but an infinite regress is impossible, and so there must be a first mover.
