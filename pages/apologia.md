@@ -7,8 +7,8 @@ permalink: /apologia/
 
 Mostly for my own reference and because I find theology and apologetics endlessly fascinating, I thought I'd better keep a running tally of some of the most common and/or most interesting arguments and counterarguments for:
 
-God's Existence
-└── Christianity (i.e., the Triune God; Divinity of Jesus Christ)
+God's Existence  
+└── Christianity (i.e., the Triune God; Divinity of Jesus Christ)  
     └── Catholicism (i.e., fullest, most apostolic expression of ☧)
 
 ## 🛐 Best Arguments for God's Existence
