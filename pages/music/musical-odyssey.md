@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Music Odyssey
-permalink: /music/
+title: Musical Odyssey
+permalink: /musical-odyssey/
 author: Paul Berens
 tag: music
 description: My journey to and with and through la música
