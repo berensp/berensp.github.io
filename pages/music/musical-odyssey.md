@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Musical Odyssey
-permalink: /musical-odyssey/
+title: Playing By Ear
+permalink: /music/
 author: Paul Berens
 tag: music
 description: My journey to and with and through la música
@@ -25,6 +25,17 @@ I wasn't a remarkable singer but I was in fact singing at a time when most of my
 
 Come college I had had enough time singing and playing and performing in front of people that I could muster the courage to audition for the Heightsmen of Boston College, BC's all-male a cappella group, which would end up being a defining part of college. A cappella improved my singing in the same way the Beatles improved: through sheer volume of rehearsals and performances and recording sessions. But it also enabled and exacerbated my music illiteracy by its model: instead of reading sheet music, our "music director" peer who had arranged a given song (in four parts) would teach each section (e.g., baritones) their part by ear, echoing the piano after it plucked out the sequence note by note. Why? Because three-quarters of us were iffy on music theory, and we were probably too lazy to figure out how to produce sheet music.
 
+Not just singing in college, but lots of guitar: formally with the Liturgical Arts Group (Masses), and countless dorm room jams. I went from chord charts to tablature. (For the uninitiated, "tabs" is a poor man's musical notation that maps fingering [fret x string] rather than the actual notes on a traditional scale.) For the music theory challenged such as I, tabs were a big unlock—suddenly those 50 songs in my chord-based Old Town School of Music songbook gave way to thousands available on the On-Line Guitar Archive (OLGA). I even contributed—e.g., this Ben Harper song during freshman year of college, which is still discoverable on the interwebs.
+
+<pre>
+ E---------------------------------------------------------*-*-----|
+ B--0h1---1------0--0----0h1p0-----------0h1---1-----3-----*-*-----|
+ G--0-----2------0--0---2-----2----------0-----2----0------*-*-----|
+ D--2-----3------------2-------2---------2-----3---0-------*-*-----|
+ A---------------------------------------------------------*-*-----|
+ E------------3-----------------------------------3--------*-*-----|
+</pre>
+
 Post-college I found a real void in my life that the Heightsmen once occupied—some musical but also social/fraternal. It wasn't until my dear friend and silky-smooth-singing' fellow Heightsman Michael McAndrew moved back up to Boston for law school that he and I joined forces with jazz wunderkind and prolific composer Paul Findlen to start a band with a "soul-rock" feel.
 
 <img src="https://i.imgur.com/56nlP2l.gif">
@@ -37,7 +48,12 @@ I moved to Chicago and on the one hand was a part of a church choir that really 
 <img src="https://i.imgur.com/l3aLa3v.gif">
 <span class="muted small">Playing at some neon-lit, smoke-stained, sticky-floored hideaway.</span>
 
-In California, I filled the music need with various jam sessions: Patricia Ang's "Musical Playgrounds", Nolan Love's "Harvest Parties", St. Dom's "Coffeehouses", Priory East "hootenannies"[^3], etc.
+In California, I filled the music need with various jam sessions:
+- Patricia Ang's "Musical Playgrounds"
+- Nolan Love's "Harvest Parties"
+- St. Dom's "Coffeehouses"
+- Priory East "hootenannies"[^3]
+- etc.
 
 [^3]: Except that no one called them "hootenannies"; just a little wistful fabrication.
 
