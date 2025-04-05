@@ -6,11 +6,24 @@ permalink: /systems/
 A running list of useful frameworks, mental models, heuristics, and first principles:
 
 ## Decision-making / Metrics
-- [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
-- [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
 - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
-- [Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712)
 - [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)
+- [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
+- [Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712)
+- [Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem)
+- [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
+
+## Economics
+- Disposition Effect – Investors' tendency to sell winning investments too early while holding losing investments too long
+- Sunk Cost Fallacy – Continuing an endeavor due to past investment despite irrationality
+- Opportunity Cost – The loss of potential gain from alternatives when one option is chosen
+- Comparative Advantage (Ricardo) – Economic benefit from specialization even when one party has absolute advantage
+- Time Preference Theory – How present consumption is valued versus future consumption
+- Tragedy of the Commons – How individual rational behavior leads to depleting shared resources
+- Moral Hazard – When parties take risks because they don't bear the full costs
+- Principal-Agent Problem – Conflicts of interest when someone acts on another's behalf
+- Cantillon Effect – How money creation benefits those closest to the source
+- Gresham's Law – "Bad money drives out good" in currency circulation
 
 ## Epistemology
 - I'm a [Constructivist](/learning/), but also believe it's hard to get smarter without [reading](/books/) 
