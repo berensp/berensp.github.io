@@ -29,8 +29,14 @@ permalink: /today/
   border: 1px solid #ddd;
   text-align: left;
 }
+.schedule-table td:first-child {
+  text-align: center;
+}
 .schedule-table th {
   background-color: #f5f5f5;
+}
+.schedule-table th:first-child {
+  text-align: center;
 }
 .current-time-row {
   background-color: #fff3cd;
