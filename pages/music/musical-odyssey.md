@@ -28,18 +28,18 @@ Come college I had had enough time singing and playing and performing in front o
 Not just singing in college, but lots of guitar: formally with the Liturgical Arts Group (Masses), and countless dorm room jams. I went from chord charts to tablature. (For the uninitiated, "tabs" is a poor man's musical notation that maps fingering [fret x string] rather than the actual notes on a traditional scale.) For the music theory challenged such as I, tabs were a big unlock—suddenly those 50 songs in my chord-based Old Town School of Music songbook gave way to thousands available on the On-Line Guitar Archive (OLGA). I even contributed—e.g., this Ben Harper song during freshman year of college, which is still discoverable on the interwebs.
 
 <pre>
- E---------------------------------------------------------*-*-----|
- B--0h1---1------0--0----0h1p0-----------0h1---1-----3-----*-*-----|
- G--0-----2------0--0---2-----2----------0-----2----0------*-*-----|
- D--2-----3------------2-------2---------2-----3---0-------*-*-----|
- A---------------------------------------------------------*-*-----|
- E------------3-----------------------------------3--------*-*-----|
+ E---------------------------------|
+ B--0h1---1------0--0----0h1p0-----|
+ G--0-----2------0--0---2-----2----|
+ D--2-----3------------2-------2---|
+ A---------------------------------|
+ E------------3--------------------|
 </pre>
 
 Post-college I found a real void in my life that the Heightsmen once occupied—some musical but also social/fraternal. It wasn't until my dear friend and silky-smooth-singing' fellow Heightsman Michael McAndrew moved back up to Boston for law school that he and I joined forces with jazz wunderkind and prolific composer Paul Findlen to start a band with a "soul-rock" feel.
 
 <img src="https://i.imgur.com/56nlP2l.gif">
-<span class="muted small">Say Hey's world wide webpage (circa 2004)</span>
+<span class="muted small">Say Hey's world wide webpage that I engineered to withstand traffic surges of hundreds of thousands per day.</span>
 
 We became great buds through those practices and performances and recording in the most stifling-yet-acoustically-perfect coat closet in all of Beacon Hill. Before we ever got signed to a major label, I left for business school in Ann Arbor. Yes, there was a b-school band and open mic nights and such, but the major creative outlet was a revue called *Follies*.
 
@@ -48,14 +48,9 @@ I moved to Chicago and on the one hand was a part of a church choir that really 
 <img src="https://i.imgur.com/l3aLa3v.gif">
 <span class="muted small">Playing at some neon-lit, smoke-stained, sticky-floored hideaway.</span>
 
-In California, I filled the music need with various jam sessions:
-- Patricia Ang's "Musical Playgrounds"
-- Nolan Love's "Harvest Parties"
-- St. Dom's "Coffeehouses"
-- Priory East "hootenannies"[^3]
-- etc.
+In California, I filled the music need with various jam sessions: Patricia Ang's "Musical Playgrounds", Nolan Love's "Harvest Parties", St. Dom's "Coffeehouses", Priory East "hootenannies"[^3], etc.
 
-[^3]: Except that no one called them "hootenannies"; just a little wistful fabrication.
+[^3]: Okay, I lied: no one called them "hootenannies"; just a little wistful fabrication there.
 
 But *most* importantly, I picked back up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey.
 
