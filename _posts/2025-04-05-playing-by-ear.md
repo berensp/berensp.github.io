@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Playing By Ear
-permalink: /music/
 date: 2025-04-05
 author: Paul Berens
 tags: ["music"]
@@ -25,36 +24,40 @@ Then in the summer between my freshman and sophomore years of high school, my fa
 
 I wasn't a remarkable singer but I was in fact singing at a time when most of my peers were not, because, hey, puberty makes it tricky for a while there for us boys. So I decided I'd get up on stage and perform at my high school talent show. Bob Marley's *Redemption Song,* accompanied by percussion phenom Dan Capecchi on cajón. I'm not sure how well it went, but I liked something about getting up on stage and fighting through the intense butterflies. And so, I auditioned for the spring musical (*Working* by Studs Terkel) and landed a singing part...another test of the taming of the butterflies. And then rock bands, beginning in high school with the cover band <a href="https://www.flipsnack.com/cadets/saint-thomas-academy-fall-winter-2024-saber-magazine/full-view.html?p=15" target="_blank">Obscurity</a> that certainly lived up to its name.
 
-Come college I had had enough time singing and playing and performing in front of people that I could muster the courage to audition for the Heightsmen of Boston College, BC's all-male a cappella group, which would end up being a defining part of college. A cappella improved my singing in the same way the Beatles improved: through sheer volume of rehearsals and performances and recording sessions. But it also enabled and exacerbated my music illiteracy by its model: instead of reading sheet music, our "music director" peer who had arranged a given song (in four parts) would teach each section (e.g., baritones) their part by ear, echoing the piano after it plucked out the sequence note by note. Why? Because three-quarters of us were iffy on music theory, and we were probably too lazy to figure out how to produce sheet music.
+Come college I had had enough time singing and playing and performing in front of people that I could muster the courage to audition for the Heightsmen of Boston College, BC's all-male a cappella group, which would end up being a defining part of college. A cappella improved my singing in the same way the Beatles improved: through sheer volume of rehearsals and performances and recording sessions. But it also enabled and exacerbated my music illiteracy by its model: instead of reading sheet music, our "music director" peer who had arranged a given song (in four parts) would teach each section (e.g., baritones) their part by ear, echoing the piano after it plucked out the sequence note by note. Why? Because three-quarters of us were at best iffy on music theory, let alone sight-reading.
 
-Not just singing in college, but lots of guitar: formally with the Liturgical Arts Group (Masses), and countless dorm room jams. I went from chord charts to tablature. (For the uninitiated, "tabs" is a poor man's musical notation that maps fingering [fret x string] rather than the actual notes on a traditional scale.) For the music theory challenged such as I, tabs were a big unlock—suddenly those 50 songs in my chord-based Old Town School of Music songbook gave way to thousands available on the On-Line Guitar Archive (OLGA). I even contributed—e.g., this Ben Harper song during freshman year of college, which is still discoverable on the interwebs.
+Not just singing in college, but lots of guitar: formally with the Liturgical Arts Group (Masses), and countless dorm room jams. I went from chord charts to tablature. (For the uninitiated, "tabs" is a poor man's musical notation that maps fingering [fret x string] rather than the actual notes on a traditional scale.) For the music theory challenged such as I, tabs were a big unlock—suddenly those 50 songs in my chord-based Old Town School of Music songbook gave way to thousands available on the On-Line Guitar Archive (OLGA). It was really in fumbling through these tabs, and through any formal instruction, that I ended up teaching myself guitar[^3]—my constructivist learning tendency. I even contributed my own tabs—e.g., this Ben Harper song during freshman year of college, which is still discoverable on the interwebs:
+
+[^3]: There was/is a price to pay for skipping the actual guitar lessons, and that is my plateauing and never really learning my scales well enough to be able to "solo"...on the fly...in whatever key the jam is.
 
 <pre>
- E---------------------------------|
- B--0h1---1------0--0----0h1p0-----|
- G--0-----2------0--0---2-----2----|
- D--2-----3------------2-------2---|
- A---------------------------------|
- E------------3--------------------|
+ e|--------------------------------|
+ B|--0h1---1------0--0----0h1p0----|
+ G|--0-----2------0--0---2-----2---|
+ D|--2-----3------------2-------2--|
+ A|--------------------------------|
+ E|------------3-------------------|
 </pre>
 
-Post-college I found a real void in my life that the Heightsmen once occupied—some musical but also social/fraternal. It wasn't until my dear friend and silky-smooth-singing' fellow Heightsman Michael McAndrew moved back up to Boston for law school that he and I joined forces with jazz wunderkind and prolific composer Paul Findlen to start a band with a "soul-rock" feel.
+Post-college I found a real void in my life that the Heightsmen once occupied—part musical, part social/fraternal. It wasn't until my dear friend and silky-smooth-singing' fellow Heightsman Michael McAndrew moved back up to Boston for law school that he and I joined forces with jazz wunderkind and prolific composer Paul Findlen to start a band with a "soul-rock" feel.
 
 <img src="https://i.imgur.com/56nlP2l.gif">
-<span class="muted small">Say Hey's world wide webpage that I engineered to withstand traffic surges of hundreds of thousands per day.</span>
+<span class="muted small">Say Hey's now-defunct world wide webpage that I engineered to withstand traffic surges of hundreds of thousands per day.</span>
 
 We became great buds through those practices and performances and recording in the most stifling-yet-acoustically-perfect coat closet in all of Beacon Hill. Before we ever got signed to a major label, I left for business school in Ann Arbor. Yes, there was a b-school band and open mic nights and such, but the major creative outlet was a revue called *Follies*.
 
-I moved to Chicago and on the one hand was a part of a church choir that really pushed my music literacy with beautiful intricate liturgical pieces, and then on the other hand found myself in a cover band that had me singing screamy rock songs. I guess both have their place.
+After moving to Chicago, I found myself in two contrasting musical worlds: belting out screamy rock songs in a cover band on a Thursday night; and then harmonizing beautiful, intricate sacred pieces in a church choir on Sunday morning. Both had their place in my life.
 
 <img src="https://i.imgur.com/l3aLa3v.gif">
 <span class="muted small">Playing at some neon-lit, smoke-stained, sticky-floored hideaway.</span>
 
-In California, I filled the music need with various jam sessions: Patricia Ang's "Musical Playgrounds", Nolan Love's "Harvest Parties", St. Dom's "Coffeehouses", Priory East "hootenannies"[^3], etc.
+In California, I filled the music need with various jam sessions: Patricia Ang's "Musical Playgrounds", Nolan Love's "Harvest Parties", St. Dom's "Coffeehouses", Priory East "hootenannies"[^4], etc.
 
-[^3]: Okay, I lied: no one called them "hootenannies"; just a little wistful fabrication there.
+[^4]: Okay, I lied: no one called them "hootenannies"; just a little wistful fabrication there.
 
-But *most* importantly, I picked back up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey.
+But *most* importantly, I picked back up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey[^5].
+
+[^5]: A fitting outcome for someone whose "[P]erceiving" preference, as my [MBTI](/personality.html)-conversant family would say, tends toward spontaneity over rigid planning.
 
 ![a wedding serenade](/assets/og/post_serenade.png)
 
