@@ -11,7 +11,7 @@ ogimage: mom.gmabrennan.jpg
 
 [^1]:In actuality she said "great art" or "good art", and so I'm taking some license with her quote.
 
-⚠ <notabene>Achtung: this is more journaling than incisive essay, so it might bore you to death, Dear Reader, assuming you're not my wife or my mother</notabene> ⚠
+<span class="warning-note">⚠ <span class="notabene">Achtung: this is more journaling than incisive essay, so it might bore you to death, Dear Reader, assuming you're not my wife or my mother</span></span>
 
 <img src="/assets/og/mom.gmabrennan.jpg" alt="phone" width="70%" height="70%">
 <span class="muted small">The love of music passed from generation to generation: Mom sitting with her Grandma Kate.</span>
