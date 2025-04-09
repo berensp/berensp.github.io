@@ -20,7 +20,7 @@ category: Marian
 
 Let us pray. 
 
-Pour forth, we beseech you, O Lord,  
+Pour forth, we beseech thee, O Lord,  
 Thy grace into our hearts;  
 that we, to whom the incarnation of Christ, Thy Son,  
 was made known by the message of an angel,  
