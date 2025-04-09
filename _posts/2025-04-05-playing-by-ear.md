@@ -56,7 +56,7 @@ In California, I filled the music need with various jam sessions: Patricia Ang's
 
 [^5]: Okay, I lied: no one called them "hootenannies"; just a little wistful fabrication there.
 
-But *most* importantly, I picked back up the liturgical music ministry I had begun in Chicago, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey[^6].
+But *most* importantly, I picked back up liturgical music ministry, joining the 5:30pm Contemporary Choir at St. Dominic's Church. And it was in the basement rehearsal room that I first met Lisa Chung, who would three years later become my wife—the very best result of my haphazard music odyssey[^6].
 
 [^6]: A fitting outcome for someone whose "[P]erceiving" preference, as my [MBTI](/personality.html)-conversant family would say, tends toward spontaneity over rigid planning.
 
