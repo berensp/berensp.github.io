@@ -43,7 +43,7 @@ It wasn't all singing in college; lots of guitar, too: formally with the Liturgi
 Post-college I found a real void in my life that the Heightsmen once occupied—part musical, part social/fraternal. It wasn't until my dear friend and silky-smooth-singing' fellow Heightsman Michael McAndrew moved back up to Boston for law school that he and I joined forces with jazz wunderkind and prolific composer Paul Findlen to start a band with a "soul-rock" feel.
 
 <img src="https://i.imgur.com/56nlP2l.gif">
-<span class="muted small">Say Hey's now-defunct world wide webpage that I engineered to withstand traffic surges of hundreds of thousands per day.</span>
+<span class="muted small">Say Hey's now-defunct world wide webpage that I engineered to withstand traffic surges in the hundreds of thousands.</span>
 
 We became great buds through those practices and performances and recording in the most stifling-yet-acoustically-perfect coat closet in all of Beacon Hill. Before we ever got signed to a major label, I left for business school in Ann Arbor. Yes, there was a b-school band and open mic nights and such, but the major creative outlet was a revue called *Follies*.
 
