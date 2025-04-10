@@ -1,7 +1,7 @@
 monday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Eggwich'
+  - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE" target="_blank">Milk & cereal</a>'
     time: "07:00"
   - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
@@ -22,7 +22,7 @@ monday:
 tuesday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: '<a href="https://music.youtube.com/watch?v=6fOO-N4J6bE" target="_blank">Milk & cereal</a>'
+  - task: 'Eggwich'
     time: "07:00"
   - task: 'Contrive day''s business. <a href="/prayers/orate-ante-labori/">Orate ante labori</a>.'
     time: "08:25"
