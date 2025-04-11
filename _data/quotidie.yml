@@ -70,7 +70,7 @@ thursday:
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
-  - task: 'Lunch'
+  - task: 'Mittagessen'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
@@ -91,7 +91,7 @@ friday:
     time: "08:25"
   - task: 'Prosecute <input type="text" placeholder="the morning thing" size="15" font-size: 16px>'
     time: "08:30"
-  - task: 'Veg lunch'
+  - task: 'Lunch'
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
