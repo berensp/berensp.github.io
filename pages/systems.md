@@ -57,5 +57,6 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 ## Miscellanea
 - **Astrobiology:** [*Silentium universi*](https://en.wikipedia.org/wiki/Fermi_paradox)
 - **Soteriology / Teleology:** (See [Catholicism post](/catholic))
+- Pareto Principle – which even extends to food *(Hara hachi bu)* 
 
 [^1]: The answer to why the average bloke can't pick up and bang through *Infinite Jest*—I'm including myself here. (Also the Matthew Effect.)
