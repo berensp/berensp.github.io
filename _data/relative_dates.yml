@@ -1,0 +1,51 @@
+# _data/relative_dates.yml
+# Format: each entry needs a unique id, a rule for calculation, and an event description
+# Priority: These entries will override any daily_events.yml entries for the same date
+
+- id: "ash_wednesday"
+  rule: "easter-40"  # 40 days before Easter
+  event: 'Ash Wednesday: Beginning of Lent'
+
+- id: "palm_sunday"
+  rule: "easter-7"  # 7 days before Easter
+  event: 'Palm Sunday'
+
+- id: "spy_wednesday"
+  rule: "easter-4"  # 3 days before Easter
+  event: 'Spy Wednesday'
+
+- id: "maundy_thursday"
+  rule: "easter-3"  # 3 days before Easter
+  event: 'Maundy Thursday'
+
+- id: "good_friday"
+  rule: "easter-2"  # 2 days before Easter
+  event: 'Good Friday'
+
+- id: "holy_saturday"
+  rule: "easter-1"  # 1 day before Easter
+  event: 'Holy Saturday'
+
+- id: "easter"
+  rule: "easter+0"  # Easter Sunday itself
+  event: 'Easter Sunday'
+
+- id: "labor_day"
+  rule: "first-monday-september"
+  event: 'Labor Day'
+
+- id: "thanksgiving"
+  rule: "fourth-thursday-november"
+  event: 'Thanksgiving Day'
+
+- id: "memorial_day"
+  rule: "last-monday-may"
+  event: 'Memorial Day'
+
+- id: "mlk_day"
+  rule: "third-monday-january"
+  event: 'Martin Luther King Jr. Day'
+
+- id: "presidents_day"
+  rule: "third-monday-february"
+  event: "Presidents' Day"
