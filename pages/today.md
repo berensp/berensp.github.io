@@ -59,6 +59,7 @@ permalink: /today/
 }
 </style>
 
+<script src="/assets/js/date_calculator.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
@@ -92,11 +93,36 @@ document.addEventListener('DOMContentLoaded', function() {
     return currentHourMinute >= taskTotalMinutes && currentHourMinute < nextTaskTotalMinutes;
   }
   
+  function calculateRelativeDates(year) {
+    // Process relative date rules if they exist
+    if (!siteData.relative_dates) {
+      return {};
+    }
+    
+    const relativeDatesMap = {};
+    
+    siteData.relative_dates.forEach(item => {
+      if (item.rule && item.event) {
+        const calculatedDate = calculateDateFromRule(item.rule, year);
+        if (calculatedDate) {
+          const dateKey = formatDateMMDD(calculatedDate);
+          relativeDatesMap[dateKey] = item.event;
+        }
+      }
+    });
+    
+    return relativeDatesMap;
+  }
+  
   function updateTimeElements() {
     const pacificTime = new Date(getPacificTime());
     const timeZoneAbbr = getTimeZoneAbbreviation();
     const currentDate = pacificTime.toLocaleString('en-US', { month: '2-digit', day: '2-digit' }).replace('/', '-');
     const currentDay = pacificTime.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
+    const currentYear = pacificTime.getFullYear();
+    
+    // Calculate relative dates for current year
+    const relativeDates = calculateRelativeDates(currentYear);
     
     // Update page title (h1) with current date
     document.querySelector('h1').textContent = pacificTime.toLocaleString('en-US', { 
@@ -147,8 +173,16 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const eventContainer = document.getElementById('event-container');
-    const event = siteData.daily_events.find(e => e.date === currentDate);
-    eventContainer.innerHTML = event ? `<span class="muted small">📆 ${event.event}</span>` : '';
+    
+    // Check for relative date events first (they take priority)
+    const relativeEvent = relativeDates[currentDate];
+    
+    // If no relative event, check fixed date events
+    const fixedEvent = siteData.daily_events.find(e => e.date === currentDate);
+    
+    // Prioritize relative events over fixed events
+    const eventToShow = relativeEvent || (fixedEvent ? fixedEvent.event : '');
+    eventContainer.innerHTML = eventToShow ? `<span class="muted small">📆 ${eventToShow}</span>` : '';
 
     const feastContainer = document.getElementById('feast-container');
     const feast = siteData.feast_days.find(e => e.date === currentDate);
