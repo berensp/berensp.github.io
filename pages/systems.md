@@ -38,6 +38,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 
 ## Organization
 - [Pournelle's Iron Law of Bureaucracy](https://gordonbrander.com/pattern/pournelles-iron-law-of-bureaucracy/)
+- Value Capture v. Value Creation Loop – when firms/orgs can extract high margins there is reduced pressure to allocate resources efficiently (See [Liberal Arts post](/liberal-arts.html))
 - [Conway's Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi)
 
 ## Psychology/Behavior 
