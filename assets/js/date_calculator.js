@@ -56,12 +56,33 @@ function getNthDayOfMonth(year, month, dayOfWeek, n) {
 }
 
 /**
+ * Calculate Election Day (Tuesday after first Monday in November)
+ * @param {number} year - The year to calculate for
+ * @return {Date} Election Day date
+ */
+function calculateElectionDay(year) {
+  // Find the first Monday in November
+  const firstMonday = getNthDayOfMonth(year, 10, 1, 1); // Month 10 = November, day 1 = Monday
+  
+  // Election Day is the next day (Tuesday)
+  const electionDay = new Date(firstMonday);
+  electionDay.setDate(firstMonday.getDate() + 1);
+  
+  return electionDay;
+}
+
+/**
  * Parse a rule and calculate the actual date
  * @param {string} rule - The rule string (e.g., "easter-40", "first-monday-september")
  * @param {number} year - The year to calculate for
  * @return {Date|null} The calculated date or null if rule is invalid
  */
 function calculateDateFromRule(rule, year) {
+  // Election Day (special case)
+  if (rule === "first-tuesday-november-after-first-monday") {
+    return calculateElectionDay(year);
+  }
+  
   // Easter-based rules
   if (rule.startsWith('easter')) {
     const easterDate = calculateEaster(year);
