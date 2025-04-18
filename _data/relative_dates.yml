@@ -1,14 +1,91 @@
 # _data/relative_dates.yml
 # Format: each entry needs a unique id, a rule for calculation, and an event description
-# Priority: These entries will override any daily_events.yml entries for the same date
+# Priority: These entries will override any daily_events.yml entries for the same date; in case of a conflict the date later in the file takes precedence
+
+# January
+
+- id: "mlk_day"
+  rule: "third-monday-january"
+  event: 'Martin Luther King Jr. Day'
+
+# February
+
+- id: "presidents_day"
+  rule: "third-monday-february"
+  event: "Presidents' Day"
+
+# April
+- id: "arbor_day"
+  rule: "last-friday-april"
+  event: 'Arbor Day 🌳'
+
+# May
+- id: "mothers_day"
+  rule: "second-sunday-may"
+  event: 'Mother''s Day 💐'
+
+- id: "armed_forces_day"
+  rule: "third-saturday-may"
+  event: 'Armed Forces Day'
+
+- id: "memorial_day"
+  rule: "last-monday-may"
+  event: 'Memorial Day'
+
+# June
+- id: "fathers_day"
+  rule: "third-sunday-june"
+  event: 'Father''s Day 👔'
+
+# September
+
+- id: "labor_day"
+  rule: "first-monday-september"
+  event: 'Labor Day'
+
+# October
+- id: "columbus_day"
+  rule: "second-monday-october"
+  event: 'Columbus Day'
+
+# November
+- id: "election_day"
+  rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
+  event: 'Election Day 🗳️'
+
+- id: "thanksgiving"
+  rule: "fourth-thursday-november"
+  event: 'Thanksgiving 🦃'
+
+- id: "black_friday"
+  rule: "fourth-friday-november"
+  event: 'Black Friday 🛍️'
+
+# December
+
+# Pre-Easter season
+
+- id: "exodus_ninety"
+  rule: "easter-90"  # 40 days before Easter
+  event: 'Exodus 90 begins'
+
+- id: "septuagesima_sunday"
+  rule: "easter-63"  # 9 weeks before Easter
+  event: 'Septuagesima Sunday'
+
+- id: "shrove_tuesday"
+  rule: "easter-47"  # Day before Ash Wednesday
+  event: 'Shrove Tuesday/Mardi Gras 🎭'
 
 - id: "ash_wednesday"
   rule: "easter-40"  # 40 days before Easter
-  event: 'Ash Wednesday: Beginning of Lent'
+  event: 'Ash Wednesday'
 
 - id: "palm_sunday"
   rule: "easter-7"  # 7 days before Easter
   event: 'Palm Sunday'
+
+# Easter (Holy Week)
 
 - id: "spy_wednesday"
   rule: "easter-4"  # 3 days before Easter
@@ -30,22 +107,24 @@
   rule: "easter+0"  # Easter Sunday itself
   event: 'Easter Sunday'
 
-- id: "labor_day"
-  rule: "first-monday-september"
-  event: 'Labor Day'
+# Post-Easter season
 
-- id: "thanksgiving"
-  rule: "fourth-thursday-november"
-  event: 'Thanksgiving Day'
+- id: "divine_mercy_sunday"
+  rule: "easter+7"  # 1 week after Easter
+  event: 'Divine Mercy Sunday'
 
-- id: "memorial_day"
-  rule: "last-monday-may"
-  event: 'Memorial Day'
+- id: "ascension_thursday"
+  rule: "easter+39"  # 40th day of Easter (39 days after)
+  event: 'Ascension Thursday'
 
-- id: "mlk_day"
-  rule: "third-monday-january"
-  event: 'Martin Luther King Jr. Day'
+- id: "pentecost"
+  rule: "easter+49"  # 50th day of Easter (49 days after)
+  event: 'Pentecost Sunday'
 
-- id: "presidents_day"
-  rule: "third-monday-february"
-  event: "Presidents' Day"
+- id: "trinity_sunday"
+  rule: "easter+56"  # Sunday after Pentecost
+  event: 'Trinity Sunday'
+
+- id: "corpus_christi"
+  rule: "easter+60"  # Thursday after Trinity Sunday
+  event: 'Corpus Christi'
