@@ -74,7 +74,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Countries visited</td>
-      <td style="text-align: left"><a href="/countries/">█░░░░░░░░░ 12%</a></td>
+      <td style="text-align: left"><a href="/countries/">█░░░░░░░░░ 13%</a></td>
     </tr>
     <tr>
       <td style="text-align: left">States visited</td>
