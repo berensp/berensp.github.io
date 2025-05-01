@@ -2,7 +2,7 @@
 layout: page
 title: Countries visited
 permalink: /countries/
-description: ~88% yet to explore
+description: ~87% yet to explore
 ---
 *"The world is a country which nobody ever yet knew by description; one must travel through it one's self to be acquainted with it."* (—Philip Stanhope, Earl of Chesterfield)
 
@@ -33,6 +33,7 @@ description: ~88% yet to explore
 | 23 | 🇵🇷[^1] | Bahia Beach |
 | 24 | 🇮🇳 | Pune |
 | 25 | 🇬🇧 | Glasgow |
+| 26 | 🇦🇹 | Vienna |
 
 [^1]: Technically an unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
 
