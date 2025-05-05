@@ -54,6 +54,8 @@ So the question now becomes: Is it different this time: can AI *really* flatten 
 
 And what about more radical visions like Balaji Srinivasan's Network State concept—digital communities/societies based on shared values rather than geography? Fascinating idea, Perhaps it could gain some traction in pockets, but my guess is it's hard to scale (as hard or harder than scaling the cryptocurrency that undergirds it).
 
-Twenty years after Friedman's optimistic vision, we can say that technology creates *potential* pathways, but all the human stuff (our institutions, power structures) and market inefficiencies determine which paths actually get taken. The world isn't flat—it's a waterbed: press down on one spot and watch a bulge appear somewhere else entirely.
+Twenty years after Friedman's optimistic vision, we can say that technology creates *potential* pathways, but all the human stuff (our institutions, power structures) and market inefficiencies determine which paths actually get taken.
+
+The world isn't flat; it's the proverbial waterbed where you press down on one spot and watch a bulge appear somewhere else.
 
 — ᴘ. ᴍ. ʙ.
