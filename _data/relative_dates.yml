@@ -75,7 +75,7 @@
 
 - id: "shrove_tuesday"
   rule: "easter-47"  # Day before Ash Wednesday
-  event: 'Shrove Tuesday/Mardi Gras 🎭'
+  event: 'Shrove Tuesday / Mardi Gras 🎭'
 
 - id: "ash_wednesday"
   rule: "easter-40"  # 40 days before Easter
@@ -121,9 +121,13 @@
   rule: "easter+49"  # 50th day of Easter (49 days after)
   event: 'Pentecost Sunday'
 
+- id: "whit_monday"
+  rule: "easter+50"  # 50 days post Easter (first day of Ordinary Time)
+  event: 'Whit Monday / Mary, Mother of the Church'
+
 - id: "trinity_sunday"
   rule: "easter+56"  # Sunday after Pentecost
-  event: 'Trinity Sunday'
+  event: 'Solemnity of the Most Holy Trinity'
 
 - id: "corpus_christi"
   rule: "easter+60"  # Thursday after Trinity Sunday

@@ -2,6 +2,7 @@
 layout: page
 title: Today
 permalink: /today/
+description: Check the diary.
 ---
 <table class="schedule-table">
   <thead>
