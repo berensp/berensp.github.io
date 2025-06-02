@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Safetyism
-permalink: /safetyism/
 date: 2025-02-22
 author: Paul Berens
 tags: ["first principles", "culture", "american identity", "theology"]
