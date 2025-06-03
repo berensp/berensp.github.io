@@ -57,7 +57,7 @@ It has to happen at multiple levels, but subsidiarity demands it begins with me 
 
 ### Local
 - Seek out high-quality information and news media as a means of quantifying risks (distinguishing from hype).
-- Adopt Nassim Taleb's Anti-Fragile (Stoic?) framework: do hard things (advertisities make you grow), go through life as a "flâneur", and develop an anti-education.
+- Adopt Nassim Taleb's Anti-Fragile (Stoic?) framework: do hard things (adversities make you grow), go through life as a "flâneur", and develop an anti-education.
 - Employ parenting strategies that foster resilience (e.g., my own take on a Hunger Games of sorts?).
 
 ### Global
@@ -69,6 +69,6 @@ It has to happen at multiple levels, but subsidiarity demands it begins with me 
 
 To be clear, safety is not a terrible thing—Maslow filed it under "basic needs"—but we've crowned it as one of the highest goods and outsourced to a nanny state. Let us swing the pendulum back the other direction. But 'til then...
 
-Stay safe,
+Stay safe, y'all.
 
 — ᴘ. ᴍ. ʙ.
