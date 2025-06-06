@@ -6,7 +6,7 @@
 
 - id: "mlk_day"
   rule: "third-monday-january"
-  event: 'Martin Luther King Jr. Day'
+  event: "Martin Luther King Jr. Day"
 
 # February
 
@@ -17,49 +17,58 @@
 # April
 - id: "arbor_day"
   rule: "last-friday-april"
-  event: 'Arbor Day 🌳'
+  event: "Arbor Day 🌳"
 
 # May
 - id: "mothers_day"
   rule: "second-sunday-may"
-  event: 'Mother''s Day 💐'
+  event: "Mother's Day 💐"
 
 - id: "armed_forces_day"
   rule: "third-saturday-may"
-  event: 'Armed Forces Day'
+  event: "Armed Forces Day"
 
 - id: "memorial_day"
   rule: "last-monday-may"
-  event: 'Memorial Day'
+  event: "Memorial Day"
 
 # June
+
+- id: "running_day"
+  rule: "first-wednesday-june"
+  event: "Global Running Day 👟"
+
+- id: "dipsea"
+  rule: "second-sunday-june"
+  event: "The Dipsea Race"
+
 - id: "fathers_day"
   rule: "third-sunday-june"
-  event: 'Father''s Day 👔'
+  event: "Father's Day 👔"
 
 # September
 
 - id: "labor_day"
   rule: "first-monday-september"
-  event: 'Labor Day'
+  event: "Labor Day"
 
 # October
 - id: "columbus_day"
   rule: "second-monday-october"
-  event: 'Columbus Day'
+  event: "Columbus Day"
 
 # November
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
-  event: 'Election Day 🗳️'
+  event: "Election Day 🗳️"
 
 - id: "thanksgiving"
   rule: "fourth-thursday-november"
-  event: 'Thanksgiving 🦃'
+  event: "Thanksgiving 🦃"
 
 - id: "black_friday"
   rule: "fourth-friday-november"
-  event: 'Black Friday 🛍️'
+  event: "Black Friday 🛍️"
 
 # December
 
