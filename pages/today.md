@@ -56,7 +56,7 @@ description: Check the diary.
 .schedule-table input:not([type="checkbox"]):focus {
     outline: none;
     border-color: #007bff;
-    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.8);
+    box-shadow: 0 0 0 0.5px rgba(0, 123, 255, 0.8);
 }
 </style>
 
