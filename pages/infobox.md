@@ -46,12 +46,12 @@ description: fun facts
       <td style="text-align: left">188 cm</td>
     </tr>
     <tr>
-      <td style="text-align: left">Biggest ride</td>
-      <td style="text-align: left"><a href="https://opensea.io/assets/base/0xbe85b86188553a014a96997770c30a67a847bb8b/53" target="_blank">Levi's</a></td>
-    </tr>
-    <tr>
       <td style="text-align: left">Centuries</td>
       <td style="text-align: left"><a href="/centuries/">7</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Dipsea Races</td>
+      <td style="text-align: left"><a href="https://www.strava.com/activities/14737190977" target="_blank">1</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Marathons<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
@@ -92,8 +92,8 @@ description: fun facts
       <td style="text-align: left"><a href="/catholic">Catholicism</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Politics</td>
-      <td style="text-align: left">be less tribal</td>
+      <td style="text-align: left">Political Party</td>
+      <td style="text-align: left">Independent</td>
     </tr>
     <tr>
       <td style="text-align: left">MBTI®<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
