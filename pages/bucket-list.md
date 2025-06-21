@@ -5,12 +5,13 @@ permalink: /bucket-list/
 description: the ultimate to-do list
 ---
 ## Athletica
-- Complete a triathalon
-- Hanggliding
+- Complete a triathlon
+- Hang-gliding
 - Heli-skiing
 - Qualify for the Boston Marathon
 - ~~Cat skiing~~
 - ~~Run a marathon~~
+- ~~Run the Dipsea Race~~
 - ~~Skydive~~
 
 ## Artes
