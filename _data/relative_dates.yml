@@ -140,4 +140,8 @@
 
 - id: "corpus_christi"
   rule: "easter+60"  # Thursday after Trinity Sunday
-  event: 'Corpus Christi'
+  event: 'Solemnity of the Most Holy Body and Blood of Christ'
+
+- id: "sacred_heart"
+  rule: "easter+68"  # Friday after the second Sunday after Pentecost
+  event: 'Solemnity of Most Sacred Heart of Jesus'
