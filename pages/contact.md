@@ -30,6 +30,10 @@ Say hello on your favorite messaging app:
 [^1]: Good grief, Marco Polo. Roll out vanity URLs right this minute.
 [^2]: Some day I'll buy strava.com/athletes/berensp for a large, undisclosed sum.
 
+## Miscellany
+- <a href="/assets/downloads/pmb_contact.vcf">My contact card (vCard)</a>
+- <a href="/pay/">Payment apps</a>)
+
 ## No se puede
 - ~~[iMessage](/phones/)~~
 - ~~[Facebook/Instagram](../fb)~~
