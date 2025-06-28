@@ -145,3 +145,7 @@
 - id: "sacred_heart"
   rule: "easter+68"  # Friday after the second Sunday after Pentecost
   event: 'Solemnity of Most Sacred Heart of Jesus'
+
+- id: "immaculate_heart"
+  rule: "easter+69"  # Saturday after the Solemnity of the Most Holy Body and Blood of Christ (Corpus Christi)
+  event: 'Memorial of the Immaculate Heart of the Blessed Virgin Mary'
