@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: Symbolum Apostolorum
-category: Inter Missam
+category: Mass
 ---
 Credo in Deum Patrem omnipoténtem,  
 Creatórem cæli et terræ.  
