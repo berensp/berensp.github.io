@@ -7,7 +7,7 @@ ogimage: angel-song-of-bethlehem.png
 ---
 <p><img src="/assets/og/angel-song-of-bethlehem.png" alt="Angel from the Song of Bethlehem" style="width: 50%;">
 
-{% assign categories = "Hora Somni,Ante Missam,Inter Missam,Marian,Saints,Miscellany" | split: "," %}
+{% assign categories = "Mass,Marian,Saints,Hora Somni,Miscellany" | split: "," %}
 
 {% for category in categories %}
   {% assign routes_in_category = site.prayers | where: "category", category %}
