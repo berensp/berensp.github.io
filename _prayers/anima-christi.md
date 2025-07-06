@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: Anima Christi
-category: Inter Missam
+category: Mass
 ---
 Anima Christi, sanctifica me.  
 Corpus Christi, salva me.  

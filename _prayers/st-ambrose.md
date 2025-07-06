@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: St. Ambrose
-category: Ante Missam
+category: Mass
 ---
 I draw near, loving Lord Jesus Christ,  
 to the table of your most delightful banquet  

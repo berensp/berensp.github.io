@@ -1,7 +1,7 @@
 ---
 layout: prayer
 title: St. Thomas Aquinas
-category: Ante Missam
+category: Mass
 ---
 Almighty eternal God,  
 behold, I come to the Sacrament  
