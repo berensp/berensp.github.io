@@ -36,7 +36,7 @@ Say hello on your favorite messaging app:
 
 ## Miscellany
 - <a href="/assets/downloads/pmb_contact.vcf">My contact card (vCard)</a>
-- <a href="/qr/">QR code to this page</a>
+- <a href="/qr/">QR code</a>
 - <a href="/pay/">Payment apps</a>
 
 ## Why so many apps?
