@@ -67,7 +67,7 @@ It has to happen at multiple levels, but subsidiarity demands it begins with me 
 
 * * *
 
-To be clear, safety is not a terrible thing—Maslow filed it under "basic needs"—but we've crowned it as one of the highest goods and outsourced to a nanny state. Let us swing the pendulum back the other direction. But 'til then...
+To be clear, safety is not a terrible thing—Maslow filed it under "basic needs"—but we've crowned it as one of the highest goods and outsourced to a nanny state. Let us swing the pendulum back the other direction. 'til then...
 
 Stay safe, y'all.
 
