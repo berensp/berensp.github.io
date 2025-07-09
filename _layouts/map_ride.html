@@ -7,7 +7,7 @@
     <!-- End Google Tag Manager (noscript) -->
     
 <a class="muted small" href="/">{{ site.title | escape }}</a>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/8.2.0/ol.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/ol@8.2.0/dist/ol.js"></script>
 <h1>{{ page.title | escape }}</h1>
 <mark>{{ page.distance }}</mark> | <mark>{{ page.elevation }}</mark> | <mark>{{ page.difficulty }}</mark>
 {{ content }}
@@ -63,6 +63,9 @@
       zoom: {{ page.zoom }},
       maxZoom: 19,
       minZoom: 5
+    }),
+    controls: ol.control.defaults({
+      attribution: false  // Remove the attribution control
     })
   });
   
@@ -118,32 +121,14 @@
   if (typeof ol !== 'undefined') {
     initMap();
   } else {
-    // Try multiple fallback approaches
-    var attempts = 0;
-    var maxAttempts = 10;
-    
-    var checkForOl = setInterval(function() {
-      attempts++;
+    // Wait for the script to load
+    window.addEventListener('load', function() {
       if (typeof ol !== 'undefined') {
-        clearInterval(checkForOl);
         initMap();
-      } else if (attempts >= maxAttempts) {
-        clearInterval(checkForOl);
-        console.error('OpenLayers failed to load after multiple attempts');
-        
-        // Try loading from a different CDN as fallback
-        var fallbackScript = document.createElement('script');
-        fallbackScript.src = 'https://cdn.jsdelivr.net/npm/ol@8.2.0/dist/ol.js';
-        fallbackScript.onload = function() {
-          console.log('Fallback OpenLayers loaded');
-          initMap();
-        };
-        fallbackScript.onerror = function() {
-          console.error('All OpenLayers CDN attempts failed');
-        };
-        document.head.appendChild(fallbackScript);
+      } else {
+        console.error('OpenLayers failed to load');
       }
-    }, 100);
+    });
   }
 </script>
 <p><a class="muted small" href="/cycling/">← back to all rides</a>
