@@ -10,7 +10,7 @@
     
 <a class="muted small" href="/">{{ site.title | escape }}</a>
 
-<script src="https://openlayers.org/en/v6.0.1/build/ol.js"></script>
+<script src="https://openlayers.org/en/v8.2.0/build/ol.js"></script>
 
 <h1>{{ page.title | escape }}</h1>
 
@@ -19,36 +19,56 @@
 {{ content }}
 
     <div id="map-{{ page.title | slugify }}" class="map" style="height: 300px; width: 100%;"></div>
-    <script>
-      var vectorLayer = new ol.layer.Vector({
-        source: new ol.source.Vector({
-          url: '/assets/maps/{{ page.gpx_url }}',
-          format: new ol.format.GPX()
-        }),
-        style: new ol.style.Style({
-          stroke: new ol.style.Stroke({
-            color: 'red',
-            width: 3
-          })
-        })
-      });
 
-      var runMap = new ol.Map({
-        target: 'map-{{ page.title | slugify }}',
-        layers: [
-          new ol.layer.Tile({
-            source: new ol.source.OSM()
-          }),
-          vectorLayer
-        ],
-        view: new ol.View({
-	    center: [{{ page.long }},{{ page.lat }}],
-	    zoom: {{ page.zoom }},
-	    maxZoom: 19,
-	    minZoom: 5
-        })
+<script>
+  // Your coordinates are already in Web Mercator
+  var centerCoords = [{{ page.long }}, {{ page.lat }}];
+  
+  var vectorSource = new ol.source.Vector({
+    url: '/assets/maps/{{ page.gpx_url }}',
+    format: new ol.format.GPX({
+      dataProjection: 'EPSG:4326',      // GPX files are in WGS84
+      featureProjection: 'EPSG:3857'    // Transform to Web Mercator
+    })
+  });
+  
+  var vectorLayer = new ol.layer.Vector({
+    source: vectorSource,
+    style: new ol.style.Style({
+      stroke: new ol.style.Stroke({
+        color: 'red',
+        width: 3
+      })
+    })
+  });
+  
+  var runMap = new ol.Map({
+    target: 'map-{{ page.title | slugify }}',
+    layers: [
+      new ol.layer.Tile({
+        source: new ol.source.OSM()
+      }),
+      vectorLayer
+    ],
+    view: new ol.View({
+      center: centerCoords,
+      zoom: {{ page.zoom }},
+      maxZoom: 19,
+      minZoom: 5
+    })
+  });
+  
+  // Auto-fit to GPX track when it loads
+  vectorSource.on('addfeature', function(event) {
+    var extent = vectorSource.getExtent();
+    if (extent && !ol.extent.isEmpty(extent)) {
+      runMap.getView().fit(extent, {
+        padding: [20, 20, 20, 20],
+        maxZoom: 16
       });
-    </script>
+    }
+  });
+</script>
 
 <p><a class="muted small" href="/cycling/">← back to all rides</a>
 
