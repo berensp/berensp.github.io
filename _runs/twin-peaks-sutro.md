@@ -11,6 +11,4 @@ elevation: 1,052 ft
 difficulty: hard
 category: San Francisco
 ---
-One of my current [favourite loops](/running/). I can't exactly do it without pausing to catch my breath at a couple points, but hey. Beautiful views atop Twin Peaks and descending Twin Peaks Blvd., tough but nice wooded climb up to Mt. Sutro, happy descent on the Historic Trail[^1] (so long as I don't twist an ankle on a root some day).
-
-[^1]: See what it actually looks like with the animated gif on [this post](/solvitur-currendo.html).
+One of my current [favourite loops](/running/). I can't exactly do it without pausing to catch my breath at a couple points, but hey. Beautiful views atop Twin Peaks and descending Twin Peaks Blvd., tough but nice wooded climb up to Mt. Sutro, happy descent on the [Historic Trail](https://i.imgur.com/yZzKtT7.gif) (so long as I don't twist an ankle on a root some day).
