@@ -13,31 +13,32 @@
 {{ content }}
     <div id="map-{{ page.title | slugify }}" class="map" style="height: 300px; width: 100%;"></div>
 <script>
-  console.log('OpenLayers version check...');
-  
-  // Your coordinates are already in Web Mercator
-  var centerCoords = [{{ page.long }}, {{ page.lat }}];
-  
-  // Try different approaches based on common API changes
-  var vectorSource, vectorLayer;
-  
-  try {
-    // Modern approach with explicit projection handling
-    vectorSource = new ol.source.Vector({
-      url: '/assets/maps/{{ page.gpx_url }}',
-      format: new ol.format.GPX({
-        dataProjection: 'EPSG:4326',      // GPX files are in WGS84
-        featureProjection: 'EPSG:3857'    // Transform to Web Mercator
-      })
-    });
-  } catch (e) {
-    console.log('Modern GPX format failed, trying legacy approach:', e);
-    // Fallback to old approach
-    vectorSource = new ol.source.Vector({
-      url: '/assets/maps/{{ page.gpx_url }}',
-      format: new ol.format.GPX()
-    });
-  }
+  function initMap() {
+    console.log('OpenLayers version check...');
+    
+    // Your coordinates are already in Web Mercator
+    var centerCoords = [{{ page.long }}, {{ page.lat }}];
+    
+    // Try different approaches based on common API changes
+    var vectorSource, vectorLayer;
+    
+    try {
+      // Modern approach with explicit projection handling
+      vectorSource = new ol.source.Vector({
+        url: '/assets/maps/{{ page.gpx_url }}',
+        format: new ol.format.GPX({
+          dataProjection: 'EPSG:4326',      // GPX files are in WGS84
+          featureProjection: 'EPSG:3857'    // Transform to Web Mercator
+        })
+      });
+    } catch (e) {
+      console.log('Modern GPX format failed, trying legacy approach:', e);
+      // Fallback to old approach
+      vectorSource = new ol.source.Vector({
+        url: '/assets/maps/{{ page.gpx_url }}',
+        format: new ol.format.GPX()
+      });
+    }
   
   vectorLayer = new ol.layer.Vector({
     source: vectorSource,
@@ -111,6 +112,21 @@
   });
   
   console.log('Map initialization complete');
+  }
+  
+  // Wait for OpenLayers to load, then initialize the map
+  if (typeof ol !== 'undefined') {
+    initMap();
+  } else {
+    // If ol is not defined yet, wait for the script to load
+    window.addEventListener('load', function() {
+      if (typeof ol !== 'undefined') {
+        initMap();
+      } else {
+        console.error('OpenLayers failed to load');
+      }
+    });
+  }
 </script>
 <p><a class="muted small" href="/cycling/">← back to all rides</a>
 {%- include footer.html -%}
