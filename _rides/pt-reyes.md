@@ -10,5 +10,10 @@ distance: 83 mi
 elevation: 5,226 ft
 difficulty: moderate/hard
 category: Long Rides/Centuries
+description: A little bit of everything.
 ---
-All manner of terrain makes this a spectacular ride. The very first rides I did when I first came out to the Bay Area were from Mike's Bikes of Sausalito (Marin City) to Nicasio and back (~21 miles of this loop).
+This is the route of the Saturday 8am Bridge Crew, a fun group, but I get dusted when things devolve into "shenanigans" around Point Reyes.
+
+All manner of terrain makes this a spectacular ride.
+
+The very first rides I did when I first came out to the Bay Area were from Mike's Bikes of Sausalito (Marin City) to Nicasio and back (~21 miles of this loop).

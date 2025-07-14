@@ -10,5 +10,6 @@ distance: 41 mi
 elevation: 2k ft
 difficulty: easy
 category: Shorter Rides
+description: The name says it.
 ---
 A classic with high return on investment when you don't have unlimited time.

@@ -10,5 +10,6 @@ distance: 50 mi
 elevation: 4.4k ft
 difficulty: moderate/hard
 category: Medium Rides
+description: Solid, beautiful, medium-hard ride
 ---
 When you don't have the time/energy for [this one](/rides/pt-reyes/) but still want to hit up Stinson Beach.
