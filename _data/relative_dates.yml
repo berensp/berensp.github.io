@@ -46,6 +46,12 @@
   rule: "third-sunday-june"
   event: "Father's Day 👔"
 
+# July
+
+- id: "fry_day"
+  rule: "second-friday-july"
+  event: "National Fry Day 🍟"
+
 # September
 
 - id: "labor_day"
