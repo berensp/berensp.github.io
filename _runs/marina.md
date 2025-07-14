@@ -10,5 +10,6 @@ distance: 6 mi
 elevation: 84 ft
 difficulty: easy
 category: San Francisco
+description: Potrero to Marina and back on the bus
 ---
 When I lived in Potrero Hill I'd usually run [to the Ferry Building and back via the Embarcadero](/runs/ferry-bldg/), but to mix things up I'd occasionally run to the Marina and then catch the #22 Fillmore from Fillmore & Bay to 18th & Pennsylvania (my front door).

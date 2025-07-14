@@ -10,5 +10,6 @@ distance: 4 mi
 elevation: 587 ft
 difficulty: moderate
 category: Greater Bay Area
+description: It's no secret.
 ---
 No warm-up: you're climbing ~400' right off the bat. But then you're treated with some impressive views as you cruise through the rolling hills of this three-and-a-half-plus-mile loop.
