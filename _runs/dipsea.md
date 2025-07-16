@@ -12,4 +12,4 @@ difficulty: hard
 category: Greater Bay Area
 description: So fun...except, you, Poison Oak—you're unfun.
 ---
-As expected, the 114th Dipsea Race was a serious challenge, but also a total joy—I loved it...except for the poison oak...no me gusta, Hombre.
+As expected, the 114th Dipsea Race was a serious challenge, but also a total joy...except for the poison oak...no me gusta, Hombre.
