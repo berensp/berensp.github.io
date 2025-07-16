@@ -20,6 +20,6 @@ description: What I'm up to these days.
 - **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - **[Reading](/books/)** [*{{ currently_reading.title }}*]({{ currently_reading.url | relative_url }}) by {{ currently_reading.author }}
 - **[Learning](/learning/)** Exodus 90 disciplines; a little bit of front-end (via Claude); kanban
-- **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape. Ran my first [Dipsea Race](runs/dipsea/) in June—what a blast.
+- **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape. Ran my first [Dipsea Race](/runs/dipsea/) in June.
 
 <span class="muted small">Last updated: {{ page.last_modified_at }}—except ${time in SF} and ${time since last blog post} which are real-time calcs; and ${current book title} which is pulling from a </span><a class="muted small" href="https://jekyllrb.com/docs/collections/" target="_blank">collection.</a>
