@@ -5,6 +5,10 @@
 
   <body>
     
+    {% unless page.layout == 'home' %}
+      <a class="muted small" href="/">← Home</a>
+    {% endunless %}
+    
     {{ content }}
 
   </body>
