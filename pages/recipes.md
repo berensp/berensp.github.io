@@ -2,7 +2,7 @@
 layout: default
 title: My Recipe Box
 permalink: /recipes/
-description: Hey, Good Lookin'. Whatcha got cookin'?
+description: "Hey, Good Lookin'. Whatcha got cookin'?"
 ---
 
 # {{ page.title }}
