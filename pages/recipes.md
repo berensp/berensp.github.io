@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: My Recipe Box
 permalink: /recipes/
 description: "Hey, Good Lookin'. Whatcha got cookin'?"
