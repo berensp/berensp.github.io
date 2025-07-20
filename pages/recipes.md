@@ -2,11 +2,8 @@
 layout: page
 title: My Recipe Box
 permalink: /recipes/
-description: "Hey, Good Lookin'. Whatcha got cookin'?"
+description: "Hey, Good Lookin. Whatcha got cookin?"
 ---
-
-# {{ page.title }}
-
 {%- if site.recipes.size > 0 -%}
 <ul class="more-space">
   {%- for recipe in site.recipes -%}
