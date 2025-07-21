@@ -52,6 +52,10 @@
   rule: "second-friday-july"
   event: "National Fry Day 🍟"
 
+- id: "ice_cream_day"
+  rule: "third-sunday-july"
+  event: "National Ice Cream Day 🍦"
+
 # September
 
 - id: "labor_day"
