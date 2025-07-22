@@ -48,8 +48,6 @@ Reminds me of (the first part of) this Annie Dillard quote[^6]:
 
 > On the whole, I do not find Christians, outside of the catacombs, sufficiently sensible of conditions. Does anyone have the foggiest idea what sort of power we so blithely invoke? Or, as I suspect, does no one believe a word of it...
 
-The practical implications of this belief are profound. If the Eucharist is truly the Body, Blood, Soul, and Divinity of Christ, then consider how differently someone approaches the altar when they believe it's a symbol versus when they believe it's Christ Himself. The former might receive casually, perhaps weeks removed from confession, trusting in their general good intentions. The latter examines their conscience, seeks reconciliation for mortal sins, and approaches with the trembling reverence due to their Creator—heeding St. Paul's warning about eating and drinking unworthily (1 Cor 11:29). The liturgy either cultivates this reverence or erodes it.
-
 At one of the parishes I've attended, everyone remains standing during the Eucharistic Prayer, which, to be fair, is totally sanctioned, but also presents a problem in that your posture is discordant with what is really transpiring before you, and so your brain doesn't compute.
 
 Not just posture but dress *(vestis virum facit)*. I realized a number of years ago that the Mass is infinitely more important than the fancy secular events I'd get dressed up for, so I try to put on a tie and leave the Vikings jersey at home[^7], to honor the Lord but also to keep in the fore of my mind that I'm at the mystical wedding feast of the lamb.
