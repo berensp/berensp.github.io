@@ -7,5 +7,6 @@ permalink: /favourites/
 - 📚 [books](/books/)
 - 🏃‍♂️ [runs](/running/)
 - 🚴‍♂️ [rides](/cycling)
+- 🧑‍🎨 Caravaggio
 - quotes
 - purchases
