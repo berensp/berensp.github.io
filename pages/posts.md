@@ -2,7 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
-description: ✍
+description: Lots to discuss
 ogimage: mjb_pencil_20250222.png
 ---
 <img src="/assets/og/mjb_pencil_20250222.png" alt="Pencil, by MJB, 2025-02-22" style="width: 50%;">
@@ -28,8 +28,14 @@ This will clear any content that might be pulled in from elsewhere
           class="validate" 
           target="_self" 
           novalidate="">
-        <div id="mc_embed_signup_scroll" style="display: flex; align-items: center;">
-            <div class="mc-field-group" style="margin-right: 10px; flex-grow: 0;">
+        <div id="mc_embed_signup_scroll" style="
+            display: flex; 
+            align-items: center; 
+            flex-wrap: wrap; 
+            gap: 10px;
+            max-width: 100%;
+        ">
+            <div class="mc-field-group" style="flex-grow: 1; min-width: 200px;">
                 <input type="email" 
                        name="EMAIL" 
                        class="required email" 
@@ -38,14 +44,14 @@ This will clear any content that might be pulled in from elsewhere
                        value="" 
                        placeholder="Get these posts in your inbox" 
                        style="
-                           width: 250px; 
-                           min-width: 120px; 
-                           max-width: 100%;
+                           width: 100%; 
+                           min-width: 0;
                            padding: 0.5rem;
                            font-size: 1em;
                            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
                            border: 1px solid #ccc;
                            border-radius: 4px;
+                           box-sizing: border-box;
                        ">
             </div>
             <div aria-hidden="true" style="position: absolute; left: -5000px;">
@@ -73,3 +79,5 @@ This will clear any content that might be pulled in from elsewhere
         </div>
     </form>
 </div>
+
+
