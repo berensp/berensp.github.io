@@ -29,7 +29,7 @@ function calculateEaster(year) {
  * @param {number} year - The year
  * @param {number} month - The month (0-11)
  * @param {number} dayOfWeek - Day of week (0-6, where 0 is Sunday)
- * @param {number} n - Which occurrence (1-5, where 5 means "last")
+ * @param {number} n - Which occurrence (1-5 for first-fifth, negative for last/second-to-last/etc.)
  * @return {Date} The calculated date
  */
 function getNthDayOfMonth(year, month, dayOfWeek, n) {
@@ -38,20 +38,38 @@ function getNthDayOfMonth(year, month, dayOfWeek, n) {
   
   let dayOfMonth = 1 + (dayOfWeek - firstDayOfWeek + 7) % 7;
   
-  // If n is 5 or greater, find the last occurrence
-  if (n >= 5) {
+  // If n is negative, calculate from the end of the month
+  if (n < 0) {
     const lastDay = new Date(year, month + 1, 0).getDate();
     let lastOccurrence = dayOfMonth;
     
+    // Find the last occurrence of this day in the month
     while (lastOccurrence + 7 <= lastDay) {
       lastOccurrence += 7;
     }
     
-    return new Date(year, month, lastOccurrence);
+    // Count back from the last occurrence
+    // n = -1 means last, n = -2 means second-to-last, etc.
+    const targetOccurrence = lastOccurrence + (n + 1) * 7;
+    
+    return new Date(year, month, targetOccurrence);
   } else {
-    // Adjust to the nth occurrence
-    dayOfMonth += (n - 1) * 7;
-    return new Date(year, month, dayOfMonth);
+    // Positive n: calculate from the beginning of the month
+    // If n is 5 or greater, find the last occurrence (legacy behavior)
+    if (n >= 5) {
+      const lastDay = new Date(year, month + 1, 0).getDate();
+      let lastOccurrence = dayOfMonth;
+      
+      while (lastOccurrence + 7 <= lastDay) {
+        lastOccurrence += 7;
+      }
+      
+      return new Date(year, month, lastOccurrence);
+    } else {
+      // Adjust to the nth occurrence
+      dayOfMonth += (n - 1) * 7;
+      return new Date(year, month, dayOfMonth);
+    }
   }
 }
 
@@ -102,7 +120,7 @@ function calculateDateFromRule(rule, year) {
   }
   
   // Nth day of month rules (e.g., "first-monday-september")
-  const nthDayMatch = rule.match(/^(first|second|third|fourth|fifth|last)-(sunday|monday|tuesday|wednesday|thursday|friday|saturday)-(january|february|march|april|may|june|july|august|september|october|november|december)$/);
+  const nthDayMatch = rule.match(/^(first|second|third|fourth|fifth|last|second-to-last|third-to-last)-(sunday|monday|tuesday|wednesday|thursday|friday|saturday)-(january|february|march|april|may|june|july|august|september|october|november|december)$/);
   
   if (nthDayMatch) {
     const ordinals = {
@@ -111,7 +129,9 @@ function calculateDateFromRule(rule, year) {
       'third': 3,
       'fourth': 4,
       'fifth': 5,
-      'last': 5 // Last is treated as 5th or greater
+      'last': -1,        // Negative numbers indicate "from the end"
+      'second-to-last': -2,
+      'third-to-last': -3
     };
     
     const days = {

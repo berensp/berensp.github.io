@@ -5,6 +5,7 @@ date:	2021-04-23
 author:	Paul Berens
 tags: ["culture", "book references"]
 description: First post...finally. Might as well make it about books.
+opimage: post_tsundoku.png
 ---
 And here I thought I'd explode out of the starting gate, boldly proclaiming a singular angle for this blog, but it isn't to be...just yet.
 

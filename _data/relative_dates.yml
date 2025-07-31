@@ -67,6 +67,10 @@
   rule: "second-monday-october"
   event: "Columbus Day"
 
+- id: "world_mission_sunday"
+  rule: "second-to-last-sunday-october"
+  event: "World Mission Sunday"
+
 # November
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
