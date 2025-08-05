@@ -1,4 +1,6 @@
 # _data/daily_events.yml
+
+# January
 - date: "01-01"
   event: "Happy New Year 🎆"
 - date: "01-02"
@@ -61,6 +63,8 @@
   event: 'Bogside Massacre (1972)'
 - date: "01-31"
   event: "National Hot Chocolate Day"
+
+# February
 - date: "02-01"
   event: 'First commercial armored car introduced (St. Paul, Minn.) (1920)'
 - date: "02-02"
@@ -119,6 +123,8 @@
   event: 'US wins first ice hockey gold medal (Squaw Valley) (1960)'
 - date: "02-29"
   event: "Happy Leap Day! (See you in another four.)"
+
+# March
 - date: "03-01"
   event: "First US university school of nursing est. @ the U (1909)"
 - date: "03-02"
@@ -181,6 +187,8 @@
   event: "African American men granted suffrage (15th Amendment) (1870)"
 - date: "03-31"
   event: "Eiffel Tower officially opens (1889)"
+
+# April
 - date: "04-01"
   event: "April Fools"
 - date: "04-02"
@@ -241,6 +249,8 @@
   event: "Washington inaugurated as first U.S. President (1789)"
 - date: "04-30"
   event: "Louisiana Purchase completed (1803)"
+
+# May
 - date: "05-01"
   event: "Empire State Building dedicated in New York City (1931)"
 - date: "05-02"
@@ -303,6 +313,8 @@
   event: "Lincoln Memorial dedicated in Washington, D.C. (1922)"
 - date: "05-31"
   event: "Last Model T Ford rolls off assembly line (1927)"
+
+# June
 - date: "06-01"
   event: "Coronation of Anne Boleynn (1533)"
 - date: "06-02"
@@ -362,7 +374,9 @@
 - date: "06-29"
   event: "Shakespeare's Globe Theatre in London burns down (1613)"
 - date: "06-30"
-  event: "Gone with the Wind premieres in Atlanta (1939)"
+  event: '<i>Gone with the Wind</i> premieres in Atlanta (1939)'
+
+# July
 - date: "07-01"
   event: "Battle of Gettysburg begins (1863)"
 - date: "07-02"
@@ -425,6 +439,8 @@
   event: "Medicare and Medicaid enacted (1965)"
 - date: "07-31"
   event: '"Man''s first wheels on the moon" (1971)'
+
+# August
 - date: "08-01"
   event: "First U.S. census conducted (1790)"
 - date: "08-02"
@@ -434,7 +450,7 @@
 - date: "08-04"
   event: "Coast Guard established (1790)"
 - date: "08-05"
-  event: "First traffic light installed in Cleveland (1914)"
+  event: "U.S. Army abolishes flogging (1861)"
 - date: "08-06"
   event: "Atomic bomb dropped on Hiroshima (1945)"
 - date: "08-07"
@@ -487,6 +503,8 @@
   event: "Hotline established between Moscow and Washington (1963)"
 - date: "08-31"
   event: "First Labor Day celebrated (1882)"
+
+# September
 - date: "09-01"
   event: "Germany invades Poland, starting WWII (1939)"
 - date: "09-02"
@@ -548,6 +566,8 @@
   event: "National Coffee Day ☕"
 - date: "09-30"
   event: "First transcontinental television broadcast (1951)"
+
+# October
 - date: "10-01"
   event: "Pumpkin Spice Day—head straight to your local Trader Joe's."
 - date: "10-02"
@@ -593,7 +613,7 @@
 - date: "10-22"
   event: 'Adoption of <a href="https://credomag.com/2021/02/the-chalcedonian-definition/" target="_blank">Chalcedonian Definition</a> at Council of Chalcedon (451)'
 - date: "10-23"
-  event: '<a href="https://en.wikipedia.org/wiki/1983_Beirut_barracks_bombings" target="_blank">Beirut barracks bombings</a> (1983)'
+  event: "Beirut barracks bombings (1983)"
 - date: "10-24"
   event: '<a href="https://en.wikipedia.org/wiki/First_transcontinental_telegraph" target="_blank">First transcontinental telegraph</a> (1861)'
 - date: "10-25"
@@ -603,13 +623,15 @@
 - date: "10-27"
   event: 'The Red Sox end the "Curse of the Bambino" (2004)'
 - date: "10-28"
-  event: 'Statue of Liberty is dedicated—first confetti parade in NYC (1886)'
+  event: 'Statue of Liberty dedicated—first confetti parade in NYC (1886) 🗽'
 - date: "10-29"
   event: 'Penn Lands in Pennsylvania (1682)'
 - date: "10-30"
   event: 'P. T. Barnum''s circus, "Greatest Show on Earth", debuts in NYC (1873)'
 - date: "10-31"
   event: "Hallowe'en 🎃"
+
+# November
 - date: "11-01"
   event: 'Michelangelo''s Sistine Chapel Ceiling first exhibited (1512)'
 - date: "11-02"
@@ -670,6 +692,8 @@
   event: 'Sir James Jay invents invisible ink (1775)'
 - date: "11-30"
   event: 'States of Holland forbid Free Masonry (1735)'
+
+# December
 - date: "12-01"
   event: 'Rosa Parks arrested for refusing to give up that seat (1955)'
 - date: "12-02"
