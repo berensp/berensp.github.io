@@ -17,6 +17,9 @@ O clemens, o pia, o dulcis Virgo María.
 ℣. Ora pro nobis, Sancta Dei Genetrix.  
 ℟. Ut digni efficiamur promissiónibus Christi.
 
+<p><a class="muted small" href="/prayers/oratio-ad-finem/">&#10013;&#65038 to Oratio ad Finem</a>
+
+* * *
 
 Hail, Holy Queen, Mother of Mercy,  
 our life, our sweetness and our hope.  
