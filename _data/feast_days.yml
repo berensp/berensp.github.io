@@ -1,3 +1,4 @@
+# January
 - date: "01-01"
   feast: "Solemnity of Mary, Mother of God"
 - date: "01-02"
@@ -60,6 +61,8 @@
   feast: "St. Hyacintha Mariscotti"
 - date: "01-31"
   feast: "St. John Bosco"
+
+# February
 - date: "02-01"
   feast: "St. Brigid of Kildare"
 - date: "02-02"
@@ -118,6 +121,8 @@
   feast: "St. Hilary"
 - date: "02-29"
   feast: "St. Augustus Chapdelaine"
+
+# March
 - date: "03-01"
   feast: "St. David of Wales"
 - date: "03-02"
@@ -180,6 +185,8 @@
   feast: "St. Marie-Nicolas-Antoine Daveluy, St. John Climacus"
 - date: "03-31"
   feast: "St. Benjamin"
+
+# April
 - date: "04-01"
   feast: "St. Hugh of Grenoble"
 - date: "04-02"
@@ -240,6 +247,8 @@
   feast: "St. Catherine of Siena"
 - date: "04-30"
   feast: "St. Pius V"
+
+# May
 - date: "05-01"
   feast: '<a href="/prayers/orate-ante-labori/">St. Joseph the Worker</a>, St. Peregrine Laziosi'
 - date: "05-02"
@@ -302,6 +311,8 @@
   feast: "St. Joan of Arc"
 - date: "05-31"
   feast: "Visitation of the Blessed Virgin Mary"
+
+# June
 - date: "06-01"
   feast: "St. Justin Martyr"
 - date: "06-02"
@@ -362,6 +373,8 @@
   feast: "Sts. Peter and Paul"
 - date: "06-30"
   feast: "First Martyrs of the Church of Rome"
+
+# July
 - date: "07-01"
   feast: "St. Junípero Serra"
 - date: "07-02"
@@ -424,6 +437,8 @@
   feast: "St. Peter Chrysologus"
 - date: "07-31"
   feast: '<a href="/prayers/suspice/">St. Ignatius of Loyola</a>'
+
+# August
 - date: "08-01"
   feast: "St. Alphonsus Liguori"
 - date: "08-02"
@@ -486,6 +501,8 @@
   feast: "St. Jeanne Jugan"
 - date: "08-31"
   feast: "St. Raymond Nonnatus"
+
+# September
 - date: "09-01"
   feast: "St. Giles"
 - date: "09-02"
@@ -539,13 +556,15 @@
 - date: "09-26"
   feast: "Sts. Cosmas and Damian"
 - date: "09-27"
-  feast: "Our Lady Star of the Sea and St. Vincent de Paul"
+  feast: "Our Lady Star of the Sea, St. Vincent de Paul"
 - date: "09-28"
   feast: "St. Wenceslaus"
 - date: "09-29"
   feast: 'Sts. <a href="/prayers/st-michael-chaplet/">Michael</a>, Gabriel, and Raphael'
 - date: "09-30"
   feast: "St. Jerome"
+
+# October
 - date: "10-01"
   feast: "St. Thérèse of Lisieux"
 - date: "10-02"
@@ -608,6 +627,8 @@
   feast: "St. Alphonsus Rodríguez SJ, St. Marcellus the Centurion"
 - date: "10-31"
   feast: "St. Wolfgang of Regensburg"
+
+# November
 - date: "11-01"
   feast: "Solemnity of All Saints"
 - date: "11-02"
@@ -668,6 +689,8 @@
   feast: "St. Saturninus"
 - date: "11-30"
   feast: "St. Andrew"
+
+# December
 - date: "12-01"
   feast: "St. Edmund Campion"
 - date: "12-02"
