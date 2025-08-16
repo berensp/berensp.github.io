@@ -1,3 +1,4 @@
+# January
 - date: "01-01"
   track: "Ave Maria"
   songId: "Cg7l0oOlzWk"
@@ -91,6 +92,8 @@
 - date: "01-31"
   track: "Penny Lane"
   songId: "oRJ2a-z5SI4"
+
+# February
 - date: "02-01"
   track: "Non, je ne regrette rien"
   songId: "GRHbKfen18U"
@@ -178,6 +181,8 @@
 - date: "02-29"
   track: "Madness"
   songId: "__oF3wM5s-k"
+
+# March
 - date: "03-01"
   track: "Sweet Child O' Mine"
   songId: "oMfMUfgjiLg"
@@ -271,6 +276,8 @@
 - date: "03-31"
   track: "Orchestral Suite No. 3 in D Major, BWV 1068: II. Air"
   songId: "5vzMRQHSExI"
+
+# April
 - date: "04-01"
   track: "My Baby Just Cares for Me"
   songId: "F5IAFtzwYfU"
@@ -361,6 +368,8 @@
 - date: "04-30"
   track: "Don't Worry Baby"
   songId: "-cYB9bHpcNI"
+
+# May
 - date: "05-01"
   track: "Angelyne"
   songId: "VyLAPedtugg"
@@ -454,6 +463,8 @@
 - date: "05-31"
   track: "Seven Bridges Road"
   songId: "U61bPI8K04s"
+
+# June
 - date: "06-01"
   track: "Something About You"
   songId: "WtKxEmuSxBc"
@@ -544,6 +555,8 @@
 - date: "06-30"
   track: "Bye, Bye Baby"
   songId: "74HF-YjpLnM"
+
+# July
 - date: "07-01"
   track: "Never Tear Us Apart"
   songId: "qlG16vQw0tc"
@@ -637,6 +650,8 @@
 - date: "07-31"
   track: "Grown Ocean"
   songId: "P0xVeGjNosk"
+
+# August
 - date: "08-01"
   track: "Last Goodbye"
   songId: "Xdz8d4CIfVk"
@@ -730,6 +745,8 @@
 - date: "08-31"
   track: "You Got It"
   songId: "eJn_RwQ0WTo"
+
+# September
 - date: "09-01"
   track: "Gabriel's Oboe"
   songId: "lArnKBTe82I"
@@ -820,6 +837,8 @@
 - date: "09-30"
   track: "Ooh La La"
   songId: "RUGKx_kWaVk"
+
+# October
 - date: "10-01"
   track: "Stickshifts and Safetybelts"
   songId: "GQANg8OnIE4"
@@ -913,6 +932,8 @@
 - date: "10-31"
   track: "Celebration"
   songId: "1Qu6Dyn-c6M"
+
+# November
 - date: "11-01"
   track: "It's Not Unusual"
   songId: "k-HdGnzYdFQ"
@@ -1003,6 +1024,8 @@
 - date: "11-30"
   track: "Sing"
   songId: "nBk2QFPwXh0"
+
+# December
 - date: "12-01"
   track: "Sweet Baby James"
   songId: "fyoZLKgLcys"
