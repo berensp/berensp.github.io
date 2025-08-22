@@ -124,6 +124,9 @@ document.addEventListener('DOMContentLoaded', () => {
         case 48:
           message = "four dozen days ago";
           break;
+        case 50:
+          message = "two and a half score days ago";
+          break;
         case 56:
           message = "four fortnight ago";
           break;
