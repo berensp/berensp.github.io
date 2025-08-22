@@ -32,7 +32,7 @@ tuesday:
     time: "12:00"
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
-  - task: 'Dine, clean, diversion with the offspring'
+  - task: 'Dine, clean, diversion w/ offspring'
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
