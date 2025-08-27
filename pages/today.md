@@ -127,9 +127,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Update page title (h1) with current date
     document.querySelector('h1').textContent = pacificTime.toLocaleString('en-US', { 
-      weekday: 'long', 
+      weekday: 'short', 
       year: 'numeric', 
-      month: 'long', 
+      month: 'short', 
       day: 'numeric' 
     });
 
