@@ -8,6 +8,7 @@ Not that I embody these; I just hold them in high regard.
 - Creativity
 - Curiosity
 - Etiquette
+- Eutrapelia
 - Excellence
 - Family
 - Forgiveness
