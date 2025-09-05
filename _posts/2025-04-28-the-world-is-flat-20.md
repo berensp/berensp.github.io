@@ -4,7 +4,7 @@ title: The World Is Contoured
 permalink: /world-is-flat-20/
 date: 2025-04-28
 author: Paul Berens
-tags: ["culture","tech","american identity","book references"]
+tags: ["culture", "tech", "american identity", "economics", "book references"]
 description: Flatter, but not yet flat
 ogimage: post_world-is-flat.jpg
 ---
