@@ -12,11 +12,11 @@ description: ~87% yet to explore
 | 2 | 🇨🇦 | Victoria Island |
 | 3 | 🇻🇪 | Niquitao, Caracas |
 | 4 | 🇬🇹 | San Lucas Tolimán |
-| 5 | 🇦🇩 | El Pas de la Casa |
-| 6 | 🇪🇸 | Valencia |
+| 5 | 🇪🇸 | Valencia |
+| 6 | 🇦🇩 | El Pas de la Casa |
 | 7 | 🇰🇷 | Seoul, Daegu, Jeju |
-| 8 | 🇦🇷 | Bariloche |
-| 9 | 🇫🇷 | Aix-en-Provence, Paris |
+| 8 | 🇫🇷 | Aix-en-Provence, Paris |
+| 9 | 🇦🇷 | Bariloche |
 | 10 | 🇲🇽 | Acapulco |
 | 11 | 🇹🇭 | Bangkok, Phuket |
 | 12 | 🇩🇴 | Cabarete |
