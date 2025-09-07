@@ -48,7 +48,7 @@ God's Existence
 
 ## 🛐 Best Arguments *Against* God's Existence
 - **Theodicy (a.k.a. "The Problem of Evil").** The existence of profound suffering seems incompatible with an omnipotent, omniscient, omnibenevolent deity. Why would such a being permit genocide, childhood cancer, natural disasters, etc.? One of the most difficult counterarguments—in fact, I believe Aquinas admitted that—as it is emotionally gripping.
-	- ***Sed contra:*** It can be convincingly argued theologically (perhaps best with the Book of Job): are you equipped to understand God's purposes?
+	- ***Sed contra:*** It can be convincingly argued theologically (Wisdom 9:16-17; the entire Book of Job): are you equipped to understand God's purposes?
 - **Divine Hiddenness.** If God exists and desires a relationship with humans, He would make His existence more evident and accessible to everyone. The uneven distribution of religious experience and belief (seemingly based on cultural and familial context) suggests natural rather than supernatural causes, and seems to contradict the existence of an all-loving, omnipotent deity.
 	- ***Sed contra:*** The x factor here is free will, necessary for *agape*.
 - **Faith vs. Reason / Faith vs. Science.** This one is ubiquitous and cited nowadays as a top reason—if not *the* top reason—for disaffiliation.
