@@ -60,7 +60,8 @@
 
 - id: "labor_day"
   rule: "first-monday-september"
-  event: "Labor Day"
+  event: '<a href="/labor.html">Labor Day</a>'
+
 
 # October
 - id: "columbus_day"
@@ -74,11 +75,11 @@
 # November
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
-  event: "Election Day 🗳️"
+  event: '<a href="/direct-democracy.html">Election Day</a> 🗳️'
 
 - id: "thanksgiving"
   rule: "fourth-thursday-november"
-  event: "Thanksgiving 🦃"
+  event: '<a href="/thanksgiving.html">Thanksgiving</a> 🦃'
 
 - id: "black_friday"
   rule: "fourth-friday-november"
