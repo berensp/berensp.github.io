@@ -46,6 +46,9 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 - Value Capture v. Value Creation Loop – when firms/orgs can extract high margins there is reduced pressure to allocate resources efficiently (See [Liberal Arts post](/liberal-arts.html))
 - [Conway's Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi)
 
+## Problem-solving
+- Kidlin's Law
+
 ## Psychology/Behavior 
 - Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism/))
 - Status/Signaling (Veblen goods, stated vs. revealed preferences)
