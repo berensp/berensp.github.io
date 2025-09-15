@@ -184,13 +184,13 @@
 - date: "03-30"
   bday: "Maria Andrews"
 - date: "03-31"
-  bday: '<a href="/bbb/">Matt Birney</a>'
+  bday: "<a href='/bbb/'>Matt Birney</a>"
 
 # April
 - date: "04-01"
   bday: "Bo Schembechler Jr. (1929)"
 - date: "04-02"
-  bday: 'Henry Berens, Aunt Helen (1922)'
+  bday: "Henry Berens, Aunt Helen (1922)"
 - date: "04-03"
   bday: "Eddie Murphy (1961)"
 - date: "04-04"
@@ -222,7 +222,7 @@
 - date: "04-17"
   bday: "Roddy Piper (1954)"
 - date: "04-18"
-  bday: 'Dave Semerad, Eric Liwanag <i>(Requiescat in pace)</i>'
+  bday: "Dave Semerad, Eric Liwanag"
 - date: "04-19"
   bday: "Roger Sherman (1721)"
 - date: "04-20"
@@ -280,7 +280,7 @@
 - date: "05-15"
   bday: "Katherine Heigl (1978)"
 - date: "05-16"
-  bday: '<a href="/books/devil-in-the-white-city/">H. H. Holmes</a> (1861)'
+  bday: "<a href'/books/devil-in-the-white-city/'>H. H. Holmes</a> (1861)"
 - date: "05-17"
   bday: "Bartholomew Roberts (1682) 🏴‍☠️"
 - date: "05-18"
@@ -350,7 +350,7 @@
 - date: "06-18"
   bday: "Paul McCartney (1942)"
 - date: "06-19"
-  bday: 'W. Robert Brennan (1918), <a href="/wager.html">Blaise Pascal</a> (1623)'
+  bday: "W. Robert Brennan (1918), <a href='/wager.html'>Blaise Pascal</a> (1623)"
 - date: "06-20"
   bday: "Errol Flynn (1909)"
 - date: "06-21"
@@ -408,7 +408,7 @@
 - date: "07-16"
   bday: "Christopher Chung"
 - date: "07-17"
-  bday: 'Helen Berens (1923)'
+  bday: "Helen Berens (1923)"
 - date: "07-18"
   bday: "Franz Kurath"
 - date: "07-19"
@@ -434,7 +434,7 @@
 - date: "07-29"
   bday: "Alexis de Tocqueville (1805)"
 - date: "07-30"
-  bday: 'Sarah Koss (1981)'
+  bday: "Sarah Koss (1981)"
 - date: "07-31"
   bday: "Jim Armstrong"
 
@@ -532,7 +532,7 @@
 - date: "09-14"
   bday: "Steve Pal, Pope Leo XIV (1955)"
 - date: "09-15"
-  bday: 'Lauren Chung, Greg Smelzer <i>(Requiescat in pace)</i>'
+  bday: "Lauren Chung, Greg Smelzer"
 - date: "09-16"
   bday: "David Courchaine"
 - date: "09-17"
@@ -620,15 +620,15 @@
 - date: "10-27"
   bday: "Theodore Roosevelt"
 - date: "10-28"
-  bday: 'Anastasia L. Brennan (1919), Jack Demuth (1946)'
+  bday: "Anastasia L. Brennan (1919), Jack Demuth (1946)"
 - date: "10-29"
-  bday: 'Winona Ryder'
+  bday: "Winona Ryder"
 - date: "10-30"
-  bday: 'John Adams'
+  bday: "John Adams"
 - date: "10-31"
-  bday: 'Ferdinand the Handsome (1345)'
+  bday: "Ferdinand the Handsome (1345)"
 - date: "11-01"
-  bday: 'Great-Great-Grandma Mary Josephine McMahon (1847), Antonio Canova (1757)'
+  bday: "Great-Great-Grandma Mary Josephine McMahon (1847), Antonio Canova (1757)"
 - date: "11-02"
   bday: "Sarah Bracken"
 - date: "11-03"
@@ -638,13 +638,13 @@
 - date: "11-05"
   bday: "Nikhil Mathew, Dan Demuth, Dave Beine, Joe Brennan"
 - date: "11-06"
-  bday: 'John Philip Sousa (1854)'
+  bday: "John Philip Sousa (1854)"
 - date: "11-07"
   bday: "Seho Kim, Joni Mitchell"
 - date: "11-08"
   bday: "Vanessa Orellana, Steph Lacambra, Chris Kiely, Luke Demuth"
 - date: "11-09"
-  bday: 'Gyeongjong (955)'
+  bday: "Gyeongjong (955)"
 - date: "11-10"
   bday: "Sarah McGoohan"
 - date: "11-11"
