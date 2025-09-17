@@ -9,22 +9,18 @@ ogimage: ggb.jpg
 My constructivist continuing education (i.e. tinkering):
 
 ## Present Pursuits
-- <span><mark_lilac>Exodus 90</mark_lilac> (cold showers!)</span>
-- <span><mark_paleturquoise>Jekyll, Liquid, YAML, JavaScript</mark_paleturquoise> (front-end stuff)</span>
-- <mark><a href="/invest/">Investing</a></mark>
-- <mark>Korean (한국말)</mark>
-- <mark_paleturquoise><a href="https://notion.so" target="_blank">Notion</a></mark_paleturquoise>
+
+| Project | Tag |
+| :--- | :--- |
+| Exodus 90 | <span class="tag"><mark_lilac>experiment</mark_lilac></span> |
+| <a href="/investments/">Investing</a> | <span class="tag"><mark>self education</mark></span>
+| JavaScript, YAML (front-end stuff) | <span class="tag"><mark_paleturquoise>self education</mark_paleturquoise></span>
+| Korean (한국말) | <span class="tag"><mark>self education</mark></span>
 
 ## Expected Endeavours
-- <mark_paleturquoise><a href="https://mzrn.sh/2022/04/29/using-airtable-as-a-jekyll-website-database/" target="_blank">Airtable as a Jekyll website db</a></mark_paleturquoise>
-- <span><mark_paleturquoise>Audacity</mark_paleturquoise> for home recording</span>
-- <mark>Bridge</mark>
-- <span><mark_paleturquoise><a href="https://obsidian.md/" target="_blank">Obsidian</a></mark_paleturquoise> (and backing up to GitHub Pages)</span>
-- <mark>Piano</mark> (why did I ever stop? 😣)
 
-* * *
-<span class="muted small">Legend:</span><br>
-<span class="muted small"><mark>📖 self education</mark></span><br>
-<span class="muted small"><mark_paleturquoise>🛠️ new tool</mark_paleturquoise></span><br>
-<span class="muted small"><mark_lilac>🧪 experiment</mark_lilac></span><br>
-<span class="muted small"><mark_lightgray>💪 health/fitness</mark_lightgray></span>
+| Project | Tag |
+| :--- | :--- |
+| Audacity | <span class="tag"><mark_paleturquoise>self education</mark_paleturquoise></span>
+| Bridge | <span class="tag"><mark>self education</mark></span>
+| Piano | <span class="tag"><mark>self education</mark></span>

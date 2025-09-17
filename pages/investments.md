@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Investments
-permalink: /invest/
+permalink: /investments/
 description: Content from berens.co is for informational purposes only and should not be relied upon for business or investment advice. 
 ---
 Seeking to be a no-fuss, low-burden co-investor. Contributed meager ducats to the following startups in their early rounds:
