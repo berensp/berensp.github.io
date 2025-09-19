@@ -16,8 +16,11 @@ God's Existence
 ## 🛐 Best Arguments for God's Existence
 - **Aquinas' Argument from Motion.** *(a.k.a. Argument of the Unmoved Mover).* Each change has a cause, but an infinite regress is impossible, and so there must be a first mover.
 - **The Finely-tuned Universe.** The heavens declare the glory of God. "The Penrose Number"[^1], The Cosmological Constant[^2], and the overall intelligibility and knowability of the universe...or as Eugene Wigner puts (right in the title of his article): the "unreasonable effectiveness of mathematics in the physical sciences"[^3]. And not just the universe, but the earth being so anomalous[^4].
+-**Argument from the Origin of Life.** The statistical improbability of spontaneous generation of self-replicating systems with genetic information (abiogenesis), even given billions of years and ideal conditions.
 - **Argument from Desire.** "If there is a desire in my heart which corresponds to nothing in this world, perhaps I am made for another world?" [Best musically formulated by U2](https://music.youtube.com/watch?v=TAxs0qIBw0g&si=t6cmLQhnwojXVny3).
 - **Argument from Morality.** We intuit moral laws[^5], and laws require a lawgiver.
+- **Argument from Consciousness.** The emergence of subjective experience, qualia, and self-awareness from purely material processes poses what philosopher David Chalmers calls the "hard problem of consciousness."
+- **Argument from Reason.** (Reason from non-reason [Reliabe Cognition].) If our cognitive faculties are the product of undirected evolutionary processes aimed only at survival (not truth), we have no reason to trust them when they venture beyond immediate survival needs into abstract reasoning about reality.
 
 [^1]: The odds of the universe coming into existence in a way that would develop and support life (i.e. of our universe's exceedingly low entropy [high order]) was calculated to be 1 / (10^10^123).
 [^2]: The universe expanding at precisely the right rate (and not go into a black hole and collapse nor expand too fast so that everything becomes too dispersed to allow for the creation of protons, neutrons, Hydrogen, and any element heavier the Hydrogen) = 1 / (10^10^120)
