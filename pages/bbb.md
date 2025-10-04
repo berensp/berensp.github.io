@@ -4,7 +4,7 @@ title: Berens Birney Bdays
 permalink: /bbb/
 description: One social medium per bday wish
 ---
-The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours truly where the only rule is that you can't have posted on that platform previously.
+The semi-annual[^1] birthday exchanges between Matt Birney and yours truly where the only rule is that you can't have posted on that platform previously.
 
 [^1]: How lucky that our birthdays are almost exactly a half year apart.
 
@@ -27,6 +27,7 @@ The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours trul
 | 2024-3-31 | <a href="https://warpcast.com/pmb/0x28ae5363" target="_blank">Farcaster</a>[^3] | PB→MB |
 | 2024-9-30 | <a href="https://steamcommunity.com/chat/" target="_blank">Steam</a> | MB→PB |
 | 2025-3-31 | <a href="https://bsky.app/profile/berensp.bsky.social/post/3lloou3tb2s2u" target="_blank">Bluesky</a> | PB→MB |
+| 2025-9-30 | <a href="https://signal.org/" target="_blank">Signal</a> | MB→PB |
 
 [^2]: A stretch to qualify as a messenger, but I definitely 'preciate you sharing yo' trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
@@ -38,14 +39,14 @@ The semi-annual[^1] birthday exchanges between Mr. Matthew Birney and yours trul
 - **KakaoTalk** (<a href="../assets/images/kakao.berensp.jpg" target="_blank">@berensp</a>)
 - **Matrix** (<a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">@berensp</a>)
 - **Reddit** (<a href="https://www.reddit.com/user/berensp/" target="_blank">@berensp</a>)
-- **Signal** (<a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">@berensp.01</a>)
 
 ## Ineligible:
 - **<a href="https://killedbygoogle.com/" target="_blank">The Illustrious Google Graveyard</a>:** <mark>Google+</mark>, <mark>Allo</mark>, <mark>Buzz</mark>, <mark>Wave</mark>...
 - **Meta Products:** FB Messenger, Instagram[^4]
 - **Other Products:** <mark><a href="https://en.wikipedia.org/wiki/Pebble_(social_network)" target="_blank">Pebble</a></mark>[^5]
 
-[^4]: Can't recall which of these we've exploited—with the exception of regular Facebook (because I had email notifications enabled for wall posts back then 😄)—but I [deep-sixed all Meta accounts in September 2021](/fb). (I guess I'm exempting WhatsApp because it is encrypted and hard to avoid as an Android user.)
+[^4]: I [deep-sixed all Meta accounts in September 2021](/fb), but am back on and exempting WhatsApp because it adopted Signal's bulletproof encryption and, as the contrarian Android user making everyone else suffer green bubbles, WhatsApp is the middle ground between unencrypted featureless SMS and niche messengers for nerds.
+
 [^5]: Twitter clone that came into existence in late 2022, I joined in June 2023, and prepared to use for Birney Birthday 2024; but alas it shuttered November 2023 before I ever had a chance to use my <a href="https://pebble.is/i/45def088c7db" target="_blank">invite</a>.
 
 <mark><span class="muted small">defunct</span></mark>
