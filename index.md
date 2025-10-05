@@ -19,7 +19,6 @@ layout: home
 
 <a href="/prayers/">
   <img id="rotating-avatar" 
-       src="/assets/images/avatars/pmb.hiker.png" 
        alt="PMB avatar" 
        style="width: 160px; height: auto;">
 </a>
