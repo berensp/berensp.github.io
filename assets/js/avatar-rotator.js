@@ -24,13 +24,23 @@ document.addEventListener('DOMContentLoaded', () => {
     'vc'
   ];
 
-  // Get Pacific time (matching current-date.js approach)
+  // Get Pacific time (matching current-date.js approach exactly)
   const pacificTime = new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
   const date = new Date(pacificTime);
   
-  // Calculate day of year in Pacific time
-  const startOfYear = new Date(date.getFullYear(), 0, 1);
-  const dayOfYear = Math.floor((date - startOfYear) / (1000 * 60 * 60 * 24)) + 1;
+  // Log exact times for debugging
+  console.log("Local Time:", new Date().toString());
+  console.log("Pacific Time String:", pacificTime);
+  console.log("Parsed Date:", date.toString());
+  
+  // Calculate day of year using the same Pacific date
+  const year = date.getFullYear();
+  const month = date.getMonth();
+  const day = date.getDate();
+  
+  const startOfYear = new Date(year, 0, 1);
+  const currentDate = new Date(year, month, day);
+  const dayOfYear = Math.floor((currentDate - startOfYear) / (1000 * 60 * 60 * 24)) + 1;
   
   console.log("Pacific Date:", date.toDateString());
   console.log("Day of Year (Pacific):", dayOfYear);
