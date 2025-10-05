@@ -87,8 +87,18 @@ class WeatherWidget {
             const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
             const emoji = this.getWeatherEmoji(data.current.weather_code);
 
-            container.innerHTML = `<span class="muted small">${emoji} ${currentTemp}°C (${minTemp}°-${maxTemp}°) in the </span><a class="muted small" href="https://www.google.com/search?q=weather+94116" target="_blank">94116</a>`;
-            
+            const h1 = document.querySelector('h1');
+            if (h1) {
+                const now = new Date();
+                const dateText = now.toLocaleString('en-US', { 
+                    weekday: 'short', 
+                    month: 'short', 
+                    day: 'numeric',
+                    timeZone: 'America/Los_Angeles'
+                });
+                h1.textContent = `${dateText} ${emoji} ${currentTemp}°C`;
+            }
+
             // Clear any retry timeout if successful
             if (this.retryTimeout) {
                 clearTimeout(this.retryTimeout);
