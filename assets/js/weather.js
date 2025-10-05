@@ -1,11 +1,5 @@
 // weather.js
 
-// Show loading state immediately
-const container = document.getElementById('weather-container');
-if (container) {
-    container.innerHTML = '';
-}
-
 // Start fetching weather data immediately
 const weatherPromise = fetch('https://api.open-meteo.com/v1/forecast' +
     '?latitude=37.7500278' +
@@ -41,8 +35,8 @@ class WeatherWidget {
             1: ['Mainly clear', isNight ? '🌜' : '🌤️'],
             2: ['Partly cloudy', isNight ? '☁️' : '⛅'],
             3: ['Overcast', '☁️'],
-            45: ['Foggy', '🌁'],
-            48: ['Marine layer', '🌁'],
+            45: ['Foggy', '🌫'],
+            48: ['Marine layer', '🌫'],
             51: ['Light drizzle', '🌦️'],
             53: ['Moderate drizzle', '🌧️'],
             55: ['Dense drizzle', '💧'],
@@ -64,13 +58,10 @@ class WeatherWidget {
         };
 
         const [description, emoji] = weatherCodes[code] || ['Unknown weather', '❓'];
-        return `<span title="${description}">${emoji}</span>`;
+        return emoji;
     }
 
     async displayWeather() {
-        const container = document.getElementById('weather-container');
-        if (!container) return;
-
         try {
             const data = await this.weatherPromise;
             
@@ -83,13 +74,11 @@ class WeatherWidget {
             }
             
             const currentTemp = Math.round(data.current.temperature_2m);
-            const minTemp = Math.round(data.daily.temperature_2m_min[0]);
-            const maxTemp = Math.round(data.daily.temperature_2m_max[0]);
             const emoji = this.getWeatherEmoji(data.current.weather_code);
 
+            // Update h1 title
             const h1 = document.querySelector('h1');
             if (h1) {
-                const now = new Date();
                 const dateText = now.toLocaleString('en-US', { 
                     weekday: 'short', 
                     month: 'short', 
@@ -98,7 +87,7 @@ class WeatherWidget {
                 });
                 h1.textContent = `${dateText} ${emoji} ${currentTemp}°C`;
             }
-
+            
             // Clear any retry timeout if successful
             if (this.retryTimeout) {
                 clearTimeout(this.retryTimeout);
@@ -106,10 +95,6 @@ class WeatherWidget {
             }
         } catch (error) {
             console.error('Error displaying weather:', error);
-            // Don't clear the container on error, keep showing the last valid data
-            if (!container.innerHTML) {
-                container.innerHTML = '';
-            }
             
             // Only set a new retry timeout if one isn't already pending
             if (!this.retryTimeout) {
