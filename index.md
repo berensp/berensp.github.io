@@ -17,7 +17,12 @@ layout: home
 
 {% assign route_count = site.rides.size | plus: site.runs.size %}
 
-<a href="/prayers/"><img src="/assets/images/avatars/pmb.hiker.png" alt="PMB avatar" style="width: 160px; height: auto;"></a>
+<a href="/prayers/">
+  <img id="rotating-avatar" 
+       src="/assets/images/avatars/pmb.hiker.png" 
+       alt="PMB avatar" 
+       style="width: 160px; height: auto;">
+</a>
 
 Hi, I'm <span class="header-text">Paul Berens</span> (['b&#x026A;r&#x0259;nz](/assets/audio/berens.mp3))<b>:</b> [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [diaper-changer](/diapering/).
 
@@ -28,3 +33,5 @@ Hi, I'm <span class="header-text">Paul Berens</span> (['b&#x026A;r&#x0259;nz](/a
 <span class="header-text">{{ total_content }} freebies on this website:</span> [{{ post_count }} mini-essays](/posts/), [{{ book_count }} book ideas](/books/), [{{ prayer_count }} prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
 
 <span class="header-text">Get in touch:</span> via <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a>, [email](/email/), and [elsewhere](/contact/).
+
+<script src="/assets/js/avatar-rotator.js"></script>
