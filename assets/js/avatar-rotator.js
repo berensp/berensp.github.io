@@ -8,17 +8,17 @@ document.addEventListener('DOMContentLoaded', () => {
     'cartoon.nb',
     'commuter',
     'daddio',
-    'explorer'
+    'explorer',
     'farout',
     'formal',
-    'hiker'
+    'hiker',
     'library',
-    'nakamigo'
+    'nakamigo',
     'neckerchief',
     'newfriend',
     'ratpack',
     'revolution',
-    'ski'
+    'ski',
     'slingbag',
     'smokin',
     'vc',
