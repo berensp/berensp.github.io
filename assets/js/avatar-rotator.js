@@ -10,7 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
     'daddio',
     'explorer',
     'farout',
-    'formal',
     'hiker',
     'library',
     'nakamigo',
