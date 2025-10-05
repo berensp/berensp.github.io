@@ -124,14 +124,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Calculate relative dates for current year
     const relativeDates = calculateRelativeDates(currentYear);
-    
-    // Update page title (h1) with current date
-    document.querySelector('h1').textContent = pacificTime.toLocaleString('en-US', { 
-      weekday: 'short', 
-      year: 'numeric', 
-      month: 'short', 
-      day: 'numeric' 
-    });
 
     const scheduleBody = document.getElementById('schedule-body');
     scheduleBody.innerHTML = '';
@@ -210,7 +202,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <script src="/assets/js/weather.js"></script>
 
-<div id="weather-container"></div>
 <div id="event-container"></div>
 <div id="feast-container"></div>
 <div id="birthday-container"></div>
