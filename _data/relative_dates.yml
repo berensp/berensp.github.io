@@ -17,12 +17,12 @@
 # April
 - id: "arbor_day"
   rule: "last-friday-april"
-  event: "Arbor Day 🌳"
+  event: "Arbor Day"
 
 # May
 - id: "mothers_day"
   rule: "second-sunday-may"
-  event: "Mother's Day 💐"
+  event: "Mother's Day"
 
 - id: "armed_forces_day"
   rule: "third-saturday-may"
@@ -36,7 +36,7 @@
 
 - id: "running_day"
   rule: "first-wednesday-june"
-  event: "Global Running Day 👟"
+  event: "Global Running Day"
 
 - id: "dipsea"
   rule: "second-sunday-june"
@@ -44,17 +44,17 @@
 
 - id: "fathers_day"
   rule: "third-sunday-june"
-  event: "Father's Day 👔"
+  event: "Father's Day"
 
 # July
 
 - id: "fry_day"
   rule: "second-friday-july"
-  event: "National Fry Day 🍟"
+  event: "National Fry Day"
 
 - id: "ice_cream_day"
   rule: "third-sunday-july"
-  event: "National Ice Cream Day 🍦"
+  event: "National Ice Cream Day"
 
 # September
 
@@ -62,8 +62,12 @@
   rule: "first-monday-september"
   event: '<a href="/labor.html">Labor Day</a>'
 
-
 # October
+
+- id: "taco_day"
+  rule: "first-tuesday-october"
+  event: "National Taco Day"
+
 - id: "columbus_day"
   rule: "second-monday-october"
   event: "Columbus Day"
@@ -75,87 +79,85 @@
 # November
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
-  event: '<a href="/direct-democracy.html">Election Day</a> 🗳️'
+  event: '<a href="/direct-democracy.html">Election Day</a>'
 
 - id: "thanksgiving"
   rule: "fourth-thursday-november"
-  event: '<a href="/thanksgiving.html">Thanksgiving</a> 🦃'
+  event: '<a href="/thanksgiving.html">Thanksgiving</a>'
 
 - id: "black_friday"
   rule: "fourth-friday-november"
-  event: "Black Friday 🛍️"
-
-# December
+  event: "Black Friday"
 
 # Pre-Easter season
 
 - id: "exodus_ninety"
   rule: "easter-90"  # 40 days before Easter
-  event: 'Exodus 90 begins'
+  event: "Exodus 90 begins"
 
 - id: "septuagesima_sunday"
   rule: "easter-63"  # 9 weeks before Easter
-  event: 'Septuagesima Sunday'
+  event: "Septuagesima Sunday"
 
 - id: "shrove_tuesday"
   rule: "easter-47"  # Day before Ash Wednesday
-  event: 'Shrove Tuesday / Mardi Gras 🎭'
+  event: "Shrove Tuesday / Mardi Gras"
 
 - id: "ash_wednesday"
   rule: "easter-40"  # 40 days before Easter
-  event: 'Ash Wednesday'
+  event: "Ash Wednesday"
 
 - id: "palm_sunday"
   rule: "easter-7"  # 7 days before Easter
-  event: 'Palm Sunday'
+  event: "Palm Sunday"
 
 # Easter (Holy Week)
 
 - id: "spy_wednesday"
   rule: "easter-4"  # 3 days before Easter
-  event: 'Spy Wednesday'
+  event: "Spy Wednesday"
 
 - id: "maundy_thursday"
   rule: "easter-3"  # 3 days before Easter
-  event: 'Maundy Thursday'
+  event: "Maundy Thursday"
 
 - id: "good_friday"
   rule: "easter-2"  # 2 days before Easter
-  event: 'Good Friday'
+  event: "Good Friday"
 
 - id: "holy_saturday"
   rule: "easter-1"  # 1 day before Easter
-  event: 'Holy Saturday / Easter Vigil'
+  event: "Holy Saturday / Easter Vigil"
 
 - id: "easter"
   rule: "easter+0"  # Easter Sunday itself
-  event: 'Easter Sunday'
+  event: "Easter Sunday"
 
 # Post-Easter season
 
 - id: "divine_mercy_sunday"
   rule: "easter+7"  # 1 week after Easter
-  event: 'Divine Mercy Sunday'
+  event: "Divine Mercy Sunday"
 
 - id: "ascension_thursday"
   rule: "easter+39"  # 40th day of Easter (39 days after)
-  event: 'Ascension Thursday'
+  event: "Ascension Thursday"
 
 - id: "pentecost"
   rule: "easter+49"  # 50th day of Easter (49 days after)
-  event: 'Pentecost Sunday'
+  event: "Pentecost Sunday"
 
 - id: "whit_monday"
   rule: "easter+50"  # 50 days post Easter (first day of Ordinary Time)
-  event: 'Whit Monday / Mary, Mother of the Church'
+  event: "Whit Monday / Mary, Mother of the Church"
 
 - id: "trinity_sunday"
   rule: "easter+56"  # Sunday after Pentecost
-  event: 'Solemnity of the Most Holy Trinity'
+  event: "Trinity Sunday"
 
 - id: "corpus_christi"
   rule: "easter+60"  # Thursday after Trinity Sunday
-  event: 'Solemnity of the Most Holy Body and Blood of Christ'
+  event: "Corpus Christi"
 
 - id: "sacred_heart"
   rule: "easter+68"  # Friday after the second Sunday after Pentecost
