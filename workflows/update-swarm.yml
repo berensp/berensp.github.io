@@ -1,0 +1,87 @@
+name: Update Swarm Check-ins
+
+on:
+  schedule:
+    # Runs daily at 6 AM UTC (adjust as needed)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  update-checkins:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Fetch Swarm check-ins
+        env:
+          FOURSQUARE_ACCESS_TOKEN: ${{ secrets.FOURSQUARE_ACCESS_TOKEN }}
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+          
+          const accessToken = process.env.FOURSQUARE_ACCESS_TOKEN;
+          
+          // Foursquare API endpoint for user's recent check-ins
+          const options = {
+            hostname: 'api.foursquare.com',
+            path: '/v2/users/self/checkins?limit=1&v=20231001',
+            headers: {
+              'Authorization': `Bearer ${accessToken}`
+            }
+          };
+          
+          https.get(options, (res) => {
+            let data = '';
+            
+            res.on('data', (chunk) => {
+              data += chunk;
+            });
+            
+            res.on('end', () => {
+              const response = JSON.parse(data);
+              
+              if (response.meta.code === 200) {
+                const lastCheckin = response.response.checkins.items[0];
+                
+                const checkinData = {
+                  venue: lastCheckin.venue.name,
+                  location: `${lastCheckin.venue.location.city}, ${lastCheckin.venue.location.state || lastCheckin.venue.location.country}`,
+                  timestamp: lastCheckin.createdAt,
+                  date: new Date(lastCheckin.createdAt * 1000).toISOString(),
+                  category: lastCheckin.venue.categories[0]?.name || 'Unknown',
+                  url: `https://foursquare.com/v/${lastCheckin.venue.id}`
+                };
+                
+                // Create _data directory if it doesn't exist
+                if (!fs.existsSync('_data')) {
+                  fs.mkdirSync('_data');
+                }
+                
+                // Write to _data/swarm.json
+                fs.writeFileSync('_data/swarm.json', JSON.stringify(checkinData, null, 2));
+                console.log('Check-in data updated successfully!');
+              } else {
+                console.error('API Error:', response.meta);
+                process.exit(1);
+              }
+            });
+          }).on('error', (err) => {
+            console.error('Request error:', err);
+            process.exit(1);
+          });
+          EOF
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add _data/swarm.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Swarm check-in data" && git push)
