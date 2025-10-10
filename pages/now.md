@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-last_modified_at: 2025-07-15
+last_modified_at: 2025-10-10
 description: What I'm up to these days.
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
@@ -15,7 +15,7 @@ description: What I'm up to these days.
 
 [^1]: H/t to <a href="https://sive.rs/" target="_blank">Derek Sivers</a> for this <a href="https://nownownow.com/about" target="_blank">now page concept</a>.
 
-- **[Living](/domiciles/)** in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now with my beautiful family
+- **[Living](/domiciles/)** in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now with my beautiful family{% if site.data.swarm %}—last seen at [{{ site.data.swarm.venue }}]({{ site.data.swarm.url }}) via [Swarm](https://swarmapp.com/).{% endif %}
 - **[Growing](/bio/)** a SaaS biz / digital products portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys)
 - **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - **[Reading](/books/)** [*{{ currently_reading.title }}*]({{ currently_reading.url | relative_url }}) by {{ currently_reading.author }}
