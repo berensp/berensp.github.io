@@ -1,0 +1,162 @@
+name: Update Strava Activities
+
+on:
+  schedule:
+    # Runs daily at 7 AM UTC (adjust as needed)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  update-strava:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Fetch Strava activities
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_ACCESS_TOKEN: ${{ secrets.STRAVA_ACCESS_TOKEN }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+          const { execSync } = require('child_process');
+          
+          const clientId = process.env.STRAVA_CLIENT_ID;
+          const clientSecret = process.env.STRAVA_CLIENT_SECRET;
+          let accessToken = process.env.STRAVA_ACCESS_TOKEN;
+          const refreshToken = process.env.STRAVA_REFRESH_TOKEN;
+          
+          // Function to make HTTPS requests
+          function makeRequest(options, postData = null) {
+            return new Promise((resolve, reject) => {
+              const req = https.request(options, (res) => {
+                let data = '';
+                res.on('data', (chunk) => { data += chunk; });
+                res.on('end', () => {
+                  try {
+                    resolve(JSON.parse(data));
+                  } catch (e) {
+                    reject(new Error('Failed to parse response: ' + data));
+                  }
+                });
+              });
+              req.on('error', reject);
+              if (postData) req.write(postData);
+              req.end();
+            });
+          }
+          
+          // Function to refresh access token
+          async function refreshAccessToken() {
+            console.log('Refreshing access token...');
+            const postData = new URLSearchParams({
+              client_id: clientId,
+              client_secret: clientSecret,
+              refresh_token: refreshToken,
+              grant_type: 'refresh_token'
+            }).toString();
+            
+            const options = {
+              hostname: 'www.strava.com',
+              path: '/oauth/token',
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Content-Length': postData.length
+              }
+            };
+            
+            const response = await makeRequest(options, postData);
+            
+            if (response.access_token) {
+              accessToken = response.access_token;
+              console.log('Access token refreshed successfully');
+              
+              // Update GitHub secret with new access token
+              try {
+                execSync(`gh secret set STRAVA_ACCESS_TOKEN --body "${accessToken}"`, {
+                  env: { ...process.env, GH_TOKEN: process.env.GH_TOKEN }
+                });
+                console.log('GitHub secret updated');
+              } catch (error) {
+                console.warn('Warning: Could not update GitHub secret:', error.message);
+              }
+              
+              return response.access_token;
+            } else {
+              throw new Error('Failed to refresh token: ' + JSON.stringify(response));
+            }
+          }
+          
+          // Function to get most recent activity
+          async function getLatestActivity() {
+            const options = {
+              hostname: 'www.strava.com',
+              path: '/api/v3/athlete/activities?per_page=1',
+              method: 'GET',
+              headers: {
+                'Authorization': `Bearer ${accessToken}`
+              }
+            };
+            
+            return await makeRequest(options);
+          }
+          
+          // Main execution
+          (async () => {
+            try {
+              // Try to get activity, refresh token if needed
+              let activities;
+              try {
+                activities = await getLatestActivity();
+              } catch (error) {
+                console.log('Initial request failed, refreshing token...');
+                await refreshAccessToken();
+                activities = await getLatestActivity();
+              }
+              
+              const activity = activities[0];
+              
+              const stravaData = {
+                name: activity.name,
+                type: activity.type,
+                distance: (activity.distance / 1609.34).toFixed(2), // Convert meters to miles
+                duration: Math.round(activity.moving_time / 60), // Convert seconds to minutes
+                elevation: Math.round(activity.total_elevation_gain * 3.28084), // Convert meters to feet
+                date: activity.start_date,
+                url: `https://www.strava.com/activities/${activity.id}`
+              };
+              
+              // Create _data directory if it doesn't exist
+              if (!fs.existsSync('_data')) {
+                fs.mkdirSync('_data');
+              }
+              
+              // Write to _data/strava.json
+              fs.writeFileSync('_data/strava.json', JSON.stringify(stravaData, null, 2));
+              console.log('Strava data updated successfully!');
+              console.log(JSON.stringify(stravaData, null, 2));
+            } catch (error) {
+              console.error('Error:', error.message);
+              process.exit(1);
+            }
+          })();
+          EOF
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add _data/strava.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Strava activity data" && git push)
