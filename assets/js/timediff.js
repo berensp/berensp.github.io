@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "a few days ago";
           break;
         case 4:
-          message = "not more than four days ago";
+          message = "four days prior";
           break;
         case 5:
           message = "five days back";
@@ -146,7 +146,7 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "a gross of days ago";
           break;
         default:
-          message = `a mere ${diffDays} days ago`;
+          message = `${diffDays} days ago`;
       }
       timeDifferenceEl.textContent = message;
     }
