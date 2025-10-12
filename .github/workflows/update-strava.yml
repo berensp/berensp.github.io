@@ -119,28 +119,39 @@ jobs:
               // Try to get activity, refresh token if needed
               let activities;
               try {
+                console.log('Attempting to fetch activities...');
                 activities = await getLatestActivity();
+                console.log('Initial fetch successful');
               } catch (error) {
-                console.log('Initial request failed, refreshing token...');
-                await refreshAccessToken();
-                activities = await getLatestActivity();
+                console.log('Initial request failed:', error.message);
+                console.log('Refreshing access token...');
+                try {
+                  await refreshAccessToken();
+                  console.log('Token refreshed, retrying fetch...');
+                  activities = await getLatestActivity();
+                  console.log('Retry fetch successful');
+                } catch (refreshError) {
+                  console.error('Token refresh failed:', refreshError.message);
+                  throw refreshError;
+                }
               }
               
-              console.log('API Response:', JSON.stringify(activities, null, 2));
+              console.log('Activities received:', JSON.stringify(activities, null, 2));
               
               if (!activities || activities.length === 0) {
-                console.error('No activities found');
+                console.error('No activities found in response');
                 process.exit(1);
               }
               
+              console.log('Processing activity...');
               const activity = activities[0];
               
               const stravaData = {
                 name: activity.name,
                 type: activity.type,
-                distance: (activity.distance / 1609.34).toFixed(2), // Convert meters to miles
+                distance: (activity.distance / 1000).toFixed(2), // Convert meters to kilometers
                 duration: Math.round(activity.moving_time / 60), // Convert seconds to minutes
-                elevation: Math.round(activity.total_elevation_gain * 3.28084), // Convert meters to feet
+                elevation: Math.round(activity.total_elevation_gain), // Keep in meters
                 date: activity.start_date,
                 url: `https://www.strava.com/activities/${activity.id}`
               };
