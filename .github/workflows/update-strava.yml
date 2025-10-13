@@ -122,6 +122,11 @@ jobs:
                 console.log('Attempting to fetch activities...');
                 activities = await getLatestActivity();
                 console.log('Initial fetch successful');
+                
+                // Check if we got an error response instead of activities
+                if (activities.message || activities.errors) {
+                  throw new Error('API returned error: ' + JSON.stringify(activities));
+                }
               } catch (error) {
                 console.log('Initial request failed:', error.message);
                 console.log('Refreshing access token...');
