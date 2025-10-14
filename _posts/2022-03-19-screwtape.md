@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["theology", "books"]
 ogimage: bkreview_screwtape.jpg
 ---
-![The Screwtape Letters by C. S. Lewis](/assets/og/screwtape.jpg]
+![The Screwtape Letters by C. S. Lewis](/assets/og/bkreview_screwtape.jpg)
 
 Yes, this is could perhaps be considered a children's book, but it's some of the most insightful theology on the deeply insidious nature of evil.
 

@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["theology", "books"]
 ogimage: bkreview_sevenstorey.jpg
 ---
-![The Seven Storey Mountain by Thomas Merton](/assets/og/bkreview_sevenstorey.jpg]
+![The Seven Storey Mountain by Thomas Merton](/assets/og/bkreview_sevenstorey.jpg)
 
 I had a quasi-mystical experience reading this, which left an indelible mark on [my faith life](/catholic). Truly sacred. Merton in the beginning is quite relatable because he's mired in sin like the rest of us—in this way it's not unlike Augustine's *Confessions*. And then he takes you through his conversion, step by step.
 

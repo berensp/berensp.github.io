@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["theology", "books"]
 ogimage: bkreview_this_is_my_body.jpg
 ---
-![This Is My Body by Bishop Robert Barron](/assets/og/bkreview_this_is_my_body.jpg]
+![This Is My Body by Bishop Robert Barron](/assets/og/bkreview_this_is_my_body.jpg)
 
 I had the basics from Bishop Barron's *Word on Fire* podcasts and lectures (e.g., how Christ is speaking very literally in John 6 and doubles down with his language *[trogo]*), but this was a great deeper dive into some territory I hadn't been exposed to:
 - Council of Trent holding that "Christ becomes present in the Eucharistic elements *ex vi verborum* (by the power of the words)" (p.106)
