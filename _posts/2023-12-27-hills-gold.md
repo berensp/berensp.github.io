@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["books"]
 ogimage: bkreview_hills_gold.jpg
 ---
-![How Much of These Hills Is Gold by C Pam Zhang](/assets/og/bkreview_hills_gold.jpg)
+<img src="/assets/og/bkreview_hills_gold.jpg" alt="How Much of These Hills Is Gold by C Pam Zhang" style="width: 160px; height: auto;" />
 
 Mesmerizing, magical writing (from the perspective of the two young children) interspersed with Chinese American history (the plight of immigrant families working the mines and building the railroads).
 

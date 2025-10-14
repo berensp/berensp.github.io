@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["books"]
 ogimage: bkreview_eyes_impossible.png
 ---
-![The Eyes and the Impossible by Dave Eggers](/assets/og/bkreview_eyes_impossible.png)
+<img src="/assets/og/bkreview_eyes_impossible.png" alt="The Eyes and the Impossible by Dave Eggers" style="width: 160px; height: auto;" />
 
 Read with Matthias, and even though some of the language was a bit sophisticated for him, it was so fun to do this one together as a bedtime read...especially with it taking place in Golden Gate Park—I mean, in a massive fictitious city park that just happens to have an archery range, windmill, bison, and be situated next to the beach.
 

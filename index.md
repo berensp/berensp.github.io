@@ -5,11 +5,11 @@ layout: home
 {% assign prayer_count = site.prayers | size %}
 {% assign run_count = site.runs | size %}
 {% assign ride_count = site.rides | size %}
-{% assign book_count = site.books | size %}
+{% assign book_count = site.data.books | size %}
 {% assign post_count = site.posts | size %}
 
 {% assign total_content = site.posts.size
-    | plus: site.books.size
+    | plus: site.data.books.size
     | plus: site.prayers.size
     | plus: site.rides.size
     | plus: site.runs.size

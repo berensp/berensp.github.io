@@ -7,7 +7,7 @@ tags: ["culture", "tech", "american identity", "economics", "books"]
 description: Flatter, but not yet flat
 ogimage: post_world-is-flat.jpg
 ---
-<img src="/assets/og/post_world-is-flat.jpg" alt="The World Is Flat cover" style="width: 50%;">
+<img src="/assets/og/post_world-is-flat.jpg" alt="The World Is Flat cover" style="width: 160px; height: auto;" />
 
 I just realized that April 5 was the 20th anniversary of the publishing of the bestseller *The World Is Flat: A Brief History of the Twenty-first Century* by fellow Minnesotan Tom Friedman. I read it at the time and it captured my imagination in many ways: how technology was democratizing opportunity for people across the world, across industries, across professions. If I were to summarize it in a meme (at the time), it would've been like: *hey, look, now anyone with a "smartphone" (Blackberry) can be a freelance journalist!* Not to poke fun, though: we really were waking up to the new era being ushered in by these "convergence devices" in our pockets[^1].
 

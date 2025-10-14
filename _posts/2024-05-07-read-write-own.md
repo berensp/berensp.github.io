@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["books"]
 ogimage: bkreview_readwriteown.jpg
 ---
-![Read Write Own by Chris Dixon](/assets/og/bkreview_readwriteown.jpg)
+<img src="/assets/og/bkreview_readwriteown.jpg" alt="Read Write Own by Chris Dixon" style="width: 160px; height: auto;" />
 
 Chris Dixon put together a great book, clearly the culmination of years of work and thinking. Which is the real value: a synthesis of computing history, how we got to where we are, and why and how blockchains can be useful to get us to where we want to go (given certain dynamics like "network effects driving take rates").
 
