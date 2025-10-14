@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The World Is Contoured
-permalink: /world-is-flat-20/
 date: 2025-04-28
 author: Paul Berens
 tags: ["culture", "tech", "american identity", "economics", "books"]
