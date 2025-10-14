@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["books"]
 ogimage: bkreview_foundingbros.jpg
 ---
-![Founding Brothers by Joseph Ellis](/assets/og/bkreview_foundingbros.jpg)
+<img src="/assets/og/bkreview_foundingbros.jpg" alt="Founding Brothers by Joseph Ellis" style="width: 160px; height: auto;" />
 
 I feel as though I stepped into the lives of the American founders and emerged with a perspective I wasn't exactly afforded during the revolutionary war chapter of my history class—no offense, Erudite History Professors of Olde.
 

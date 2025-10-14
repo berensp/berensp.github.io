@@ -17,9 +17,9 @@ ogimage: bookshelf.bw.png
     {% for book in books_in_category %}
   <li>
     {% if book.review_slug %}
-      <i><a href="{{ site.baseurl }}/{{ book.review_slug }}">{{ book.title | escape }}</a></i> by {{ book.author | escape }}
+      <i><a href="{{ site.baseurl }}/{{ book.review_slug }}">{{ book.title | escape }}</a></i>
     {% else %}
-      <i>{{ book.title | escape }}</i> by {{ book.author | escape }}
+      <i>{{ book.title | escape }}</i>
     {% endif %}
   </li>
     {% endfor %}
