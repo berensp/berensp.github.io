@@ -1,0 +1,174 @@
+# _data/books.yml
+
+# Last Read
+- title: "King Arthur and His Knights of the Round Table"
+  author: "Roger Lancelyn Green"
+  category: "Last Read"
+  review_slug: "king-arthur"
+
+# Presently Reading
+- title: "The Brothers Karamazov"
+  author: "Fyodor Dostoevsky"
+  category: "Presently Reading"
+
+- title: "The Hitchhiker's Guide to the Galaxy"
+  author: "Douglas Adams"
+  category: "Presently Reading"
+
+# On Deck
+- title: "Avenue of Mysteries"
+  author: "John Irving"
+  category: "On Deck"
+
+# Near Term
+- title: "The Iliad"
+  author: "Homer"
+  category: "Near Term"
+
+- title: "The Shipping News"
+  author: "Annie Proulx"
+  category: "Near Term"
+
+- title: "Range"
+  author: "David Epstein"
+  category: "Near Term"
+
+- title: "Bridge of Sighs"
+  author: "Richard Russo"
+  category: "Near Term"
+
+- title: "The Heaven & Earth Grocery Store"
+  author: "James McBride"
+  category: "Near Term"
+
+- title: "The Life and Times of the Thunderbolt Kid"
+  author: "Bill Bryson"
+  category: "Near Term"
+
+# Favourites
+- title: "Founding Brothers"
+  author: "Joseph Ellis"
+  category: "Favourites"
+  review_slug: "founding-bros"
+
+- title: "The Screwtape Letters"
+  author: "C. S. Lewis"
+  category: "Favourites"
+  review_slug: "screwtape"
+
+- title: "Bad Land"
+  author: "Jonathan Raban"
+  category: "Favourites"
+  review_slug: "bad-land-review"
+
+- title: "The Seven Storey Mountain"
+  author: "Thomas Merton"
+  category: "Favourites"
+  review_slug: "seven-storey"
+
+- title: "Brideshead Revisited"
+  author: "Evelyn Waugh"
+  category: "Favourites"
+  review_slug: "brideshead"
+
+- title: "The Devil in the White City"
+  author: "Erik Larson"
+  category: "Favourites"
+  review_slug: "diwc"
+
+- title: "Confederacy of Dunces"
+  author: "John Kennedy Toole"
+  category: "Favourites"
+
+- title: "Truman"
+  author: "David McCullough"
+  category: "Favourites"
+
+- title: "Pillars of the Earth"
+  author: "Ken Follett"
+  category: "Favourites"
+
+- title: "The Count of Monte Cristo"
+  author: "Alexandre Dumas"
+  category: "Favourites"
+
+# Miscellany
+- title: "Man's Search for Meaning"
+  author: "Viktor E. Frankl"
+  category: "Miscellany"
+  review_slug: "msfm"
+
+- title: "The Eyes and the Impossible"
+  author: "Dave Eggers"
+  category: "Miscellany"
+  review_slug: "eyes-impossible"
+
+- title: "Driftless"
+  author: "David Rhodes"
+  category: "Miscellany"
+
+- title: "The Road"
+  author: "Cormac McCarthy"
+  category: "Miscellany"
+  review_slug: "the-road"
+
+- title: "How Much of These Hills Is Gold"
+  author: "C Pam Zhang"
+  category: "Miscellany"
+  review_slug: "hills-gold"
+
+- title: "Read Write Own"
+  author: "Chris Dixon"
+  category: "Miscellany"
+  review_slug: "read-write-own"
+
+- title: "Horse"
+  author: "Geraldine Brooks"
+  category: "Miscellany"
+  review_slug: "horse"
+
+- title: "This Is My Body"
+  author: "Bishop Robert Barron"
+  category: "Miscellany"
+  review_slug: "this-is-my-body"
+
+- title: "A Prayer for Owen Meany"
+  author: "John Irving"
+  category: "Miscellany"
+
+- title: "Alice's Adventures in Wonderland"
+  author: "Lewis Carroll"
+  category: "Miscellany"
+  review_slug: "alice"
+
+- title: "The World Is Flat"
+  author: "Thomas L. Friedman"
+  category: "Miscellany"
+  review_slug: "the-world-is-flat-20"
+
+# Books by Family/Friends
+- title: "Max, the Bad-Talking Parrot"
+  author: "Patricia Brennan Demuth"
+  category: "Books by Family/Friends"
+
+- title: "There's No I in Office"
+  author: "Jacob Lentz"
+  category: "Books by Family/Friends"
+
+- title: "Half American"
+  author: "Matthew Delmont"
+  category: "Books by Family/Friends"
+
+- title: "Let's Meet on the Moon"
+  author: "Lauren Ranalli"
+  category: "Books by Family/Friends"
+
+- title: "It's Even Worse Than It Looks"
+  author: "Thomas E. Mann"
+  category: "Books by Family/Friends"
+
+# Example with review - just add review_slug when you write a post:
+# - title: "Bad Land"
+#   author: "Jonathan Raban"
+#   category: "Favourites"
+#   review_slug: "bad-land-review"

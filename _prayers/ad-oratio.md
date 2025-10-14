@@ -9,6 +9,7 @@ category: Miscellany
 - "My Lord and My God" ([1 Jn 20:28](https://bible.usccb.org/bible/john/20?28))
 - Lord Jesus Christ, Son of the Living God, have mercy on me, a sinner
 - Lord, thank you for the gift of being in Thy Holy Presence
+- Grant me more desire, more love, more confidence.
 
 ## Prayers
 - [Pater Noster](/prayers/pater-noster/)
