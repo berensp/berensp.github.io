@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["theology", "books"]
 ogimage: bkreview_brideshead.jpg
 ---
-![Brideshead Revisited by Evelyn Waugh](/assets/og/bkreview_brideshead.jpg)
+<img src="/assets/og/bkreview_brideshead.jpg" alt="Brideshead Revisited by Evelyn Waugh" style="width: 160px; height: auto;" />
 
 Read it for the beautiful writing, but stay for the subtle Catholicism. In spite of the dysfunction surrounding the lives of the Flyte children, they all deeply believe—though reluctant to articulate it—that the sacraments are vital (e.g., Anointing of the Sick for Lord Marchmain). They are all drawn back into the life of Christ almost against their wills, and purely through this influx of grace.
 
