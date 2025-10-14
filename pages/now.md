@@ -6,7 +6,7 @@ last_modified_at: 2025-10-11
 description: What I'm up to these days.
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
-{% assign currently_reading = site.books | where: "category", "Presently Reading" | first %}
+{% assign currently_reading = site.data.books | where: "category", "Presently Reading" | first %}
 
 <script src="/assets/js/timediff.js"></script>
 <script src="/assets/js/current-date.js"></script>
@@ -18,7 +18,7 @@ description: What I'm up to these days.
 - **[Living](/domiciles/)** in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now with my beautiful family{% if site.data.swarm %}—most recently spotted at [{{ site.data.swarm.venue }}]({{ site.data.swarm.url }}) via [Swarm](https://swarmapp.com/).{% endif %}
 - **[Growing](/bio/)** a SaaS biz / digital products portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys)
 - **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
-- **[Reading](/books/)** [*{{ currently_reading.title }}*]({{ currently_reading.url | relative_url }}) by {{ currently_reading.author }}
+- **[Reading](/books/)** *{{ currently_reading.title }}* by {{ currently_reading.author }}
 - **[Learning](/learning/)** Exodus 90 disciplines; a little bit of front-end (via Claude); kanban
 - **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://www.strava.com/athletes/berenzino).{% endif %}
 
