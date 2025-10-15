@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
     'ski',
     'slingbag',
     'smokin',
-    'vc'
   ];
 
   // Get Pacific time (matching current-date.js approach exactly)
