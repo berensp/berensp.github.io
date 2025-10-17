@@ -4,24 +4,16 @@ document.addEventListener('DOMContentLoaded', () => {
   const avatarEl = document.getElementById('rotating-avatar');
   if (!avatarEl) return;
 
-  // List of avatar filenames
-  const avatars = [
-    'cartoon.nb',
-    'commuter',
-    'daddio',
-    'explorer',
-    'farout',
-    'hiker',
-    'library',
-    'nakamigo',
-    'neckerchief',
-    'newfriend',
-    'ratpack',
-    'revolution',
-    'ski',
-    'slingbag',
-    'smokin',
-  ];
+  // Avatar by day of week (0 = Sunday, 1 = Monday, etc.)
+  const avatarsByDay = {
+    0: 'ski',        // Sunday
+    1: 'commuter',   // Monday
+    2: 'explorer',   // Tuesday
+    3: 'slingbag',   // Wednesday
+    4: 'ratpack',    // Thursday
+    5: 'farout',     // Friday
+    6: 'hiker'       // Saturday
+  };
 
   // Get Pacific time (matching current-date.js approach exactly)
   const pacificTime = new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
@@ -32,29 +24,22 @@ document.addEventListener('DOMContentLoaded', () => {
   console.log("Pacific Time String:", pacificTime);
   console.log("Parsed Date:", date.toString());
   
-  // Calculate day of year using the same Pacific date
-  const year = date.getFullYear();
-  const month = date.getMonth();
-  const day = date.getDate();
+  // Get day of week (0 = Sunday, 6 = Saturday)
+  const dayOfWeek = date.getDay();
+  const dayNames = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
   
-  const startOfYear = new Date(year, 0, 1);
-  const currentDate = new Date(year, month, day);
-  const dayOfYear = Math.floor((currentDate - startOfYear) / (1000 * 60 * 60 * 24)) + 1;
+  console.log("Day of Week:", dayNames[dayOfWeek]);
   
-  console.log("Pacific Date:", date.toDateString());
-  console.log("Day of Year (Pacific):", dayOfYear);
-  
-  // Select avatar based on day of year
-  const index = dayOfYear % avatars.length;
-  const selectedAvatar = avatars[index];
+  // Select avatar based on day of week
+  const selectedAvatar = avatarsByDay[dayOfWeek];
   
   // Calculate tomorrow's avatar
-  const tomorrowIndex = (dayOfYear + 1) % avatars.length;
-  const tomorrowAvatar = avatars[tomorrowIndex];
+  const tomorrowDayOfWeek = (dayOfWeek + 1) % 7;
+  const tomorrowAvatar = avatarsByDay[tomorrowDayOfWeek];
   
-  console.log("Today's Avatar:", selectedAvatar, `(#${index + 1} of ${avatars.length})`);
-  console.log("Tomorrow's Avatar:", tomorrowAvatar, `(#${tomorrowIndex + 1} of ${avatars.length})`);
-  console.log("Full rotation schedule:", avatars);
+  console.log("Today's Avatar:", selectedAvatar, `(${dayNames[dayOfWeek]})`);
+  console.log("Tomorrow's Avatar:", tomorrowAvatar, `(${dayNames[tomorrowDayOfWeek]})`);
+  console.log("Weekly schedule:", avatarsByDay);
   
   // Update the image source
   avatarEl.src = `/assets/images/avatars/pmb.${selectedAvatar}.png`;
