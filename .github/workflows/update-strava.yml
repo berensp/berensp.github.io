@@ -1,4 +1,4 @@
-name: Update Strava Activities
+name: Update Strava activities
 
 on:
   schedule:
@@ -113,6 +113,20 @@ jobs:
             return await makeRequest(options);
           }
           
+          // Function to get athlete stats
+          async function getAthleteStats() {
+            const options = {
+              hostname: 'www.strava.com',
+              path: '/api/v3/athletes/292688/stats',
+              method: 'GET',
+              headers: {
+                'Authorization': `Bearer ${accessToken}`
+              }
+            };
+            
+            return await makeRequest(options);
+          }
+          
           // Main execution
           (async () => {
             try {
@@ -142,11 +156,6 @@ jobs:
               }
               
               console.log('Activities received:', JSON.stringify(activities, null, 2));
-              
-              // Check if we got an error response
-              if (activities.message || activities.errors) {
-                throw new Error('API returned error: ' + JSON.stringify(activities));
-              }
               
               if (!activities || activities.length === 0) {
                 console.error('No activities found in response');
