@@ -1,4 +1,4 @@
-name: Update Strava activities
+name: Update Strava Activities
 
 on:
   schedule:
@@ -165,6 +165,17 @@ jobs:
               console.log('Processing activity...');
               const activity = activities[0];
               
+              // Get athlete stats for YTD totals
+              console.log('Fetching athlete stats...');
+              let stats;
+              try {
+                stats = await getAthleteStats();
+                console.log('Stats received:', JSON.stringify(stats, null, 2));
+              } catch (error) {
+                console.error('Could not fetch stats:', error.message);
+                stats = null;
+              }
+              
               const stravaData = {
                 name: activity.name,
                 type: activity.type,
@@ -174,6 +185,12 @@ jobs:
                 date: activity.start_date,
                 url: `https://www.strava.com/activities/${activity.id}`
               };
+              
+              // Add YTD stats if available
+              if (stats) {
+                stravaData.ytd_run_distance = (stats.ytd_run_totals?.distance / 1000 || 0).toFixed(2);
+                stravaData.ytd_ride_distance = (stats.ytd_ride_totals?.distance / 1000 || 0).toFixed(2);
+              }
               
               // Create _data directory if it doesn't exist
               if (!fs.existsSync('_data')) {
