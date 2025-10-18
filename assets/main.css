@@ -258,3 +258,19 @@ notabene {
   font-style: italic;
   display: inline;
 }
+
+.tag-yellow {
+  background-color: rgb(253, 236, 166);
+}
+
+.tag-turquoise {
+  background-color: rgb(175, 238, 238);
+}
+
+.tag-lilac {
+  background-color: rgb(243, 228, 255);
+}
+
+.tag-gray {
+  background-color: rgb(211, 211, 211);
+}
