@@ -14,7 +14,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Name</td>
-      <td style="text-align: left">Paul M. Berens (<a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a>)</td>
+      <td style="text-align: left">Paul Berens (<a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a>)</td>
     </tr>
     <tr>
       <td style="text-align: left">Mondegreen</td>
@@ -22,7 +22,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Occupation</td>
-      <td style="text-align: left"><a href="/bio/">Businessman</a></td>
+      <td style="text-align: left"><a href="/bio/">PMM/GTM</a></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Alma Matres</th>
@@ -44,11 +44,11 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Running (YTD)<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
-      <td style="text-align: left">{% if site.data.strava.ytd_run_distance %}{{ site.data.strava.ytd_run_distance }} km{% endif %}</td>
+      <td style="text-align: left">{% if site.data.strava.ytd_run_distance %}{{ site.data.strava.ytd_run_distance | round: 0 }} km{% endif %}</td>
     </tr>
     <tr>
       <td style="text-align: left">Cycling (YTD)<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
-      <td style="text-align: left">{% if site.data.strava.ytd_ride_distance %}{{ site.data.strava.ytd_ride_distance }} km{% endif %}</td>
+      <td style="text-align: left">{% if site.data.strava.ytd_ride_distance %}{{ site.data.strava.ytd_ride_distance | round: 0 }} km{% endif %}</td>
     </tr>
     <tr>
       <td style="text-align: left">Centuries</td>
@@ -133,7 +133,7 @@ description: fun facts
 <ol id="footnotes">
   <li id="fn1">via <a href="https://developers.strava.com/docs/reference/" target="_blank">Strava API</a>.<a href="#fnref1" title="Return to article">↩</a></li>
   <li id="fn2">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref2" title="Return to article">↩</a></li>
-  <li id="fn3">consanguíneos<a href="#fnref3" title="Return to article">↩</a></li>
+  <li id="fn3">Consanguíneos<a href="#fnref3" title="Return to article">↩</a></li>
   <li id="fn4">To the extent humans can be put in a box.<a href="#fnref4" title="Return to article">↩</a></li>
   <li id="fn5">Native, Conversant, Novice; respectively.<a href="#fnref5" title="Return to article">↩</a></li>
 </ol>

@@ -23,7 +23,7 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
-Hi, I'm <span class="header-text">Paul Berens:</span> [product-/go-to-marketer](/bio), [investor](/investments/), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [green-bubbler](/phones/). More [about me](/about/).
+Hi, I'm <span class="header-text">Paul Berens:</span> [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [green-bubbler](/phones/). More [about me](/about/).
 
 <span class="header-text">Now:</span> What I'm up to [now](/now/)(adays), or more specifically, [today](/today/).
 

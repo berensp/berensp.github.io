@@ -261,16 +261,20 @@ notabene {
 
 .tag-yellow {
   background-color: rgb(253, 236, 166);
+  color: #222;
 }
 
 .tag-turquoise {
   background-color: rgb(175, 238, 238);
+  color: #222;
 }
 
 .tag-lilac {
   background-color: rgb(243, 228, 255);
+  color: #222;
 }
 
 .tag-gray {
   background-color: rgb(211, 211, 211);
+  color: #222;
 }
