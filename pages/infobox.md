@@ -10,18 +10,20 @@ description: fun facts
 <table>
   <tbody>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Name</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Basic Info</th>
     </tr>
     <tr>
-      <td style="text-align: left">Pronunication</td>
-      <td style="text-align: left"><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></td>
+      <td style="text-align: left">Name</td>
+      <td style="text-align: left">Paul M. Berens (<a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a>)</td>
     </tr>
-
     <tr>
       <td style="text-align: left">Mondegreen</td>
       <td style="text-align: left">Ball Bearings</td>
     </tr>
-
+    <tr>
+      <td style="text-align: left">Occupation</td>
+      <td style="text-align: left">Businessman</td>
+    </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Alma Matres</th>
     </tr>
@@ -37,13 +39,16 @@ description: fun facts
       <td style="text-align: left">Military</td>
       <td style="text-align: left"><a href="https://x.com/AllThingsSTA" target="_blank">@STA</a></td>
     </tr>
-
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sporty Things</th>
     </tr>
     <tr>
-      <td style="text-align: left">Alpine skis</td>
-      <td style="text-align: left">188 cm</td>
+      <td style="text-align: left">Running (YTD)<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
+      <td style="text-align: left">{% if site.data.strava.ytd_run_distance %}{{ site.data.strava.ytd_run_distance }} km{% endif %}</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cycling (YTD)<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
+      <td style="text-align: left">{% if site.data.strava.ytd_ride_distance %}{{ site.data.strava.ytd_ride_distance }} km{% endif %}</td>
     </tr>
     <tr>
       <td style="text-align: left">Centuries</td>
@@ -54,7 +59,7 @@ description: fun facts
       <td style="text-align: left"><a href="https://www.strava.com/activities/14737190977" target="_blank">1</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Marathons<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
+      <td style="text-align: left">Marathons<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
       <td style="text-align: left">1</td>
     </tr>
     <tr>
@@ -62,7 +67,11 @@ description: fun facts
       <td style="text-align: left">2</td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Int'l Man of Mystery</th>
+      <td style="text-align: left">Alpine skis</td>
+      <td style="text-align: left">188 cm</td>
+    </tr>
+    <tr>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Places</th>
     </tr>
     <tr>
       <td style="text-align: left">Hometown</td>
@@ -81,8 +90,23 @@ description: fun facts
       <td style="text-align: left"><a href="/states/">█████████░ 94%</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Languages</td>
-      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Personal</th>
+    </tr>
+    <tr>
+      <td style="text-align: left">Spouse</td>
+      <td style="text-align: left"><a href="https://x.com/berenslisa" target="_blank">Lisa Berens</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Children</td>
+      <td style="text-align: left">2</td>
+    </tr>
+        <tr>
+      <td style="text-align: left">Tíos<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
+      <td style="text-align: left">19</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MBTI®<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
+      <td style="text-align: left"><a href="/personality.html">INTP</a></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Miscellany</th>
@@ -96,12 +120,12 @@ description: fun facts
       <td style="text-align: left">Independent</td>
     </tr>
     <tr>
-      <td style="text-align: left">MBTI®<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
-      <td style="text-align: left"><a href="/personality.html">INTP</a></td>
+      <td style="text-align: left">Languages</td>
+      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
     </tr>
     <tr>
-      <td style="text-align: left">Tíos<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
-      <td style="text-align: left">19</td>
+      <td style="text-align: left">MBTI®<sup id="fnref5"><a href="#fn5" title="View footnote">5</a></sup></td>
+      <td style="text-align: left"><a href="/personality.html">INTP</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Go-to knot</td>
@@ -111,8 +135,9 @@ description: fun facts
 </table>
 
 <ol id="footnotes">
-  <li id="fn1">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref1" title="Return to article">↩</a></li>
-  <li id="fn2">Native, Conversant, Novice; respectively.<a href="#fnref2" title="Return to article">↩</a></li>
-  <li id="fn3">To the extent humans can be put in a box.<a href="#fnref3" title="Return to article">↩</a></li>
-  <li id="fn4">consanguíneos<a href="#fnref4" title="Return to article">↩</a></li>
+  <li id="fn1">via <a href="https://developers.strava.com/docs/reference/" target="_blank">Strava API</a>.<a href="#fnref1" title="Return to article">↩</a></li>
+  <li id="fn2">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref2" title="Return to article">↩</a></li>
+  <li id="fn3">consanguíneos<a href="#fnref3" title="Return to article">↩</a></li>
+  <li id="fn5">To the extent humans can be put in a box.<a href="#fnref5" title="Return to article">↩</a></li>
+  <li id="fn4">Native, Conversant, Novice; respectively.<a href="#fnref4" title="Return to article">↩</a></li>
 </ol>
