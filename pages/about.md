@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Infobox
-permalink: /infobox/
+title: About
+permalink: /about/
 description: fun facts
 ---
 <p><img src="/assets/images/pmb.portrait.png" alt="portrait" style="width: 30%;">
@@ -22,7 +22,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Occupation</td>
-      <td style="text-align: left">Businessman</td>
+      <td style="text-align: left"><a href="/bio/">Businessman</a></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Alma Matres</th>
@@ -94,7 +94,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Spouse</td>
-      <td style="text-align: left"><a href="https://x.com/berenslisa" target="_blank">Lisa Berens</a></td>
+      <td style="text-align: left"><a href="https://x.com/berenslisa" target="_blank">1</a></td>
     </tr>
     <tr>
       <td style="text-align: left">Children</td>
@@ -105,7 +105,7 @@ description: fun facts
       <td style="text-align: left">19</td>
     </tr>
     <tr>
-      <td style="text-align: left">MBTI®<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
+      <td style="text-align: left">MBTI®<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
       <td style="text-align: left"><a href="/personality.html">INTP</a></td>
     </tr>
     <tr>
@@ -121,11 +121,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Languages</td>
-      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">MBTI®<sup id="fnref5"><a href="#fn5" title="View footnote">5</a></sup></td>
-      <td style="text-align: left"><a href="/personality.html">INTP</a></td>
+      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref5"><a href="#fn5" title="View footnote">5</a></sup></td>
     </tr>
     <tr>
       <td style="text-align: left">Go-to knot</td>
@@ -138,6 +134,6 @@ description: fun facts
   <li id="fn1">via <a href="https://developers.strava.com/docs/reference/" target="_blank">Strava API</a>.<a href="#fnref1" title="Return to article">↩</a></li>
   <li id="fn2">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref2" title="Return to article">↩</a></li>
   <li id="fn3">consanguíneos<a href="#fnref3" title="Return to article">↩</a></li>
-  <li id="fn5">To the extent humans can be put in a box.<a href="#fnref5" title="Return to article">↩</a></li>
-  <li id="fn4">Native, Conversant, Novice; respectively.<a href="#fnref4" title="Return to article">↩</a></li>
+  <li id="fn4">To the extent humans can be put in a box.<a href="#fnref4" title="Return to article">↩</a></li>
+  <li id="fn5">Native, Conversant, Novice; respectively.<a href="#fnref5" title="Return to article">↩</a></li>
 </ol>
