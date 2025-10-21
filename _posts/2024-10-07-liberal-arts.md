@@ -3,7 +3,7 @@ layout: post
 title: On the Liberal Arts
 date: 2024-10-07
 author:	Paul Berens
-tags: ["american identity", "culture", "first principles", "book references"]
+tags: ["american identity", "culture", "first principles", "books"]
 description: Emollit mores nec sinit esse feros
 ---
 ![Dead Poets Society, 1989](/assets/og/post_dead-poets-society.png)
