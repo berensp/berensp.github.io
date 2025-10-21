@@ -20,6 +20,6 @@ description: What I'm up to these days.
 - **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - **[Reading](/books/)** *{{ currently_reading.title }}* by {{ currently_reading.author }}
 - **[Learning](/learning/)** Exodus 90 disciplines; a little bit of front-end (via Claude); kanban
-- **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain{% endif %}
+- **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://www.strava.com/athletes/berenzino/){% endif %}
 
 <span class="muted small">Last updated: {{ page.last_modified_at }}—except ${time in SF}, ${time since last blog post}, ${current book title}, and Swarm and Strava data (via respective APIs).</span>
