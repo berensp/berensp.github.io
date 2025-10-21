@@ -43,14 +43,14 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 
 ## Organization
 - [Pournelle's Iron Law of Bureaucracy](https://gordonbrander.com/pattern/pournelles-iron-law-of-bureaucracy/)
-- Value Capture v. Value Creation Loop – when firms/orgs can extract high margins there is reduced pressure to allocate resources efficiently (See [Liberal Arts post](/liberal-arts.html))
+- Value Capture v. Value Creation Loop – when firms/orgs can extract high margins there is reduced pressure to allocate resources efficiently (e.g., bloat in US four-year universities as described in my [Liberal Arts post](/liberal-arts))
 - [Conway's Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi)
 
 ## Problem-solving
 - Kidlin's Law
 
 ## Psychology/Behavior 
-- Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism/))
+- Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism))
 - Status/Signaling (Veblen goods, stated vs. revealed preferences)
 - Personal Utility Function and Financial Calculation Gap (gap between monetary returns and full economic utility) (e.g., housing rent vs. buy calculation)
 
@@ -61,7 +61,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 
 ## Technology
 - I'm a tech enthusiast, but not a tech solutionist (i.e. it ain't gonna save us): Jevons Paradox, Ellul Principle, Collingridge Dilemma, [Heidegger's Critique of Tech](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology), Neil Postman's Technopoly.
-- It's ambitious, but we should work toward a decentralized web (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/books/read-write-own/))
+- It's ambitious, but we should work toward a decentralized web (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/read-write-own))
 
 ## Miscellanea
 - **Astrobiology:** [*Silentium universi*](https://en.wikipedia.org/wiki/Fermi_paradox)
