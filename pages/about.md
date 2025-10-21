@@ -25,22 +25,15 @@ description: fun facts
       <td style="text-align: left"><a href="/bio/">PMM/GTM</a></td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Alma Matres</th>
+      <td style="text-align: left">Current gig</td>
+      <td style="text-align: left"><a href="https://x.com/varianmedsys" target="_blank">@VarianMedSys</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Grad</td>
-      <td style="text-align: left"><a href="https://x.com/UMich" target="_blank">@UMich</a></td>
+      <td style="text-align: left">Alma Matres</td>
+      <td style="text-align: left"><a href="https://x.com/bostoncollege" target="_blank">@BC</a>, <a href="https://x.com/UMich" target="_blank">@UMich</a></td>
     </tr>
     <tr>
-      <td style="text-align: left">Undergrad</td>
-      <td style="text-align: left"><a href="https://x.com/bostoncollege" target="_blank">@BC</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Military</td>
-      <td style="text-align: left"><a href="https://x.com/AllThingsSTA" target="_blank">@STA</a></td>
-    </tr>
-    <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sporty Things</th>
+      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sport</th>
     </tr>
     <tr>
       <td style="text-align: left">Running (YTD)<sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup></td>
@@ -83,11 +76,12 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Countries visited</td>
-      <td style="text-align: left"><a href="/countries/">█░░░░░░░░░ 13%</a></td>
+      <td style="text-align: left"><a href="/countries/">25 of 195</a><sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup>     
+      </td>
     </tr>
     <tr>
       <td style="text-align: left">States visited</td>
-      <td style="text-align: left"><a href="/states/">█████████░ 94%</a></td>
+      <td style="text-align: left"><a href="/states/">47 of 50</a></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: #cee0f2;">Personal</th>
@@ -101,11 +95,11 @@ description: fun facts
       <td style="text-align: left">2</td>
     </tr>
         <tr>
-      <td style="text-align: left">Tíos<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
+      <td style="text-align: left">Tíos<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
       <td style="text-align: left">19</td>
     </tr>
     <tr>
-      <td style="text-align: left">MBTI®<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
+      <td style="text-align: left">MBTI®<sup id="fnref5"><a href="#fn5" title="View footnote">5</a></sup></td>
       <td style="text-align: left"><a href="/personality.html">INTP</a></td>
     </tr>
     <tr>
@@ -121,7 +115,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Languages</td>
-      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref5"><a href="#fn5" title="View footnote">5</a></sup></td>
+      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref5"><a href="#fn6" title="View footnote">6</a></sup></td>
     </tr>
     <tr>
       <td style="text-align: left">Go-to knot</td>
@@ -133,7 +127,8 @@ description: fun facts
 <ol id="footnotes">
   <li id="fn1">via <a href="https://developers.strava.com/docs/reference/" target="_blank">Strava API</a>.<a href="#fnref1" title="Return to article">↩</a></li>
   <li id="fn2">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref2" title="Return to article">↩</a></li>
-  <li id="fn3">Consanguíneos<a href="#fnref3" title="Return to article">↩</a></li>
-  <li id="fn4">To the extent humans can be put in a box.<a href="#fnref4" title="Return to article">↩</a></li>
-  <li id="fn5">Native, Conversant, Novice; respectively.<a href="#fnref5" title="Return to article">↩</a></li>
+  <li id="fn3">195 countries: this count represents independent sovereign nations with international recognition, which includes the 193 UN member states plus two observer states (Vatican City and Palestine). There are ~50-60 additional territories with their own flags that aren't fully independent countries—including Puerto Rico, Greenland, Hong Kong, French Polynesia, and others.<a href="#fnref3" title="Return to article">↩</a></li>
+  <li id="fn4">Consanguíneos<a href="#fnref4" title="Return to article">↩</a></li>
+  <li id="fn5">To the extent humans can be put in a box.<a href="#fnref5" title="Return to article">↩</a></li>
+  <li id="fn6">Native, Conversant, Novice; respectively.<a href="#fnref6" title="Return to article">↩</a></li>  
 </ol>
