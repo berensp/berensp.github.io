@@ -50,7 +50,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 - Kidlin's Law
 
 ## Psychology/Behavior 
-- Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism/))
+- Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism))
 - Status/Signaling (Veblen goods, stated vs. revealed preferences)
 - Personal Utility Function and Financial Calculation Gap (gap between monetary returns and full economic utility) (e.g., housing rent vs. buy calculation)
 
