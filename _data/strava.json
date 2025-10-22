@@ -1,11 +1,11 @@
 {
-  "name": "Getting groceries",
-  "type": "Ride",
-  "distance": "3.23",
-  "duration": 17,
-  "elevation": 52,
-  "date": "2025-10-19T00:00:50Z",
-  "url": "https://www.strava.com/activities/16185768837",
-  "ytd_run_distance": "613.01",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.51",
+  "duration": 48,
+  "elevation": 111,
+  "date": "2025-10-21T18:29:02Z",
+  "url": "https://www.strava.com/activities/16214959124",
+  "ytd_run_distance": "622.52",
   "ytd_ride_distance": "337.24"
 }
