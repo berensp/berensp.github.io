@@ -24,6 +24,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 - Principal-Agent Problem
 - Cantillon Effect
 - Gresham's Law
+- E.F. Schumacher's "Small is Beautiful"
 - Inequality frameworks:
 	- The "Great Decoupling" (Brynjolfsson/McAfee)
 	- "Hollowing out" hypothesis (Autor)
@@ -32,13 +33,14 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 
 ## Epistemology
 - I'm a [Constructivist](/learning/), but also believe it's hard to get smarter without [reading](/books/) 
-- Literacy Threshold Theory – meaningful knowledge acquisition requires reaching certain threshold levels of literacy[^1].
-- We've got a growing knowledge-wisdom gap. (E.F. Schumacher's "Small is Beautiful")
-- Be ever vigilant of [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) (e.g., *argumentum ad populum)*.
+- Literacy Threshold Theory – meaningful knowledge acquisition requires reaching certain threshold levels of literacy[^1]
+- We've got an ever-widening knowledge-wisdom gap
+- Be ever vigilant of [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) (e.g., *argumentum ad populum)*
+- Replication crisis
 
 ## History/Civilization
-- Beware of discarding things just because they're old ([Cut flowers theory](/cut-flowers.html), [Chesterton's Fence](https://fs.blog/chestertons-fence/), [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)).
-- [Tytler's Cycle](https://thinkingwest.com/2022/11/16/tytlers-cycle-of-civilizations/) – are we headed toward bondage? (see [Safetyism post](/safetyism/))
+- Beware of discarding things just because they're old ([Cut flowers theory](/cut-flowers), [Chesterton's Fence](https://fs.blog/chestertons-fence/), [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)).
+- [Tytler's Cycle](https://thinkingwest.com/2022/11/16/tytlers-cycle-of-civilizations/) – are we headed toward bondage? (see [Safetyism post](/safetyism))
 - [Tainter's Collapse of Complex Societies](https://philosophicaldisquisitions.blogspot.com/2019/02/the-collapse-of-complex-societies_1.html)
 
 ## Organization
