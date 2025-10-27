@@ -21,7 +21,7 @@ function updateRosaryInfo() {
   todayMystery.mysteries.forEach((mystery, index) => {
     mysteryContent += `
       <h2>${mystery.name}</h2>
-      <p><em>Fruit: ${mystery.fruit}</em></p>
+      <p><em>${mystery.fruit}</em></p>
       <ul style="list-style:none">
         <li>
           <input type="checkbox" id="paternoster-${index + 1}"/>
