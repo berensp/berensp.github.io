@@ -1,50 +1,3 @@
-let mysteriesData = [];
-
-// Fetch and parse the YAML file
-async function loadMysteries() {
-  try {
-    const response = await fetch(`${siteUrl}/_data/rosary_mysteries.yml`);
-    const yamlText = await response.text();
-    mysteriesData = parseYAML(yamlText);
-    updateRosaryInfo();
-  } catch (error) {
-    console.error('Error loading mysteries:', error);
-  }
-}
-
-// Simple YAML parser for our specific structure
-function parseYAML(yamlText) {
-  const mysteries = [];
-  const lines = yamlText.split('\n');
-  let currentDay = null;
-  
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-    
-    if (line.startsWith('- day:')) {
-      if (currentDay) mysteries.push(currentDay);
-      currentDay = {
-        day: line.split('day:')[1].trim(),
-        set: '',
-        mysteries: []
-      };
-    } else if (line.includes('set:') && currentDay) {
-      currentDay.set = line.split('set:')[1].trim();
-    } else if (line.includes('- name:') && currentDay) {
-      const name = line.split('name:')[1].trim();
-      const nextLine = lines[i + 1];
-      const fruit = nextLine && nextLine.includes('fruit:') 
-        ? nextLine.split('fruit:')[1].trim() 
-        : '';
-      currentDay.mysteries.push({ name, fruit });
-      i++; // Skip the fruit line since we already processed it
-    }
-  }
-  
-  if (currentDay) mysteries.push(currentDay);
-  return mysteries;
-}
-
 function updateRosaryInfo() {
   const currentTime = new Date();
   const dayOfWeek = currentTime.getDay();
@@ -62,7 +15,7 @@ function updateRosaryInfo() {
 
   const formattedTime = timeFormatter.format(currentTime);
 
-  document.getElementById('todayInfo').innerHTML = `📿 Pray the <strong>${todayMystery.set} Mysteries</strong>—assuming you're in the Pacific Time Zone (where it's currently ${todayMystery.day} ${formattedTime}).`;
+  document.getElementById('todayInfo').innerHTML = `🔿 Pray the <strong>${todayMystery.set} Mysteries</strong>—assuming you're in the Pacific Time Zone (where it's currently ${todayMystery.day} ${formattedTime}).`;
 
   let mysteryContent = '';
   todayMystery.mysteries.forEach((mystery, index) => {
@@ -99,4 +52,4 @@ function updateRosaryInfo() {
   document.getElementById('tomorrowInfo').textContent = `Tomorrow we pray the ${tomorrowMystery.set} Mysteries: ${tomorrowMysteryNames}`;
 }
 
-document.addEventListener('DOMContentLoaded', loadMysteries);
+document.addEventListener('DOMContentLoaded', updateRosaryInfo);

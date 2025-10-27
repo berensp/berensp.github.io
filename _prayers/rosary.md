@@ -38,6 +38,7 @@ category: Marian
 
 <script>
   var siteUrl = '{{ site.url }}';
+  var mysteriesData = {{ site.data.rosary_mysteries | jsonify }};
 </script>
 
 <script src="{{ site.url }}/assets/js/timediff.js"></script>
