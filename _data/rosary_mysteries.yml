@@ -2,56 +2,91 @@
 - day: Sunday
   set: Glorious
   mysteries:
-    - The Resurrection
-    - The Ascension
-    - The Descent of the Holy Spirit
-    - The Assumption
-    - The Coronation of Mary
+    - name: The Resurrection
+      fruit: Faith and Joy
+    - name: The Ascension
+      fruit: Hope and Desire for Heaven
+    - name: The Descent of the Holy Spirit
+      fruit: Wisdom and Love of God, Zeal for Souls
+    - name: The Assumption
+      fruit: Devotion to Mary, Union with God
+    - name: The Coronation of Mary
+      fruit: Eternal Happiness and Trust in Mary's Intercession
 - day: Monday
   set: Joyful
   mysteries:
-    - The Annunciation
-    - The Visitation
-    - The Nativity
-    - The Presentation in the Temple
-    - The Finding in the Temple
+    - name: The Annunciation
+      fruit: Humility, Silence
+    - name: The Visitation
+      fruit: Charity, Thoughtfulness
+    - name: The Nativity
+      fruit: Poverty and Detachment
+    - name: The Presentation in the Temple
+      fruit: Obedience and Purity
+    - name: The Finding in the Temple
+      fruit: Piety and Joy in Finding Jesus
 - day: Tuesday
   set: Sorrowful
   mysteries:
-    - The Agony in the Garden
-    - The Scourging at the Pillar
-    - The Crowning with Thorns
-    - The Carrying of the Cross
-    - The Crucifixion and Death
+    - name: The Agony in the Garden
+      fruit: Sorrow for Sin and Conformity to God's Will
+    - name: The Scourging at the Pillar
+      fruit: Purity and Mortification
+    - name: The Crowning with Thorns
+      fruit: Moral Courage
+    - name: The Carrying of the Cross
+      fruit: Patience, Fortitude
+    - name: The Crucifixion and Death
+      fruit: Perseverance and Salvation
 - day: Wednesday
   set: Glorious
   mysteries:
-    - The Resurrection
-    - The Ascension
-    - The Descent of the Holy Spirit
-    - The Assumption of Mary
-    - The Coronation of the Virgin
+    - name: The Resurrection
+      fruit: Faith, Joy
+    - name: The Ascension
+      fruit: Hope and Desire for Heaven
+    - name: The Descent of the Holy Spirit
+      fruit: Wisdom and Love of God
+    - name: The Assumption of Mary
+      fruit: Devotion to Mary
+    - name: The Coronation of the Virgin
+      fruit: Eternal Happiness and Trust in Mary's Intercession
 - day: Thursday
   set: Luminous
   mysteries:
-    - The Baptism in the Jordan
-    - The Wedding at Cana
-    - The Proclamation of the Kingdom
-    - The Transfiguration
-    - The Institution of the Eucharist
+    - name: The Baptism in the Jordan
+      fruit: Gratitude, Missionary Zeal
+    - name: The Wedding at Cana
+      fruit: Faith in Christ's Power
+    - name: The Proclamation of the Kingdom
+      fruit: Conversion and Repentance
+    - name: The Transfiguration
+      fruit: Desire for Holiness
+    - name: The Institution of the Eucharist
+      fruit: Adoration and Thanksgiving
 - day: Friday
   set: Sorrowful
   mysteries:
-    - The Agony in the Garden
-    - The Scourging at the Pillar
-    - The Crowning with Thorns
-    - The Carrying of the Cross
-    - The Crucifixion and Death of our Lord
+    - name: The Agony in the Garden
+      fruit: Sorrow for Sin and Conformity to God's Will
+    - name: The Scourging at the Pillar
+      fruit: Purity and Mortification
+    - name: The Crowning with Thorns
+      fruit: Moral Courage
+    - name: The Carrying of the Cross
+      fruit: Fortitude and Patience
+    - name: The Crucifixion and Death of our Lord
+      fruit: Perseverance and Salvation
 - day: Saturday
   set: Joyful
   mysteries:
-    - The Annunciation
-    - The Visitation
-    - The Nativity
-    - The Presentation of the Lord
-    - The Finding of the Lord in the Temple
+    - name: The Annunciation
+      fruit: Humility and Silence
+    - name: The Visitation
+      fruit: Charity and Thoughtfulness
+    - name: The Nativity
+      fruit: Poverty and Detachment
+    - name: The Presentation of the Lord
+      fruit: Obedience and Purity
+    - name: The Finding of the Lord in the Temple
+      fruit: Piety and Perseverance
