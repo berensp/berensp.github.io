@@ -15,13 +15,13 @@ function updateRosaryInfo() {
 
   const formattedTime = timeFormatter.format(currentTime);
 
-  document.getElementById('todayInfo').innerHTML = `🔿 Pray the <strong>${todayMystery.set} Mysteries</strong>—assuming you're in the Pacific Time Zone (where it's currently ${todayMystery.day} ${formattedTime}).`;
+  document.getElementById('todayInfo').innerHTML = `Pray the <strong>${todayMystery.set} Mysteries</strong>—assuming you're in the Pacific Time Zone (where it's currently ${todayMystery.day} ${formattedTime}).`;
 
   let mysteryContent = '';
   todayMystery.mysteries.forEach((mystery, index) => {
     mysteryContent += `
       <h2>${mystery.name}</h2>
-      <p><em>Fruit of the Mystery: ${mystery.fruit}</em></p>
+      <p><em>Fruit: ${mystery.fruit}</em></p>
       <ul style="list-style:none">
         <li>
           <input type="checkbox" id="paternoster-${index + 1}"/>

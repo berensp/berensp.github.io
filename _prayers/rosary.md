@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: Rosary
+title: 📿 Rosary
 category: Marian
 ---
 <style>
