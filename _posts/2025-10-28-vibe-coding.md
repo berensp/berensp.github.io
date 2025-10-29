@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vibe Codin'
+title: Vibe Coding
 date: 2025-10-28
 author: Paul Berens
 tags: ["tech"]
@@ -10,17 +10,17 @@ I'm not a developer. But this website has become increasingly sophisticated over
 
 ## Fork and Fumbling
 
-Back in 2019 or early 2020, I forked [Dan Romero's Jekyll site](https://github.com/danromero/danromero.github.io) and deployed it to GitHub Pages. Jekyll was appealing because it was simple: write in Markdown, commit to GitHub, and your site updates automatically. [No servers, no databases, no complexity](/this-site).
+Back in 2019 or early 2020, I forked [Dan Romero's Jekyll site](https://danromero.org) and deployed it to GitHub Pages. Jekyll was appealing because it was simple: write in Markdown, commit to GitHub, and your site updates automatically. [No servers, no databases, no complexity](/this-site).
 
 I meant to keep things simple and just use it for [blogging](/posts/), and for a while I did, but at my core I'm a [tinkerer](/learning/)—and a technophile at that—so this site ended up being my experimentation canvas.
 
-**2019-2022: The Google + Stack Overflow Era**
+### 2019-2022: The Google + Stack Overflow Era
 But this is pre-LLM boom so every problem involved Google queries which led me to Stack Overflow threads, which led me to half-solution code snippets I didn't fully understand but could adapt. Slowly but surely, I added small bits of functionality like time and date calcs, dynamic content displays, etc. Progress was slow but educational.
 
-**2023: The ChatGPT Experiment**
+### 2023: The ChatGPT Experiment
 When ChatGPT launched, I tried using it for coding help. It was hit or miss...maybe more miss. And in this era there was a good amount of "LLM as the confident b.s.er" which is funny 'til it wasn't. Code would look okay, but ultimately error out. I'd go back to Stack Overflow. Or just have a total dead end.
 
-**2024: The Claude Breakthrough**
+### 2024: The Claude Breakthrough
 I tried Claude (the free version initially) and something clicked. When code failed, I'd paste the error message and Claude would immediately spot the issue and fix it—not all the time; but an impressive batting average. On the third or fourth time I found myself reflexively exclaiming "you genius SOB!" I upgraded to Claude Pro. And, of course, with each model (now we're on Sonnet 4.5[^1]) there are step change improvements (less context required, higher hit rates).
 
 [^1]: Just noting this for posterity.
@@ -93,13 +93,15 @@ The nice part of this setup is how simple it is architecturally:
 No servers to maintain, no databases to manage, no hosting costs. Just a static site that happens to have dynamic data.
 
 ## Learnings
-- **Territory that used to seem confusing is now not off the table.** OAuth tokens, refresh tokens, authorization codes—it all felt arcane until I actually worked through it once.
+- **Territory that used to seem confusing is now not off the table.** OAuth tokens, refresh tokens, authorization codes—it all felt arcane until I actually worked through it once. And by "actually worked through it" I mean the 
 - **GitHub Actions are remarkably powerful.** They're basically free scheduled tasks that can run arbitrary code. Perfect for personal projects.
 - **Static sites can be surprisingly dynamic.** With the right architecture, a Jekyll site can pull live data and feel almost real-time, despite being fundamentally static.
-- **You don't need to be a developer to build developer tools.** You just need curiosity, patience, and a good conversation partner (human or AI).
+- **You don't need to be a developer.** You just need curiosity, patience, and a good AI conversation partner. Because you're good enough, smart enough, and gosh darnit, people like you.
 
-## The Result
+For my web savvy friends, I know this is not a technical marvel...it's like your three-year-old showing you her drawing, which makes you beam with pride, but it's like: you know, this is not good by objective standards.
 
-It's not a technical marvel. But it's mine, and I built it mostly vibing with Claude. (And if you're a nerd and curious about the implementation The code is all public on [GitHub](https://github.com/berensp/berensp.github.io).)
+![vibe-drawing](/assets/og/post_vibe-drawing.png)
+
+But it's mine, and I built it mostly vibing with Claude. (And if you're a nerd and curious about the implementation The code is all public on [GitHub](https://github.com/berensp/berensp.github.io).)
 
 — ᴘ. ᴍ. ʙ.
