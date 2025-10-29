@@ -113,7 +113,8 @@ hr {
   line-height: 0.8em;
 }
 
-.style1 :not(pre) > code {
+/* Inline code */
+:not(pre) > code {
     background-color: #f4f4f4;
     padding: 2px 6px;
     border-radius: 3px;
@@ -122,7 +123,8 @@ hr {
     color: #e83e8c;
 }
 
-.style1 pre {
+/* Code blocks */
+pre {
     background-color: #f6f8fa;
     padding: 16px;
     border-radius: 6px;
@@ -130,7 +132,7 @@ hr {
     border: 1px solid #e1e4e8;
 }
 
-.style1 pre code {
+pre code {
     background-color: transparent;
     padding: 0;
     color: #24292e;
