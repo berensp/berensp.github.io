@@ -10,7 +10,7 @@ For those of you who have been with us over the years (read: Mom), you've seen t
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s a new kind of coding I call &quot;vibe coding&quot;, where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It&#39;s possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper…</p>&mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/1886192184808149383?ref_src=twsrc%5Etfw">February 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Fork and Fumbling
+## Forking and Fumbling
 
 Back in 2019 or early 2020, I forked [Dan Romero's Jekyll site](https://danromero.org) and deployed it to GitHub Pages. Jekyll was appealing because it was simple: write in Markdown, commit to GitHub, and your site updates automatically—[no servers, no databases, no complexity](/this-site).
 
@@ -25,9 +25,9 @@ When ChatGPT launched, I tried using it for coding help. It was hit or miss...ty
 ### 2024: The Claude Breakthrough
 I tried Claude (the free version initially) and something clicked. When code failed, I'd paste the error message and Claude would usually spot the issue and fix it—not all the time; but an impressive batting average. On the third or fourth time I found myself reflexively exclaiming "you genius SOB!" I canceled my ChatGPT subscription and upgraded Claude account to Pro.
 
-## Over here integrating APIs
+## Fetching and Refreshing
 
-I had looked into integrating APIs a couple years ago (must've been in my ChatGPT Era), but it was too complex for this fledgling. Time passed and with it step change improvements with each LLM (less context required, higher hit rates).
+I had looked into exploiting APIs a couple years ago (must've been in my ChatGPT Era), but it was too complex for this fledgling. Time passed and with it step change improvements with each LLM (less context required, higher hit rates).
 
 Recently, I thought: *hey, now that we're living in the future (here on Claude Sonnet 4.5[^1]), this is maybe the moment to give this API thing another go.* I started with **Swarm** (which you remember as Foursquare—yes, I still use as a lifelogging tool). It ended up being pretty painless: a GitHub Actions workflow that runs nightly, calls the Foursquare API to grab my latest data, saves it to a .json file in my repo, and commits the change—which triggers Jekyll to rebuild my site with the fresh data.
 
@@ -83,7 +83,7 @@ async function refreshAccessToken() {
 }
 ```
 
-Could I have written this from scratch? *Absolutamente no*. But can I suss out what it does:
+Could I have written this from scratch? Negative, Ghost Rider. But can I suss out what it does:
 1. Makes a POST request to Strava with the refresh token
 2. Gets back a new access token
 3. Updates the GitHub secret so next time it runs, it has the fresh token
@@ -96,17 +96,17 @@ The nice part of this setup is how simple it is architecturally:
 
 No servers to maintain, no databases to manage, no hosting costs. Just a static site that happens to have dynamic data.
 
-## Learnings
-- **Previously confusing territory is now fair game.** OAuth tokens, refresh tokens, authorization codes—it all felt arcane until I actually worked through it once. (And by "actually worked through it," of course I mean "supervising the AI that worked through it".)
+## The Upshot
+- **Previously confusing territory is now fair game.** OAuth tokens, refresh tokens, authorization codes—it's a pretty arcane until I actually worked through it once. (And by "actually worked through it," of course I mean "supervising the AI that worked through it".)
 - **GitHub Actions are remarkably powerful.** They're basically free scheduled tasks that can run arbitrary code. Perfect for personal projects.
 - **Static sites can be a *little* dynamic.** With the right architecture, a Jekyll site can pull live data and feel almost real-time, despite being fundamentally static.
 - **Check your imposter syndrome at the door.** You just need curiosity, patience, and a good AI conversation partner. Because you're good enough, smart enough, and gosh darnit, people like you.
 
-For my web savvy friends, I know this is not a technical marvel...it's like your three-year-old showing you her drawing, which makes you beam with pride, but it's like: *you know what, this is not good by objective standards...I can't even tell whose likeness this is supposed to be.*
+For my web savvy friends, I know this is not a technical marvel...it's like your three-year-old showing you her drawing, which makes you beam with pride, but it's like: *you know what, this is not good by objective standards...I mean, I can't even tell whose likeness this is supposed to be.*
 
 ![vibe-drawing](/assets/og/post_vibe-drawing.png)
 
-But that's okay, because I quite like this little project that I've built mostly by vibing with Claude.
+...but that's okay, because I quite like this little project that I've built mostly by vibing with Claude.
 
 Excelsior,
 
