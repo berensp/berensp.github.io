@@ -6,7 +6,7 @@ author: Paul Berens
 tags: ["tech"]
 description: WAGMI
 ---
-For those of you who have been with us over the years (read: Mom), you've seen this site become increasingly sophisticated—not through any formal training of mine, but through "vibe-coding": learning through AI-powered trial and error.
+For those of you who have been with us over the years (read: Yeobo), you've seen [this site](/) become increasingly sophisticated—not through any formal training of mine, but through "vibe-coding": learning through AI-powered trial and error.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">There&#39;s a new kind of coding I call &quot;vibe coding&quot;, where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It&#39;s possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper…</p>&mdash; Andrej Karpathy (@karpathy) <a href="https://twitter.com/karpathy/status/1886192184808149383?ref_src=twsrc%5Etfw">February 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -20,10 +20,10 @@ I meant to keep things totally simple and just use it for [blogging](/posts/), a
 The early days of this site were pre-LLM boom, so every problem involved Google queries which led me to Stack Overflow threads, which led me to half-solution code snippets I didn't fully understand but could adapt. Slowly but surely, I added small bits of functionality like time and date calcs, dynamic content displays, etc. Progress was slow but educational.
 
 ### 2023: The ChatGPT Experiment
-When ChatGPT launched, I tried using it for coding help. It was hit or miss...typically more miss. And in this era there was a good amount of "LLM as the confident BSer," which is funny 'til it wasn't. The code would look okay, but ultimately error out. I'd go back to Stack Overflow. Or just have a total dead end.
+After ChatGPT went public in late 2022, I tried using it for coding help. It was hit or miss, though typically more miss. In this era there was a good amount of "LLM as the confident BSer," which is amusing...for a short while. So I upgraded to "ChatGPT Plus" almost exactly two years ago (October 2023) in the hopes of some improvement, but alas, the code would look okay, but ultimately error out. I'd go back to Stack Overflow. Or just have a total dead end.
 
 ### 2024: The Claude Breakthrough
-I tried Claude (the free version initially) and something clicked. When code failed, I'd paste the error message and Claude would usually spot the issue and fix it—not all the time; but an impressive batting average. On the third or fourth time I found myself reflexively exclaiming "you genius SOB!" I canceled my ChatGPT subscription and upgraded Claude account to Pro.
+I tried Claude by Anthropic (the free version initially) and something clicked. When code failed, I'd paste the error message and Claude would often spot the issue and fix it—not all the time; but an impressive batting average. On the third or fourth time I found myself reflexively exclaiming "you got it, you genius SOB!" I canceled my ChatGPT subscription and upgraded Claude account to Pro.
 
 ## Fetching and Refreshing
 
@@ -102,11 +102,11 @@ No servers to maintain, no databases to manage, no hosting costs. Just a static 
 - **Static sites can be a *little* dynamic.** With the right architecture, a Jekyll site can pull live data and feel almost real-time, despite being fundamentally static.
 - **Check your imposter syndrome at the door.** You just need curiosity, patience, and a good AI conversation partner. Because you're good enough, smart enough, and gosh darnit, people like you.
 
-For my web savvy friends, I know this is not a technical marvel...it's like your three-year-old showing you her drawing, which makes you beam with pride, but it's like: *you know what, this is not good by objective standards...I mean, I can't even tell whose likeness this is supposed to be.*
+For my web savvy friends, I do realize this is not a technical marvel. I'm basically a three-year-old who's thrilled with his creation, and so you need to look past the anatomical chaos and just beam with pride.
 
 ![vibe-drawing](/assets/og/post_vibe-drawing.png)
 
-...but that's okay, because I quite like this little project that I've built mostly by vibing with Claude.
+And I'm okay with that, because I quite like this little project that I've vibed into existence.
 
 Excelsior,
 
