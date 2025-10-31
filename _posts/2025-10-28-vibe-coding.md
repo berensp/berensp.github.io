@@ -27,7 +27,7 @@ I tried Claude by Anthropic (the free version initially) and something clicked. 
 
 ## Fetching and Refreshing
 
-I had looked into exploiting APIs a couple years ago (must've been in my ChatGPT Era), but it was too complex for this fledgling. Time passed and with it step change improvements with each LLM (less context required, higher hit rates).
+I had looked into exploiting APIs a couple years ago (must've been in my ChatGPT Era), but it was too complex for this muggle. Time passed and with it step change improvements with each LLM (less context required, higher hit rates).
 
 Recently, I thought: *hey, now that we're living in the future (here on Claude Sonnet 4.5[^1]), this is maybe the moment to give this API thing another go.* I started with **Swarm** (which you remember as Foursquare—yes, I still use as a lifelogging tool). It ended up being pretty painless: a GitHub Actions workflow that runs nightly, calls the Foursquare API to grab my latest data, saves it to a .json file in my repo, and commits the change—which triggers Jekyll to rebuild my site with the fresh data.
 
@@ -102,11 +102,11 @@ No servers to maintain, no databases to manage, no hosting costs. Just a static 
 - **Static sites can be a *little* dynamic.** With the right architecture, a Jekyll site can pull live data and feel almost real-time, despite being fundamentally static.
 - **Check your imposter syndrome at the door.** You just need curiosity, patience, and a good AI conversation partner. Because you're good enough, smart enough, and gosh darnit, people like you.
 
-For my web savvy friends, I do realize this is not a technical marvel. I'm basically a three-year-old who's thrilled with his creation, and so you need to look past the anatomical chaos and just beam with pride.
+For my web savvy friends, I do realize this is not a technical marvel. I'm basically a three-year-old who's thrilled with his creation, and so you (the mom or dad) need to look past the anatomical chaos and just beam with pride.
 
 ![vibe-drawing](/assets/og/post_vibe-drawing.png)
 
-And I'm okay with that, because I quite like this little project that I've vibed into existence.
+And that's okay, because I quite like this little project that I've vibed into existence.
 
 Excelsior,
 
