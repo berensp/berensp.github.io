@@ -627,8 +627,10 @@
   bday: "John Adams"
 - date: "10-31"
   bday: "Ferdinand the Handsome (1345)"
+
+# November
 - date: "11-01"
-  bday: "Great-Great-Grandma Mary Josephine McMahon (1847), Antonio Canova (1757)"
+  bday: "Antonio Canova (1757)"
 - date: "11-02"
   bday: "Sarah Bracken"
 - date: "11-03"
@@ -687,6 +689,8 @@
   bday: "C. S. Lewis (1898)"
 - date: "11-30"
   bday: "Jonathan Swift (1667); Mark Twain (1835)"
+
+# December
 - date: "12-01"
   bday: "Michael Sweeney"
 - date: "12-02"
