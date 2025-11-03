@@ -35,6 +35,6 @@ description: ~87% yet to explore
 | 25 | 🇬🇧 | Glasgow |
 | 26 | 🇦🇹 | Vienna |
 
-[^1]: Technically an unincorporated U.S. territory, but it's got its own flag (emoji) so it's going on this page.
+[^1]: Excluded from my `total # of countries` as it's technically an unincorporated U.S. territory—roughly 60 such territories worldwide have their own flags but lack full sovereignty. (See footnote on [about](/about/) page for "country" definition.)
 
 (See also [States visited](/states/).)
