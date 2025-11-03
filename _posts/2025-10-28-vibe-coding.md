@@ -97,12 +97,11 @@ The nice part of this setup is how simple it is architecturally:
 No servers to maintain, no databases to manage, no hosting costs. Just a static site that happens to have dynamic data.
 
 ## The Upshot
-- **Previously confusing territory is now fair game.** OAuth tokens, refresh tokens, authorization codes—it's a pretty arcane until I actually worked through it once. (And by "actually worked through it," of course I mean "supervising the AI that worked through it".)
-- **GitHub Actions are remarkably powerful.** They're basically free scheduled tasks that can run arbitrary code. Perfect for personal projects.
 - **Static sites can be a *little* dynamic.** With the right architecture, a Jekyll site can pull live data and feel almost real-time, despite being fundamentally static.
+- **We're squarely in the low-code era.** Refresh tokens, authorization codes, GitHub Actions—what was once pretty arcane territory is fair game now that I've actually worked through it (and by "worked through it" of course I mean "supervising the AI that worked through it").
 - **Check your imposter syndrome at the door.** You just need curiosity, patience, and a good AI conversation partner. Because you're good enough, smart enough, and gosh darnit, people like you.
 
-For my web savvy friends, I do realize this is not a technical marvel. I'm basically a three-year-old who's thrilled with his creation, and so you (the mom or dad) need to look past the anatomical chaos and just beam with pride.
+For my web savvy friends, I do realize this is not a technical marvel. I'm basically a three-year-old who's thrilled with his creation, and so you (the mom or dad) need to look past the anatomical peculiarities and just beam with pride.
 
 ![vibe-drawing](/assets/og/post_vibe-drawing.png)
 
