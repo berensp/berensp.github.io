@@ -125,7 +125,7 @@ description: fun facts
 </table>
 
 <ol id="footnotes">
-  <li id="fn1">195 countries: this count represents independent sovereign nations with international recognition, which includes the 193 UN member states plus two observer states (Vatican City and Palestine). There are ~50-60 additional territories with their own flags that aren't fully independent countries—including Puerto Rico, Greenland, Hong Kong, French Polynesia, and others.<a href="#fnref1" title="Return to article">↩</a></li>
+  <li id="fn1">195 countries = 193 UN member states (independent sovereign nations with international recognition) + two observer states (Vatican City and Palestine).<a href="#fnref1" title="Return to article">↩</a></li>
   <li id="fn2">via <a href="https://developers.strava.com/docs/reference/" target="_blank">Strava API</a>.<a href="#fnref2" title="Return to article">↩</a></li>
   <li id="fn3">How can you know if someone's run a marathon?...Don't worry; he'll tell you.<a href="#fnref3" title="Return to article">↩</a></li>
   <li id="fn4">Consanguíneos<a href="#fnref4" title="Return to article">↩</a></li>
