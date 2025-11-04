@@ -15,11 +15,17 @@
   event: "Presidents' Day"
 
 # April
+
+- id: "marathon_monday"
+  rule: "third-monday-april"
+  event: "Marathon Monday (Patriots' Day)"
+
 - id: "arbor_day"
   rule: "last-friday-april"
   event: "Arbor Day"
 
 # May
+
 - id: "mothers_day"
   rule: "second-sunday-may"
   event: "Mother's Day"
@@ -80,6 +86,10 @@
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
   event: '<a href="/direct-democracy.html">Election Day</a>'
+
+- id: "philosophy_day"
+  rule: "third-thursday-november"
+  event: '<a href="https://www.unesco.org/en/days/philosophy" target="_blank">World Philosophy Day</a>'
 
 - id: "thanksgiving"
   rule: "fourth-thursday-november"
