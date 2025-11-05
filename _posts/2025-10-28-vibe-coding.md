@@ -5,6 +5,7 @@ date: 2025-10-28
 author: Paul Berens
 tags: ["tech"]
 description: WAGMI
+opimage: post_vibe-drawing.png
 ---
 For those of you who have been with us over the years (read: Yeobo), you've seen [this site](/) become increasingly sophisticated—not through any formal training of mine, but through "vibe-coding": learning through AI-powered trial and error.
 
@@ -83,11 +84,11 @@ async function refreshAccessToken() {
 }
 ```
 
-Could I have written this from scratch? Negative, Ghost Rider. But can I suss out what it does:
+Could I have written this from scratch? Negative, Ghost Rider. But I can suss out what it does:
 1. Makes a POST request to Strava with the refresh token
 2. Gets back a new access token
-3. Updates the GitHub secret so next time it runs, it has the fresh token
-4. Handles errors with grace and style
+3. Updates the GitHub secret so it has the fresh token next time it runs
+4. Handles errors with style and grace
 
 The nice part of this setup is how simple it is architecturally:
 - **Jekyll data files** (`_data/*.json`) can be referenced in templates using Liquid syntax
