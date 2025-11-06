@@ -35,8 +35,11 @@ description: the ultimate to-do list
 - Take a train(s) across the US
 - Get to all 50 states—[three to go](/states/)
 - Get to all US National Parks
-- Summit a west coast mountain (Whitney, Rainier, Denali)
+- ~~Summit a fourteeners~~
+- Summit a *California* fourteener (e.g., Mt. Whitney)[^1]
 - Visit the missions of California
 
 ## Miscellanea
 - ~~Win a car in a raffle~~
+
+[^1]: Then reset the goal to all 12 California fourteeners.
