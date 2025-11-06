@@ -14,6 +14,7 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
 
 ## Economics
+- Behavorial Finance > Efficient Market Hypothesis
 - Disposition Effect
 - Sunk Cost Fallacy
 - Opportunity Cost
