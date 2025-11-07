@@ -56,7 +56,7 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism))
 - Status/Signaling (Veblen goods, stated vs. revealed preferences)
 - Personal Utility Function and Financial Calculation Gap (gap between monetary returns and full economic utility) (e.g., housing rent vs. buy calculation)
-- Enantiodromia (referenced in [Orthopraxy](/orthopraxy.html) post)
+- Enantiodromia (referenced in [Orthopraxy post](/orthopraxy.html))
 
 ## Social Dynamics 
 - Network effects and Dunbar's Number (see [FB post](/fb))
@@ -64,12 +64,13 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - Nassim Taleb's Skin in the Game principle
 
 ## Technology
-- I'm a tech enthusiast, but not a tech solutionist (i.e. it ain't gonna save us): Jevons Paradox, Ellul Principle, Collingridge Dilemma, [Heidegger's Critique of Tech](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology), Neil Postman's Technopoly.
-- It's ambitious, but we should work toward a decentralized web (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/read-write-own))
+- Jevons Paradox
+- Ellul Principle
+- Collingridge Dilemma
+- [Heidegger's Critique of Tech](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology)
+- Neil Postman's Technopoly
 
 ## Miscellanea
-- **Astrobiology:** [*Silentium universi*](https://en.wikipedia.org/wiki/Fermi_paradox)
-- **Soteriology / Teleology:** (See [Catholicism post](/catholic))
 - Pareto Principle – which even extends to food *(Hara hachi bu)* 
 
 [^1]: The answer to why the average bloke can't pick up and bang through *Infinite Jest*—I'm including myself here. (Also the Matthew Effect.)
