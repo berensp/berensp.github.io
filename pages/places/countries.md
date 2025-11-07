@@ -2,39 +2,24 @@
 layout: page
 title: Countries visited
 permalink: /countries/
-description: ~87% yet to explore
 ---
+{% assign country_count = site.data.countries.countries | where: "counts_toward_total", true | size %}
+{% assign total_countries = 195 %}
+{% assign percent_remaining = 100 | minus: country_count | times: 100 | divided_by: total_countries %}
+{% assign excluded_countries = site.data.countries.countries | where: "counts_toward_total", false %}
+
 *"The world is a country which nobody ever yet knew by description; one must travel through it one's self to be acquainted with it."* (—Philip Stanhope, Earl of Chesterfield)
+
+{{ country_count }} of {{ total_countries }} countries visited (~{{ percent_remaining }}% yet to explore)
 
 | Order | Ctry. | First Trip |
 | :----: | :----: | :--- |
-| 1 | 🇺🇸 | Wausau, Wis. |
-| 2 | 🇨🇦 | Victoria Island |
-| 3 | 🇻🇪 | Niquitao, Caracas |
-| 4 | 🇬🇹 | San Lucas Tolimán |
-| 5 | 🇪🇸 | Valencia |
-| 6 | 🇦🇩 | El Pas de la Casa |
-| 7 | 🇰🇷 | Seoul, Daegu, Jeju |
-| 8 | 🇫🇷 | Aix-en-Provence, Paris |
-| 9 | 🇦🇷 | Bariloche |
-| 10 | 🇲🇽 | Acapulco |
-| 11 | 🇹🇭 | Bangkok, Phuket |
-| 12 | 🇩🇴 | Cabarete |
-| 13 | 🇮🇹 | Roma, Firenze, Venezia |
-| 14 | 🇻🇦 | Saint Peter's Basilica |
-| 15 | 🇮🇱 | Tel Aviv, Jerusalem |
-| 16 | 🇯🇴 | Petra, Wadi Rum |
-| 17 | 🇹🇷 | Istanbul, Cappadocia |
-| 18 | 🇸🇪 | Stockholm, Rockelstad |
-| 19 | 🇳🇱 | Amsterdam |
-| 20 | 🇩🇪 | Kaiserslautern, Trier |
-| 21 | 🇨🇭 | Genève |
-| 22 | 🇵🇪 | Lima, Machu Picchu |
-| 23 | 🇵🇷[^1] | Bahia Beach |
-| 24 | 🇮🇳 | Pune |
-| 25 | 🇬🇧 | Glasgow |
-| 26 | 🇦🇹 | Vienna |
+{% for country in site.data.countries.countries -%}
+| {{ country.order }} | {{ country.flag }}{% unless country.counts_toward_total %}[^excluded]{% endunless %} | {{ country.first_trip }} |
+{% endfor %}
 
-[^1]: Excluded from my `total # of countries` as it's technically an unincorporated U.S. territory—roughly 60 such territories worldwide have their own flags but lack full sovereignty. (See footnote on [about](/about/) page for "country" definition.)
+{% if excluded_countries.size > 0 %}
+[^excluded]: {% for country in excluded_countries %}{{ country.name }} - {{ country.exclusion_reason }}{% unless forloop.last %}; {% endunless %}{% endfor %}. (See footnote on [about](/about/) page for "country" definition.)
+{% endif %}
 
 (See also [States visited](/states/).)
