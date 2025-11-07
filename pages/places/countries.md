@@ -19,7 +19,7 @@ permalink: /countries/
 {% endfor %}
 
 {% if excluded_countries.size > 0 %}
-[^excluded]: {% for country in excluded_countries %}{{ country.name }} - {{ country.exclusion_reason }}{% unless forloop.last %}; {% endunless %}{% endfor %}. (See footnote on [about](/about/) page for "country" definition.)
+[^excluded]: {% for country in excluded_countries %}{{ country.exclusion_reason }}{% unless forloop.last %}; {% endunless %}{% endfor %}. (See footnote on [about](/about/) page for "country" definition.)
 {% endif %}
 
 (See also [States visited](/states/).)
