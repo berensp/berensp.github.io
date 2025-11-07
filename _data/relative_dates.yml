@@ -85,7 +85,7 @@
 # November
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
-  event: '<a href="/direct-democracy.html">Election Day</a>'
+  event: "Election Day"
 
 - id: "philosophy_day"
   rule: "third-thursday-november"

@@ -5,6 +5,7 @@ date: 2025-10-28
 author: Paul Berens
 tags: ["tech"]
 description: WAGMI
+opimage: post_vibe-drawing.png
 ---
 For those of you who have been with us over the years (read: Yeobo), you've seen [this site](/) become increasingly sophisticated—not through any formal training of mine, but through "vibe-coding": learning through AI-powered trial and error.
 
@@ -14,7 +15,7 @@ For those of you who have been with us over the years (read: Yeobo), you've seen
 
 Back in 2019 or early 2020, I forked [Dan Romero's Jekyll site](https://danromero.org) and deployed it to GitHub Pages. Jekyll was appealing because it was simple: write in Markdown, commit to GitHub, and your site updates automatically—[no servers, no databases, no complexity](/this-site).
 
-I meant to keep things totally simple and just use it for [blogging](/posts/), and for a short while I did, but at my core I'm a [tinkerer](/learning/)—and a technophile at that—so this site ended up becoming my experimentation canvas.
+I meant to keep things totally simple and just use it for [blog posts](/posts/), and for a short while I did, but at my core I'm a [tinkerer](/learning/)—and a technophile at that—so this site ended up becoming my experimentation canvas.
 
 ### 2019-2022: The Google + Stack Overflow Era
 The early days of this site were pre-LLM boom, so every problem involved Google queries which led me to Stack Overflow threads, which led me to half-solution code snippets I didn't fully understand but could adapt. Slowly but surely, I added small bits of functionality like time and date calcs, dynamic content displays, etc. Progress was slow but educational.
@@ -83,11 +84,11 @@ async function refreshAccessToken() {
 }
 ```
 
-Could I have written this from scratch? Negative, Ghost Rider. But can I suss out what it does:
+Could I have written this from scratch? Negative, Ghost Rider. But I can suss out what it does:
 1. Makes a POST request to Strava with the refresh token
 2. Gets back a new access token
-3. Updates the GitHub secret so next time it runs, it has the fresh token
-4. Handles errors with grace and style
+3. Updates the GitHub secret so it has the fresh token next time it runs
+4. Handles errors with style and grace
 
 The nice part of this setup is how simple it is architecturally:
 - **Jekyll data files** (`_data/*.json`) can be referenced in templates using Liquid syntax

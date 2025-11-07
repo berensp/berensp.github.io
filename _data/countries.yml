@@ -1,0 +1,186 @@
+countries:
+  - order: 1
+    flag: 🇺🇸
+    code: US
+    name: United States
+    first_trip: Wausau, Wis.
+    counts_toward_total: true
+    
+  - order: 2
+    flag: 🇨🇦
+    code: CA
+    name: Canada
+    first_trip: Victoria Island
+    counts_toward_total: true
+    
+  - order: 3
+    flag: 🇻🇪
+    code: VE
+    name: Venezuela
+    first_trip: Niquitao, Caracas
+    counts_toward_total: true
+    
+  - order: 4
+    flag: 🇬🇹
+    code: GT
+    name: Guatemala
+    first_trip: San Lucas Tolimán
+    counts_toward_total: true
+    
+  - order: 5
+    flag: 🇪🇸
+    code: ES
+    name: Spain
+    first_trip: Valencia
+    counts_toward_total: true
+    
+  - order: 6
+    flag: 🇦🇩
+    code: AD
+    name: Andorra
+    first_trip: El Pas de la Casa
+    counts_toward_total: true
+    
+  - order: 7
+    flag: 🇰🇷
+    code: KR
+    name: South Korea
+    first_trip: Seoul, Daegu, Jeju
+    counts_toward_total: true
+    
+  - order: 8
+    flag: 🇫🇷
+    code: FR
+    name: France
+    first_trip: Aix-en-Provence, Paris
+    counts_toward_total: true
+    
+  - order: 9
+    flag: 🇦🇷
+    code: AR
+    name: Argentina
+    first_trip: Bariloche
+    counts_toward_total: true
+    
+  - order: 10
+    flag: 🇲🇽
+    code: MX
+    name: Mexico
+    first_trip: Acapulco
+    counts_toward_total: true
+    
+  - order: 11
+    flag: 🇹🇭
+    code: TH
+    name: Thailand
+    first_trip: Bangkok, Phuket
+    counts_toward_total: true
+    
+  - order: 12
+    flag: 🇩🇴
+    code: DO
+    name: Dominican Republic
+    first_trip: Cabarete
+    counts_toward_total: true
+    
+  - order: 13
+    flag: 🇮🇹
+    code: IT
+    name: Italy
+    first_trip: Roma, Firenze, Venezia
+    counts_toward_total: true
+    
+  - order: 14
+    flag: 🇻🇦
+    code: VA
+    name: Vatican City
+    first_trip: Saint Peter's Basilica
+    counts_toward_total: true
+    
+  - order: 15
+    flag: 🇮🇱
+    code: IL
+    name: Israel
+    first_trip: Tel Aviv, Jerusalem
+    counts_toward_total: true
+    
+  - order: 16
+    flag: 🇯🇴
+    code: JO
+    name: Jordan
+    first_trip: Petra, Wadi Rum
+    counts_toward_total: true
+    
+  - order: 17
+    flag: 🇹🇷
+    code: TR
+    name: Turkey
+    first_trip: Istanbul, Cappadocia
+    counts_toward_total: true
+    
+  - order: 18
+    flag: 🇸🇪
+    code: SE
+    name: Sweden
+    first_trip: Stockholm, Rockelstad
+    counts_toward_total: true
+    
+  - order: 19
+    flag: 🇳🇱
+    code: NL
+    name: Netherlands
+    first_trip: Amsterdam
+    counts_toward_total: true
+    
+  - order: 20
+    flag: 🇩🇪
+    code: DE
+    name: Germany
+    first_trip: Kaiserslautern, Trier
+    counts_toward_total: true
+    
+  - order: 21
+    flag: 🇨🇭
+    code: CH
+    name: Switzerland
+    first_trip: Genève
+    counts_toward_total: true
+    
+  - order: 22
+    flag: 🇵🇪
+    code: PE
+    name: Peru
+    first_trip: Lima, Machu Picchu
+    counts_toward_total: true
+    
+  - order: 23
+    flag: 🇵🇷
+    code: PR
+    name: Puerto Rico
+    first_trip: Bahia Beach
+    counts_toward_total: false
+    exclusion_reason: "Excluded from total as unincorporated U.S. territory—roughly 60 such territories worldwide have their own flags but lack full sovereignty"
+    
+  - order: 24
+    flag: 🇮🇳
+    code: IN
+    name: India
+    first_trip: Pune
+    counts_toward_total: true
+    
+  - order: 25
+    flag: 🇬🇧
+    code: GB
+    name: United Kingdom
+    regions:
+      - name: Scotland
+        first_trip: Glasgow
+    first_trip: Glasgow
+    counts_toward_total: true
+    
+  - order: 26
+    flag: 🇦🇹
+    code: AT
+    name: Austria
+    first_trip: Vienna
+    counts_toward_total: true

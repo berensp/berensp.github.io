@@ -3,7 +3,7 @@ layout: page
 title: Systems
 permalink: /systems/
 ---
-A running list of useful frameworks, mental models, heuristics, and first principles:
+My running list of frameworks, mental models, heuristics, and first principles I find interesting/useful:
 
 ## Decision-making / Metrics
 - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
@@ -14,6 +14,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 - [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
 
 ## Economics
+- Behavorial Finance > Efficient Market Hypothesis
 - Disposition Effect
 - Sunk Cost Fallacy
 - Opportunity Cost
@@ -55,6 +56,7 @@ A running list of useful frameworks, mental models, heuristics, and first princi
 - Cognitive biases ([Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc.) (See [Safetyism post](/safetyism))
 - Status/Signaling (Veblen goods, stated vs. revealed preferences)
 - Personal Utility Function and Financial Calculation Gap (gap between monetary returns and full economic utility) (e.g., housing rent vs. buy calculation)
+- Enantiodromia (referenced in [Orthopraxy](/orthopraxy.html) post)
 
 ## Social Dynamics 
 - Network effects and Dunbar's Number (see [FB post](/fb))
