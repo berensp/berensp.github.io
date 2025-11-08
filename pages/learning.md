@@ -14,6 +14,7 @@ My constructivist continuing education (i.e. tinkering) for present and future e
 | Bridge | <span class="tag tag-yellow">skill</span>
 | Exodus 90 | <span class="tag tag-lilac">experiment</span> |
 | <a href="/investments/">Investing</a> | <span class="tag tag-gray">research</span>
-| JavaScript, YAML, APIs | <span class="tag tag-turquoise">tool</span>
+| <a href="/vibe-coding">Vibe coding</a> (JS, YAML, APIs) | <span class="tag tag-turquoise">tool</span>
 | Korean (한국말) | <span class="tag tag-yellow">skill</span>
 | Piano | <span class="tag tag-yellow">skill</span>
+| <a href="/prayers/">Latin memorization</a>  | <span class="tag tag-yellow">skill</span>
