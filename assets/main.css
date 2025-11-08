@@ -61,7 +61,12 @@ img {
 }
 
 a {
-  color: #0074D9; 
+  color: rgb(59, 130, 246);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 h1, h2, strong {
