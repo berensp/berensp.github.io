@@ -7,6 +7,7 @@ Not that I embody these; I just hold them in high regard.
 - Candor[^1]
 - Creativity
 - Curiosity
+- Eccentricity
 - Etiquette
 - Eutrapelia[^2]
 - Excellence
