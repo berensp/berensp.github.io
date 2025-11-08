@@ -1,36 +1,24 @@
 ---
 layout: home
 ---
-{% assign recipe_count = site.recipes | size %}
-{% assign prayer_count = site.prayers | size %}
-{% assign run_count = site.runs | size %}
-{% assign ride_count = site.rides | size %}
-{% assign book_count = site.data.books | size %}
-{% assign post_count = site.posts | size %}
-
-{% assign total_content = site.posts.size
-    | plus: site.data.books.size
-    | plus: site.prayers.size
-    | plus: site.rides.size
-    | plus: site.runs.size
-    | plus: site.recipes.size %}
-
-{% assign route_count = site.rides.size | plus: site.runs.size %}
-
 <a href="/prayers/">
   <img id="rotating-avatar" 
        alt="PMB avatar" 
        style="width: 160px; height: auto;">
 </a>
 
-Hi, I'm <span class="header-text">Paul Berens:</span> [product-/go-to-marketer](/bio), [learner](/learning/), [believer](/catholic), [runner](/running/), [globetrotter](/travels/), [green-bubbler](/phones/). More [about me](/about/).
+<span class="header-text">By day.</span> Product-/go-to-marketer working in healthcare tech ([bio](/bio/)). A little [running](/running/){% if site.data.strava.ytd_run_distance %} ({{ site.data.strava.ytd_run_distance | round: 0 }} km YTD){% endif %} and [riding](/cycling/){% if site.data.strava.ytd_ride_distance %} ({{ site.data.strava.ytd_ride_distance | round: 0 }} km YTD){% endif %} when I can.
 
-<span class="header-text">Now:</span> What I'm up to [now](/now/)(adays), or more specifically, [today](/today/).
+<span class="header-text">By night.</span> [Reading](/books/) mostly classics I should have read years ago, theology, the occasional novel, and, of course, bedtime stories. [Writing](/posts/) to explore/clarify thinking.
 
-<span class="header-text">Strong beliefs, loosely held:</span> [systems](/systems/), [values](/values/), [pet peeves](/pet-peeves/), [resolutions](/resolutions/).
+<span class="header-text">Beliefs.</span> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not a tech solutionism. *Silentium universi*. [Etc.](/beliefs/)
 
-<span class="header-text">{{ total_content }} freebies on this website:</span> [{{ post_count }} posts](/posts/), [{{ book_count }} book titles](/books/), [{{ prayer_count }} prayers](/prayers/), {{ route_count }} [cycling](/cycling/) and [running](/running/) routes, and [{{ recipe_count }} surefire kid-friendly recipes](/recipes/).
+<span class="header-text">Values.</span> Truth over comfort, curiosity over cool, permanent things, coffee, [etc.](/values/)
 
-<span class="header-text">Get in touch:</span> via <a href="https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe" target="_blank">Signal</a>, [email](/email/), and [elsewhere](/contact/).
+<span class="header-text">Interested in</span> [systems](/systems/) and [tinkering](/learning/) and [swooping GS turns](/skiing).
+
+<span class="header-text">Currently.</span> What I'm up to [now](/now/) (as in, these days) or more granularly, [today](/today/).
+
+<span class="header-text">Get in touch.</span> via [Signal](https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe), [email](/email/), and [elsewhere](/contact/).
 
 <script src="/assets/js/avatar-rotator.js"></script>
