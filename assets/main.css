@@ -60,8 +60,9 @@ img {
     }
 }
 
+/* switch back to rgb(59, 130, 246) */
 a {
-  color: rgb(59, 130, 246);
+  color: #f59e0b;
   text-decoration: none;
 }
 
@@ -74,9 +75,10 @@ h1, h2, h3 {
   color: #111; 
 }
 
+/* switch back to background: rgba(59, 130, 246, 0.15) and color: #0a1464; */
 strong {
-  background: rgba(59, 130, 246, 0.15);
-  color: #0a1464;
+  background: rgb(253, 236, 166);
+  color: #c2410c;
 }
 
 /* Sizes and spacing */
