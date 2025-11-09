@@ -60,16 +60,6 @@ img {
     }
 }
 
-
-/* Option 15: Lighter Blue Highlight (Matches Link Blue) + Navy */
-.heading {
-  background: rgba(59, 130, 246, 0.10);
-  color: #0a1464;
-  padding: 2px 6px;
-  display: inline;
-  line-height: 1.8;
-}
-
 a {
   color: rgb(59, 130, 246);
   text-decoration: none;
@@ -79,17 +69,24 @@ a:hover {
   text-decoration: underline;
 }
 
-h1, h2, strong {
+/* Colors */
+h1, h2, h3 {
   color: #111; 
 }
 
+strong {
+  background: rgba(59, 130, 246, 0.15);
+  color: #0a1464;
+}
+
+/* Sizes and spacing */
 h1 {
   font-size: 1.6em;
 }
 
 h1.book-title {
-    margin-top: 0.5em;
-    margin-bottom: 0.1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.1em;
 }
 
 h2, h3 {
@@ -266,22 +263,22 @@ mark {
   color: black;
 }
 
-mark_paleturquoise { 
+.mark_paleturquoise { 
   background-color: rgb(175, 238, 238);
   color: black;
 }
 
-mark_lilac {
+.mark_lilac {
   background-color: rgb(243, 228, 255);
   color: black;
 }
 
-mark_lightgray {
+.mark_lightgray {
   background-color: rgb(211, 211, 211);
   color: black;
 }
 
-notabene {
+.notabene {
   background-color: rgb(211, 211, 211);
   color: rgb(79,79,79);
   font-style: italic;
