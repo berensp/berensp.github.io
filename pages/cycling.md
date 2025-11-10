@@ -9,6 +9,10 @@ ogimage: marin.ride.bw.png
 
 My preferred means of soaking in the great outdoors whilst spiking serotonin and dopamine. (Alas, I don't allocate the time for it these days and so I end up [running](/running/).)
 
+Year to date distance: **{{ site.data.strava.ytd_ride_distance | round: 0 }} km**[^1]
+
+[^1]: via [Strava API](https://developers.strava.com/docs/reference/).
+
 Some favorite rides 👇
 
 {% assign categories = "Shorter Rides,Medium Rides,Long Rides/Centuries" | split: "," %}
