@@ -7,11 +7,11 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
-<strong>By day.</strong> Product-/go-to-marketer working in healthcare tech ([bio](/bio/)). A little [running](/running/){% if site.data.strava.ytd_run_distance %} ({{ site.data.strava.ytd_run_distance | round: 0 }} km YTD){% endif %} and [riding](/cycling/){% if site.data.strava.ytd_ride_distance %} ({{ site.data.strava.ytd_ride_distance | round: 0 }} km YTD){% endif %} when I can.
+<strong>By day.</strong> Product-/go-to-marketer [working](/bio/) in healthcare tech. A little [investing](/investments/). Some [running](/running/) and [riding](/cycling/) sprinkled in.
 
-<strong>By night.</strong> [Reading](/books/) mostly classics I should have read years ago, theology, the occasional novel, and, of course, bedtime stories. [Writing](/posts/) to explore/clarify thinking.
+<strong>By night.</strong> [Reading](/books/) mostly classics I should have read years ago, and, of course, bedtime stories. [Writing](/posts/) to explore ideas and clarify thinking.
 
-<strong>Beliefs.</strong> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not a tech solutionism. *Silentium universi*. [Etc.](/beliefs/)
+<strong>Strong beliefs, loosely held.</strong> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not a tech solutionism. [Other beliefs](/beliefs/)
 
 <strong>Values.</strong> Truth over comfort, curiosity over cool, permanent things, coffee, [etc.](/values/)
 
