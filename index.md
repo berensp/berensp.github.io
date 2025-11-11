@@ -11,7 +11,7 @@ layout: home
 
 <strong>By night.</strong> [Reading](/books/) mostly classics I should have read years ago, and, of course, bedtime stories. [Writing](/posts/) to explore ideas and clarify thinking.
 
-<strong>Strong beliefs, loosely held.</strong> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not a tech solutionism. [Other beliefs](/beliefs/)
+<strong>Strong beliefs, loosely held.</strong> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not a tech solutionism. [Other beliefs](/beliefs/).
 
 <strong>Values.</strong> Truth over comfort, curiosity over cool, permanent things, coffee, [etc.](/values/)
 
