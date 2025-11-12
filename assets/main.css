@@ -257,10 +257,9 @@ sup a {
   padding-left: 0;  /* Remove extra padding since it's handled by .footnotes */
 }
 
-/* Added styles from head.html */
 mark { 
   background-color: rgb(253, 236, 166);
-  color: black;
+  color: inherit; /* Inherits from parent (body, strong, etc.) */
 }
 
 .mark_paleturquoise { 
