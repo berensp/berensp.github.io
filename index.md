@@ -13,7 +13,7 @@ layout: home
 
 <strong>Strong beliefs, loosely held.</strong> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not a tech solutionism. [Other beliefs](/beliefs/).
 
-<strong>Values.</strong> Truth over comfort, curiosity over cool, permanent things, coffee, [etc.](/values/)
+<strong>Values.</strong> Truth over comfort, curiosity over cool, permanent things, [etc.](/values/)
 
 <strong>Interested in</strong> [systems](/systems/) and [tinkering](/learning/) and [swooping GS turns](/skiing).
 
