@@ -13,6 +13,7 @@ Not that I embody these; I just hold them in high regard.
 - Family
 - Forgiveness
 - Friendship
+- Heterodoxy
 - Humour
 - Inclusion
 - Integrity
