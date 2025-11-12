@@ -12,7 +12,7 @@ This site is hosted on [GitHub Pages and built with Jekyll using Clio](/this-sit
 
 Sans-serif typefacing.
 
-Imprinted (and [vibe-coded](/vibe-coding)) at San Francisco, California.
+Imprinted (and [vibe coded](/vibe-coding)) at San Francisco, California.
 
 Anno Domini MMXX. Omnia iura reservata.
 

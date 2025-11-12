@@ -7,7 +7,7 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
-<strong>By day.</strong> Product-/go-to-marketer [working](/bio/) in healthcare tech. A little [investing](/investments/). Some [running](/running/) and [riding](/cycling/) sprinkled in.
+<strong>By day.</strong> Product-/go-to-marketer [working](/bio/) in healthcare tech. A little [running](/running/) and [riding](/cycling/) sprinkled in.
 
 <strong>By night.</strong> [Reading](/books/) mostly classics I should have read years ago, and, of course, bedtime stories. [Writing](/posts/) to explore ideas and clarify thinking.
 
