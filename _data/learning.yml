@@ -1,0 +1,27 @@
+current:
+  - endeavour: '<a href="/vibe-coding">Vibe coding</a> (JS, YAML, APIs)'
+    tag: tool
+    color: turquoise
+  - endeavour: '<a href="/prayers/">Latin</a>'
+    tag: skill
+    color: yellow
+  - endeavour: '<a href="/investments/">Investing</a>'
+    tag: research
+    color: gray
+  - endeavour: Exodus 90
+    tag: experiment
+    color: lilac
+
+upcoming:
+  - endeavour: Audacity
+    tag: tool
+    color: turquoise
+  - endeavour: Bridge
+    tag: skill
+    color: yellow
+  - endeavour: Korean (한국말)
+    tag: skill
+    color: yellow
+  - endeavour: Piano
+    tag: skill
+    color: yellow

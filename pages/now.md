@@ -19,7 +19,7 @@ description: What I'm up to these days.
 - **[Growing](/bio/)** a SaaS biz / digital products portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys)
 - **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - **[Reading](/books/)** *{{ currently_reading.title }}* by {{ currently_reading.author }}
-- **[Learning](/learning/)** [vibe coding](/vibe-coding), [Latin](/prayers/), etc.
+- **[Learning](/learning/)** {{ site.data.learning.current.first.endeavour }}{% if site.data.learning.current[1] %}, {{ site.data.learning.current[1].endeavour | strip_html }}{% endif %}, etc.
 - **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape[^2]{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://www.strava.com/athletes/berenzino/){% endif %}
 - **[Cooking](/recipes/)** up one of these {{ site.recipes.size }} [kid-tested recipes](/recipes/)—or maybe another that's being invented right this moment!
 
