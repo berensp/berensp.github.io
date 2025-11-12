@@ -2,7 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
-last_modified_at: 2025-11-10
+last_modified_at: 2025-11-12
 description: What I'm up to these days.
 ---
 <div id="postDate" data-post-date="{{ site.posts.first.date | date: '%Y-%m-%dT%H:%M:%SZ' }}"></div>
@@ -19,10 +19,10 @@ description: What I'm up to these days.
 - **[Growing](/bio/)** a SaaS biz / digital products portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys)
 - **[Writing](/posts/)** across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - **[Reading](/books/)** *{{ currently_reading.title }}* by {{ currently_reading.author }}
-- **[Learning](/learning/)** Exodus 90 disciplines; a little bit of front-end (via Claude); kanban
+- **[Learning](/learning/)** [vibe coding](/vibe-coding), [Latin](/prayers/), etc.
 - **[Riding](/cycling/)** and **[running](/running/)**—barely enough to stay in shape[^2]{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://www.strava.com/athletes/berenzino/){% endif %}
 - **[Cooking](/recipes/)** up one of these {{ site.recipes.size }} [kid-tested recipes](/recipes/)—or maybe another that's being invented right this moment!
 
-[^2]: Running distance YTD = {{ site.data.strava.ytd_run_distance | round: 0 }} km, and riding distance YTD = {{ site.data.strava.ytd_ride_distance | round: 0 }} km via [Strava API](https://developers.strava.com/docs/reference/).
+[^2]: Running distance YTD = {{ site.data.strava.ytd_run_distance | round: 0 }} km; riding distance YTD = {{ site.data.strava.ytd_ride_distance | round: 0 }} km via [Strava API](https://developers.strava.com/docs/reference/).
 
 <span class="muted small">Last updated: {{ page.last_modified_at }}—except ${time in SF}, ${time since last blog post}, ${current book title}, and Swarm and Strava data (via respective APIs).</span>
