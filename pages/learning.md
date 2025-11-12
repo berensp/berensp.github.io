@@ -8,14 +8,28 @@ ogimage: ggb.jpg
 
 My constructivist continuing education (i.e. tinkering) for present and future endeavours:
 
-| Endeavour | Tag |
-| :--- | :--- |
-| <a href="/vibe-coding">Vibe coding</a> (JS, YAML, APIs) | <span class="tag tag-turquoise">tool</span>
-| <a href="/prayers/">Latin</a>  | <span class="tag tag-yellow">skill</span>
-| <a href="/investments/">Investing</a> | <span class="tag tag-gray">research</span>
-| Exodus 90 | <span class="tag tag-lilac">experiment</span> |
-| <td colspan="2" style="background-color: #f0f0f0; text-align: center; font-style: italic; padding: 8px;">Upcoming:</td> ||
-| Audacity | <span class="tag tag-turquoise">tool</span>
-| Bridge | <span class="tag tag-yellow">skill</span>
-| Korean (한국말) | <span class="tag tag-yellow">skill</span>
-| Piano | <span class="tag tag-yellow">skill</span>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Endeavour</th>
+      <th style="text-align: left;">Tag</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for item in site.data.learning.current -%}
+    <tr>
+      <td>{{ item.endeavour }}</td>
+      <td><span class="tag tag-{{ item.color }}">{{ item.tag }}</span></td>
+    </tr>
+    {% endfor -%}
+    <tr>
+      <td colspan="2" style="background-color: #f0f0f0; text-align: center; font-style: italic; padding: 8px;">upcoming</td>
+    </tr>
+    {% for item in site.data.learning.upcoming -%}
+    <tr>
+      <td>{{ item.endeavour }}</td>
+      <td><span class="tag tag-{{ item.color }}">{{ item.tag }}</span></td>
+    </tr>
+    {% endfor -%}
+  </tbody>
+</table>
