@@ -1,0 +1,87 @@
+- platform: Bluesky
+  handle: "@berensp"
+  url: "https://bsky.app/profile/berensp.bsky.social"
+  web3: false
+
+- platform: Clubhouse
+  handle: "@berensp"
+  url: "https://clubhouse.com/@berensp"
+  web3: false
+
+- platform: Converse
+  handle: "@berensp"
+  url: "https://converse.xyz/dm/berensp.converse.xyz"
+  web3: true
+
+- platform: Discord
+  handle: "@berensp"
+  url: "https://discordapp.com/users/181094465874821120"
+  web3: false
+
+- platform: Email
+  handle: "click here"
+  url: "/email/"
+  web3: false
+
+- platform: Farcaster
+  handle: "@berensp.eth"
+  url: "https://warpcast.com/berensp.eth"
+  web3: true
+
+- platform: friend.tech
+  handle: "@berensp"
+  url: "https://friend.tech/berensp"
+  web3: true
+
+- platform: KakaoTalk
+  handle: "@berensp"
+  url: "../assets/images/kakao.berensp.jpg"
+  web3: false
+
+- platform: LinkedIn
+  handle: "@berensp"
+  url: "https://www.linkedin.com/in/berensp/"
+  web3: false
+
+- platform: Marco Polo
+  handle: "@paul-b-4yhvV"
+  url: "https://marcopolo.me/s/paul-b-4yhvV"
+  web3: false
+  note: "Good grief, Marco Polo. Roll out vanity URLs right this minute."
+
+- platform: Mastodon
+  handle: "@berensp@mas.to"
+  url: "https://mas.to/@berensp"
+  web3: false
+  rel: "me"
+
+- platform: Matrix
+  handle: "@berensp"
+  url: "https://matrix.to/#/@berensp:matrix.org"
+  web3: false
+
+- platform: Reddit
+  handle: "@berensp"
+  url: "https://www.reddit.com/user/berensp/"
+  web3: false
+
+- platform: Signal
+  handle: "@berensp.01"
+  url: "https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe"
+  web3: false
+
+- platform: Strava
+  handle: "@berenzino"
+  url: "https://www.strava.com/athletes/berenzino"
+  web3: false
+  note: "Some day I'll buy strava.com/athletes/berensp for a large, undisclosed sum."
+
+- platform: Telegram
+  handle: "@berensp"
+  url: "https://t.me/berensp"
+  web3: false
+
+- platform: 𝕏 (Twitter)
+  handle: "@berensp"
+  url: "https://x.com/berensp"
+  web3: false
