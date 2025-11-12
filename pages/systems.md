@@ -33,11 +33,12 @@ My running list of frameworks, mental models, heuristics, and first principles I
 	- Skill-biased technological change (SBTC)
 
 ## Epistemology
-- I'm a [Constructivist](/learning/), but also believe it's hard to get smarter without [reading](/books/) 
-- Literacy Threshold Theory – meaningful knowledge acquisition requires reaching certain threshold levels of literacy[^1]
+- Literacy Threshold Theory[^1]
 - We've got an ever-widening knowledge-wisdom gap
 - Be ever vigilant of [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) (e.g., *argumentum ad populum)*
 - Replication crisis
+
+[^1]: Meaningful knowledge acquisition requires reaching certain threshold levels of literacy. The answer to why the average bloke can't pick up and bang through *Infinite Jest*—I'm including myself here. (Also the Matthew Effect.)
 
 ## History/Civilization
 - Beware of discarding things just because they're old ([Cut flowers theory](/cut-flowers), [Chesterton's Fence](https://fs.blog/chestertons-fence/), [Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)).
@@ -71,6 +72,4 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - Neil Postman's Technopoly
 
 ## Miscellanea
-- Pareto Principle – which even extends to food *(Hara hachi bu)* 
-
-[^1]: The answer to why the average bloke can't pick up and bang through *Infinite Jest*—I'm including myself here. (Also the Matthew Effect.)
+- Pareto Principle – which even extends to food *(Hara hachi bu)*
