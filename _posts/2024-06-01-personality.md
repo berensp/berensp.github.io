@@ -58,6 +58,6 @@ AI will undoubtedly improve these assessments over time (e.g., honing questions 
 
 Is spending time taking and contemplating these assessments worthwhile?
 - In a **work context**, maybe... Obviously, it's sensible to want to understand the people with whom you spend the majority of your waking hours on a deeper level. But I'd argue it can be inadvertently misused when placed in the hands of lay teammates and managers instead of well-trained facilitators: what starts out under the aegis of diversity—diverse personalities fostering great teams and a healthy culture—ends up with value judgments attached to certain types (e.g., extraversion > introversion; Achiever > Adaptability; etc.). It's not so bizarre when you consider the fact that the average person isn't really equipped to interpret results, combined with our tendency to make snap judgments.
-- In a **personal context**, sure—after all, *know thyself*. Even if we humans are too dynamic and interesting to be neatly characterized by a personality test, it's at least [good fodder for cocktail parties](/infobox/).
+- In a **personal context**, sure—after all, *know thyself*. Even if we humans are too dynamic and interesting to be neatly characterized by a personality test, it's at least good fodder for cocktail parties.
 
 — ᴘ. ᴍ. ʙ.
