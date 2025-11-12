@@ -9,7 +9,7 @@ Say hello on your favorite messaging app:
 {% for contact in site.data.contacts -%}
 - **{% if contact.web3 %}<mark>{{ contact.platform }}</mark>{% else %}{{ contact.platform }}{% endif %}** (<a href="{{ contact.url }}" target="_blank"{% if contact.rel %} rel="{{ contact.rel }}"{% endif %}>{{ contact.handle }}</a>){% if contact.note %}[^{{ forloop.index }}]{% endif %}
 {% endfor %}
-	<mark><span class="muted small" style="color: #ea580c;">web3</span></mark>
+	<mark><span class="muted small" style="color: #ea580c; font-weight: bold;">web3</span></mark>
 
 {% assign footnote_index = 1 -%}
 {% for contact in site.data.contacts -%}
