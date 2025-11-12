@@ -23,7 +23,7 @@ My constructivist continuing education (i.e. tinkering) for present and future e
     </tr>
     {% endfor -%}
     <tr>
-      <td colspan="2" style="background-color: #f0f0f0; text-align: center; font-style: italic; padding: 4px 8px;">upcoming</td>
+      <td colspan="2" style="background-color: #f0f0f0; text-align: center; font-style: italic; padding: 0px 8px;"><span class="muted small">Upcoming</span></td>
     </tr>
     {% for item in site.data.learning.upcoming -%}
     <tr>
