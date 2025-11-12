@@ -5,7 +5,7 @@ permalink: /contact/
 ogimage: phone.png
 description: Say hello on these apps, messengers, etc.
 ---
-Say hello on your favorite messaging app:
+Say hello on your favorite of {{ site.data.contacts.size }} messaging apps:
 {% for contact in site.data.contacts -%}
 - **{% if contact.web3 %}<mark>{{ contact.platform }}</mark>{% else %}{{ contact.platform }}{% endif %}** (<a href="{{ contact.url }}" target="_blank"{% if contact.rel %} rel="{{ contact.rel }}"{% endif %}>{{ contact.handle }}</a>){% if contact.note %}[^{{ forloop.index }}]{% endif %}
 {% endfor %}
