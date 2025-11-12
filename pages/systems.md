@@ -23,10 +23,9 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - Tragedy of the Commons
 - Moral Hazard
 - Principal-Agent Problem
-- Cantillon Effect
-- Gresham's Law
 - E.F. Schumacher's "Small is Beautiful"
 - Inequality frameworks:
+	- Cantillon Effect
 	- The "Great Decoupling" (Brynjolfsson/McAfee)
 	- "Hollowing out" hypothesis (Autor)
 	- Piketty's r > g formula
