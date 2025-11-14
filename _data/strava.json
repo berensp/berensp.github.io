@@ -1,11 +1,11 @@
 {
-  "name": "Mystic Dunes",
-  "type": "Golf",
-  "distance": "6.05",
-  "duration": 87,
-  "elevation": 35,
-  "date": "2025-11-10T13:34:25Z",
-  "url": "https://www.strava.com/activities/16416442377",
-  "ytd_run_distance": "661.00",
+  "name": "ATC Fun Run",
+  "type": "Run",
+  "distance": "1.33",
+  "duration": 6,
+  "elevation": 0,
+  "date": "2025-11-13T10:44:16Z",
+  "url": "https://www.strava.com/activities/16444289989",
+  "ytd_run_distance": "662.33",
   "ytd_ride_distance": "339.88"
 }
