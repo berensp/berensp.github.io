@@ -1,0 +1,114 @@
+name: Send Daily Song to Telegram
+
+on:
+  schedule:
+    # Runs at 7:30 AM PST (15:30 UTC) daily
+    # Note: Adjust to 14:30 UTC during PDT (spring/summer)
+    - cron: '30 15 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  send-song:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install js-yaml
+        run: npm install js-yaml
+      
+      - name: Send today's song to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node << 'EOF'
+          const https = require('https');
+          const fs = require('fs');
+          const yaml = require('js-yaml');
+          
+          const botToken = process.env.TELEGRAM_BOT_TOKEN;
+          const chatId = process.env.TELEGRAM_CHAT_ID;
+          
+          // Read and parse YAML file
+          const dailySongs = yaml.load(fs.readFileSync('_data/daily_song.yml', 'utf8'));
+          
+          // Get today's date in MM-DD format
+          const today = new Date();
+          const month = String(today.getMonth() + 1).padStart(2, '0');
+          const day = String(today.getDate()).padStart(2, '0');
+          const todayDate = `${month}-${day}`;
+          
+          console.log(`Looking for song with date: ${todayDate}`);
+          
+          // Find today's song
+          const todaySong = dailySongs.find(song => song.date === todayDate);
+          
+          if (!todaySong) {
+            console.error(`No song found for ${todayDate}`);
+            process.exit(1);
+          }
+          
+          console.log(`Found song: ${todaySong.track}`);
+          
+          // Build YouTube Music URL
+          const youtubeUrl = `https://music.youtube.com/watch?v=${todaySong.songId}`;
+          
+          // Create message
+          const message = `🎵 <b>Song of the Day</b>\n\n${todaySong.track}\n\n🎧 <a href="${youtubeUrl}">Listen on YouTube Music</a>`;
+          
+          // Send to Telegram
+          const postData = JSON.stringify({
+            chat_id: chatId,
+            text: message,
+            parse_mode: 'HTML',
+            disable_web_page_preview: false
+          });
+          
+          const options = {
+            hostname: 'api.telegram.org',
+            path: `/bot${botToken}/sendMessage`,
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Content-Length': postData.length
+            }
+          };
+          
+          const req = https.request(options, (res) => {
+            let data = '';
+            res.on('data', (chunk) => { data += chunk; });
+            res.on('end', () => {
+              const response = JSON.parse(data);
+              if (response.ok) {
+                console.log('Message sent successfully!');
+              } else {
+                console.error('Telegram API error:', response);
+                process.exit(1);
+              }
+            });
+          });
+          
+          req.on('error', (error) => {
+            console.error('Request error:', error);
+            process.exit(1);
+          });
+          
+          req.write(postData);
+          req.end();
+          EOF
+      
+      - name: Install js-yaml
+        run: npm install js-yaml
+        working-directory: /tmp
+      
+      - name: Copy js-yaml to workspace
+        run: |
+          mkdir -p node_modules
+          cp -r /tmp/node_modules/js-yaml node_modules/
