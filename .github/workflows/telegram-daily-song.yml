@@ -45,6 +45,11 @@ jobs:
           const day = String(today.getDate()).padStart(2, '0');
           const todayDate = `${month}-${day}`;
           
+          // Format date as YYYY-MM-DD (Day)
+          const year = today.getFullYear();
+          const dayName = today.toLocaleDateString('en-US', { weekday: 'long' });
+          const formattedDate = `${year}-${month}-${day} (${dayName})`;
+          
           console.log(`Looking for song with date: ${todayDate}`);
           
           // Find today's song
@@ -61,7 +66,7 @@ jobs:
           const youtubeUrl = `https://music.youtube.com/watch?v=${todaySong.songId}`;
           
           // Create message
-          const message = `🎵 <b>Song of the Day</b>\n\n${todaySong.track}\n\n🎧 <a href="${youtubeUrl}">Listen on YouTube Music</a>`;
+          const message = `${formattedDate}:\n\n🎵 <b>"${todaySong.track}"</b>\n\n🎧 <a href="${youtubeUrl}">Listen on YouTube Music</a>`;
           
           // Send to Telegram
           const postData = JSON.stringify({
@@ -103,12 +108,3 @@ jobs:
           req.write(postData);
           req.end();
           EOF
-      
-      - name: Install js-yaml
-        run: npm install js-yaml
-        working-directory: /tmp
-      
-      - name: Copy js-yaml to workspace
-        run: |
-          mkdir -p node_modules
-          cp -r /tmp/node_modules/js-yaml node_modules/
