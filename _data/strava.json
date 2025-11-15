@@ -1,11 +1,11 @@
 {
-  "name": "ATC Fun Run",
-  "type": "Run",
-  "distance": "1.33",
-  "duration": 6,
-  "elevation": 0,
-  "date": "2025-11-13T10:44:16Z",
-  "url": "https://www.strava.com/activities/16444289989",
+  "name": "Butcher run",
+  "type": "Ride",
+  "distance": "2.59",
+  "duration": 9,
+  "elevation": 42,
+  "date": "2025-11-15T00:08:11Z",
+  "url": "https://www.strava.com/activities/16460038001",
   "ytd_run_distance": "662.33",
-  "ytd_ride_distance": "339.88"
+  "ytd_ride_distance": "342.47"
 }
