@@ -1,11 +1,11 @@
 {
-  "name": "Butcher run",
+  "name": "Afternoon Ride",
   "type": "Ride",
-  "distance": "2.59",
-  "duration": 9,
-  "elevation": 42,
-  "date": "2025-11-15T00:08:11Z",
-  "url": "https://www.strava.com/activities/16460038001",
+  "distance": "3.61",
+  "duration": 21,
+  "elevation": 52,
+  "date": "2025-11-16T00:22:00Z",
+  "url": "https://www.strava.com/activities/16471144852",
   "ytd_run_distance": "662.33",
-  "ytd_ride_distance": "342.47"
+  "ytd_ride_distance": "346.08"
 }
