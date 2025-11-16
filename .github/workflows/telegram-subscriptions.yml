@@ -2,8 +2,9 @@ name: Manage Telegram Subscriptions
 
 on:
   schedule:
-    # Runs every hour to check for new subscribe/unsubscribe requests
-    - cron: '0 * * * *'
+    # Runs once daily at 7:00 AM PST (15:00 UTC) - 30 min before song goes out
+    # Note: Adjust to 14:00 UTC during PDT (spring/summer)
+    - cron: '0 15 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
