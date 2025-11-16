@@ -27,7 +27,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
-          cat > send-song.js << 'SCRIPT'
+          cat > send-song.cjs << 'SCRIPT'
           const https = require('https');
           const fs = require('fs');
           const yaml = require('js-yaml');
@@ -128,4 +128,4 @@ jobs:
           console.log('All messages sent!');
           SCRIPT
           
-          node --input-type=commonjs send-song.js
+          node send-song.cjs
