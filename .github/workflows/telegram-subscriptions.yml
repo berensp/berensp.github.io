@@ -69,17 +69,34 @@ jobs:
                 method: 'POST',
                 headers: {
                   'Content-Type': 'application/json',
-                  'Content-Length': postData.length
+                  'Content-Length': Buffer.byteLength(postData)
                 }
               };
               
               const req = https.request(options, (res) => {
                 let data = '';
                 res.on('data', (chunk) => { data += chunk; });
-                res.on('end', () => resolve(JSON.parse(data)));
+                res.on('end', () => {
+                  try {
+                    const response = JSON.parse(data);
+                    if (response.ok) {
+                      resolve(response);
+                    } else {
+                      console.error('Telegram API error:', response);
+                      resolve(response); // Don't reject to avoid stopping workflow
+                    }
+                  } catch (e) {
+                    console.error('Failed to parse Telegram response:', data);
+                    resolve(); // Don't reject
+                  }
+                });
               });
               
-              req.on('error', reject);
+              req.on('error', (error) => {
+                console.error('Request error:', error);
+                resolve(); // Don't reject
+              });
+              
               req.write(postData);
               req.end();
             });
