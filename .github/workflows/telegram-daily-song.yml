@@ -126,4 +126,6 @@ jobs:
           
           await Promise.all(sendPromises);
           console.log('All messages sent!');
-          EOF
+          SCRIPT
+          
+          node send-song.js
