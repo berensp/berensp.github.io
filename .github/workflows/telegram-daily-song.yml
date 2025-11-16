@@ -27,7 +27,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         run: |
-          node << 'EOF'
+          cat > send-song.js << 'SCRIPT'
           const https = require('https');
           const fs = require('fs');
           const yaml = require('js-yaml');
