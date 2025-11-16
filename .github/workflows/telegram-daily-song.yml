@@ -128,4 +128,4 @@ jobs:
           console.log('All messages sent!');
           SCRIPT
           
-          node send-song.js
+          node --input-type=commonjs send-song.js
