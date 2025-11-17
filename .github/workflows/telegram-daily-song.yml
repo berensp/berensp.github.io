@@ -77,7 +77,7 @@ jobs:
           const youtubeUrl = `https://music.youtube.com/watch?v=${todaySong.songId}`;
           
           // Create message
-          const message = `${formattedDate}: <a href="${youtubeUrl}"><b>"${todaySong.track}"</b></a>`;
+          const message = `${formattedDate}: <a href="${youtubeUrl}"><b>"${todaySong.track}"</b> by ${todaySong.artist}</a>`;
           
           // Send to all subscribers
           (async () => {
