@@ -1,11 +1,11 @@
 {
-  "name": "Errands",
-  "type": "Ride",
-  "distance": "3.61",
-  "duration": 21,
-  "elevation": 52,
-  "date": "2025-11-16T00:22:00Z",
-  "url": "https://www.strava.com/activities/16471144852",
-  "ytd_run_distance": "662.33",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.64",
+  "duration": 50,
+  "elevation": 131,
+  "date": "2025-11-18T22:13:49Z",
+  "url": "https://www.strava.com/activities/16501663096",
+  "ytd_run_distance": "671.98",
   "ytd_ride_distance": "346.08"
 }
