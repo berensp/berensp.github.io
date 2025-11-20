@@ -133,7 +133,7 @@ jobs:
                 const existingUser = subscribers.users.find(u => u.chat_id === chatId);
                 
                 if (existingUser) {
-                  await sendMessage(chatId, '✅ You\'re already subscribed to the daily song!');
+                  await sendMessage(chatId, '✅ You\'re already subscribed to the daily song, Silly!');
                 } else {
                   subscribers.users.push({
                     chat_id: chatId,
@@ -141,7 +141,7 @@ jobs:
                     subscribed_at: new Date().toISOString()
                   });
                   hasChanges = true;
-                  await sendMessage(chatId, '🎵 <b>Subscribed!</b>\n\nYou\'ll receive the daily song at 7:30 AM PST.\n\nCommands:\n/unsubscribe - Stop receiving songs');
+                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> Your first song will arrive ~07:45 PT. (/unsubscribe - Stop receiving songs)');
                   console.log(`New subscriber: ${username} (${chatId})`);
                 }
               } else if (text === '/unsubscribe') {
@@ -150,13 +150,13 @@ jobs:
                 if (index !== -1) {
                   subscribers.users.splice(index, 1);
                   hasChanges = true;
-                  await sendMessage(chatId, '👋 Unsubscribed. Send /subscribe anytime to rejoin!');
+                  await sendMessage(chatId, '👋 <b>Unsubscribed</b>. Send /subscribe anytime to rejoin!');
                   console.log(`Unsubscribed: ${username} (${chatId})`);
                 } else {
                   await sendMessage(chatId, 'You\'re not currently subscribed. Send /subscribe to start receiving daily songs!');
                 }
               } else if (text === '/help') {
-                await sendMessage(chatId, '🎵 <b>Daily Song Bot</b>\n\nCommands:\n/subscribe - Get daily song at 7:30 AM PST\n/unsubscribe - Stop receiving songs\n/help - Show this message');
+                await sendMessage(chatId, '🛟 <b>Help</b>\n\nCommands:\n/subscribe - Get your daily song (~07:45 PT)\n/unsubscribe - Stop receiving songs\n/help - Show this message');
               }
             }
             
