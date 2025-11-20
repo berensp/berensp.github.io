@@ -1,11 +1,11 @@
 {
-  "name": "GGP Moraga Steps",
-  "type": "Run",
-  "distance": "9.64",
-  "duration": 50,
-  "elevation": 131,
-  "date": "2025-11-18T22:13:49Z",
-  "url": "https://www.strava.com/activities/16501663096",
+  "name": "To Sulahall",
+  "type": "Ride",
+  "distance": "8.35",
+  "duration": 23,
+  "elevation": 10,
+  "date": "2025-11-19T19:33:24Z",
+  "url": "https://www.strava.com/activities/16508759960",
   "ytd_run_distance": "671.98",
-  "ytd_ride_distance": "346.08"
+  "ytd_ride_distance": "354.44"
 }
