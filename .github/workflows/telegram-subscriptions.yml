@@ -141,7 +141,7 @@ jobs:
                     subscribed_at: new Date().toISOString()
                   });
                   hasChanges = true;
-                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> Your first song will arrive ~07:45 PT. (/unsubscribe - Stop receiving songs)');
+                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> Now just sit and wait until ~07:45 PT for your first song to arrive.\n\n/unsubscribe - Stop receiving songs');
                   console.log(`New subscriber: ${username} (${chatId})`);
                 }
               } else if (text === '/unsubscribe') {
