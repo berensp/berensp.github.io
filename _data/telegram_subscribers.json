@@ -1,11 +1,6 @@
 {
   "users": [
     {
-      "chat_id": 459469491,
-      "username": "berensp",
-      "subscribed_at": "2025-11-16T01:02:31.033Z"
-    },
-    {
       "chat_id": 7314765226,
       "username": "Lisa",
       "subscribed_at": "2025-11-16T01:02:31.295Z"
@@ -14,6 +9,11 @@
       "chat_id": 5618878636,
       "username": "TokyoDeke",
       "subscribed_at": "2025-11-19T15:17:03.154Z"
+    },
+    {
+      "chat_id": 459469491,
+      "username": "berensp",
+      "subscribed_at": "2025-11-20T15:16:27.652Z"
     }
   ]
 }
