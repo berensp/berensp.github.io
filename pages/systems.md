@@ -9,9 +9,11 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - [Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)
 - [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)
 - [Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)
-- [Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712)
 - [Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem)
 - [Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)
+- **Limited info:** Bezos' 70% Rule, [Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712), Lasers and Compasses[^1]
+
+[^1]: h/t to Zack Smith for this one.
 
 ## Economics
 - Behavorial Finance > Efficient Market Hypothesis
