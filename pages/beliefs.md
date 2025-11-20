@@ -8,7 +8,7 @@ description: Hey, get off my lawn!
 - It's hard to get smarter without [reading](/books/)
 - I'm a tech *enthusiast,* but not a tech *solutionist* (i.e. it ain't gonna save us) (see Technology section in [systems](/systems/))
 - It's ambitious, but we should work toward a decentralized (human) web before the AI overlords make it impossible (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/read-write-own))
-- Apologies to the ufologists, but my money is on us being alone in the universe *([Silentium universi](https://en.wikipedia.org/wiki/Fermi_paradox))*
+- Apologies to the ufologists, but my money is on us being alone in the universe *(Silentium universi)*
 
 ## *Kvetchy* pet peeves masquerading as beliefs
 - When introducing oneself to a group, no need to lead with "for those who don't know me…"; just introduce yourself
