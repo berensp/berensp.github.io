@@ -76,7 +76,7 @@ h1, h2, h3 {
 
 /* switch back to background: rgba(59, 130, 246, 0.15) and color: #0a1464; */
 strong {
-  color: #ea580c;
+  color: #000080; /* previously orange #ea580c (2025-11-21)  */
 }
 
 /* Sizes and spacing */
