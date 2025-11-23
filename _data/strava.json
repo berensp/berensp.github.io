@@ -1,11 +1,11 @@
 {
-  "name": "a la oficina de correos",
-  "type": "Ride",
-  "distance": "3.53",
-  "duration": 14,
-  "elevation": 82,
-  "date": "2025-11-20T19:46:18Z",
-  "url": "https://www.strava.com/activities/16518228960",
-  "ytd_run_distance": "671.98",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.68",
+  "duration": 49,
+  "elevation": 177,
+  "date": "2025-11-22T22:15:22Z",
+  "url": "https://www.strava.com/activities/16538148738",
+  "ytd_run_distance": "681.66",
   "ytd_ride_distance": "357.97"
 }
