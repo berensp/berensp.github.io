@@ -8,6 +8,9 @@ current:
   - endeavour: '<a href="/vibe-coding">Vibe coding</a>'
     tag: tool
     color: turquoise
+  - endeavour: '<a href="/systems/">Mental models, heuristics</a>'
+    tag: research
+    color: gray
   - endeavour: '<a href="/investments/">Investing</a>'
     tag: research
     color: gray
