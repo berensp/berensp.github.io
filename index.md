@@ -7,18 +7,24 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
-<strong>By day.</strong> Product-/go-to-marketer [working](/bio/) in healthcare tech. A little [running](/running/) and [riding](/cycling/) sprinkled in.
+Picker, grinner, lover, healthcare tech product marketer.
 
-<strong>By night.</strong> [Reading](/books/) mostly classics I should have read years ago, and, of course, bedtime stories. [Writing](/posts/) to explore ideas and clarify thinking.
+## Pages
+- [/beliefs/](/beliefs/) – sanctam Ecclésiam cathólicam, etc.
+- [/bio/](/bio/) – work and background
+- [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
+- [/now/](/now/) – what I'm up to these days
+- [/today/](/today/) – what's on tap today
+- [/values/](/values/) – truth over comfort, etc.
 
-<strong>Strong beliefs, loosely held.</strong> [sanctam Ecclésiam cathólicam](/catholic). Tech enthusiasm, but not tech solutionism. [Other beliefs](/beliefs/).
-
-<strong>Values.</strong> Truth over comfort, curiosity over cool, permanent things, [etc.](/values/)
-
-<strong>Interested in</strong> [systems](/systems/) and [tinkering](/learning/) and [swooping GS turns](/skiing).
-
-<strong>Currently.</strong> What I'm up to [now](/now/) (as in, these days) or more granularly, [today](/today/).
-
-<strong>Get in touch.</strong> via [Signal](https://signal.me/#eu/1t-AfWH8-_l0DAyo_CgPnG4GXDq4hRC6PMLFQ8aoltnPQCCo1ExANrNSmN156kSe), [email](/email/), and [{{ site.data.contacts.size | minus: 2 }} other platforms](/contact/).
+## Recent Posts
+<ul class="post-list">
+    {%- for post in site.posts limit:3 -%}
+    <li>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+    <li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">View all posts →</a></li>
+</ul>
 
 <script src="/assets/js/avatar-rotator.js"></script>
