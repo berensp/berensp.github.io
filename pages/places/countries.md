@@ -5,7 +5,7 @@ permalink: /countries/
 ---
 {% assign country_count = site.data.countries.countries | where: "counts_toward_total", true | size %}
 {% assign total_countries = 195 %}
-{% assign percent_remaining = 100 | minus: country_count | times: 100 | divided_by: total_countries %}
+{% assign percent_remaining = total_countries | minus: country_count | times: 100 | divided_by: total_countries %}
 {% assign excluded_countries = site.data.countries.countries | where: "counts_toward_total", false %}
 
 *"The world is a country which nobody ever yet knew by description; one must travel through it one's self to be acquainted with it."* (—Philip Stanhope, Earl of Chesterfield)
