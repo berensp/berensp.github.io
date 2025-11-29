@@ -1,11 +1,11 @@
 {
-  "name": "GGP Moraga Steps",
-  "type": "Run",
-  "distance": "9.54",
-  "duration": 47,
-  "elevation": 152,
-  "date": "2025-11-25T23:56:22Z",
-  "url": "https://www.strava.com/activities/16567824846",
+  "name": "West Portal errands",
+  "type": "Ride",
+  "distance": "3.45",
+  "duration": 15,
+  "elevation": 60,
+  "date": "2025-11-29T00:38:28Z",
+  "url": "https://www.strava.com/activities/16595843915",
   "ytd_run_distance": "691.20",
-  "ytd_ride_distance": "357.97"
+  "ytd_ride_distance": "361.42"
 }
