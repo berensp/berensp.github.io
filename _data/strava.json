@@ -1,11 +1,11 @@
 {
-  "name": "West Portal errands",
-  "type": "Ride",
-  "distance": "3.45",
-  "duration": 15,
-  "elevation": 60,
-  "date": "2025-11-29T00:38:28Z",
-  "url": "https://www.strava.com/activities/16595843915",
+  "name": "Father/Son stroll",
+  "type": "Walk",
+  "distance": "3.16",
+  "duration": 45,
+  "elevation": 43,
+  "date": "2025-11-30T00:49:58Z",
+  "url": "https://www.strava.com/activities/16605428909",
   "ytd_run_distance": "691.20",
   "ytd_ride_distance": "361.42"
 }
