@@ -90,6 +90,35 @@ function calculateElectionDay(year) {
 }
 
 /**
+ * Calculate Advent Sundays (works backwards from Christmas)
+ * @param {number} year - The year to calculate for
+ * @param {number} week - Which Sunday (1-4, where 4 is closest to Christmas)
+ * @return {Date} The specified Advent Sunday
+ */
+function calculateAdventSunday(year, week) {
+  // Christmas is always December 25
+  const christmas = new Date(year, 11, 25); // Month 11 = December
+  const christmasDayOfWeek = christmas.getDay(); // 0 = Sunday, 6 = Saturday
+  
+  // Fourth Sunday of Advent is the Sunday on or before Christmas
+  let fourthSunday;
+  if (christmasDayOfWeek === 0) {
+    // Christmas is Sunday, so Fourth Sunday of Advent IS Christmas
+    fourthSunday = christmas;
+  } else {
+    // Go back to the previous Sunday
+    fourthSunday = new Date(christmas);
+    fourthSunday.setDate(christmas.getDate() - christmasDayOfWeek);
+  }
+  
+  // Calculate the requested Sunday by going back 7 days per week
+  const targetSunday = new Date(fourthSunday);
+  targetSunday.setDate(fourthSunday.getDate() - (4 - week) * 7);
+  
+  return targetSunday;
+}
+
+/**
  * Parse a rule and calculate the actual date
  * @param {string} rule - The rule string (e.g., "easter-40", "first-monday-september")
  * @param {number} year - The year to calculate for
@@ -99,6 +128,16 @@ function calculateDateFromRule(rule, year) {
   // Election Day (special case)
   if (rule === "first-tuesday-november-after-first-monday") {
     return calculateElectionDay(year);
+  }
+
+// Advent Sundays (special case)
+  const adventMatch = rule.match(/^advent-(\d+)$/);
+  if (adventMatch) {
+    const week = parseInt(adventMatch[1]);
+    if (week >= 1 && week <= 4) {
+      return calculateAdventSunday(year, week);
+    }
+    return null;
   }
   
   // Easter-based rules
