@@ -83,6 +83,7 @@
   event: "World Mission Sunday"
 
 # November
+
 - id: "election_day"
   rule: "first-tuesday-november-after-first-monday"  # First Tuesday after first Monday
   event: "Election Day"
@@ -99,6 +100,24 @@
   rule: "fourth-friday-november"
   event: "Black Friday"
 
+# Advent Sundays
+
+- id: "advent_1"
+  rule: "advent-1"
+  event: 'First Sunday of Advent'
+
+- id: "advent_2"
+  rule: "advent-2"
+  event: 'Second Sunday of Advent'
+
+- id: "advent_3"
+  rule: "advent-3"
+  event: 'Gaudete Sunday'
+
+- id: "advent_4"
+  rule: "advent-4"
+  event: 'Fourth Sunday of Advent'
+
 # Pre-Easter season
 
 - id: "exodus_ninety"
@@ -114,8 +133,28 @@
   event: "Shrove Tuesday / Mardi Gras"
 
 - id: "ash_wednesday"
-  rule: "easter-40"  # 40 days before Easter
-  event: "Ash Wednesday"
+  rule: "easter-46"  # 46 days before Easter (not 40!)
+  event: 'Ash Wednesday'
+
+- id: "lent_1"
+  rule: "easter-42"  # 4 days after Ash Wednesday
+  event: 'First Sunday of Lent'
+
+- id: "lent_2"
+  rule: "easter-35"
+  event: 'Second Sunday of Lent'
+
+- id: "lent_3"
+  rule: "easter-28"
+  event: 'Third Sunday of Lent'
+
+- id: "lent_4"
+  rule: "easter-21"
+  event: 'Laetare Sunday'
+
+- id: "lent_5"
+  rule: "easter-14"
+  event: 'Passion Sunday'
 
 - id: "palm_sunday"
   rule: "easter-7"  # 7 days before Easter
