@@ -203,9 +203,6 @@ jobs:
           git add _data/telegram_subscribers.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update Telegram subscribers" && git push)
 
-
-
-
       - name: Notify on subscriber changes
         if: success()
         env:
