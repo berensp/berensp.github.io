@@ -8,13 +8,13 @@ description: What I'm up to these days.
 {% assign currently_reading = site.data.books | where: "category", "Presently Reading" | first %}
 
 {% if site.data.strava.date %}
-  {% assign strava_timestamp = site.data.strava.date | date: "%s" %}
+  {% assign strava_timestamp = site.data.strava.date | date: "%s" | plus: 0 %}
 {% else %}
   {% assign strava_timestamp = 0 %}
 {% endif %}
 
 {% if site.data.swarm.timestamp %}
-  {% assign swarm_timestamp = site.data.swarm.timestamp %}
+  {% assign swarm_timestamp = site.data.swarm.timestamp | plus: 0 %}
 {% else %}
   {% assign swarm_timestamp = 0 %}
 {% endif %}
@@ -44,4 +44,4 @@ description: What I'm up to these days.
 
 [^2]: Running distance YTD = {{ site.data.strava.ytd_run_distance | round: 0 }} km; riding distance YTD = {{ site.data.strava.ytd_ride_distance | round: 0 }} km via [Strava API](https://developers.strava.com/docs/reference/).
 
-<span class="muted small">{{ last_update }} via {{ update_source }}.</span>
+<span class="muted small">Last updated: {{ last_update }} via {{ update_source }}.</span>
