@@ -40,7 +40,7 @@ description: What I'm up to these days.
 - [Reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}
 - [Learning](/learning/) {{ site.data.learning.current.first.endeavour }}{% if site.data.learning.current[1] %}, {{ site.data.learning.current[1].endeavour }}{% endif %}, etc.
 - [Riding](/cycling/) and [running](/running/)—barely enough to stay in shape[^2]{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://www.strava.com/athletes/berenzino/){% endif %}
-- [Cooking](/recipes/) up something delicious and/or that the kids will eat
+- [Cooking](/recipes/) up something that the kids will push around their plates and pick at
 
 [^2]: Running distance YTD = {{ site.data.strava.ytd_run_distance | round: 0 }} km; riding distance YTD = {{ site.data.strava.ytd_ride_distance | round: 0 }} km via [Strava API](https://developers.strava.com/docs/reference/).
 
