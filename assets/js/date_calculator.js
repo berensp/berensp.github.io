@@ -90,6 +90,19 @@ function calculateElectionDay(year) {
 }
 
 /**
+ * Calculate date relative to Thanksgiving
+ * @param {number} year - The year to calculate for
+ * @param {number} daysAfter - Days after Thanksgiving
+ * @return {Date} The calculated date
+ */
+function calculateThanksgivingRelative(year, daysAfter) {
+  const thanksgiving = getNthDayOfMonth(year, 10, 4, 4); // 4th Thursday of November
+  const result = new Date(thanksgiving);
+  result.setDate(thanksgiving.getDate() + daysAfter);
+  return result;
+}
+
+/**
  * Calculate Advent Sundays (works backwards from Christmas)
  * @param {number} year - The year to calculate for
  * @param {number} week - Which Sunday (1-4, where 4 is closest to Christmas)
@@ -130,7 +143,14 @@ function calculateDateFromRule(rule, year) {
     return calculateElectionDay(year);
   }
 
-// Advent Sundays (special case)
+  // Thanksgiving-relative dates (special case)
+  const thanksgivingMatch = rule.match(/^thanksgiving\+(\d+)$/);
+  if (thanksgivingMatch) {
+    const daysAfter = parseInt(thanksgivingMatch[1]);
+    return calculateThanksgivingRelative(year, daysAfter);
+  }
+
+  // Advent Sundays (special case)
   const adventMatch = rule.match(/^advent-(\d+)$/);
   if (adventMatch) {
     const week = parseInt(adventMatch[1]);
