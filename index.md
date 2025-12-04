@@ -10,12 +10,12 @@ layout: home
 Picker, grinner, lover, healthcare tech product marketer.
 
 ## Pages
-- [/beliefs/](/beliefs/) – sanctam Ecclésiam cathólicam, etc.
+- [/beliefs/](/beliefs/) – until proven otherwise
 - [/bio/](/bio/) – work and background
 - [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
 - [/now/](/now/) – what I'm up to these days
 - [/today/](/today/) – what's on tap today
-- [/values/](/values/) – truth over comfort, etc.
+- [/values/](/values/) – what matters
 
 ## Recent Posts
 <ul class="post-list">
