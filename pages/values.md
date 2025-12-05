@@ -14,6 +14,7 @@ Not that I embody these; I just hold them in high regard.
 - Forgiveness
 - Friendship
 - Heterodoxy
+- Humility
 - Humour
 - Inclusion
 - Integrity
