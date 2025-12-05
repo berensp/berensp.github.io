@@ -10,7 +10,7 @@ layout: home
 Picker, grinner, lover, healthcare tech product marketer.
 
 ## Pages
-- [/beliefs/](/beliefs/) – until proven otherwise
+- [/beliefs/](/beliefs/) – pending new evidence
 - [/bio/](/bio/) – work and background
 - [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
 - [/now/](/now/) – what I'm up to these days
