@@ -8,24 +8,25 @@ description: What I'm up to these days.
 {% assign currently_reading = site.data.books | where: "category", "Presently Reading" | first %}
 
 {% if site.data.strava.date %}
-  {% assign strava_timestamp = site.data.strava.date | date: "%s" | plus: 0 %}
+  {% assign strava_timestamp = site.data.strava.date | date: "%s" | minus: 28800 %}
+  {% assign strava_date = strava_timestamp | date: "%Y-%m-%d" %}
 {% else %}
   {% assign strava_timestamp = 0 %}
 {% endif %}
 
 {% if site.data.swarm.timestamp %}
-  {% assign swarm_timestamp = site.data.swarm.timestamp | plus: 0 %}
+  {% assign swarm_pst = site.data.swarm.timestamp | minus: 28800 %}
+  {% assign swarm_date = swarm_pst | date: "%Y-%m-%d" %}
 {% else %}
-  {% assign swarm_timestamp = 0 %}
+  {% assign swarm_pst = 0 %}
 {% endif %}
 
-{% if strava_timestamp > swarm_timestamp %}
-  {% assign last_update = site.data.strava.date | date: "%Y-%m-%d" %}
+{% if strava_timestamp > swarm_pst %}
+  {% assign last_update = strava_date %}
   {% assign update_source = "Strava API" %}
 {% else %}
-  {% assign last_update = site.data.swarm.timestamp | date: "%Y-%m-%d" %}
+  {% assign last_update = swarm_date %}
   {% assign update_source = "Foursquare API" %}
-
 {% endif %}
 
 <script src="/assets/js/timediff.js"></script>
