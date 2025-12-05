@@ -195,28 +195,31 @@ jobs:
             }
           })();
           EOF
-      
+
       - name: Commit subscriber changes
+        id: commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add _data/telegram_subscribers.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update Telegram subscribers" && git push)
-
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes to commit"
+          else
+            git commit -m "Update Telegram subscribers"
+            git push
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Notify on subscriber changes
-        if: success()
+        if: steps.commit.outputs.changed == 'true'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          # Check if subscribers file changed
-          if git diff --quiet HEAD~1 _data/telegram_subscribers.json 2>/dev/null; then
-            echo "No subscriber changes"
-          else
-            TOTAL=$(cat _data/telegram_subscribers.json | jq '.users | length')
-            
-            curl -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-              -d chat_id="${TELEGRAM_CHAT_ID}" \
-              -d text="📊 Subscriber update: ${TOTAL} total subscribers" \
-              -d parse_mode="HTML"
-          fi
+          TOTAL=$(cat _data/telegram_subscribers.json | jq '.users | length')
+          
+          curl -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="${TELEGRAM_CHAT_ID}" \
+            -d text="📊 Subscriber update: ${TOTAL} total subscribers" \
+            -d parse_mode="HTML"
