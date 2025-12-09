@@ -17,7 +17,9 @@ Ergo the primacy of Christmas music for me, and so here's a little digital stock
 
 [^2]: I'm no ethnomusicologist so forgive me if I've miscategorized any tunes. [Tom Nichols gave his favorite Christmas hits a year ago](https://www.theatlantic.com/newsletters/archive/2022/12/we-need-a-little-christmas-music/672428/) and also organized his thinking by genre, although he had a "religious carols" category. I didn't split the religious from the secular, although some genres by nature may loosely correspond with a certain religiosity or lack thereof (e.g., the indie rock maybe won't cover the Latin hymns; and concomitantly, the Renaissance polyphonic stuff won't deal with *Frosty the Snowman*).
 
-Without further ado...my Christmas essentials in five playlists:
+Without further ado...
+
+## My Christmas essentials in five playlists
 - <a href="https://music.youtube.com/playlist?list=PL_64Fz1c-ODKsArG3LplJi_GqAnF5tLJh" class="header-link" target="_blank">Classical/Classical Choral</a> – there's a lot of exuberance that accompanies the Christmas season, but Advent demands some reflection and contemplation. It’s hard to match the exquisite beauty of something like *O Magnum Mysterium*. And I do love *La Peregrinación* (both the King's Singers' version as well as that of Mercedes Sosa).
 - <a href="https://music.youtube.com/playlist?list=PL_64Fz1c-ODLKYRJ8wVBL0AGFX0TsdzQo" class="header-link" target="_blank">Indie/Folk/Rock/Pop</a> – what the cool kids listen to—or what formerly cool kids listened to? I do especially love the melancholic *Green Grows the Holly* by Calexico and Springsteen's *Santa Claus Is Comin' to Town* is a modern classic.
 - <a href="https://music.youtube.com/playlist?list=PL_64Fz1c-ODJVh7ikkZ-NMbiFPKGwZK0M" class="header-link" target="_blank">Jazz</a> – can you get more quintessentially American as far as genres go? As James Ponienwozik says[^3], "I could wrap myself in the Vince Guaraldi jazz score like a quilt," and Harry Connick's swingin' *Winter Wonderland* (from *When Harry Met Sally*) is Lisa's all-time favourite.
