@@ -36,7 +36,7 @@ tuesday:
     time: "18:00"
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
-  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/seven-sorrows/">Seven Sorrows Rosary</a>'
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/seven-sorrows/">Seven Sorrows</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:20"
