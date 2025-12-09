@@ -3,17 +3,17 @@ layout: prayer
 title: Anima Christi
 category: Mass
 ---
-Anima Christi, sanctifica me.  
+Anima Christi, sanctífica me.  
 Corpus Christi, salva me.  
-Sanguis Christi, inebria me.  
-Aqua lateris Christi, lava me.  
-Passio Christi, conforta me.  
-O bone Iesu, exaudi me.  
-Intra tua vulnera absconde me.  
-Ne permittas me separari a te.  
-Ab hoste maligno defende me.  
-In hora mortis meae voca me.  
-Et iube me venire ad te,  
+Sanguis Christi, inébria me.  
+Aqua láteris Christi, lava me.  
+Pássio Christi, confórta me.  
+O bone Iesu, exáudi me.  
+Intra tua vúlnera abscónde me.  
+Ne permíttas me separári a te.  
+Ab hoste malígno defénde me.  
+In hora mortis meæ voca me.  
+Et iube me veníre ad te,  
 Ut cum Sanctis tuis laudem te  
-in sæcula sæculorum.  
+in sǽcula sæculórum.  
 Amen.

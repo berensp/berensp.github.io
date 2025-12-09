@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 description: fun facts
 ---
+{% assign country_count = site.data.countries.countries | where: "counts_toward_total", true | size %}
+{% assign total_countries = 195 %}
+
 <p><img src="/assets/images/pmb.portrait.png" alt="portrait" style="width: 30%;">
 <span class="muted small">Portrait by Liz Perry</span>
 
@@ -45,7 +48,7 @@ description: fun facts
     </tr>
     <tr>
       <td style="text-align: left">Countries visited</td>
-      <td style="text-align: left"><a href="/countries/">25 of 195</a><sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup>     
+      <td style="text-align: left"><a href="/countries/">{{ country_count }} of {{ total_countries }}</a><sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup>     
       </td>
     </tr>
     <tr>
