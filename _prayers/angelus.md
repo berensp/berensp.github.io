@@ -3,37 +3,6 @@ layout: prayer
 title: Angelus
 category: Marian
 ---
-℣. The Angel of the Lord declared unto Mary,  
-℟. And she conceived of the Holy Spirit.  
-[Hail Mary](/prayers/ave-maria/)
-
-℣. Behold the handmaid of the Lord,  
-℟. Be it done unto me according to thy Word.  
-[Hail Mary](/prayers/ave-maria/)
-
-℣. And the Word was made flesh,  
-℟. <span style="color:red">[kneel]</span> And dwelt among us.  
-[Hail Mary](/prayers/ave-maria/)
-
-℣. Pray for us, O holy Mother of God,  
-℟. That we may be made worthy of the promises of Christ.
-
-Let us pray. 
-
-Pour forth, we beseech thee, O Lord,  
-Thy grace into our hearts;  
-that we, to whom the incarnation of Christ, Thy Son,  
-was made known by the message of an angel,  
-may by His Passion and Cross  
-be brought to the glory of His Resurrection,  
-through the same Christ Our Lord.  
-Amen.
-
-℟. May the divine assistance remain always with us.  
-℣. And may the souls of the faithful departed, by the mercy of God, rest in peace.
-
-* * *
-
 ℣. Angelus Dómini nuntiávit Maríæ.  
 ℟. Et concépit de Spíritu Sancto.  
 [Ave Maria](/prayers/ave-maria/)
@@ -62,3 +31,34 @@ Amen.
 
 ℣. Divínum auxílium máneat semper nobíscum.  
 ℟. Et fidélium ánimæ, per misericórdiam Dei, requiéscant in pace. Amen.
+
+* * *
+
+℣. The Angel of the Lord declared unto Mary,  
+℟. And she conceived of the Holy Spirit.  
+[Hail Mary](/prayers/ave-maria/)
+
+℣. Behold the handmaid of the Lord,  
+℟. Be it done unto me according to thy Word.  
+[Hail Mary](/prayers/ave-maria/)
+
+℣. And the Word was made flesh,  
+℟. <span style="color:red">[kneel]</span> And dwelt among us.  
+[Hail Mary](/prayers/ave-maria/)
+
+℣. Pray for us, O holy Mother of God,  
+℟. That we may be made worthy of the promises of Christ.
+
+Let us pray. 
+
+Pour forth, we beseech thee, O Lord,  
+Thy grace into our hearts;  
+that we, to whom the incarnation of Christ, Thy Son,  
+was made known by the message of an angel,  
+may by His Passion and Cross  
+be brought to the glory of His Resurrection,  
+through the same Christ Our Lord.  
+Amen.
+
+℟. May the divine assistance remain always with us.  
+℣. And may the souls of the faithful departed, by the mercy of God, rest in peace.
