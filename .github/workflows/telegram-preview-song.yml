@@ -1,0 +1,115 @@
+name: Preview Tomorrow's Song
+
+on:
+  schedule:
+    # Runs at 9:00 PM PST (5:00 UTC next day)
+    - cron: '0 5 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  preview-song:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install js-yaml
+        run: npm install js-yaml
+      
+      - name: Send preview to yourself
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          cat > preview-song.cjs << 'SCRIPT'
+          const https = require('https');
+          const fs = require('fs');
+          const yaml = require('js-yaml');
+          
+          const botToken = process.env.TELEGRAM_BOT_TOKEN;
+          const chatId = process.env.TELEGRAM_CHAT_ID;
+          
+          // Read and parse YAML file
+          const dailySongs = yaml.load(fs.readFileSync('_data/daily_song.yml', 'utf8'));
+          
+          // Get TOMORROW's date in MM-DD format (since we're previewing)
+          const tomorrow = new Date();
+          tomorrow.setDate(tomorrow.getDate() + 1);
+          const month = String(tomorrow.getMonth() + 1).padStart(2, '0');
+          const day = String(tomorrow.getDate()).padStart(2, '0');
+          const tomorrowDate = `${month}-${day}`;
+          
+          // Calculate tomorrow's day of year
+          const startOfYear = new Date(Date.UTC(tomorrow.getUTCFullYear(), 0, 1));
+          const diff = tomorrow - startOfYear;
+          const oneDay = 1000 * 60 * 60 * 24;
+          const dayOfYear = Math.floor(diff / oneDay) + 1;
+          
+          console.log(`Looking for tomorrow's song with date: ${tomorrowDate}`);
+          
+          // Find tomorrow's song
+          const tomorrowSong = dailySongs.find(song => song.date === tomorrowDate);
+          
+          if (!tomorrowSong) {
+            console.error(`No song found for ${tomorrowDate}`);
+            process.exit(1);
+          }
+          
+          console.log(`Found song: ${tomorrowSong.track}`);
+          
+          // Build YouTube Music URL
+          const youtubeUrl = `https://music.youtube.com/watch?v=${tomorrowSong.songId}`;
+          
+          // Create preview message
+          const message = `🔍 PREVIEW for tomorrow:\n\n#${dayOfYear}: <a href="${youtubeUrl}"><b>"${tomorrowSong.track}"</b> by ${tomorrowSong.artist}</a>`;
+          
+          // Send to your personal chat
+          (async () => {
+            const postData = JSON.stringify({
+              chat_id: chatId,
+              text: message,
+              parse_mode: 'HTML',
+              disable_web_page_preview: false
+            });
+            
+            const options = {
+              hostname: 'api.telegram.org',
+              path: `/bot${botToken}/sendMessage`,
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                'Content-Length': postData.length
+              }
+            };
+            
+            const req = https.request(options, (res) => {
+              let data = '';
+              res.on('data', (chunk) => { data += chunk; });
+              res.on('end', () => {
+                const response = JSON.parse(data);
+                if (response.ok) {
+                  console.log('✓ Preview sent');
+                } else {
+                  console.error('✗ Failed to send preview:', response);
+                  process.exit(1);
+                }
+              });
+            });
+            
+            req.on('error', (error) => {
+              console.error('✗ Error:', error.message);
+              process.exit(1);
+            });
+            
+            req.write(postData);
+            req.end();
+          })();
+          SCRIPT
+          
+          node preview-song.cjs
