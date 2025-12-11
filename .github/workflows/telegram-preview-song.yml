@@ -2,8 +2,8 @@ name: Preview Tomorrow's Song
 
 on:
   schedule:
-    # Runs at 9:00 PM PST (5:00 UTC next day)
-    - cron: '0 5 * * *'
+    # Runs at 8:30 PM PST (4:30 UTC next day)
+    - cron: '30 4 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -38,20 +38,24 @@ jobs:
           // Read and parse YAML file
           const dailySongs = yaml.load(fs.readFileSync('_data/daily_song.yml', 'utf8'));
           
-          // Get TOMORROW's date in MM-DD format (since we're previewing)
-          const tomorrow = new Date();
+          // Get TOMORROW's date in PST
+          const now = new Date();
+          const pstOffset = 8 * 60 * 60 * 1000; // 8 hours in milliseconds
+          const pstNow = new Date(now.getTime() - pstOffset);
+          const tomorrow = new Date(pstNow);
           tomorrow.setDate(tomorrow.getDate() + 1);
+          
           const month = String(tomorrow.getMonth() + 1).padStart(2, '0');
           const day = String(tomorrow.getDate()).padStart(2, '0');
           const tomorrowDate = `${month}-${day}`;
           
-          // Calculate tomorrow's day of year
-          const startOfYear = new Date(Date.UTC(tomorrow.getUTCFullYear(), 0, 1));
+          // Calculate tomorrow's day of year (PST-adjusted)
+          const startOfYear = new Date(tomorrow.getFullYear(), 0, 1);
           const diff = tomorrow - startOfYear;
           const oneDay = 1000 * 60 * 60 * 24;
           const dayOfYear = Math.floor(diff / oneDay) + 1;
           
-          console.log(`Looking for tomorrow's song with date: ${tomorrowDate}`);
+          console.log(`Looking for tomorrow's song with date: ${tomorrowDate} (day ${dayOfYear})`);
           
           // Find tomorrow's song
           const tomorrowSong = dailySongs.find(song => song.date === tomorrowDate);
