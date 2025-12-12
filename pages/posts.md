@@ -15,7 +15,7 @@ This will clear any content that might be pulled in from elsewhere
 <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        <a class="post-link" href="{{ post.url | relative_url }}">{% if post.tags contains "books" %}<em>{{ post.title | escape }}</em>{% else %}{{ post.title | escape }}{% endif %}</a>
     </li>
     {%- endfor -%}
 </ul>
