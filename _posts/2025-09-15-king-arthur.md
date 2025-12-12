@@ -5,7 +5,7 @@ date: 2025-09-15
 author: Paul Berens
 tags: ["theology", "books"]
 ---
-Loved it. M. and I took our time with *King Arthur and His Knights of the Round Table*; he keeping all the different knights and their stories straight in his head.
+Loved it. M. and I took our time with *King Arthur*; he keeping all the different knights and their stories straight in his head.
 
 And surprisingly Catholic. The Holy Grail features prominently; the knights gatherings seem to revolve around Pentecost, Christmas, and Michaelmas; and spiritual purity and Christian ideals are bigger themes than I realized. The ending (epilogue, I think) is also unexpected but very impressive for a Christian/Catholic.
 
