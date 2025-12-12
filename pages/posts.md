@@ -20,6 +20,8 @@ This will clear any content that might be pulled in from elsewhere
     {%- endfor -%}
 </ul>
 
+<span class="muted small"><em>Italicized titles</em> = book musings</span>
+
 <div id="mc_embed_signup">
     <form action="https://berens.us17.list-manage.com/subscribe/post?u=488257f22066b5de5ab8818a3&amp;id=feebd26a5e&amp;f_id=000b15e1f0" 
           method="post" 
@@ -79,5 +81,3 @@ This will clear any content that might be pulled in from elsewhere
         </div>
     </form>
 </div>
-
-
