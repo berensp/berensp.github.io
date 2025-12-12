@@ -1,6 +1,6 @@
 ---
 layout: post
-title: King Arthur
+title: King Arthur and His Knights of the Round Table
 date: 2025-09-15
 author: Paul Berens
 tags: ["theology", "books"]
