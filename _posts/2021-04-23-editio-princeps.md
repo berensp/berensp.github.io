@@ -3,7 +3,7 @@ layout: post
 title:	Editio Princeps / Tsundoku
 date:	2021-04-23
 author:	Paul Berens
-tags: ["culture", "books"]
+tags: ["culture"]
 description: First post...finally. Might as well make it about books.
 opimage: post_tsundoku.png
 ---
