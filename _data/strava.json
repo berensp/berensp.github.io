@@ -1,11 +1,11 @@
 {
-  "name": "Errands",
-  "type": "Ride",
-  "distance": "5.11",
-  "duration": 21,
-  "elevation": 85,
-  "date": "2025-12-13T20:14:10Z",
-  "url": "https://www.strava.com/activities/16735268024",
-  "ytd_run_distance": "716.54",
+  "name": "Pre-prandial stroll",
+  "type": "Walk",
+  "distance": "1.21",
+  "duration": 19,
+  "elevation": 7,
+  "date": "2025-12-15T01:32:10Z",
+  "url": "https://www.strava.com/activities/16745409691",
+  "ytd_run_distance": "726.06",
   "ytd_ride_distance": "373.33"
 }
