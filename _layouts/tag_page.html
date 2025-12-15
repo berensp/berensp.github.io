@@ -9,7 +9,7 @@ layout: default
   {% for post in site.posts %}
     {% if post.tags contains page.tag %}
     <li>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      <a class="post-link" href="{{ post.url | relative_url }}">{% if post.tags contains "books" %}<em>{{ post.title | escape }}</em>{% else %}{{ post.title | escape }}{% endif %}</a>
     </li>
     {% endif %}
   {% endfor %}
