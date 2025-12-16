@@ -1,11 +1,11 @@
 {
-  "name": "Pre-prandial stroll",
-  "type": "Walk",
-  "distance": "1.21",
-  "duration": 19,
-  "elevation": 7,
-  "date": "2025-12-15T01:32:10Z",
-  "url": "https://www.strava.com/activities/16745409691",
+  "name": "Al carnicero",
+  "type": "Ride",
+  "distance": "2.76",
+  "duration": 12,
+  "elevation": 39,
+  "date": "2025-12-15T20:46:43Z",
+  "url": "https://www.strava.com/activities/16752240294",
   "ytd_run_distance": "726.06",
-  "ytd_ride_distance": "373.33"
+  "ytd_ride_distance": "376.09"
 }
