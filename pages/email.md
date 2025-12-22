@@ -12,19 +12,13 @@ If you can promise you're not an evil AI bot posing as a human, feel free to dro
   style="display: flex; flex-direction: column; max-width: 500px; gap: 1rem;"
 >
   <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-    <input 
-      type="email" 
-      style=" 
-       font-size: 1em;
-       padding: 0.5rem; 
-       border: 1px solid #ccc; 
-       border-radius: 4px;
-       "
-      id="email" 
-      name="email" 
-      placeholder="Your email addie" 
-      required 
-      style="padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;"
+    <input
+      type="email"
+      style="font-size: 1em; padding: 0.5rem; border: 1px solid #ccc; border-radius: 4px;"
+      id="email"
+      name="email"
+      placeholder="Your email addie"
+      required
     >
   </div>
 
@@ -39,8 +33,9 @@ If you can promise you're not an evil AI bot posing as a human, feel free to dro
     ></textarea>
   </div>
 
-  <button 
-    type="submit" 
+  <button
+    type="submit"
+    class="submit-btn"
     style="
       font-size: 1em;
       padding: 0.75rem 1.5rem;
@@ -51,9 +46,12 @@ If you can promise you're not an evil AI bot posing as a human, feel free to dro
       cursor: pointer;
       transition: background-color 0.2s;
     "
-    onmouseover="this.style.backgroundColor='#0056b3'"
-    onmouseout="this.style.backgroundColor='#007bff'"
   >
     Send Message
   </button>
+  <style>
+    .submit-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
 </form>
