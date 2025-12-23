@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Ride",
-  "type": "Ride",
-  "distance": "7.23",
-  "duration": 27,
-  "elevation": 135,
-  "date": "2025-12-21T00:09:09Z",
-  "url": "https://www.strava.com/activities/16798162246",
+  "name": "Afternoon Walk",
+  "type": "Walk",
+  "distance": "1.11",
+  "duration": 18,
+  "elevation": 21,
+  "date": "2025-12-23T00:41:29Z",
+  "url": "https://www.strava.com/activities/16816289502",
   "ytd_run_distance": "732.69",
   "ytd_ride_distance": "383.32"
 }
