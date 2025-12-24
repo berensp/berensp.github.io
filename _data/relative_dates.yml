@@ -138,33 +138,41 @@
   rule: "easter-63"  # 9 weeks before Easter
   event: "Septuagesima Sunday"
 
+- id: "sexagesima_sunday"
+  rule: "easter-56"  # 8 weeks before Easter
+  event: "Sexagesima Sunday"
+
+- id: "quinquagesima_sunday"
+  rule: "easter-49" # 7 weeks before Easter
+  event: "Quinquagesima Sunday"
+
 - id: "shrove_tuesday"
   rule: "easter-47"  # Day before Ash Wednesday
   event: "Shrove Tuesday / Mardi Gras"
 
 - id: "ash_wednesday"
   rule: "easter-46"  # 46 days before Easter (not 40!)
-  event: 'Ash Wednesday'
+  event: "Ash Wednesday"
 
 - id: "lent_1"
   rule: "easter-42"  # 4 days after Ash Wednesday
-  event: 'First Sunday of Lent'
+  event: "Invocabit Sunday"
 
 - id: "lent_2"
   rule: "easter-35"
-  event: 'Second Sunday of Lent'
+  event: "Reminiscere Sunday"
 
 - id: "lent_3"
   rule: "easter-28"
-  event: 'Third Sunday of Lent'
+  event: "Third Sunday of Lent"
 
 - id: "lent_4"
   rule: "easter-21"
-  event: 'Laetare Sunday'
+  event: "Laetare Sunday"
 
 - id: "lent_5"
   rule: "easter-14"
-  event: 'Passion Sunday'
+  event: "Passion Sunday"
 
 - id: "palm_sunday"
   rule: "easter-7"  # 7 days before Easter
