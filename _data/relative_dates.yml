@@ -136,7 +136,7 @@
 
 - id: "epiphany_observed"
   rule: "epiphany"
-  event: "Epiphany of the Lord (observed)""
+  event: "Epiphany of the Lord (observed)"
 
 - id: "baptism_lord"
   rule: "baptism-of-lord"
