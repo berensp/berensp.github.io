@@ -144,9 +144,8 @@ function calculateHolyFamily(year) {
     // Christmas is Sunday - Holy Family is Friday, December 30
     return new Date(year, 11, 30);
   } else {
-    // Find the Sunday between Dec 26 and Jan 1
-    // This is the Sunday after Christmas
-    const daysUntilSunday = (7 - christmasDayOfWeek) % 7;
+    // Find the Sunday after Christmas (the Sunday within the Octave)
+    const daysUntilSunday = (7 - christmasDayOfWeek);
     const holyFamily = new Date(christmas);
     holyFamily.setDate(christmas.getDate() + daysUntilSunday);
     
