@@ -132,6 +132,77 @@ function calculateAdventSunday(year, week) {
 }
 
 /**
+ * Calculate Feast of the Holy Family
+ * @param {number} year - The year to calculate for
+ * @return {Date} The date of Holy Family
+ */
+function calculateHolyFamily(year) {
+  const christmas = new Date(year, 11, 25);
+  const christmasDayOfWeek = christmas.getDay();
+  
+  if (christmasDayOfWeek === 0) {
+    // Christmas is Sunday - Holy Family is Friday, December 30
+    return new Date(year, 11, 30);
+  } else {
+    // Find the Sunday between Dec 26 and Jan 1
+    // This is the Sunday after Christmas
+    const daysUntilSunday = (7 - christmasDayOfWeek) % 7;
+    const holyFamily = new Date(christmas);
+    holyFamily.setDate(christmas.getDate() + daysUntilSunday);
+    
+    return holyFamily;
+  }
+}
+
+/**
+ * Calculate Epiphany (US transferred observance)
+ * @param {number} year - The year to calculate for
+ * @return {Date} The date of Epiphany
+ */
+function calculateEpiphany(year) {
+  // Epiphany is the Sunday between January 2-8
+  // (First Sunday after January 1)
+  const jan1 = new Date(year, 0, 1);
+  const jan1DayOfWeek = jan1.getDay();
+  
+  // Find the next Sunday after January 1
+  let daysUntilSunday;
+  if (jan1DayOfWeek === 0) {
+    // January 1 is Sunday, so next Sunday is January 8
+    daysUntilSunday = 7;
+  } else {
+    daysUntilSunday = 7 - jan1DayOfWeek;
+  }
+  
+  const epiphany = new Date(jan1);
+  epiphany.setDate(jan1.getDate() + daysUntilSunday);
+  
+  return epiphany;
+}
+
+/**
+ * Calculate Baptism of the Lord
+ * @param {number} year - The year to calculate for
+ * @return {Date} The date of Baptism of the Lord
+ */
+function calculateBaptismOfLord(year) {
+  const epiphany = calculateEpiphany(year);
+  const epiphanyDate = epiphany.getDate();
+  
+  if (epiphanyDate <= 6) {
+    // Epiphany is January 2-6, so Baptism is the following Sunday
+    const baptism = new Date(epiphany);
+    baptism.setDate(epiphany.getDate() + 7);
+    return baptism;
+  } else {
+    // Epiphany is January 7 or 8, so Baptism is the next day (Monday)
+    const baptism = new Date(epiphany);
+    baptism.setDate(epiphany.getDate() + 1);
+    return baptism;
+  }
+}
+
+/**
  * Parse a rule and calculate the actual date
  * @param {string} rule - The rule string (e.g., "easter-40", "first-monday-september")
  * @param {number} year - The year to calculate for
@@ -158,6 +229,19 @@ function calculateDateFromRule(rule, year) {
       return calculateAdventSunday(year, week);
     }
     return null;
+  }
+
+  // Christmas season feasts (special cases)
+  if (rule === "holy-family") {
+    return calculateHolyFamily(year);
+  }
+  
+  if (rule === "epiphany-observed") {
+    return calculateEpiphany(year);
+  }
+  
+  if (rule === "baptism-of-lord") {
+    return calculateBaptismOfLord(year);
   }
   
   // Easter-based rules

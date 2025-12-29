@@ -128,6 +128,20 @@
   rule: "advent-4"
   event: 'Fourth Sunday of Advent'
 
+# Christmastide
+
+- id: "holy_family"
+  rule: "holy-family"
+  event: "Feast of the Holy Family"
+
+- id: "epiphany_observed"
+  rule: "epiphany"
+  event: "Epiphany of the Lord (observed)""
+
+- id: "baptism_lord"
+  rule: "baptism-of-lord"
+  event: "Baptism of the Lord"
+
 # Pre-Easter season
 
 - id: "exodus_ninety"
