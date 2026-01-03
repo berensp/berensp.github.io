@@ -31,11 +31,6 @@
       "subscribed_at": "2025-12-16T15:19:28.359Z"
     },
     {
-      "chat_id": 5565342585,
-      "username": "Matt",
-      "subscribed_at": "2025-12-17T15:18:30.878Z"
-    },
-    {
       "chat_id": 8399123193,
       "username": "Rita",
       "subscribed_at": "2025-12-17T15:18:31.157Z"
@@ -44,6 +39,11 @@
       "chat_id": 1593183408,
       "username": "FrDaveNix",
       "subscribed_at": "2025-12-24T15:16:56.701Z"
+    },
+    {
+      "chat_id": 8153524252,
+      "username": "Andy",
+      "subscribed_at": "2026-01-03T15:14:59.791Z"
     }
   ]
 }
