@@ -1,6 +1,6 @@
 ---
 layout: prayer
-title: Divine Mercy Chaplet
+title: Divine Mercy Chaplet 📿
 category: Miscellany
 ---
 ## Introduction
