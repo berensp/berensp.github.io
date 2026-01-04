@@ -235,7 +235,7 @@ function calculateDateFromRule(rule, year) {
     return calculateHolyFamily(year);
   }
   
-  if (rule === "epiphany-observed") {
+  if (rule === "epiphany") {
     return calculateEpiphany(year);
   }
   
