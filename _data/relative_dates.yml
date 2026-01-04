@@ -145,7 +145,7 @@
 # Pre-Easter season
 
 - id: "exodus_ninety"
-  rule: "easter-90"  # 40 days before Easter
+  rule: "easter-89"  # 89 days before Easter
   event: "Exodus 90 begins"
 
 - id: "septuagesima_sunday"
