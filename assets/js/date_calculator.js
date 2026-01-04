@@ -245,21 +245,25 @@ function calculateDateFromRule(rule, year) {
   
   // Easter-based rules
   if (rule.startsWith('easter')) {
-    const easterDate = calculateEaster(year);
-    const match = rule.match(/easter([+-])(\d+)/);
+  const easterDate = calculateEaster(year);
+  const match = rule.match(/easter([+-])(\d+)/);
+  
+  if (match) {
+    const operator = match[1];
+    const days = parseInt(match[2]);
     
-    if (match) {
-      const operator = match[1];
-      const days = parseInt(match[2]);
-      const msPerDay = 24 * 60 * 60 * 1000;
-      
-      return new Date(
-        easterDate.getTime() + (operator === '+' ? days : -days) * msPerDay
-      );
+    const resultDate = new Date(easterDate);
+    if (operator === '+') {
+      resultDate.setDate(easterDate.getDate() + days);
+    } else {
+      resultDate.setDate(easterDate.getDate() - days);
     }
     
-    return easterDate; // Just Easter itself
+    return resultDate;
   }
+  
+  return easterDate; // Just Easter itself
+}
   
   // Nth day of month rules (e.g., "first-monday-september")
   const nthDayMatch = rule.match(/^(first|second|third|fourth|fifth|last|second-to-last|third-to-last)-(sunday|monday|tuesday|wednesday|thursday|friday|saturday)-(january|february|march|april|may|june|july|august|september|october|november|december)$/);
