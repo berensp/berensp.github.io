@@ -31,15 +31,15 @@
   {% if page.ogimage %}
     <meta property="og:image" content="{{ site.url }}/assets/og/{{ page.ogimage }}">
   {% else %}
-    <meta property="og:image" content="/assets/og/curricle-canv-sm.png">
+    <meta property="og:image" content="{{ site.url }}/assets/og/curricle-canv-sm.png">
   {% endif %}
-  
+
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@{{ site.twitter }}">
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:creator" content="@{{ site.twitter }}">
 
-  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ site.url }}/feed.xml" />
   <link rel="icon" href="/assets/32.png" sizes="32x32">
