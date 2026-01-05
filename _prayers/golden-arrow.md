@@ -8,3 +8,6 @@ May the most holy, most sacred, most adorable, most mysterious and unutterable N
 *This prayer is said to have been revealed by Jesus Himself to a Carmelite nun of Tours in 1843 as a reparation for blasphemy. "This Golden Arrow will wound My Heart delightfully," He said, "and heal the wounds inflicted by blasphemy."*
 
 [Musical reflection: *At the Name of Jesus*](https://youtu.be/cFjJEmyu2nI)
+
+![Sit nomen Domini benedictum](/assets/images/nomen.domini.jpg)
+<span class="muted small">Sit nomen Domini benedictum</span>
