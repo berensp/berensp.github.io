@@ -10,7 +10,7 @@ description: Hey, get off my lawn!
 - It's ambitious, but we should work toward a decentralized (human) web before the AI overlords make it impossible (see [Farcaster post](/farcaster.html) and [*Read Write Own* post](/read-write-own))
 - Apologies to the ufologists, but my money is on us being alone *(Silentium universi)*
 
-## *Kvetchy* pet peeves masquerading as beliefs
+## Kvetchy pet peeves masquerading as beliefs
 - When introducing oneself to a group, no need to lead with "for those who don't know me…"; just introduce yourself
 - Before offering your edits, have a moment of cool reflection on your English skills
 - Bicyclists: if it's too much work to stop at intersections, you probably need to get in shape
