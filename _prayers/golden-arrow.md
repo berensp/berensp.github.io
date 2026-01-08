@@ -2,6 +2,8 @@
 layout: prayer
 title: The Golden Arrow
 category: Miscellany
+ogimage: nomen.domini.jpg
+description: Sanctificétur Nomen Tuum.
 ---
 May the most holy, most sacred, most adorable, most mysterious and unutterable Name of God be always praised, blessed, loved, adored, and glorified in heaven, on earth, and under the earth, by all the creatures of God, and by the Sacred Heart of our Lord Jesus Christ in the most Holy Sacrament of the altar.
 
@@ -9,5 +11,5 @@ May the most holy, most sacred, most adorable, most mysterious and unutterable N
 
 [Musical reflection: *At the Name of Jesus*](https://youtu.be/cFjJEmyu2nI)
 
-![Sit nomen Domini benedictum](/assets/images/nomen.domini.jpg)
+![Sit nomen Domini benedictum](/assets/og/nomen.domini.jpg)
 <span class="muted small">Sit nomen Domini benedictum</span>
