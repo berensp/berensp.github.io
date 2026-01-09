@@ -3,6 +3,7 @@ layout: page
 title: Today
 permalink: /today/
 description: Check the diary.
+ogimage: berens_co_today.png
 ---
 <table class="schedule-table">
   <thead>
