@@ -238,7 +238,7 @@
 
 - id: "corpus_christi"
   rule: "easter+60"  # Thursday after Trinity Sunday
-  event: "Corpus Christi"
+  event: '<a href="/prayers/litany-blessed-host/">Corpus Christi</a>'
 
 - id: "sacred_heart"
   rule: "easter+68"  # Friday after the second Sunday after Pentecost

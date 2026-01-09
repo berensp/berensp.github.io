@@ -1,26 +1,29 @@
 # _data/books.yml
 
 # Last Read
-- title: "King Arthur and His Knights of the Round Table"
-  author: "Roger Lancelyn Green"
-  category: "Last Read"
-  review_slug: "king-arthur"
 
-# Presently Reading
 - title: "The Brothers Karamazov"
   author: "Fyodor Dostoevsky"
-  category: "Presently Reading"
+  category: "Last Read"
 
-- title: "The Hitchhiker's Guide to the Galaxy"
-  author: "Douglas Adams"
+# Presently Reading
+
+- title: "Avenue of Mysteries"
+  author: "John Irving"
   category: "Presently Reading"
 
 # On Deck
-- title: "Avenue of Mysteries"
-  author: "John Irving"
+
+- title: "The Imitation of Christ"
+  author: "Thomas à Kempis"
   category: "On Deck"
 
 # Near Term
+
+- title: "The Hitchhiker's Guide to the Galaxy"
+  author: "Douglas Adams"
+  category: "Near Term"
+
 - title: "The Iliad"
   author: "Homer"
   category: "Near Term"
@@ -46,6 +49,7 @@
   category: "Near Term"
 
 # Favourites
+
 - title: "Founding Brothers"
   author: "Joseph Ellis"
   category: "Favourites"
@@ -93,6 +97,12 @@
   category: "Favourites"
 
 # Miscellany
+
+- title: "King Arthur and His Knights of the Round Table"
+  author: "Roger Lancelyn Green"
+  category: "Miscellany"
+  review_slug: "king-arthur"
+
 - title: "Man's Search for Meaning"
   author: "Viktor E. Frankl"
   category: "Miscellany"
@@ -167,7 +177,7 @@
   author: "Thomas E. Mann"
   category: "Books by Family/Friends"
 
-# Example with review - just add review_slug when you write a post:
+# Example with review - add review_slug for books with post:
 # - title: "Bad Land"
 #   author: "Jonathan Raban"
 #   category: "Favourites"
