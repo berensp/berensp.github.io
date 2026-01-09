@@ -42,7 +42,7 @@ description: What I'm up to these days.
 - [Writing](/posts/) across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - [Reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}—previously *{{ last_read.title }}* by {{ last_read.author }}
 - [Learning](/learning/) {{ site.data.learning.current.first.endeavour | strip_html }}{% if site.data.learning.current[1] %}, {{ site.data.learning.current[1].endeavour | strip_html }}{% endif %}, etc.
-- [Riding](/cycling/) and [running](/running/)—barely enough to stay in shape{% if site.data.strava %}—with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
+- [Riding](/cycling/) and [running](/running/) (barely enough to stay in shape){% if site.data.strava %} with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}) on {{ site.data.strava.date | date: "%b %-d" }}: {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
 - [Cooking](/recipes/) up something that the kids can push around their plates and pick at
 
 <span class="muted small">Last updated: {{ last_update }} via {{ update_source }}.</span>
