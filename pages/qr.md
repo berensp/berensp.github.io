@@ -3,11 +3,12 @@ layout: page
 title: QR Codes
 permalink: /qr/
 ---
-<b><a href="/contact/">Contact page</a>:</b>
-<img src="/assets/images/berens_dot_co_contact_QR_code.png" alt="QR code for berens.co contact pages" style="width: 50%;">
+## Social/Comms
+- <a href="/assets/images/qr/berens_dot_co_contact_QR_code.png">Contact page</a>
+- <a href="/assets/images/qr/berens_dot_co_vCard_QR_code.png">vCard</a>
+- <a href="/assets/images/qr/berens_dot_co_email_QR_code.png">Email</a>
 
-<b><a href="/assets/downloads/pmb_contact.vcf">vCard</a>:</b>
-<img src="/assets/images/berens_dot_co_vCard_QR_code.png" alt="QR code for berens.co vCard" style="width: 50%;">
-
-<b><a href="/pay/">Payment apps</a>:</b>
-<img src="/assets/images/berens_dot_co_pay_QR_code.png" alt="QR code for berens.co payment apps" style="width: 50%;">
+## Payments
+- <a href="/assets/images/qr/berens_dot_co_pay_QR_code.png">Payment apps page</a>
+- <a href="/assets/images/qr/pmt_zelle.gif">Zelle</a>
+- <a href="/assets/images/qr/pmt_cash_app_pmb">Cash app</a>
