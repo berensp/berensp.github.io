@@ -9,7 +9,7 @@ Let us settle accounts on your favourite app:
 - **PayPal** (<a href="https://paypal.me/berens" target="_blank">@berens</a>)
 - **<mark>Strike</mark>** (<a href="https://strike.me/pmb/" target="_blank">@pmb</a>)
 - **Venmo** (<a href="https://wwww.venmo.com/u/berens" target="_blank">@berens</a>)
-- **Zelle** (<a href="/assets/images/zelle.gif" target="_blank">QR code</a>)
+- **Zelle** (<a href="/assets/images/qr/pmt_zelle.gif" target="_blank">QR code</a>)
 
 	<mark><span class="muted small">BTC</span></mark>
 
