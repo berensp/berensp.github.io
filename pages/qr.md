@@ -9,6 +9,7 @@ permalink: /qr/
 - <a href="/assets/images/qr/berens_dot_co_email_QR_code.png">Email</a>
 
 ## 💸 [Payments](/pay/)
-- <a href="/assets/images/qr/berens_dot_co_pay_QR_code.png">Payment apps page</a>
-- <a href="/assets/images/qr/pmt_zelle.gif">Zelle</a>
 - <a href="/assets/images/qr/pmt_cash_app_pmb.png">Cash app</a>
+- <a href="/assets/images/qr/pmt_venmo_berens.png">Venmo</a>
+- <a href="/assets/images/qr/pmt_zelle.gif">Zelle</a>
+- <a href="/assets/images/qr/berens_dot_co_pay_QR_code.png">Payment apps page</a>
