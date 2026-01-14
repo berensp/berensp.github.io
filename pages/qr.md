@@ -11,4 +11,4 @@ permalink: /qr/
 ## Payments
 - <a href="/assets/images/qr/berens_dot_co_pay_QR_code.png">Payment apps page</a>
 - <a href="/assets/images/qr/pmt_zelle.gif">Zelle</a>
-- <a href="/assets/images/qr/pmt_cash_app_pmb">Cash app</a>
+- <a href="/assets/images/qr/pmt_cash_app_pmb.png">Cash app</a>
