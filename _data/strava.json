@@ -1,11 +1,11 @@
 {
-  "name": "Evening Walk",
+  "name": "Night Walk",
   "type": "Walk",
-  "distance": "0.42",
-  "duration": 5,
-  "elevation": 26,
-  "date": "2026-01-12T04:54:29Z",
-  "url": "https://www.strava.com/activities/17019154001",
-  "ytd_run_distance": "19.21",
+  "distance": "4.18",
+  "duration": 68,
+  "elevation": 120,
+  "date": "2026-01-14T05:09:37Z",
+  "url": "https://www.strava.com/activities/17043267516",
+  "ytd_run_distance": "28.86",
   "ytd_ride_distance": "0.00"
 }
