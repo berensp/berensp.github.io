@@ -11,7 +11,7 @@ description: Hey, get off my lawn!
 - Apologies to the ufologists, but my money is on us being alone *(Silentium universi)*
 
 ## Kvetchy pet peeves masquerading as beliefs
-- Able-bodied pedestrians that amble across crosswalks, making people wait for them, should be jailed immediately (maybe parole) 
+- Able-bodied pedestrians who amble across crosswalks, making drivers wait, should be jailed immediately—parole negotiable.
 - Whistling impinges on others' freedom
 - When introducing oneself to a group, no need to lead with "for those who don't know me…"
 - Before offering your edits, have a moment of cool reflection on your English skills
