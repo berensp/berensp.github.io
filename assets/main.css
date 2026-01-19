@@ -30,6 +30,11 @@
   /* Footnote colors */
   --footnote-color: #666;
 
+  /* Table colors */
+  --table-border: #ddd;
+  --table-header-bg: #f5f5f5;
+  --table-current-row-bg: #fff3cd;
+
   /* Highlight colors */
   --mark-yellow: rgb(253, 236, 166);
   --mark-turquoise: rgb(175, 238, 238);
@@ -41,39 +46,44 @@
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
   :root {
-    --text-color: #e4e4e4;
-    --bg-color: #1a1a1a;
-    --heading-color: #f0f0f0;
-    --link-color: #6b9aff;
-    --strong-color: #8b9cff;
-    --muted-color: #888;
-    --border-color: #333;
-    --border-light: #2a2a2a;
+    --text-color: #c9d1d9;
+    --bg-color: #0d1117;
+    --heading-color: #e6edf3;
+    --link-color: #58a6ff;
+    --strong-color: #79c0ff;
+    --muted-color: #8b949e;
+    --border-color: #30363d;
+    --border-light: #21262d;
 
     /* Code colors */
-    --code-bg: #2a2a2a;
+    --code-bg: #161b22;
     --code-text: #ff7eb6;
-    --pre-bg: #252525;
-    --pre-text: #e4e4e4;
-    --pre-border: #3a3a3a;
+    --pre-bg: #161b22;
+    --pre-text: #c9d1d9;
+    --pre-border: #30363d;
 
     /* UI element colors */
-    --tag-bg: #2a2a2a;
-    --tag-hover-bg: #333;
-    --blockquote-bg: #1f2a3a;
-    --blockquote-border: #4a90b8;
-    --focus-border: #6b9aff;
-    --focus-shadow: rgba(107, 154, 255, 0.4);
+    --tag-bg: #21262d;
+    --tag-hover-bg: #30363d;
+    --blockquote-bg: #161b22;
+    --blockquote-border: #58a6ff;
+    --focus-border: #58a6ff;
+    --focus-shadow: rgba(88, 166, 255, 0.3);
 
     /* Footnote colors */
-    --footnote-color: #999;
+    --footnote-color: #8b949e;
 
-    /* Highlight colors - slightly dimmed for dark mode */
-    --mark-yellow: rgb(180, 160, 80);
-    --mark-turquoise: rgb(100, 160, 160);
-    --mark-lilac: rgb(160, 130, 180);
-    --mark-gray: rgb(120, 120, 120);
-    --notabene-text: rgb(180, 180, 180);
+    /* Table colors */
+    --table-border: #30363d;
+    --table-header-bg: transparent;
+    --table-current-row-bg: rgba(187, 128, 9, 0.15);
+
+    /* Highlight colors - adjusted for dark mode */
+    --mark-yellow: rgb(187, 128, 9);
+    --mark-turquoise: rgb(56, 139, 129);
+    --mark-lilac: rgb(137, 87, 168);
+    --mark-gray: rgb(110, 118, 129);
+    --notabene-text: #8b949e;
   }
 }
 
