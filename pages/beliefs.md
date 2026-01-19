@@ -11,10 +11,10 @@ description: Hey, get off my lawn!
 - Apologies to the ufologists, but my money is on us being alone *(Silentium universi)*
 
 ## Kvetchy pet peeves masquerading as beliefs
-- When introducing oneself to a group, no need to lead with "for those who don't know me…"; just introduce yourself
+- Able-bodied pedestrians that amble across crosswalks, making people wait for them, should be jailed immediately (maybe parole) 
+- Whistling impinges on others' freedom
+- When introducing oneself to a group, no need to lead with "for those who don't know me…"
 - Before offering your edits, have a moment of cool reflection on your English skills
 - Bicyclists: if it's too much work to stop at intersections, you probably need to get in shape
-- Whistling impinges on others' freedom
-- Mechanical pencils should be banned; traditional pencils only
-- Able-bodied pedestrians that amble across crosswalks should be jailed immediately (maybe parole) 
 - Speed bumps can be useful but are also a NIMBY thing
+- Mechanical pencils are a false economy
