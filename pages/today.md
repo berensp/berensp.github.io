@@ -36,7 +36,6 @@ ogimage: berens_co_today.jpg
 }
 .schedule-table th {
   background-color: var(--table-header-bg);
-  font-weight: 600;
 }
 .schedule-table th:first-child {
   text-align: center;
