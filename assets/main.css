@@ -1,12 +1,91 @@
+/* CSS Custom Properties for Light/Dark Mode */
+:root {
+  color-scheme: light dark;
+
+  /* Light mode colors (default) */
+  --text-color: #222;
+  --bg-color: #fafafa;
+  --heading-color: #111;
+  --link-color: #2563eb;
+  --strong-color: #000080;
+  --muted-color: #aaa;
+  --border-color: #eee;
+  --border-light: #e0e0e0;
+
+  /* Code colors */
+  --code-bg: #f4f4f4;
+  --code-text: #e83e8c;
+  --pre-bg: #f6f8fa;
+  --pre-text: #24292e;
+  --pre-border: #e1e4e8;
+
+  /* UI element colors */
+  --tag-bg: #f2f2f2;
+  --tag-hover-bg: #e9e9e9;
+  --blockquote-bg: #ebf2ff;
+  --blockquote-border: #2596be;
+  --focus-border: #007bff;
+  --focus-shadow: rgba(0, 123, 255, 0.6);
+
+  /* Footnote colors */
+  --footnote-color: #666;
+
+  /* Highlight colors */
+  --mark-yellow: rgb(253, 236, 166);
+  --mark-turquoise: rgb(175, 238, 238);
+  --mark-lilac: rgb(243, 228, 255);
+  --mark-gray: rgb(211, 211, 211);
+  --notabene-text: rgb(79, 79, 79);
+}
+
+/* Dark mode colors */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #e4e4e4;
+    --bg-color: #1a1a1a;
+    --heading-color: #f0f0f0;
+    --link-color: #6b9aff;
+    --strong-color: #8b9cff;
+    --muted-color: #888;
+    --border-color: #333;
+    --border-light: #2a2a2a;
+
+    /* Code colors */
+    --code-bg: #2a2a2a;
+    --code-text: #ff7eb6;
+    --pre-bg: #252525;
+    --pre-text: #e4e4e4;
+    --pre-border: #3a3a3a;
+
+    /* UI element colors */
+    --tag-bg: #2a2a2a;
+    --tag-hover-bg: #333;
+    --blockquote-bg: #1f2a3a;
+    --blockquote-border: #4a90b8;
+    --focus-border: #6b9aff;
+    --focus-shadow: rgba(107, 154, 255, 0.4);
+
+    /* Footnote colors */
+    --footnote-color: #999;
+
+    /* Highlight colors - slightly dimmed for dark mode */
+    --mark-yellow: rgb(180, 160, 80);
+    --mark-turquoise: rgb(100, 160, 160);
+    --mark-lilac: rgb(160, 130, 180);
+    --mark-gray: rgb(120, 120, 120);
+    --notabene-text: rgb(180, 180, 180);
+  }
+}
+
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
   font-size: 1em;
-  color: #222;
+  color: var(--text-color);
   max-width: 40rem;
   padding: 2rem;
   margin: auto;
-  background: #fafafa; 
+  background: var(--bg-color);
   top: 0px !important; /* Prevents Google Translate shifting */
 }
 
@@ -61,7 +140,7 @@ img {
 }
 
 a {
-  color: #2563eb;
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -71,12 +150,12 @@ a:hover {
 
 /* Colors */
 h1, h2, h3 {
-  color: #111; 
+  color: var(--heading-color);
 }
 
 /* switch back to background: rgba(59, 130, 246, 0.15) and color: #0a1464; */
 strong {
-  color: #000080; /* previously orange #ea580c (2025-11-21)  */
+  color: var(--strong-color); /* previously orange #ea580c (2025-11-21)  */
 }
 
 /* Sizes and spacing */
@@ -112,12 +191,12 @@ li {
 
 hr {
   border: 0px;
-  border-top: 1px solid #eee; 
+  border-top: 1px solid var(--border-color);
 }
 
 .muted {
-  color: #aaa;
-  text-decoration: none; 
+  color: var(--muted-color);
+  text-decoration: none;
 }
 
 .small {
@@ -127,26 +206,26 @@ hr {
 
 /* Inline code Style 1: Subtle and clean */
 :not(pre) > code {
-    background-color: #f4f4f4;
+    background-color: var(--code-bg);
     padding: 2px 6px;
     border-radius: 3px;
     font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
     font-size: 0.9em;
-    color: #e83e8c;
+    color: var(--code-text);
 }
 
 pre {
-    background-color: #f6f8fa;
+    background-color: var(--pre-bg);
     padding: 16px;
     border-radius: 6px;
     overflow-x: auto;
-    border: 1px solid #e1e4e8;
+    border: 1px solid var(--pre-border);
 }
 
 pre code {
     background-color: transparent;
     padding: 0;
-    color: #24292e;
+    color: var(--pre-text);
     font-family: 'Monaco', 'Menlo', 'Consolas', monospace;
     font-size: 0.9em;
 }
@@ -154,19 +233,19 @@ pre code {
 .tag {
   font-size: .8em;
   line-height: 0.8em;
-  color: #aaa;
+  color: var(--muted-color);
   text-decoration: none;
-  background-color: #f2f2f2;
+  background-color: var(--tag-bg);
   border-radius: 4px;
   padding: 0.25em 0.5em;
   margin-right: 0.5em;
   display: inline-block;
-  border: 1px solid #e0e0e0;
+  border: 1px solid var(--border-light);
 }
 
 /* Optional hover effect */
 .tag:hover {
-  background-color: #e9e9e9;
+  background-color: var(--tag-hover-bg);
 }
 
 input:not([type="checkbox"]), textarea {
@@ -180,8 +259,8 @@ input:not([type="checkbox"]), textarea {
 
 input:not([type="checkbox"]):focus, textarea:focus {
     outline: none;
-    border-color: #007bff;
-    box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.6);  /* Increased opacity from 0.25 to 0.6 */
+    border-color: var(--focus-border);
+    box-shadow: 0 0 0 2px var(--focus-shadow);  /* Increased opacity from 0.25 to 0.6 */
 }
 
 .goog-te-banner-frame.skiptranslate {
@@ -193,8 +272,8 @@ input:not([type="checkbox"]):focus, textarea:focus {
 }
 
 blockquote {
-  background: #ebf2ff;
-  border-left: 3px solid #2596be;
+  background: var(--blockquote-bg);
+  border-left: 3px solid var(--blockquote-border);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
@@ -220,7 +299,7 @@ sup, sub {
   margin: 0 2px;
   
   /* Optional: style the footnote number */
-  color: #666;
+  color: var(--footnote-color);
 }
 
 /* Style the footnote links specifically */
@@ -234,7 +313,7 @@ sup a {
 #footnotes {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid #eee;
+  border-top: 1px solid var(--border-color);
   font-size: 0.9em;
   padding-left: 1.5em;
 }
@@ -242,7 +321,7 @@ sup a {
 .footnotes li,
 #footnotes li {
   margin: 0.5em 0;
-  color: #666;
+  color: var(--footnote-color);
 }
 
 /* Style the footnote back-links */
@@ -257,49 +336,49 @@ sup a {
   padding-left: 0;  /* Remove extra padding since it's handled by .footnotes */
 }
 
-mark { 
-  background-color: rgb(253, 236, 166);
+mark {
+  background-color: var(--mark-yellow);
   color: inherit;
 }
 
-mark.paleturquoise { 
-  background-color: rgb(175, 238, 238);
-  color: black;
+mark.paleturquoise {
+  background-color: var(--mark-turquoise);
+  color: var(--text-color);
 }
 
 mark.lilac {
-  background-color: rgb(243, 228, 255);
-  color: black;
+  background-color: var(--mark-lilac);
+  color: var(--text-color);
 }
 
 mark.lightgray {
-  background-color: rgb(211, 211, 211);
-  color: black;
+  background-color: var(--mark-gray);
+  color: var(--text-color);
 }
 
 .notabene {
-  background-color: rgb(211, 211, 211);
-  color: rgb(79,79,79);
+  background-color: var(--mark-gray);
+  color: var(--notabene-text);
   font-style: italic;
   display: inline;
 }
 
 .tag-yellow {
-  background-color: rgb(253, 236, 166);
-  color: #222;
+  background-color: var(--mark-yellow);
+  color: var(--text-color);
 }
 
 .tag-turquoise {
-  background-color: rgb(175, 238, 238);
-  color: #222;
+  background-color: var(--mark-turquoise);
+  color: var(--text-color);
 }
 
 .tag-lilac {
-  background-color: rgb(243, 228, 255);
-  color: #222;
+  background-color: var(--mark-lilac);
+  color: var(--text-color);
 }
 
 .tag-gray {
-  background-color: rgb(211, 211, 211);
-  color: #222;
+  background-color: var(--mark-gray);
+  color: var(--text-color);
 }
