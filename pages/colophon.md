@@ -15,12 +15,3 @@ Sans-serif typefacing.
 Imprinted (and [vibe coded](/vibe-coding)) at San Francisco, California.
 
 Anno Domini MMXX. Omnia iura reservata.
-
-<p>
-<center>
-<img src="/assets/og/divider-g2fa5b2a44_1280.png" alt="angel">
-</center>
-
-<center>
-<span class="muted small">Image by </span><a class="muted small" href="https://pixabay.com/users/gdj-1086657/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6121834" target="_blank">Gordon Johnson</a>
-</center>
