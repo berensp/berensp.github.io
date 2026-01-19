@@ -13,7 +13,7 @@ yield: 4 servings
   <li><input type="checkbox"/>1 tsp. garlic powder</li>
   <li><input type="checkbox"/>½ tsp. ground black pepper</li>
   <li><input type="checkbox"/>cheese slices</li>
-  <li><input type="checkbox"/>hamburger buns</li>
+  <li><input type="checkbox"/>hamburger buns<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></li>
   <li><input type="checkbox"/>lettuce</li>
   <li><input type="checkbox"/>tomato</li>
   <li><input type="checkbox"/>pickles</li>
@@ -21,16 +21,17 @@ yield: 4 servings
 </ul>
 
 [^1]: @Dad always used the Worcestershire sauce, so I don't skip it. 1 lb. recipe for four patties.
+[^2]: When the kids were a little younger I did Hawaiian buns/mini sweet rolls and then make smaller patties for sliders.
 
 ## Instructions
 1. Preheat the grill to 375°F (medium-high)... or your cast iron skillet to sizzling hot.
-2. Sprinkle ingredients evenly across beef. Mix until they are just combined[^2]
+2. Sprinkle ingredients evenly across beef. Mix until they are just combined[^3]
 3. Divide mixture into fourths → make patties →
 4. Make indentation in the middle to prevent the bulging!
 5. Cook 4-5 minutes per side. (You get one flip and one flip only.)
 
+[^3]: Be sure you don't overdo it with the mixing or your burgers may end up on the "tough" side.
+
 Buen provecho.
 
 — ᴘ. ᴍ. ʙ.
-
-[^2]: Be sure you don't overdo it with the mixing or your burgers may end up on the "tough" side.
