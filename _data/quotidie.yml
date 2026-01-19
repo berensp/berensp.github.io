@@ -1,7 +1,7 @@
 monday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: "Eggwich"
+  - task: "Muffins Monday"
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -22,7 +22,7 @@ monday:
 tuesday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Milk & cereal'
+  - task: 'Müsli Martes'
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -64,7 +64,7 @@ wednesday:
 thursday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Bagel meets coffee'
+  - task: 'Jamón Jueves'
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -85,7 +85,7 @@ thursday:
 friday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Breakfast'
+  - task: 'French Toast Friday'
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -108,7 +108,7 @@ friday:
 saturday:
   - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: "Contrive day's business over <a href='/recipes/pancakes/'>pancakes</a>"
+  - task: "<a href='/recipes/pancakes/'>Stack Saturday</a>"
     time: "08:00"
   - task: '<i>Divertissement</i>'
     time: "09:00"
@@ -127,7 +127,7 @@ saturday:
 sunday:
   - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: 'French toast'
+  - task: 'Cinnamon Roll Sunday (Domingo Doughnuts)'
     time: "07:45"
   - task: 'Missa (<a href="/prayers/st-ambrose/">pre</a>, <a href="/prayers/st-padre-pio/">post</a>, <a href="/prayers/thanksgiving-post-missam/">thx</a>)'
     time: "09:30"
