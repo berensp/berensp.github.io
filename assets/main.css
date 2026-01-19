@@ -33,6 +33,7 @@
   /* Table colors */
   --table-border: #ddd;
   --table-header-bg: #f5f5f5;
+  --table-section-header-bg: #cee0f2;
   --table-current-row-bg: #fff3cd;
 
   /* Highlight colors */
@@ -76,6 +77,7 @@
     /* Table colors */
     --table-border: #0a3a47;
     --table-header-bg: transparent;
+    --table-section-header-bg: rgba(140, 194, 221, 0.15);
     --table-current-row-bg: rgba(140, 194, 221, 0.25);
 
     /* Highlight colors - adjusted for dark mode */

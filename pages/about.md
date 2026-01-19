@@ -13,7 +13,7 @@ description: fun facts
 <table>
   <tbody>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Basic Info</th>
+      <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Basic Info</th>
     </tr>
     <tr>
       <td style="text-align: left">Name</td>
@@ -36,7 +36,7 @@ description: fun facts
       <td style="text-align: left"><a href="https://x.com/bostoncollege" target="_blank">@BC</a>, <a href="https://x.com/UMich" target="_blank">@UMich</a></td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Places</th>
+      <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Places</th>
     </tr>
     <tr>
       <td style="text-align: left">Hometown</td>
@@ -56,7 +56,7 @@ description: fun facts
       <td style="text-align: left"><a href="/states/">47 of 50</a></td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Sport</th>
+      <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Sport</th>
     </tr>
     <tr>
       <td style="text-align: left">Running (YTD)<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
@@ -87,7 +87,7 @@ description: fun facts
       <td style="text-align: left">188 cm</td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Personal</th>
+      <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Personal</th>
     </tr>
     <tr>
       <td style="text-align: left">Spouse</td>
@@ -106,7 +106,7 @@ description: fun facts
       <td style="text-align: left"><a href="/personality.html">INTP</a></td>
     </tr>
     <tr>
-      <th colspan="2" style="text-align: center; background-color: #cee0f2;">Miscellany</th>
+      <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Miscellany</th>
     </tr>
     <tr>
       <td style="text-align: left">Religion</td>
