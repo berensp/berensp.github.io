@@ -28,20 +28,21 @@ ogimage: berens_co_today.jpg
 .schedule-table th,
 .schedule-table td {
   padding: 8px;
-  border: 1px solid #ddd;
+  border: 1px solid var(--table-border);
   text-align: left;
 }
 .schedule-table td:first-child {
   text-align: center;
 }
 .schedule-table th {
-  background-color: #f5f5f5;
+  background-color: var(--table-header-bg);
+  font-weight: 600;
 }
 .schedule-table th:first-child {
   text-align: center;
 }
 .current-time-row {
-  background-color: #fff3cd;
+  background-color: var(--table-current-row-bg);
 }
 .schedule-table input:not([type="checkbox"]) {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -50,14 +51,14 @@ ogimage: berens_co_today.jpg
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    border: 1px solid #ccc;
+    border: 1px solid var(--table-border);
     border-radius: 4px;
     padding: 0.25rem;
 }
 .schedule-table input:not([type="checkbox"]):focus {
     outline: none;
-    border-color: #007bff;
-    box-shadow: 0 0 0 0.5px rgba(0, 123, 255, 0.8);
+    border-color: var(--focus-border);
+    box-shadow: 0 0 0 0.5px var(--focus-shadow);
 }
 </style>
 
