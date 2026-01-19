@@ -28,7 +28,7 @@ yield: ~8 servings
   <li><input type="checkbox"/>1 Tbsp olive oil</li>
 </ul>
 
-## Instant Pot Instructions
+## Instant Pot instructions
 1. Set Instant Pot to sauté mode. Add olive oil and brown the beef in batches, breaking it up as it cooks. Remove and set aside.
 2. Add onion and carrot to the pot. Cook until softened, about 4–5 minutes. Add garlic and cook another minute.
 3. Return beef to the pot. Add chili powder, cumin, paprika, cinnamon, oregano, salt, and pepper. Stir and let spices toast for about a minute.
@@ -36,7 +36,7 @@ yield: ~8 servings
 5. Lock the lid, set valve to sealing. Pressure cook on high for 15 minutes.
 6. Natural release for 10 minutes, then quick release remaining pressure. Stir well—it'll thicken as it sits. Taste and adjust seasoning.
 
-## Adjust for  stovetop:
+## Stovetop instructions
 1. Use a large Dutch oven or heavy-bottomed pot. Brown the beef, sauté the onion/carrot/garlic, toast the spices—all the same as before over medium-high heat.
 2. Once everything's in the pot, bring to a boil, then reduce heat to low and simmer uncovered for at least 45 minutes, stirring occasionally. (An hour or more is better if you have time.)
 3. Also, increase the chicken stock back up to 1½ cups since you'll lose liquid to evaporation on the stovetop, unlike the sealed Instant Pot.
@@ -53,8 +53,6 @@ yield: ~8 servings
   <li><input type="checkbox"/>chopped cilantro</li>
   <li><input type="checkbox"/>diced raw onion</li>
 </ul>
-
-Shredded cheddar, sour cream, diced avocado, tortilla chips, oyster crackers, sliced jalapeños (adults), chopped cilantro, diced raw onion.
 
 Buen provecho.
 
