@@ -47,36 +47,36 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: #c9d1d9;
-    --bg-color: #0d1117;
+    --bg-color: #01242e;
     --heading-color: #e6edf3;
-    --link-color: #58a6ff;
-    --strong-color: #79c0ff;
+    --link-color: #8CC2DD;
+    --strong-color: #8CC2DD;
     --muted-color: #8b949e;
-    --border-color: #30363d;
-    --border-light: #21262d;
+    --border-color: #0a3a47;
+    --border-light: #073340;
 
     /* Code colors */
-    --code-bg: #161b22;
+    --code-bg: #032833;
     --code-text: #ff7eb6;
-    --pre-bg: #161b22;
+    --pre-bg: #032833;
     --pre-text: #c9d1d9;
-    --pre-border: #30363d;
+    --pre-border: #0a3a47;
 
     /* UI element colors */
-    --tag-bg: #21262d;
-    --tag-hover-bg: #30363d;
-    --blockquote-bg: #161b22;
-    --blockquote-border: #58a6ff;
-    --focus-border: #58a6ff;
-    --focus-shadow: rgba(88, 166, 255, 0.3);
+    --tag-bg: #073340;
+    --tag-hover-bg: #0a3a47;
+    --blockquote-bg: #032833;
+    --blockquote-border: #8CC2DD;
+    --focus-border: #8CC2DD;
+    --focus-shadow: rgba(140, 194, 221, 0.3);
 
     /* Footnote colors */
     --footnote-color: #8b949e;
 
     /* Table colors */
-    --table-border: #30363d;
+    --table-border: #0a3a47;
     --table-header-bg: transparent;
-    --table-current-row-bg: rgba(187, 128, 9, 0.15);
+    --table-current-row-bg: rgba(140, 194, 221, 0.25);
 
     /* Highlight colors - adjusted for dark mode */
     --mark-yellow: rgb(187, 128, 9);
