@@ -40,7 +40,7 @@ ogimage: berens_co_today.jpg
 .schedule-table th:first-child,
 .schedule-table td:first-child {
   text-align: center;
-  border-left: 4px solid var(--table-border);
+  border-left: 4px solid transparent;
 }
 .current-time-row {
   background-color: var(--table-current-row-bg);
