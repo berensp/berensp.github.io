@@ -30,7 +30,7 @@ ogimage: berens_co_today.jpg
   padding: 8px;
   border-top: 1px solid var(--table-border);
   border-bottom: 1px solid var(--table-border);
-  border-right: 1px solid var(--table-border);
+  border-right: none;
   border-left: none;
   text-align: left;
 }
