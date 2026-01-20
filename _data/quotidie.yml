@@ -1,7 +1,28 @@
+sunday:
+  - task: 'Rise, wash, READINGS'
+    time: "07:00"
+  - task: 'Sunday Cinnamon Rolls (Domingo Doughnuts)'
+    time: "07:45"
+  - task: 'Missa (<a href="/prayers/st-ambrose/">pre</a>, <a href="/prayers/st-padre-pio/">post</a>, <a href="/prayers/thanksgiving-post-missam/">thx</a>)'
+    time: "09:30"
+  - task: '<a href="/prayers/angelus/">Angelus</a>, lunch'
+    time: "12:00"
+  - task: 'Play'
+    time: "13:00"
+  - task: 'Dine, clean, arrange things'
+    time: "18:00"
+  - task: '<a href="/books/">Read</a>'
+    time: "20:30"
+  - task: 'Prepare for the week ahead'
+    time: "21:30"
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Glorious Mysteries</a>'
+    time: "21:45"
+  - task: 'Sleep'
+    time: "22:00"
 monday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: "Muffins Monday"
+  - task: "Monday Muffins"
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -22,7 +43,7 @@ monday:
 tuesday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Müsli Martes'
+  - task: "Martes Müsli"
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -43,7 +64,7 @@ tuesday:
 wednesday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Waffle Wednesday'
+  - task: "Wednesday Waffles"
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -64,7 +85,7 @@ wednesday:
 thursday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'Jamón Jueves'
+  - task: "Jueves Jamón"
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -85,7 +106,7 @@ thursday:
 friday:
   - task: 'Rise, wash, READINGS'
     time: "06:00"
-  - task: 'French Toast Friday'
+  - task: "Friday French Toast"
     time: "07:00"
   - task: "Contrive day's business. <a href='/prayers/orate-ante-labori/'>Orate</a>."
     time: "08:25"
@@ -108,7 +129,7 @@ friday:
 saturday:
   - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: "<a href='/recipes/pancakes/'>Stack Saturday</a>"
+  - task: "<a href='/recipes/pancakes/'>Saturday Stacks</a>"
     time: "08:00"
   - task: '<i>Divertissement</i>'
     time: "09:00"
@@ -121,27 +142,6 @@ saturday:
   - task: '<a href="/books/">Read</a>'
     time: "21:00"
   - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Joyful Mysteries</a>'
-    time: "21:45"
-  - task: 'Sleep'
-    time: "22:00"
-sunday:
-  - task: 'Rise, wash, READINGS'
-    time: "07:00"
-  - task: 'Cinnamon Roll Sunday (Domingo Doughnuts)'
-    time: "07:45"
-  - task: 'Missa (<a href="/prayers/st-ambrose/">pre</a>, <a href="/prayers/st-padre-pio/">post</a>, <a href="/prayers/thanksgiving-post-missam/">thx</a>)'
-    time: "09:30"
-  - task: '<a href="/prayers/angelus/">Angelus</a>, lunch'
-    time: "12:00"
-  - task: 'Play'
-    time: "13:00"
-  - task: 'Dine, clean, arrange things'
-    time: "18:00"
-  - task: '<a href="/books/">Read</a>'
-    time: "20:30"
-  - task: 'Prepare for the week ahead'
-    time: "21:30"
-  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Glorious Mysteries</a>'
     time: "21:45"
   - task: 'Sleep'
     time: "22:00"
