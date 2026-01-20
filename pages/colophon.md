@@ -12,6 +12,32 @@ This site is hosted on [GitHub Pages and built with Jekyll using Clio](/this-sit
 
 Sans-serif typefacing.
 
+<span id="color-scheme-info"></span>
+
+<script>
+(function() {
+  const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  const infoElement = document.getElementById('color-scheme-info');
+
+  if (isDark) {
+    infoElement.innerHTML = 'You\'re viewing this site in <strong>dark mode</strong> because your system preferences are set to dark. This site automatically inherits your system\'s color scheme preference.';
+  } else {
+    infoElement.innerHTML = 'You\'re viewing this site in the original <strong>light mode</strong>. If you change your system preferences to dark mode, this site will automatically switch to dark mode.';
+  }
+
+  // Listen for changes in color scheme preference
+  if (window.matchMedia) {
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', e => {
+      if (e.matches) {
+        infoElement.innerHTML = 'You\'re viewing this site in <strong>dark mode</strong> because your system preferences are set to dark. This site automatically inherits your system\'s color scheme preference.';
+      } else {
+        infoElement.innerHTML = 'You\'re viewing this site in the original <strong>light mode</strong>. If you change your system preferences to dark mode, this site will automatically switch to dark mode.';
+      }
+    });
+  }
+})();
+</script>
+
 Imprinted (and [vibe coded](/vibe-coding)) at San Francisco, California.
 
 Anno Domini MMXX. Omnia iura reservata.
