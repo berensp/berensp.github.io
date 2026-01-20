@@ -1,21 +1,16 @@
 document.addEventListener('DOMContentLoaded', () => {
   // Time in SF calculation
   const SFArrival = new Date('2010-01-13T17:05:00-08:00'); // SF Arrival date at 17:05 PST on ✈ WN221
-  console.log("SF Arrival Date:", SFArrival.toString());
 
   const currentTime = new Date();
-  console.log("Current Time (local):", currentTime.toString());
-  
+
   // Calculate exact time difference
   const diffMsSF = currentTime - SFArrival.getTime();
   const exactDays = diffMsSF / (1000 * 60 * 60 * 24);
   const exactYears = exactDays / 365.25;
-  
+
   // Always round down to nearest tenth
   const TimeInSF = (Math.floor(exactYears * 10) / 10).toFixed(1);
-  
-  console.log("Exact years:", exactYears);
-  console.log("Time in SF (years):", TimeInSF);
 
   const timeInSFEl = document.getElementById('TimeinSF');
   if (timeInSFEl) {
@@ -27,7 +22,6 @@ document.addEventListener('DOMContentLoaded', () => {
   if (postDateEl) {
     const datePart = postDateEl.getAttribute('data-post-date').split('T')[0];
     const adjustedDateStr = datePart + 'T06:30:00-08:00'; // Assuming date is in PST
-    console.log("Adjusted Date String:", adjustedDateStr);
 
     const postDate = new Date(adjustedDateStr);
     if (isNaN(postDate.getTime())) {
@@ -35,11 +29,8 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    console.log("Calculated Post Date (PST):", postDate.toString());
-
     const diffMs = currentTime - postDate.getTime();
     const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-    console.log("Difference in days:", diffDays);
 
     const timeDifferenceEl = document.getElementById('timeDifferenceInline');
     if (timeDifferenceEl) {
