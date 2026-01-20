@@ -64,11 +64,9 @@ class WeatherWidget {
     async displayWeather() {
         try {
             const data = await this.weatherPromise;
-            
-            // Log update time and data for debugging
+
             const now = new Date();
-            console.log('Weather data updated at:', now.toLocaleTimeString());
-            
+
             if (typeof data.current.weather_code === 'undefined') {
                 throw new Error('Missing weather code');
             }
@@ -105,14 +103,12 @@ class WeatherWidget {
 
     async fetchWeather() {
         try {
-            console.log('Fetching new weather data from API...');
             const response = await fetch(this.apiUrl);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
             this.weatherPromise = response.json();
             await this.displayWeather();
-            console.log('API call completed successfully at:', new Date().toLocaleTimeString());
         } catch (error) {
             console.error('Error refreshing weather:', error);
             // Only set a new retry timeout if one isn't already pending
