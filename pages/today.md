@@ -31,10 +31,6 @@ ogimage: berens_co_today.jpg
   border: 1px solid var(--table-border);
   text-align: left;
 }
-.schedule-table td {
-  border-left: 4px solid transparent;
-  padding-left: 12px;
-}
 .schedule-table td:first-child {
   text-align: center;
 }
@@ -44,9 +40,8 @@ ogimage: berens_co_today.jpg
 .schedule-table th:first-child {
   text-align: center;
 }
-.current-time-row td {
+.current-time-row {
   background-color: var(--table-current-row-bg);
-  border-left: 4px solid var(--table-accent-border);
 }
 .schedule-table input:not([type="checkbox"]) {
     line-height: 1.2em;
