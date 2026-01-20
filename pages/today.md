@@ -28,24 +28,24 @@ ogimage: berens_co_today.jpg
 .schedule-table th,
 .schedule-table td {
   padding: 8px;
-  border: 1px solid var(--table-border);
+  border-top: 1px solid var(--table-border);
+  border-bottom: 1px solid var(--table-border);
+  border-right: none;
+  border-left: none;
   text-align: left;
-}
-.schedule-table td {
-  border-left: 4px solid transparent;
-  padding-left: 12px;
-}
-.schedule-table td:first-child {
-  text-align: center;
 }
 .schedule-table th {
   background-color: var(--table-header-bg);
 }
-.schedule-table th:first-child {
+.schedule-table th:first-child,
+.schedule-table td:first-child {
   text-align: center;
+  border-left: 4px solid var(--table-border);
 }
-.current-time-row td {
+.current-time-row {
   background-color: var(--table-current-row-bg);
+}
+.current-time-row td:first-child {
   border-left: 4px solid var(--table-accent-border);
 }
 .schedule-table input:not([type="checkbox"]) {
