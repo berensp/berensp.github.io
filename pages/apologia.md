@@ -43,7 +43,7 @@ God's Existence
 
 ## 🇻🇦 Best Arguments for Catholicism
 - **The longevity of the Church.** The idea that the Church, run by broken, sinful, misguided humans has outlasted the Roman Empire by one and a half millenia is incredible. It should've been run aground long ago. It's almost as if it's being guided by an invisible hand.
-- **Eucharistic Miracles.** e.g.: Miracle of Lanciano (8th century), The Corporal of Bolsena (13th century), The Eucharistic Miracle of Santarém (13th century), The Hosts of Siena, Italy (18th century), The Miracle of Chirattakonam, India (21st century).
+- **Eucharistic Miracles.** e.g.: Miracle of Lanciano (8th century), The Corporal of Bolsena (13th century), The Eucharistic Miracle of Santarém (13th century), The Hosts of Siena, Italy (18th century), The Miracle of Chirattakonam, India (21st century). Not to mention countless incidents that are unapproved and private revelation (e.g., [this one](https://youtube.com/shorts/J5V9Xhay6e4?si=63BZlMcN82JV9dN9)).
 - **Marian Apparitions.** Guadalupe, Fátima, Lourdes, La Salette, Knock, Champion, and so many others. 
 - **Near-death Experiences**. There are certainly bogus accounts, people suffering psychoses or delusions, or disingenuous characters in search of attention/fame[^7]; but in my estimation it's a small percentage and doesn't explain away all accounts...that have, by the way, remarkable consistencies; many of which are quite thematically, doctrinally Catholic.
 
