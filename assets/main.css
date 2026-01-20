@@ -36,6 +36,10 @@
   --table-section-header-bg: #cee0f2;
   --table-current-row-bg: #fff3cd;
 
+  /* Input colors */
+  --input-bg: #ffffff;
+  --input-border: #ccc;
+
   /* Highlight colors */
   --mark-yellow: rgb(253, 236, 166);
   --mark-turquoise: rgb(175, 238, 238);
@@ -79,6 +83,10 @@
     --table-header-bg: transparent;
     --table-section-header-bg: rgba(140, 194, 221, 0.15);
     --table-current-row-bg: rgba(140, 194, 221, 0.25);
+
+    /* Input colors */
+    --input-bg: #011a23;
+    --input-border: #0a3a47;
 
     /* Highlight colors - adjusted for dark mode */
     --mark-yellow: rgb(187, 128, 9);
@@ -267,6 +275,11 @@ input:not([type="checkbox"]), textarea {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
+    background-color: var(--input-bg);
+    border: 1px solid var(--input-border);
+    color: var(--text-color);
+    border-radius: 4px;
+    padding: 0.25rem;
 }
 
 input:not([type="checkbox"]):focus, textarea:focus {
