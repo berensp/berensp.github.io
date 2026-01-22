@@ -11,6 +11,10 @@ category: Miscellany
 - Lord, thank you for the gift of being in Thy Holy Presence
 - Grant me more desire, more love, more confidence.
 
+## Listening
+- "Speak, Lord, your servant is listening" ([1 Sm 3:10](https://bible.usccb.org/bible/1samuel/3?10))
+- "Be still and know that I am the Lord" ([Psalm 46:11](https://bible.usccb.org/bible/psalms/46?11))
+
 ## Prayers
 - [Pater Noster](/prayers/pater-noster/)
 - [Ave Maria](/prayers/ave-maria/)
@@ -18,7 +22,3 @@ category: Miscellany
 - [Anima Christi](/prayers/anima-christi/)
 - [Suspice](/prayers/suspice/)
 - [Rosary](/prayers/rosary/)
-
-## Listening
-- "Speak, Lord, your servant is listening" ([1 Sm 3:10](https://bible.usccb.org/bible/1samuel/3?10))
-- "Be still and know that I am the Lord" ([Psalm 46:11](https://bible.usccb.org/bible/psalms/46?11))
