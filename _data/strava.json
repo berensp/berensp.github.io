@@ -1,11 +1,11 @@
 {
-  "name": "To butcher and grocer",
-  "type": "Walk",
-  "distance": "1.66",
-  "duration": 25,
-  "elevation": 0,
-  "date": "2026-01-17T19:43:51Z",
-  "url": "https://www.strava.com/activities/17085641080",
-  "ytd_run_distance": "38.45",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.61",
+  "duration": 49,
+  "elevation": 166,
+  "date": "2026-01-20T23:24:57Z",
+  "url": "https://www.strava.com/activities/17135625000",
+  "ytd_run_distance": "48.05",
   "ytd_ride_distance": "0.00"
 }
