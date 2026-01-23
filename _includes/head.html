@@ -42,21 +42,6 @@
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
-  <script>
-    // Set Twitter embed theme before widgets load to prevent flash
-    (function() {
-      const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-      const theme = isDark ? 'dark' : 'light';
-
-      // Set data-theme on page load
-      document.addEventListener('DOMContentLoaded', function() {
-        document.querySelectorAll('.twitter-tweet').forEach(function(tweet) {
-          tweet.setAttribute('data-theme', theme);
-        });
-      });
-    })();
-  </script>
-
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ site.url }}/feed.xml" />
   <link rel="icon" href="/assets/32.png" sizes="32x32">
   <link rel="icon" href="/assets/192.png" sizes="192x192">

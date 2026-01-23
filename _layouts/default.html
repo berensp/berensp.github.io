@@ -11,43 +11,5 @@
     
     {{ content }}
 
-    <script>
-    // Twitter embed dark mode support
-    (function() {
-      function setTwitterTheme() {
-        const isDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const theme = isDark ? 'dark' : 'light';
-
-        // Find all Twitter embeds
-        const tweets = document.querySelectorAll('.twitter-tweet');
-
-        tweets.forEach(tweet => {
-          // Set the data-theme attribute
-          tweet.setAttribute('data-theme', theme);
-        });
-
-        // Reload Twitter widgets if they're already loaded
-        if (window.twttr && window.twttr.widgets) {
-          window.twttr.widgets.load();
-        }
-      }
-
-      // Set theme on initial load
-      // Wait for Twitter script to load
-      if (document.querySelector('.twitter-tweet')) {
-        if (window.twttr) {
-          setTwitterTheme();
-        } else {
-          window.addEventListener('load', setTwitterTheme);
-        }
-
-        // Listen for system theme changes
-        if (window.matchMedia) {
-          window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTwitterTheme);
-        }
-      }
-    })();
-    </script>
-
   </body>
 </html>
