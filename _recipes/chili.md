@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Chili
-preptime: 30
+preptime: 20
 cooktime: 120
 yield: ~8 servings
 ---
