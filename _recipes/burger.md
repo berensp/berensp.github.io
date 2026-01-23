@@ -22,7 +22,7 @@ yield: 4 servings
 
 ## Instructions
 1. Preheat the grill to 375°F (medium-high)... or your cast iron skillet to sizzling hot.
-2. Sprinkle ingredients evenly across beef. Mix until they are just combined[^3]
+2. Sprinkle ingredients evenly across beef. Mix until they are just combined<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></li>
 3. Divide mixture into fourths → make patties →
 4. Make indentation in the middle to prevent the bulging!
 5. Cook 4-5 minutes per side. (You get one flip and one flip only.)
