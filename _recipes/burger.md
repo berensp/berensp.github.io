@@ -20,9 +20,6 @@ yield: 4 servings
   <li><input type="checkbox"/>ketchup, mustard, mayo, relish</li>
 </ul>
 
-[^1]: @Dad always used the Worcestershire sauce, so I don't skip it. 1 lb. recipe for four patties.
-[^2]: When the kids were a little younger I did Hawaiian buns/mini sweet rolls and then make smaller patties for sliders.
-
 ## Instructions
 1. Preheat the grill to 375°F (medium-high)... or your cast iron skillet to sizzling hot.
 2. Sprinkle ingredients evenly across beef. Mix until they are just combined[^3]
@@ -30,8 +27,12 @@ yield: 4 servings
 4. Make indentation in the middle to prevent the bulging!
 5. Cook 4-5 minutes per side. (You get one flip and one flip only.)
 
-[^3]: Be sure you don't overdo it with the mixing or your burgers may end up on the "tough" side.
-
 Buen provecho.
 
 — ᴘ. ᴍ. ʙ.
+
+[^1]: @Dad always used the Worcestershire sauce, so I don't skip it. 1 lb. recipe for four patties.
+
+[^2]: When the kids were a little younger I did Hawaiian buns/mini sweet rolls and then make smaller patties for sliders.
+
+[^3]: Be sure you don't overdo it with the mixing or your burgers may end up on the "tough" side.
