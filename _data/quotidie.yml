@@ -1,7 +1,7 @@
 sunday:
   - task: 'Rise, wash, READINGS'
     time: "07:00"
-  - task: 'Sunday Cinnamon Rolls (Domingo Doughnuts)'
+  - task: 'Sunday Cinnamon Rolls'
     time: "07:45"
   - task: 'Missa (<a href="/prayers/st-ambrose/">pre</a>, <a href="/prayers/st-padre-pio/">post</a>, <a href="/prayers/thanksgiving-post-missam/">thx</a>)'
     time: "09:30"
