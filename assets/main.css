@@ -91,7 +91,7 @@
     --input-border: #0a3a47;
 
     /* Highlight colors - adjusted for dark mode */
-    --mark-yellow: rgb(187, 128, 9);
+    --mark-yellow: rgba(200, 180, 100, 0.3);
     --mark-turquoise: rgb(56, 139, 129);
     --mark-lilac: rgb(137, 87, 168);
     --mark-gray: rgb(110, 118, 129);
