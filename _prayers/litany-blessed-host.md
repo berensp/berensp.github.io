@@ -2,6 +2,7 @@
 layout: prayer
 title: Litany to the Blessed Host
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 O Blessed Host, in whom is contained the testament of God's mercy for us, and especially for poor sinners.
 

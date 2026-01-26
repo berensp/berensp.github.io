@@ -2,6 +2,7 @@
 layout: prayer
 title: Suspice
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 Tomad, Señor, y recibid, toda mi libertad,  
 mi memoria, mi entendimiento,  

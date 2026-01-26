@@ -2,6 +2,7 @@
 layout: prayer
 title: Pater Noster
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 Pater noster,  
 qui es in cælis,  

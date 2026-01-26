@@ -2,6 +2,7 @@
 layout: prayer
 title: Divine Mercy Chaplet 📿
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 ## Introduction
 <ul style="list-style:none">

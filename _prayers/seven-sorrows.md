@@ -2,6 +2,7 @@
 layout: prayer
 title: Seven Sorrows Rosary 📿
 category: Marian
+ogimage: angel-song-of-bethlehem.png
 ---
 This devotion to Our Sorrowful Mother originated in the thirteenth century. It recalls the Sorrows the Virgin Mother of God endured in
 compassion for the suffering and death of her Divine Son. The Litany of the Seven Sorrows of Our Lady was composed by Pope Pius VII (1740-1823) while held in captivity during the Napoleonic Wars. St. Bridget of Sweden (1303-1373) reported that Our Lady promised to grant seven graces to those who honor her and draw near to her and her Son every day by meditating on her dolors (sorrows)[^1].

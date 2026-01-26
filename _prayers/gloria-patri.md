@@ -2,6 +2,7 @@
 layout: prayer
 title: Gloria Patri
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 Glória Patri,  
 et Fílio,  

@@ -2,6 +2,7 @@
 layout: prayer
 title: Examen
 category: Hora Somni
+ogimage: angel-song-of-bethlehem.png
 ---
 *"Speak little, listen much."* (—St. Ignatius of Loyola)
 

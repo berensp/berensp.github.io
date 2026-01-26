@@ -2,6 +2,7 @@
 layout: prayer
 title: Angelus
 category: Marian
+ogimage: angel-song-of-bethlehem.png
 ---
 ℣. Angelus Dómini nuntiávit Maríæ.  
 ℟. Et concépit de Spíritu Sancto.  

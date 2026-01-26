@@ -2,6 +2,7 @@
 layout: prayer
 title: Ad Oratio
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 *"The time you spend with Jesus in the Blessed Sacrament is the best time that you will spend on earth. Each moment that you spend with Jesus will deepen your union with Him and make your soul everlastingly more glorious and beautiful in heaven, and will help bring about an everlasting peace on earth."* (—St. Teresa of Calcutta)
 

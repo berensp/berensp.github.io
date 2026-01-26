@@ -2,6 +2,7 @@
 layout: prayer
 title: St. Michael the Archangel
 category: Saints
+ogimage: angel-song-of-bethlehem.png
 ---
 Saint Michael the Archangel,  
 defend us in battle.  
