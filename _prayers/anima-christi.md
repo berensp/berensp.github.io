@@ -2,6 +2,7 @@
 layout: prayer
 title: Anima Christi
 category: Mass
+ogimage: angel-song-of-bethlehem.png
 ---
 Anima Christi, sanctífica me.  
 Corpus Christi, salva me.  

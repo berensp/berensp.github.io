@@ -2,6 +2,7 @@
 layout: prayer
 title: Act of Contrition
 category: Miscellany
+ogimage: angel-song-of-bethlehem.png
 ---
 O my God,  
 I am heartily sorry  

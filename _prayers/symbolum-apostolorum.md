@@ -2,6 +2,7 @@
 layout: prayer
 title: Symbolum Apostolorum
 category: Mass
+ogimage: angel-song-of-bethlehem.png
 ---
 Credo in Deum Patrem omnipoténtem,  
 Creatórem cæli et terræ.  
