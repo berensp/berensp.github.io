@@ -1,11 +1,11 @@
 {
-  "name": "GGP ride",
-  "type": "Ride",
-  "distance": "4.81",
-  "duration": 33,
-  "elevation": 18,
-  "date": "2026-01-24T23:14:11Z",
-  "url": "https://www.strava.com/activities/17166338564",
-  "ytd_run_distance": "57.70",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.56",
+  "duration": 50,
+  "elevation": 164,
+  "date": "2026-01-27T22:46:45Z",
+  "url": "https://www.strava.com/activities/17201426798",
+  "ytd_run_distance": "67.27",
   "ytd_ride_distance": "4.81"
 }
