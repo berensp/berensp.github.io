@@ -5,7 +5,7 @@ date: 2025-10-28
 author: Paul Berens
 tags: ["tech"]
 description: WAGMI
-opimage: post_vibe-drawing.png
+ogimage: post_vibe-drawing.png
 ---
 For those of you who have been with us over the years (read: Yeobo), you've seen [this site](/) become increasingly sophisticated—not through any formal training of mine, but through "vibe-coding": learning through AI-powered trial and error.
 
