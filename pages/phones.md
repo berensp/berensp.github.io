@@ -4,10 +4,10 @@ title: Phones
 permalink: /phones/
 description: my cellular history
 ---
-
 | Mfr | Model | Carrier | Year |
 | :---  | :---  | :--- | :---  |
-| <mark>Google</mark> | <mark>Pixel 8 Pro</mark> | <mark>AT&T</mark> | <mark>2024</mark> |
+| Google | Pixel 10 Pro | T-Mobile | 2026 |
+| Google | Pixel 8 Pro | AT&T | 2024 |
 | Samsung | Galaxy S21 | T-Mobile | 2021 |
 | Google | Pixel 3 | <a href="https://fi.google.com/" target="_blank">Google</a> | 2019 |
 | Apple | iPhone 6S | Sprint | 2016 |
