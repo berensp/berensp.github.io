@@ -7,7 +7,7 @@ description: fun facts
 {% assign country_count = site.data.countries.countries | where: "counts_toward_total", true | size %}
 {% assign total_countries = 195 %}
 
-<p><img src="/assets/images/pmb.portrait.png" alt="portrait" style="width: 30%;">
+<p><img src="/assets/images/avatars/pmb.portrait.png" alt="portrait" style="width: 30%;">
 <span class="muted small">Portrait by Liz Perry</span>
 
 <table>
