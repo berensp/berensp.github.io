@@ -117,7 +117,7 @@ friday:
   - task: 'Prosecute <input type="text" placeholder="the afternoon thing" size="15" font-size: 16px>'
     time: "13:00"
   - task: 'Dine, diversion w/ the offspring'
-    time: "18:00"
+    time: "17:30"
   - task: 'Review the week and <a href="/resolutions/">resolutions</a>'
     time: "20:30"
   - task: '<a href="/books/">Read</a>'
