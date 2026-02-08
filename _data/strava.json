@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Run",
-  "type": "Run",
-  "distance": "9.69",
-  "duration": 901,
-  "elevation": 157,
-  "date": "2026-02-03T00:19:33Z",
-  "url": "https://www.strava.com/activities/17279416791",
+  "name": "Bread ride",
+  "type": "Ride",
+  "distance": "6.81",
+  "duration": 27,
+  "elevation": 109,
+  "date": "2026-02-08T04:46:49Z",
+  "url": "https://www.strava.com/activities/17324288321",
   "ytd_run_distance": "82.35",
-  "ytd_ride_distance": "9.03"
+  "ytd_ride_distance": "20.80"
 }
