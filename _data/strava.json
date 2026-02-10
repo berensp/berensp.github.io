@@ -1,11 +1,11 @@
 {
-  "name": "Bread ride",
-  "type": "Ride",
-  "distance": "6.81",
-  "duration": 27,
-  "elevation": 109,
-  "date": "2026-02-08T04:46:49Z",
-  "url": "https://www.strava.com/activities/17324288321",
-  "ytd_run_distance": "82.35",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.59",
+  "duration": 50,
+  "elevation": 105,
+  "date": "2026-02-09T23:32:22Z",
+  "url": "https://www.strava.com/activities/17345561071",
+  "ytd_run_distance": "91.94",
   "ytd_ride_distance": "20.80"
 }
