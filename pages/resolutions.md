@@ -4,7 +4,7 @@ title: Resolutions
 permalink: /resolutions/
 description: the big to-do list
 ---
-## 2025:
+## {{ site.time | date: "%Y" }}:
 - **Prayer**: continue ad oratio; first Friday and first Saturday devotions
 - **Work**: longer uninterrupted focus periods [to be quantified]; organization tools: Monday.com, Notion
 - **[Reading](/books/):** 150 min. / week (5 × 30-min.)
