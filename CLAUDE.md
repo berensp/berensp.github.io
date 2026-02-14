@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is **berens.co**, a personal portfolio and blog built with **Jekyll** and hosted on **GitHub Pages**. The site belongs to Paul Berens and was originally forked from Dan Romero's Clio template. It has grown into a rich personal site with blog posts, recipes, prayers, cycling/running routes with maps, data-driven daily content, and automated integrations with external services.
+This is **berens.co**, a personal portfolio and blog built with **Jekyll** and hosted on **GitHub Pages**. The site belongs to Paul Berens and was originally forked from [Dan Romero's Clio template](https://github.com/danromero/clio). It has grown into a rich personal site with blog posts, recipes, prayers, cycling/running routes with maps, data-driven daily content, and automated integrations with external services.
 
 - **Live URL**: https://berens.co
 - **Domain**: configured via `CNAME` file
@@ -301,3 +301,4 @@ Key scripts:
 7. **Content tone** — The site is personal with a literary, Catholic, and intellectually curious voice. Content references include classical literature, theology, music, cycling, and technology.
 
 8. **Existing patterns** — When adding new content or features, follow the established patterns in existing layouts, front matter, and naming conventions documented above. Prefer consistency with the existing codebase over introducing new patterns.
+
