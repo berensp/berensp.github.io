@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Walk",
-  "type": "Walk",
-  "distance": "1.81",
-  "duration": 25,
-  "elevation": 5,
-  "date": "2026-02-12T22:43:27Z",
-  "url": "https://www.strava.com/activities/17389348731",
+  "name": "GGP ride",
+  "type": "Ride",
+  "distance": "4.27",
+  "duration": 17,
+  "elevation": 14,
+  "date": "2026-02-14T22:45:52Z",
+  "url": "https://www.strava.com/activities/17399949335",
   "ytd_run_distance": "91.94",
-  "ytd_ride_distance": "20.80"
+  "ytd_ride_distance": "25.06"
 }
