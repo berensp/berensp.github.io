@@ -1,11 +1,11 @@
 {
-  "name": "GGP ride",
-  "type": "Ride",
-  "distance": "4.27",
-  "duration": 17,
-  "elevation": 14,
-  "date": "2026-02-14T22:45:52Z",
-  "url": "https://www.strava.com/activities/17399949335",
-  "ytd_run_distance": "91.94",
+  "name": "Eighth Avenue Freeze-out",
+  "type": "Run",
+  "distance": "4.73",
+  "duration": 24,
+  "elevation": 0,
+  "date": "2026-02-17T04:59:18Z",
+  "url": "https://www.strava.com/activities/17423951048",
+  "ytd_run_distance": "96.66",
   "ytd_ride_distance": "25.06"
 }
