@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>새해 복 많이 받으세요</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@400;700;800&family=Do+Hyeon&family=Gochi+Hand&display=swap');
+
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #1a0a00;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Nanum Myeongjo', serif;
+  }
+
+  .card {
+    width: 700px;
+    height: 980px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px;
+    box-shadow: 0 0 80px rgba(220,80,0,0.5), 0 0 200px rgba(220,80,0,0.2);
+  }
+
+  /* Deep red-gold background */
+  .bg {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 30%, #c0392b 0%, #7d1a0a 40%, #3d0a00 100%);
+  }
+
+  /* Fabric texture overlay */
+  .bg::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background-image: 
+      repeating-linear-gradient(45deg, transparent, transparent 2px, rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px),
+      repeating-linear-gradient(-45deg, transparent, transparent 2px, rgba(255,255,255,0.02) 2px, rgba(255,255,255,0.02) 4px);
+  }
+
+  /* Gold border frame */
+  .frame-outer {
+    position: absolute;
+    inset: 18px;
+    border: 2px solid rgba(255, 210, 80, 0.7);
+    border-radius: 2px;
+    pointer-events: none;
+  }
+  .frame-inner {
+    position: absolute;
+    inset: 26px;
+    border: 1px solid rgba(255, 210, 80, 0.35);
+    border-radius: 1px;
+    pointer-events: none;
+  }
+
+  /* Corner ornaments */
+  .corner {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+  }
+  .corner svg { width: 100%; height: 100%; }
+  .corner.tl { top: 12px; left: 12px; }
+  .corner.tr { top: 12px; right: 12px; transform: scaleX(-1); }
+  .corner.bl { bottom: 12px; left: 12px; transform: scaleY(-1); }
+  .corner.br { bottom: 12px; right: 12px; transform: scale(-1); }
+
+  /* Fireworks */
+  .firework {
+    position: absolute;
+    pointer-events: none;
+    animation: sparkle 3s ease-in-out infinite;
+  }
+  @keyframes sparkle {
+    0%, 100% { opacity: 0.4; transform: scale(0.8); }
+    50% { opacity: 1; transform: scale(1); }
+  }
+
+  /* Top decorative band */
+  .top-band {
+    position: absolute;
+    top: 38px;
+    left: 38px;
+    right: 38px;
+    height: 6px;
+    background: linear-gradient(90deg, transparent, #f0c040, #ffd700, #f0c040, transparent);
+    opacity: 0.8;
+  }
+  .bottom-band {
+    position: absolute;
+    bottom: 38px;
+    left: 38px;
+    right: 38px;
+    height: 6px;
+    background: linear-gradient(90deg, transparent, #f0c040, #ffd700, #f0c040, transparent);
+    opacity: 0.8;
+  }
+
+  /* Lanterns */
+  .lanterns {
+    position: absolute;
+    top: 55px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  .lantern {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: sway 4s ease-in-out infinite;
+  }
+  .lantern:nth-child(2) { animation-delay: -1s; }
+  .lantern:nth-child(3) { animation-delay: -2s; }
+  @keyframes sway {
+    0%, 100% { transform: rotate(-5deg); }
+    50% { transform: rotate(5deg); }
+  }
+  .lantern-string {
+    width: 1px;
+    height: 20px;
+    background: rgba(255,210,80,0.6);
+  }
+  .lantern-body {
+    width: 28px;
+    height: 42px;
+    border-radius: 50% 50% 50% 50% / 40% 40% 60% 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: rgba(255,255,255,0.9);
+    font-weight: bold;
+    position: relative;
+    box-shadow: 0 0 12px currentColor;
+  }
+  .lantern-body::before {
+    content: '';
+    position: absolute;
+    inset: 3px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.1);
+  }
+  .lantern-tassel {
+    width: 2px;
+    height: 12px;
+    margin-top: 0;
+  }
+  .lantern:nth-child(1) .lantern-body { background: linear-gradient(180deg, #ff6b35, #c0392b); color: #ff6b35; }
+  .lantern:nth-child(1) .lantern-tassel { background: #ff6b35; }
+  .lantern:nth-child(2) .lantern-body { background: linear-gradient(180deg, #ffd700, #e67e22); color: #ffd700; }
+  .lantern:nth-child(2) .lantern-tassel { background: #ffd700; }
+  .lantern:nth-child(3) .lantern-body { background: linear-gradient(180deg, #2ecc71, #1a8a4a); color: #2ecc71; }
+  .lantern:nth-child(3) .lantern-tassel { background: #2ecc71; }
+  .lantern:nth-child(4) .lantern-body { background: linear-gradient(180deg, #9b59b6, #6c3483); color: #9b59b6; }
+  .lantern:nth-child(4) .lantern-tassel { background: #9b59b6; }
+  .lantern:nth-child(5) .lantern-body { background: linear-gradient(180deg, #e74c3c, #922b21); color: #e74c3c; }
+  .lantern:nth-child(5) .lantern-tassel { background: #e74c3c; }
+
+  /* Year text */
+  .year-badge {
+    position: absolute;
+    top: 145px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+  .year-text {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 15px;
+    color: #ffd700;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    opacity: 0.9;
+  }
+  .snake-emoji {
+    font-size: 22px;
+    display: block;
+    margin: 4px 0;
+    animation: float 3s ease-in-out infinite;
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-4px); }
+  }
+
+  /* Main title */
+  .main-title {
+    position: absolute;
+    top: 195px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%;
+  }
+  .korean-wish {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 46px;
+    color: #ffd700;
+    text-shadow: 0 0 30px rgba(255,215,0,0.6), 0 2px 4px rgba(0,0,0,0.5);
+    letter-spacing: 2px;
+    white-space: nowrap;
+    display: block;
+    animation: glow 2.5s ease-in-out infinite;
+  }
+  @keyframes glow {
+    0%, 100% { text-shadow: 0 0 20px rgba(255,215,0,0.4), 0 2px 4px rgba(0,0,0,0.5); }
+    50% { text-shadow: 0 0 40px rgba(255,215,0,0.9), 0 0 80px rgba(255,215,0,0.3), 0 2px 4px rgba(0,0,0,0.5); }
+  }
+  .phonetic {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 15px;
+    color: rgba(255, 220, 120, 0.75);
+    letter-spacing: 1px;
+    margin-top: 6px;
+    display: block;
+  }
+
+  /* Divider */
+  .divider {
+    position: absolute;
+    top: 295px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    width: 400px;
+    justify-content: center;
+  }
+  .divider-line {
+    flex: 1;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(255,210,80,0.6), transparent);
+  }
+  .divider-diamond {
+    width: 8px;
+    height: 8px;
+    background: #ffd700;
+    transform: rotate(45deg);
+    box-shadow: 0 0 8px rgba(255,215,0,0.8);
+  }
+
+  /* Avatar scene */
+  .avatar-scene {
+    position: absolute;
+    top: 320px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 520px;
+    height: 350px;
+  }
+
+  /* Ground / mat */
+  .scene-ground {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 440px;
+    height: 60px;
+    background: linear-gradient(180deg, rgba(180,100,20,0.6), rgba(120,60,10,0.4));
+    border-radius: 50% 50% 0 0 / 30% 30% 0 0;
+    border-top: 2px solid rgba(255,210,80,0.3);
+  }
+
+  /* Kids container */
+  .kids {
+    position: absolute;
+    bottom: 45px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 40px;
+    align-items: flex-end;
+  }
+
+  /* Individual kid avatar */
+  .kid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: kid-float 4s ease-in-out infinite;
+  }
+  .kid:nth-child(2) { animation-delay: -2s; }
+  @keyframes kid-float {
+    0%, 100% { transform: translateY(0px); }
+    50% { transform: translateY(-6px); }
+  }
+
+  /* Name tag */
+  .kid-name {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 13px;
+    color: #ffd700;
+    margin-bottom: 6px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+  }
+
+  /* SVG avatars */
+  .kid-svg {
+    width: 170px;
+    height: 280px;
+  }
+
+  /* Bottom message */
+  .bottom-message {
+    position: absolute;
+    bottom: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 500px;
+  }
+  .from-text {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 14px;
+    color: rgba(255, 220, 150, 0.7);
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .names-text {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 22px;
+    color: #ffd700;
+    margin-top: 4px;
+    text-shadow: 0 0 15px rgba(255,215,0,0.4);
+  }
+
+  /* Floating petals / confetti */
+  .petal {
+    position: absolute;
+    font-size: 16px;
+    animation: fall linear infinite;
+    opacity: 0;
+    pointer-events: none;
+  }
+  @keyframes fall {
+    0% { transform: translateY(-30px) rotate(0deg); opacity: 0; }
+    10% { opacity: 0.8; }
+    90% { opacity: 0.6; }
+    100% { transform: translateY(980px) rotate(360deg); opacity: 0; }
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="bg"></div>
+
+  <!-- Frames -->
+  <div class="frame-outer"></div>
+  <div class="frame-inner"></div>
+
+  <!-- Corner ornaments -->
+  <div class="corner tl">
+    <svg viewBox="0 0 50 50" fill="none">
+      <path d="M5 5 L5 25 Q5 5 25 5 Z" fill="rgba(255,210,80,0.7)"/>
+      <path d="M8 8 L8 22 Q8 8 22 8 Z" fill="rgba(255,210,80,0.4)"/>
+      <circle cx="5" cy="5" r="3" fill="#ffd700"/>
+      <circle cx="25" cy="5" r="2" fill="rgba(255,210,80,0.6)"/>
+      <circle cx="5" cy="25" r="2" fill="rgba(255,210,80,0.6)"/>
+    </svg>
+  </div>
+  <div class="corner tr">
+    <svg viewBox="0 0 50 50" fill="none">
+      <path d="M5 5 L5 25 Q5 5 25 5 Z" fill="rgba(255,210,80,0.7)"/>
+      <circle cx="5" cy="5" r="3" fill="#ffd700"/>
+    </svg>
+  </div>
+  <div class="corner bl">
+    <svg viewBox="0 0 50 50" fill="none">
+      <path d="M5 5 L5 25 Q5 5 25 5 Z" fill="rgba(255,210,80,0.7)"/>
+      <circle cx="5" cy="5" r="3" fill="#ffd700"/>
+    </svg>
+  </div>
+  <div class="corner br">
+    <svg viewBox="0 0 50 50" fill="none">
+      <path d="M5 5 L5 25 Q5 5 25 5 Z" fill="rgba(255,210,80,0.7)"/>
+      <circle cx="5" cy="5" r="3" fill="#ffd700"/>
+    </svg>
+  </div>
+
+  <!-- Gold bands -->
+  <div class="top-band"></div>
+  <div class="bottom-band"></div>
+
+  <!-- Lanterns -->
+  <div class="lanterns">
+    <div class="lantern">
+      <div class="lantern-string"></div>
+      <div class="lantern-body">복</div>
+      <div class="lantern-tassel"></div>
+    </div>
+    <div class="lantern">
+      <div class="lantern-string"></div>
+      <div class="lantern-body">새</div>
+      <div class="lantern-tassel"></div>
+    </div>
+    <div class="lantern">
+      <div class="lantern-string"></div>
+      <div class="lantern-body">해</div>
+      <div class="lantern-tassel"></div>
+    </div>
+    <div class="lantern">
+      <div class="lantern-string"></div>
+      <div class="lantern-body">병</div>
+      <div class="lantern-tassel"></div>
+    </div>
+    <div class="lantern">
+      <div class="lantern-string"></div>
+      <div class="lantern-body">오</div>
+      <div class="lantern-tassel"></div>
+    </div>
+  </div>
+
+  <!-- Year -->
+  <div class="year-badge">
+    <span class="year-text">Year of the Fire Horse · 2026</span>
+    <span class="snake-emoji">🐎🔥</span>
+  </div>
+
+  <!-- Main title -->
+  <div class="main-title">
+    <span class="korean-wish">새해 복 많이 받으세요</span>
+    <span class="phonetic">Saehae bok mani badeuseyo</span>
+  </div>
+
+  <!-- Divider -->
+  <div class="divider">
+    <div class="divider-line"></div>
+    <div class="divider-diamond"></div>
+    <div class="divider-line"></div>
+  </div>
+
+  <!-- Avatar scene -->
+  <div class="avatar-scene">
+    <div class="scene-ground"></div>
+    <div class="kids">
+      <!-- MARIAH - left kid, younger, rounder face, wearing hanbok -->
+      <div class="kid">
+        <div class="kid-name">Mariah</div>
+        <svg class="kid-svg" viewBox="0 0 170 280" xmlns="http://www.w3.org/2000/svg">
+          <!-- Shadow -->
+          <ellipse cx="85" cy="268" rx="38" ry="8" fill="rgba(0,0,0,0.25)"/>
+          
+          <!-- Hanbok skirt (chima) - pink/coral -->
+          <ellipse cx="85" cy="220" rx="48" ry="18" fill="#f5758a"/>
+          <path d="M37 200 Q50 175 85 172 Q120 175 133 200 Q125 240 85 248 Q45 240 37 200Z" fill="#f5758a"/>
+          <path d="M40 198 Q53 178 85 175 Q117 178 130 198" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" fill="none"/>
+          <!-- Hanbok jacket (jeogori) - mint -->
+          <path d="M60 155 Q65 170 85 172 Q105 170 110 155 L108 140 Q95 145 85 145 Q75 145 62 140Z" fill="#7ecfb3"/>
+          <!-- Collar / ribbon (goreum) -->
+          <path d="M75 150 Q85 160 95 150 Q90 145 85 148 Q80 145 75 150Z" fill="#ffb5c8"/>
+          <path d="M85 148 L82 165 Q85 167 88 165 L85 148Z" fill="#ffb5c8"/>
+          <!-- Sleeves -->
+          <path d="M62 140 Q45 148 42 165 Q50 168 58 160 L65 155Z" fill="#7ecfb3"/>
+          <path d="M108 140 Q125 148 128 165 Q120 168 112 160 L105 155Z" fill="#7ecfb3"/>
+          <!-- Cuffs - white -->
+          <path d="M42 165 Q40 172 48 172 Q55 165 58 160Z" fill="#fff5f0"/>
+          <path d="M128 165 Q130 172 122 172 Q115 165 112 160Z" fill="#fff5f0"/>
+          <!-- Hands -->
+          <circle cx="44" cy="175" r="7" fill="#f5c9a0"/>
+          <circle cx="126" cy="175" r="7" fill="#f5c9a0"/>
+          <!-- Left hand holding envelope/gift -->
+          <rect x="32" y="178" width="20" height="14" rx="3" fill="#ffd700"/>
+          <line x1="42" y1="178" x2="42" y2="192" stroke="#ff6b35" stroke-width="1.5"/>
+          <line x1="32" y1="185" x2="52" y2="185" stroke="#ff6b35" stroke-width="1.5"/>
+          
+          <!-- Neck -->
+          <rect x="79" y="128" width="12" height="18" rx="4" fill="#f5c9a0"/>
+          <!-- Head - rounder/chubbier -->
+          <ellipse cx="85" cy="108" rx="38" ry="36" fill="#f5c9a0"/>
+          <!-- Cheeks - rosy -->
+          <ellipse cx="62" cy="118" rx="10" ry="7" fill="rgba(255,150,150,0.35)"/>
+          <ellipse cx="108" cy="118" rx="10" ry="7" fill="rgba(255,150,150,0.35)"/>
+          <!-- Ears -->
+          <ellipse cx="48" cy="108" rx="7" ry="9" fill="#f5c9a0"/>
+          <ellipse cx="122" cy="108" rx="7" ry="9" fill="#f5c9a0"/>
+          <!-- Hair - long black, parted in center -->
+          <ellipse cx="85" cy="82" rx="38" ry="22" fill="#1a1a1a"/>
+          <path d="M47 82 Q50 110 48 125 Q55 128 58 120 L55 90Z" fill="#1a1a1a"/>
+          <path d="M123 82 Q120 110 122 125 Q115 128 112 120 L115 90Z" fill="#1a1a1a"/>
+          <!-- Hair highlight -->
+          <path d="M65 68 Q85 62 105 68 Q95 65 85 64 Q75 65 65 68Z" fill="rgba(255,255,255,0.15)"/>
+          <!-- Hair ornament - flower pin -->
+          <circle cx="110" cy="76" r="7" fill="#ff85a1"/>
+          <circle cx="110" cy="76" r="3" fill="#ffd700"/>
+          
+          <!-- Eyes - big, bright -->
+          <ellipse cx="72" cy="110" rx="9" ry="10" fill="white"/>
+          <ellipse cx="98" cy="110" rx="9" ry="10" fill="white"/>
+          <circle cx="74" cy="111" r="6" fill="#2d1810"/>
+          <circle cx="100" cy="111" r="6" fill="#2d1810"/>
+          <circle cx="76" cy="109" r="2.5" fill="white"/>
+          <circle cx="102" cy="109" r="2.5" fill="white"/>
+          <!-- Eyelashes -->
+          <path d="M63 104 Q66 100 69 104" stroke="#1a1a1a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          <path d="M89 104 Q92 100 95 104" stroke="#1a1a1a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          <!-- Eyebrows -->
+          <path d="M63 101 Q72 97 81 100" stroke="#3d2010" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <path d="M89 100 Q98 97 107 101" stroke="#3d2010" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <!-- Nose -->
+          <ellipse cx="85" cy="120" rx="4" ry="3" fill="rgba(200,130,100,0.4)"/>
+          <!-- Big smile / open mouth -->
+          <path d="M72 130 Q85 142 98 130" stroke="#cc4455" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+          <path d="M72 130 Q85 145 98 130 Q90 135 85 136 Q80 135 72 130Z" fill="#cc4455"/>
+          <path d="M75 130 Q85 132 95 130" fill="white"/>
+          
+          <!-- Stars/sparkles around her -->
+          <text x="25" y="95" font-size="14" fill="#ffd700" opacity="0.8">✦</text>
+          <text x="138" y="88" font-size="12" fill="#ffb5c8" opacity="0.9">✦</text>
+          <text x="30" y="175" font-size="10" fill="#7ecfb3" opacity="0.7">✦</text>
+        </svg>
+      </div>
+
+      <!-- MATTHIAS - right kid, slightly older/taller, blue hanbok -->
+      <div class="kid">
+        <div class="kid-name">Matthias</div>
+        <svg class="kid-svg" viewBox="0 0 170 280" xmlns="http://www.w3.org/2000/svg">
+          <!-- Shadow -->
+          <ellipse cx="85" cy="268" rx="38" ry="8" fill="rgba(0,0,0,0.25)"/>
+          
+          <!-- Hanbok pants (baji) - deep blue -->
+          <path d="M58 195 Q65 230 60 262 L80 262 L85 230 L90 262 L110 262 Q105 230 112 195Z" fill="#2c5282"/>
+          <!-- Hanbok jacket (jeogori) - royal blue -->
+          <path d="M55 150 Q62 172 85 175 Q108 172 115 150 L112 135 Q98 142 85 142 Q72 142 58 135Z" fill="#3b6fd4"/>
+          <!-- Belt -->
+          <rect x="60" y="170" width="50" height="8" rx="3" fill="#ffd700" opacity="0.9"/>
+          <!-- Collar -->
+          <path d="M73 148 Q85 158 97 148 Q92 143 85 146 Q78 143 73 148Z" fill="#fff5e0"/>
+          <!-- Sleeves -->
+          <path d="M58 135 Q40 145 38 162 Q48 166 56 158 L62 150Z" fill="#3b6fd4"/>
+          <path d="M112 135 Q130 145 132 162 Q122 166 114 158 L108 150Z" fill="#3b6fd4"/>
+          <!-- Cuffs - white -->
+          <path d="M38 162 Q36 170 46 170 Q53 163 56 158Z" fill="#fff5e0"/>
+          <path d="M132 162 Q134 170 124 170 Q117 163 114 158Z" fill="#fff5e0"/>
+          <!-- Hands -->
+          <circle cx="40" cy="173" r="7" fill="#f5c9a0"/>
+          <circle cx="130" cy="173" r="7" fill="#f5c9a0"/>
+          <!-- Right hand - heart gesture (two hands forming heart) -->
+          <path d="M118 168 Q124 163 130 166 Q136 163 142 168 Q142 175 130 183 Q118 175 118 168Z" fill="#ff6b8a"/>
+          
+          <!-- Neck -->
+          <rect x="79" y="125" width="12" height="18" rx="4" fill="#f5c9a0"/>
+          <!-- Head - slightly more angular, older looking -->
+          <ellipse cx="85" cy="104" rx="36" ry="34" fill="#f5c9a0"/>
+          <!-- Cheeks -->
+          <ellipse cx="63" cy="114" rx="9" ry="6" fill="rgba(255,150,130,0.3)"/>
+          <ellipse cx="107" cy="114" rx="9" ry="6" fill="rgba(255,150,130,0.3)"/>
+          <!-- Ears -->
+          <ellipse cx="50" cy="104" rx="7" ry="9" fill="#f5c9a0"/>
+          <ellipse cx="120" cy="104" rx="7" ry="9" fill="#f5c9a0"/>
+          <!-- Hair - short, neat, with gat or traditional boy hairpiece -->
+          <ellipse cx="85" cy="80" rx="36" ry="20" fill="#1a1a1a"/>
+          <path d="M50 80 Q52 92 50 105 Q56 108 60 100 L58 85Z" fill="#1a1a1a"/>
+          <path d="M120 80 Q118 92 120 105 Q114 108 110 100 L112 85Z" fill="#1a1a1a"/>
+          <!-- Hair highlight -->
+          <path d="M62 68 Q85 62 108 68 Q95 64 85 63 Q75 64 62 68Z" fill="rgba(255,255,255,0.12)"/>
+          <!-- Small traditional hat pin / ornament -->
+          <rect x="80" y="62" width="10" height="4" rx="2" fill="#ffd700"/>
+          
+          <!-- Eyes - slightly narrower, cheerful squint smile -->
+          <ellipse cx="71" cy="106" rx="8" ry="9" fill="white"/>
+          <ellipse cx="99" cy="106" rx="8" ry="9" fill="white"/>
+          <circle cx="73" cy="107" r="5.5" fill="#2d1810"/>
+          <circle cx="101" cy="107" r="5.5" fill="#2d1810"/>
+          <circle cx="75" cy="105" r="2" fill="white"/>
+          <circle cx="103" cy="105" r="2" fill="white"/>
+          <!-- Eyebrows - slightly angled, expressive -->
+          <path d="M63 98 Q71 94 80 97" stroke="#3d2010" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <path d="M90 97 Q99 94 107 98" stroke="#3d2010" stroke-width="2" fill="none" stroke-linecap="round"/>
+          <!-- Nose -->
+          <ellipse cx="85" cy="116" rx="4" ry="3" fill="rgba(200,130,100,0.35)"/>
+          <!-- Smile - big happy grin -->
+          <path d="M70 126 Q85 140 100 126" stroke="#cc4455" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+          <path d="M70 126 Q85 142 100 126 Q93 132 85 133 Q77 132 70 126Z" fill="#cc4455"/>
+          <path d="M72 126 Q85 129 98 126" fill="white"/>
+          
+          <!-- Sparkles -->
+          <text x="130" y="92" font-size="14" fill="#ffd700" opacity="0.8">✦</text>
+          <text x="22" y="85" font-size="11" fill="#7ec8e3" opacity="0.9">✦</text>
+          <text x="138" y="172" font-size="10" fill="#ffd700" opacity="0.7">✦</text>
+        </svg>
+      </div>
+    </div>
+
+    <!-- Decorative elements in scene -->
+    <!-- Small plum blossoms -->
+    <text style="position:absolute; top:10px; left:20px; font-size:22px; opacity:0.6">🌸</text>
+    <text style="position:absolute; top:20px; right:15px; font-size:18px; opacity:0.5">🌸</text>
+    <text style="position:absolute; bottom:70px; left:5px; font-size:14px; opacity:0.4">🌸</text>
+  </div>
+
+  <!-- Bottom message -->
+  <div class="bottom-message">
+    <div class="from-text">With love from</div>
+    <div class="names-text">Mariah & Matthias 🧧</div>
+  </div>
+
+  <!-- Floating confetti -->
+  <div class="petal" style="left:8%; animation-duration:6s; animation-delay:0s;">🎊</div>
+  <div class="petal" style="left:18%; animation-duration:7s; animation-delay:-2s; font-size:12px;">✨</div>
+  <div class="petal" style="left:32%; animation-duration:8s; animation-delay:-4s; font-size:18px;">🧧</div>
+  <div class="petal" style="left:55%; animation-duration:5.5s; animation-delay:-1s; font-size:12px;">✨</div>
+  <div class="petal" style="left:70%; animation-duration:7.5s; animation-delay:-3s;">🎊</div>
+  <div class="petal" style="left:85%; animation-duration:6.5s; animation-delay:-5s; font-size:14px;">✨</div>
+  <div class="petal" style="left:92%; animation-duration:9s; animation-delay:-6s; font-size:16px;">🧧</div>
+
+</div>
+</body>
+</html>
