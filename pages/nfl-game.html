@@ -1,0 +1,1257 @@
+---
+layout: null
+permalink: /nfl-game/
+title: NFL Football Video Game
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>NFL Football Video Game</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #c4a46c;
+      font-family: 'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', cursive, sans-serif;
+      overflow: hidden;
+      height: 100vh;
+      touch-action: manipulation;
+      user-select: none;
+      -webkit-user-select: none;
+    }
+
+    /* ── Selection Screen ── */
+    #selection-screen {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background: #c4a46c;
+      background-image:
+        repeating-linear-gradient(0deg, transparent, transparent 40px, rgba(0,0,0,0.05) 40px, rgba(0,0,0,0.05) 41px),
+        repeating-linear-gradient(90deg, transparent, transparent 40px, rgba(0,0,0,0.05) 40px, rgba(0,0,0,0.05) 41px);
+      padding: 20px;
+    }
+
+    #selection-screen h1 {
+      font-size: clamp(24px, 5vw, 48px);
+      color: #b22234;
+      text-shadow: 2px 2px 0 #000;
+      letter-spacing: 3px;
+      text-align: center;
+      margin-bottom: 10px;
+      border: 4px solid #000;
+      padding: 8px 20px;
+      background: #fff;
+      transform: rotate(-1deg);
+    }
+
+    .select-section {
+      margin: 10px 0;
+      text-align: center;
+    }
+
+    .select-section h2 {
+      font-size: clamp(14px, 3vw, 22px);
+      margin-bottom: 8px;
+      color: #333;
+      text-decoration: underline;
+    }
+
+    .select-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: center;
+    }
+
+    .select-btn {
+      font-family: inherit;
+      font-size: clamp(12px, 2.5vw, 18px);
+      padding: 8px 14px;
+      border: 3px solid #000;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: transform 0.1s, box-shadow 0.1s;
+      font-weight: bold;
+    }
+
+    .select-btn:hover { transform: scale(1.05); }
+    .select-btn:active { transform: scale(0.95); }
+    .select-btn.selected {
+      box-shadow: 0 0 0 4px #ffd700, 0 0 12px rgba(255,215,0,0.6);
+      transform: scale(1.08);
+    }
+
+    .player-btn { background: #fff; color: #000; }
+    .niner-btn { background: #b22234; color: #fff; }
+
+    .jersey-option {
+      display: inline-flex;
+      flex-direction: column;
+      align-items: center;
+      cursor: pointer;
+      padding: 8px;
+      border: 3px solid transparent;
+      border-radius: 12px;
+      transition: all 0.15s;
+    }
+
+    .jersey-option.selected {
+      border-color: #ffd700;
+      box-shadow: 0 0 12px rgba(255,215,0,0.6);
+      background: rgba(255,255,255,0.3);
+    }
+
+    .jersey-svg { width: 60px; height: 70px; }
+
+    #start-btn {
+      font-family: inherit;
+      font-size: clamp(18px, 4vw, 32px);
+      padding: 12px 40px;
+      background: #2e7d32;
+      color: #fff;
+      border: 4px solid #000;
+      border-radius: 16px;
+      cursor: pointer;
+      margin-top: 14px;
+      font-weight: bold;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+    }
+
+    #start-btn:hover { background: #388e3c; transform: scale(1.05); }
+    #start-btn:active { transform: scale(0.95); }
+    #start-btn:disabled { background: #999; cursor: not-allowed; }
+
+    /* ── Game Screen ── */
+    #game-screen {
+      display: none;
+      width: 100vw;
+      height: 100vh;
+    }
+
+    .game-layout {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      grid-template-rows: auto 1fr auto;
+      width: 100%;
+      height: 100%;
+      background: #c4a46c;
+    }
+
+    /* Header */
+    .game-header {
+      grid-column: 1 / -1;
+      text-align: center;
+      background: #222;
+      color: #fff;
+      padding: 4px 0;
+      font-size: clamp(12px, 2.5vw, 20px);
+      font-weight: bold;
+      letter-spacing: 2px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 4px 16px;
+    }
+
+    .game-header .title { color: #ffd700; }
+    .game-header .score { color: #fff; font-size: clamp(14px, 3vw, 24px); }
+
+    /* Left buttons panel */
+    .left-panel {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      padding: 4px;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .action-btn {
+      font-family: inherit;
+      font-size: clamp(9px, 1.5vw, 14px);
+      padding: 6px 8px;
+      border: 2px solid #000;
+      border-radius: 10px;
+      cursor: pointer;
+      font-weight: bold;
+      width: 100%;
+      min-width: 80px;
+      max-width: 130px;
+      text-align: center;
+      transition: transform 0.08s;
+      line-height: 1.1;
+    }
+
+    .action-btn:active { transform: scale(0.9); }
+
+    .btn-orange { background: #f4a236; color: #000; }
+    .btn-green { background: #4caf50; color: #fff; }
+    .btn-blue { background: #42a5f5; color: #fff; }
+    .btn-red { background: #e53935; color: #fff; }
+    .btn-salmon { background: #ff8a65; color: #000; }
+    .btn-teal { background: #26a69a; color: #fff; }
+
+    /* Canvas area */
+    .canvas-wrap {
+      position: relative;
+      overflow: hidden;
+      border: 4px solid #000;
+      background: #2e7d32;
+    }
+
+    #gameCanvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Right panel - jersey + info */
+    .right-panel {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 6px;
+      gap: 10px;
+      min-width: 70px;
+    }
+
+    .right-panel .jersey-display {
+      text-align: center;
+    }
+
+    .right-panel .player-info {
+      font-size: clamp(9px, 1.4vw, 13px);
+      text-align: center;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .yard-marker {
+      font-size: clamp(12px, 2vw, 20px);
+      font-weight: bold;
+      color: #333;
+      text-align: center;
+      background: #fff;
+      border: 2px solid #000;
+      border-radius: 8px;
+      padding: 4px 8px;
+    }
+
+    .downs-info {
+      font-size: clamp(10px, 1.5vw, 14px);
+      font-weight: bold;
+      color: #333;
+      text-align: center;
+    }
+
+    /* Bottom area with D-pad */
+    .bottom-panel {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      padding: 6px;
+      background: #b89a5a;
+      border-top: 3px solid #000;
+    }
+
+    /* D-Pad */
+    .dpad {
+      display: grid;
+      grid-template-columns: 48px 48px 48px;
+      grid-template-rows: 48px 48px 48px;
+      gap: 2px;
+    }
+
+    .dpad-btn {
+      width: 48px;
+      height: 48px;
+      border: 2px solid #000;
+      border-radius: 6px;
+      background: #555;
+      color: #fff;
+      font-size: 22px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: inherit;
+    }
+
+    .dpad-btn:active { background: #333; }
+    .dpad-center { background: #888; border-radius: 50%; }
+    .dpad-blank { border: none; background: transparent; }
+
+    .bottom-info {
+      text-align: center;
+      font-weight: bold;
+      font-size: clamp(11px, 2vw, 16px);
+      color: #333;
+    }
+
+    /* Messages overlay */
+    .game-message {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: clamp(20px, 5vw, 48px);
+      font-weight: bold;
+      color: #ffd700;
+      text-shadow: 3px 3px 0 #000, -1px -1px 0 #000;
+      pointer-events: none;
+      opacity: 0;
+      transition: opacity 0.3s;
+      text-align: center;
+      font-family: inherit;
+      z-index: 10;
+    }
+
+    .game-message.visible { opacity: 1; }
+
+    /* Pause overlay */
+    .pause-overlay {
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.6);
+      display: none;
+      align-items: center;
+      justify-content: center;
+      z-index: 20;
+    }
+
+    .pause-overlay.visible { display: flex; }
+
+    .pause-overlay span {
+      font-size: clamp(28px, 6vw, 56px);
+      color: #ffd700;
+      font-weight: bold;
+      text-shadow: 3px 3px 0 #000;
+      font-family: inherit;
+    }
+
+    /* Responsive tweaks */
+    @media (max-width: 600px) {
+      .action-btn { min-width: 64px; padding: 5px 4px; font-size: 10px; }
+      .dpad-btn { width: 40px; height: 40px; font-size: 18px; }
+      .dpad { grid-template-columns: 40px 40px 40px; grid-template-rows: 40px 40px 40px; }
+      .right-panel { min-width: 55px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ════════════ SELECTION SCREEN ════════════ -->
+<div id="selection-screen">
+  <h1>NFL FOOTBALL<br>VIDEO GAME</h1>
+
+  <div class="select-section">
+    <h2>Who's Playing? (Circle One)</h2>
+    <div class="select-row" id="player-names">
+      <button class="select-btn player-btn" data-player="Matthias">Matthias</button>
+      <button class="select-btn player-btn" data-player="Marco">Marco</button>
+      <button class="select-btn player-btn" data-player="Liam">Liam</button>
+      <button class="select-btn player-btn" data-player="Daddy">Daddy</button>
+    </div>
+  </div>
+
+  <div class="select-section">
+    <h2>Pick Your 49er</h2>
+    <div class="select-row" id="niner-names">
+      <button class="select-btn niner-btn" data-niner="Brock Purdy" data-num="13">Brock Purdy</button>
+      <button class="select-btn niner-btn" data-niner="Christian McCaffrey" data-num="23">McCaffrey</button>
+      <button class="select-btn niner-btn" data-niner="George Kittle" data-num="85">George Kittle</button>
+      <button class="select-btn niner-btn" data-niner="Jauan Jennings" data-num="15">Jauan Jennings</button>
+    </div>
+  </div>
+
+  <div class="select-section">
+    <h2>Pick Your Jersey</h2>
+    <div class="select-row" id="jersey-choices">
+      <div class="jersey-option" data-jersey="red">
+        <svg class="jersey-svg" viewBox="0 0 60 70">
+          <path d="M15,0 L45,0 L55,15 L50,18 L45,10 L45,65 L15,65 L15,10 L10,18 L5,15 Z" fill="#b22234" stroke="#000" stroke-width="2"/>
+          <text x="30" y="45" text-anchor="middle" fill="#fff" font-size="18" font-weight="bold" font-family="sans-serif">13</text>
+        </svg>
+        <span style="font-size:12px;font-weight:bold">#13 Red</span>
+      </div>
+      <div class="jersey-option" data-jersey="black">
+        <svg class="jersey-svg" viewBox="0 0 60 70">
+          <path d="M15,0 L45,0 L55,15 L50,18 L45,10 L45,65 L15,65 L15,10 L10,18 L5,15 Z" fill="#1a1a1a" stroke="#000" stroke-width="2"/>
+          <text x="30" y="45" text-anchor="middle" fill="#c8aa6e" font-size="18" font-weight="bold" font-family="sans-serif">85</text>
+        </svg>
+        <span style="font-size:12px;font-weight:bold">#85 Black</span>
+      </div>
+      <div class="jersey-option" data-jersey="white">
+        <svg class="jersey-svg" viewBox="0 0 60 70">
+          <path d="M15,0 L45,0 L55,15 L50,18 L45,10 L45,65 L15,65 L15,10 L10,18 L5,15 Z" fill="#fff" stroke="#000" stroke-width="2"/>
+          <text x="30" y="45" text-anchor="middle" fill="#b22234" font-size="18" font-weight="bold" font-family="sans-serif">23</text>
+        </svg>
+        <span style="font-size:12px;font-weight:bold">#23 White</span>
+      </div>
+    </div>
+  </div>
+
+  <button id="start-btn" disabled>KICK OFF!</button>
+</div>
+
+<!-- ════════════ GAME SCREEN ════════════ -->
+<div id="game-screen">
+  <div class="game-layout">
+    <!-- Header -->
+    <div class="game-header">
+      <span class="title">NFL FOOTBALL VIDEO GAME</span>
+      <span class="score" id="score-display">49ers 0 — Opponent 0</span>
+    </div>
+
+    <!-- Left: Action Buttons -->
+    <div class="left-panel">
+      <button class="action-btn btn-orange" id="btn-sprint" data-action="sprint">Sprint</button>
+      <button class="action-btn btn-orange" id="btn-flip" data-action="flip">Flip Behind You</button>
+      <button class="action-btn btn-green" id="btn-jump" data-action="jump">Jump</button>
+      <button class="action-btn btn-green" id="btn-fake" data-action="fake">Fake</button>
+      <button class="action-btn btn-blue" id="btn-pause" data-action="pause">Pause</button>
+      <button class="action-btn btn-blue" id="btn-quit" data-action="quit">Quit</button>
+      <button class="action-btn btn-red" id="btn-hailmary" data-action="hailmary">Hail Mary</button>
+      <button class="action-btn btn-salmon" id="btn-rip" data-action="rip">Rip Ball</button>
+      <button class="action-btn btn-teal" id="btn-punt" data-action="punt">Punt</button>
+      <button class="action-btn btn-teal" id="btn-switch" data-action="switch">Switch Player</button>
+    </div>
+
+    <!-- Center: Game Canvas -->
+    <div class="canvas-wrap" id="canvas-wrap">
+      <canvas id="gameCanvas"></canvas>
+      <div class="game-message" id="game-message"></div>
+      <div class="pause-overlay" id="pause-overlay"><span>PAUSED</span></div>
+    </div>
+
+    <!-- Right panel -->
+    <div class="right-panel">
+      <div class="jersey-display" id="jersey-display"></div>
+      <div class="player-info" id="player-info-display"></div>
+      <div class="yard-marker" id="yard-display">OWN 25</div>
+      <div class="downs-info" id="downs-display">1st & 10</div>
+    </div>
+
+    <!-- Bottom: D-Pad + Info -->
+    <div class="bottom-panel">
+      <div class="dpad">
+        <div class="dpad-blank"></div>
+        <button class="dpad-btn" id="dpad-up">&#9650;</button>
+        <div class="dpad-blank"></div>
+        <button class="dpad-btn" id="dpad-left">&#9664;</button>
+        <button class="dpad-btn dpad-center">&#9899;</button>
+        <button class="dpad-btn" id="dpad-right">&#9654;</button>
+        <div class="dpad-blank"></div>
+        <button class="dpad-btn" id="dpad-down">&#9660;</button>
+        <div class="dpad-blank"></div>
+      </div>
+      <div class="bottom-info">
+        <div id="play-status">Ready for kickoff!</div>
+        <div id="active-player-name"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+// ════════════════════════════════════════════
+// SELECTION SCREEN
+// ════════════════════════════════════════════
+const state = {
+  playerName: null,
+  ninerPlayer: null,
+  ninerNum: null,
+  jerseyColor: null,
+};
+
+function setupSelection() {
+  document.querySelectorAll('#player-names .select-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#player-names .select-btn').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      state.playerName = btn.dataset.player;
+      checkReady();
+    });
+  });
+
+  document.querySelectorAll('#niner-names .select-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('#niner-names .select-btn').forEach(b => b.classList.remove('selected'));
+      btn.classList.add('selected');
+      state.ninerPlayer = btn.dataset.niner;
+      state.ninerNum = btn.dataset.num;
+      checkReady();
+    });
+  });
+
+  document.querySelectorAll('#jersey-choices .jersey-option').forEach(opt => {
+    opt.addEventListener('click', () => {
+      document.querySelectorAll('#jersey-choices .jersey-option').forEach(o => o.classList.remove('selected'));
+      opt.classList.add('selected');
+      state.jerseyColor = opt.dataset.jersey;
+      checkReady();
+    });
+  });
+
+  document.getElementById('start-btn').addEventListener('click', startGame);
+}
+
+function checkReady() {
+  document.getElementById('start-btn').disabled =
+    !(state.playerName && state.ninerPlayer && state.jerseyColor);
+}
+
+// ════════════════════════════════════════════
+// GAME ENGINE
+// ════════════════════════════════════════════
+let canvas, ctx;
+let gameW, gameH;
+let animFrame;
+let paused = false;
+
+const FIELD_GREEN = '#2e7d32';
+const FIELD_DARK = '#256427';
+const LINE_WHITE = 'rgba(255,255,255,0.7)';
+const ENDZONE_HOME = '#b22234';
+const ENDZONE_AWAY = '#1a237e';
+
+const jerseyColors = {
+  red: { primary: '#b22234', secondary: '#fff', accent: '#c8aa6e' },
+  black: { primary: '#1a1a1a', secondary: '#c8aa6e', accent: '#b22234' },
+  white: { primary: '#ffffff', secondary: '#b22234', accent: '#c8aa6e' },
+};
+
+let game = {};
+
+function initGame() {
+  const colors = jerseyColors[state.jerseyColor];
+  game = {
+    score49: 0,
+    scoreOpp: 0,
+    down: 1,
+    yardsToGo: 10,
+    ballYardLine: 25,  // 0 = own endzone, 100 = opponent endzone
+    possession: 'player', // 'player' or 'opponent'
+    phase: 'ready', // 'ready', 'playing', 'scored', 'turnover', 'punt_flight'
+    playTimer: 0,
+
+    player: {
+      x: 0, y: 0,
+      vx: 0, vy: 0,
+      speed: 3,
+      radius: 14,
+      sprinting: false,
+      jumping: false,
+      jumpTimer: 0,
+      fakeTimer: 0,
+      fakeDir: 0,
+      colors: colors,
+      number: state.ninerNum,
+    },
+
+    teammates: [],
+    defenders: [],
+    ball: { x: 0, y: 0, thrown: false, tx: 0, ty: 0, speed: 0, visible: false },
+    particles: [],
+    messageTimer: 0,
+    inputDir: { x: 0, y: 0 },
+    keysDown: new Set(),
+  };
+}
+
+function resizeCanvas() {
+  const wrap = document.getElementById('canvas-wrap');
+  canvas.width = wrap.clientWidth;
+  canvas.height = wrap.clientHeight;
+  gameW = canvas.width;
+  gameH = canvas.height;
+}
+
+function yardToPixelY(yard) {
+  // yard 0 (own endzone) = bottom, yard 100 (opp endzone) = top
+  const fieldTop = gameH * 0.05;
+  const fieldBot = gameH * 0.95;
+  const endzoneH = (fieldBot - fieldTop) * 0.1;
+  const playFieldTop = fieldTop + endzoneH;
+  const playFieldBot = fieldBot - endzoneH;
+  return playFieldBot - (yard / 100) * (playFieldBot - playFieldTop);
+}
+
+function pixelYToYard(py) {
+  const fieldTop = gameH * 0.05;
+  const fieldBot = gameH * 0.95;
+  const endzoneH = (fieldBot - fieldTop) * 0.1;
+  const playFieldTop = fieldTop + endzoneH;
+  const playFieldBot = fieldBot - endzoneH;
+  return ((playFieldBot - py) / (playFieldBot - playFieldTop)) * 100;
+}
+
+function setupPlay() {
+  game.phase = 'ready';
+  game.playTimer = 0;
+  game.ball.thrown = false;
+  game.ball.visible = false;
+
+  // Player at line of scrimmage
+  const scrimmageY = yardToPixelY(game.ballYardLine);
+  game.player.x = gameW * 0.5;
+  game.player.y = scrimmageY;
+  game.player.vx = 0;
+  game.player.vy = 0;
+  game.player.sprinting = false;
+  game.player.jumping = false;
+  game.player.jumpTimer = 0;
+  game.player.fakeTimer = 0;
+
+  // Teammates
+  game.teammates = [];
+  for (let i = 0; i < 4; i++) {
+    game.teammates.push({
+      x: gameW * (0.2 + i * 0.2),
+      y: scrimmageY + 20 + Math.random() * 20,
+      vx: (Math.random() - 0.5) * 1.5,
+      vy: -1 - Math.random(),
+      radius: 12,
+      number: [11, 74, 54, 99][i],
+    });
+  }
+
+  // Defenders
+  game.defenders = [];
+  const numDef = Math.min(5, 3 + Math.floor((game.score49 + game.scoreOpp) / 14));
+  for (let i = 0; i < numDef; i++) {
+    const dy = scrimmageY - 60 - Math.random() * (gameH * 0.4);
+    game.defenders.push({
+      x: gameW * (0.15 + Math.random() * 0.7),
+      y: dy,
+      vx: 0,
+      vy: 0,
+      speed: 1.5 + Math.random() * 1.2,
+      radius: 13,
+      beaten: false,
+    });
+  }
+
+  updateUI();
+  showMessage('Hut Hut!', 1200);
+}
+
+function startPlay() {
+  game.phase = 'playing';
+}
+
+function showMessage(text, duration) {
+  const el = document.getElementById('game-message');
+  el.textContent = text;
+  el.classList.add('visible');
+  game.messageTimer = duration || 1500;
+}
+
+function hideMessage() {
+  document.getElementById('game-message').classList.remove('visible');
+}
+
+function addParticles(x, y, color, count) {
+  for (let i = 0; i < count; i++) {
+    game.particles.push({
+      x, y,
+      vx: (Math.random() - 0.5) * 6,
+      vy: (Math.random() - 0.5) * 6,
+      life: 30 + Math.random() * 20,
+      color,
+      radius: 2 + Math.random() * 3,
+    });
+  }
+}
+
+function updateUI() {
+  document.getElementById('score-display').textContent =
+    `49ers ${game.score49} — Opponent ${game.scoreOpp}`;
+
+  const yl = game.ballYardLine;
+  let yardText;
+  if (yl <= 50) yardText = `OWN ${yl}`;
+  else yardText = `OPP ${100 - yl}`;
+  document.getElementById('yard-display').textContent = yardText;
+
+  const ordinal = ['1st', '2nd', '3rd', '4th'][game.down - 1] || '4th';
+  document.getElementById('downs-display').textContent =
+    `${ordinal} & ${game.yardsToGo}`;
+
+  document.getElementById('active-player-name').textContent =
+    `${state.playerName} as ${state.ninerPlayer} #${state.ninerNum}`;
+}
+
+// ── Input ──
+function setupInput() {
+  window.addEventListener('keydown', e => {
+    game.keysDown.add(e.key);
+    if (e.key === ' ' && game.phase === 'ready') {
+      e.preventDefault();
+      startPlay();
+    }
+  });
+  window.addEventListener('keyup', e => game.keysDown.delete(e.key));
+
+  // D-Pad
+  const holdInterval = {};
+
+  function dpadDown(dir) {
+    game.inputDir[dir.axis] = dir.val;
+    if (game.phase === 'ready') startPlay();
+  }
+  function dpadUp(dir) {
+    if (game.inputDir[dir.axis] === dir.val) game.inputDir[dir.axis] = 0;
+  }
+
+  const dirs = {
+    'dpad-up': { axis: 'y', val: -1 },
+    'dpad-down': { axis: 'y', val: 1 },
+    'dpad-left': { axis: 'x', val: -1 },
+    'dpad-right': { axis: 'x', val: 1 },
+  };
+
+  Object.entries(dirs).forEach(([id, dir]) => {
+    const el = document.getElementById(id);
+    el.addEventListener('mousedown', e => { e.preventDefault(); dpadDown(dir); });
+    el.addEventListener('mouseup', e => { dpadUp(dir); });
+    el.addEventListener('mouseleave', e => { dpadUp(dir); });
+    el.addEventListener('touchstart', e => { e.preventDefault(); dpadDown(dir); });
+    el.addEventListener('touchend', e => { dpadUp(dir); });
+    el.addEventListener('touchcancel', e => { dpadUp(dir); });
+  });
+
+  // Action buttons
+  document.getElementById('btn-sprint').addEventListener('mousedown', () => { game.player.sprinting = true; });
+  document.getElementById('btn-sprint').addEventListener('mouseup', () => { game.player.sprinting = false; });
+  document.getElementById('btn-sprint').addEventListener('mouseleave', () => { game.player.sprinting = false; });
+  document.getElementById('btn-sprint').addEventListener('touchstart', e => { e.preventDefault(); game.player.sprinting = true; });
+  document.getElementById('btn-sprint').addEventListener('touchend', () => { game.player.sprinting = false; });
+
+  document.getElementById('btn-jump').addEventListener('click', doJump);
+  document.getElementById('btn-fake').addEventListener('click', doFake);
+  document.getElementById('btn-flip').addEventListener('click', doFlip);
+  document.getElementById('btn-hailmary').addEventListener('click', doHailMary);
+  document.getElementById('btn-rip').addEventListener('click', doRip);
+  document.getElementById('btn-punt').addEventListener('click', doPunt);
+  document.getElementById('btn-switch').addEventListener('click', doSwitchPlayer);
+  document.getElementById('btn-pause').addEventListener('click', togglePause);
+  document.getElementById('btn-quit').addEventListener('click', quitGame);
+}
+
+// ── Actions ──
+function doJump() {
+  if (game.phase !== 'playing' || game.player.jumping) return;
+  game.player.jumping = true;
+  game.player.jumpTimer = 20;
+  addParticles(game.player.x, game.player.y + 10, '#ffd700', 5);
+  showMessage('JUMP!', 600);
+}
+
+function doFake() {
+  if (game.phase !== 'playing') return;
+  game.player.fakeTimer = 15;
+  game.player.fakeDir = (Math.random() < 0.5 ? -1 : 1);
+  addParticles(game.player.x, game.player.y, '#ff9800', 8);
+  showMessage('FAKE!', 500);
+}
+
+function doFlip() {
+  if (game.phase !== 'playing' || game.teammates.length === 0) return;
+  // Find nearest teammate behind player
+  let nearest = null;
+  let nearDist = Infinity;
+  game.teammates.forEach(t => {
+    if (t.y > game.player.y) {
+      const d = Math.hypot(t.x - game.player.x, t.y - game.player.y);
+      if (d < nearDist) { nearDist = d; nearest = t; }
+    }
+  });
+  if (nearest) {
+    // Swap positions with teammate
+    const px = game.player.x, py = game.player.y;
+    game.player.x = nearest.x;
+    game.player.y = nearest.y;
+    nearest.x = px;
+    nearest.y = py;
+    addParticles(game.player.x, game.player.y, '#42a5f5', 10);
+    showMessage('FLIP!', 600);
+  }
+}
+
+function doHailMary() {
+  if (game.phase !== 'playing') return;
+  // Throw ball to endzone
+  game.ball.x = game.player.x;
+  game.ball.y = game.player.y;
+  game.ball.tx = gameW * (0.3 + Math.random() * 0.4);
+  game.ball.ty = yardToPixelY(100);
+  game.ball.thrown = true;
+  game.ball.visible = true;
+  game.ball.speed = 7;
+  showMessage('HAIL MARY!', 1000);
+  addParticles(game.player.x, game.player.y, '#e53935', 12);
+}
+
+function doRip() {
+  if (game.phase !== 'playing') return;
+  // Push nearest defender away
+  let nearest = null;
+  let nearDist = Infinity;
+  game.defenders.forEach(d => {
+    const dist = Math.hypot(d.x - game.player.x, d.y - game.player.y);
+    if (dist < nearDist) { nearDist = dist; nearest = d; }
+  });
+  if (nearest && nearDist < 80) {
+    const angle = Math.atan2(nearest.y - game.player.y, nearest.x - game.player.x);
+    nearest.x += Math.cos(angle) * 60;
+    nearest.y += Math.sin(angle) * 60;
+    nearest.beaten = true;
+    addParticles(nearest.x, nearest.y, '#ff8a65', 10);
+    showMessage('RIP!', 500);
+  }
+}
+
+function doPunt() {
+  if (game.phase !== 'playing') return;
+  // Punt: advance 30-40 yards and turn over
+  const puntYards = 30 + Math.floor(Math.random() * 15);
+  game.ball.x = game.player.x;
+  game.ball.y = game.player.y;
+  game.ball.tx = gameW * 0.5;
+  game.ball.ty = yardToPixelY(Math.min(99, game.ballYardLine + puntYards));
+  game.ball.thrown = true;
+  game.ball.visible = true;
+  game.ball.speed = 6;
+  game.phase = 'punt_flight';
+  showMessage(`PUNT! ${puntYards} yds`, 1200);
+  addParticles(game.player.x, game.player.y, '#26a69a', 8);
+}
+
+function doSwitchPlayer() {
+  if (game.phase !== 'playing' || game.teammates.length === 0) return;
+  // Cycle to next teammate
+  const t = game.teammates[0];
+  const px = game.player.x, py = game.player.y;
+  const pnum = game.player.number;
+  game.player.x = t.x;
+  game.player.y = t.y;
+  game.player.number = String(t.number);
+  t.x = px;
+  t.y = py;
+  t.number = parseInt(pnum) || 0;
+  addParticles(game.player.x, game.player.y, '#26a69a', 6);
+  showMessage('SWITCH!', 500);
+}
+
+function togglePause() {
+  paused = !paused;
+  document.getElementById('pause-overlay').classList.toggle('visible', paused);
+  document.getElementById('btn-pause').textContent = paused ? 'Unpause' : 'Pause';
+  if (!paused) gameLoop();
+}
+
+function quitGame() {
+  paused = false;
+  cancelAnimationFrame(animFrame);
+  document.getElementById('game-screen').style.display = 'none';
+  document.getElementById('selection-screen').style.display = 'flex';
+}
+
+// ── Game Update ──
+function update() {
+  if (paused) return;
+
+  // Message timer
+  if (game.messageTimer > 0) {
+    game.messageTimer -= 16;
+    if (game.messageTimer <= 0) hideMessage();
+  }
+
+  // Particles
+  game.particles.forEach(p => {
+    p.x += p.vx;
+    p.y += p.vy;
+    p.vx *= 0.96;
+    p.vy *= 0.96;
+    p.life--;
+  });
+  game.particles = game.particles.filter(p => p.life > 0);
+
+  if (game.phase === 'ready') {
+    // Wait for player to move
+    return;
+  }
+
+  if (game.phase === 'scored' || game.phase === 'turnover') return;
+
+  // Player input from keyboard
+  let ix = game.inputDir.x;
+  let iy = game.inputDir.y;
+  if (game.keysDown.has('ArrowLeft') || game.keysDown.has('a')) ix = -1;
+  if (game.keysDown.has('ArrowRight') || game.keysDown.has('d')) ix = 1;
+  if (game.keysDown.has('ArrowUp') || game.keysDown.has('w')) iy = -1;
+  if (game.keysDown.has('ArrowDown') || game.keysDown.has('s')) iy = 1;
+  if (game.keysDown.has('Shift')) game.player.sprinting = true;
+  else if (!document.getElementById('btn-sprint').matches(':active')) game.player.sprinting = false;
+
+  const speed = game.player.speed * (game.player.sprinting ? 1.8 : 1);
+
+  // Fake juke
+  if (game.player.fakeTimer > 0) {
+    game.player.fakeTimer--;
+    ix += game.player.fakeDir * 2;
+  }
+
+  // Apply movement
+  if (game.phase === 'playing') {
+    game.player.vx = ix * speed;
+    game.player.vy = iy * speed;
+    game.player.x += game.player.vx;
+    game.player.y += game.player.vy;
+
+    // Bounds
+    game.player.x = Math.max(game.player.radius, Math.min(gameW - game.player.radius, game.player.x));
+    game.player.y = Math.max(gameH * 0.02, Math.min(gameH * 0.98, game.player.y));
+
+    // Jump timer
+    if (game.player.jumping) {
+      game.player.jumpTimer--;
+      if (game.player.jumpTimer <= 0) game.player.jumping = false;
+    }
+
+    // Update yard line based on player position
+    game.ballYardLine = Math.max(0, Math.min(100, Math.round(pixelYToYard(game.player.y))));
+
+    // Teammates follow loosely
+    game.teammates.forEach(t => {
+      const dx = game.player.x + (Math.random() - 0.5) * 100 - t.x;
+      const dy = game.player.y + 30 - t.y;
+      t.x += dx * 0.02;
+      t.y += dy * 0.02;
+      t.x = Math.max(10, Math.min(gameW - 10, t.x));
+    });
+
+    // Defenders chase player
+    game.defenders.forEach(d => {
+      if (d.beaten) return;
+      const dx = game.player.x - d.x;
+      const dy = game.player.y - d.y;
+      const dist = Math.hypot(dx, dy);
+      if (dist > 0) {
+        d.vx = (dx / dist) * d.speed;
+        d.vy = (dy / dist) * d.speed;
+        d.x += d.vx;
+        d.y += d.vy;
+      }
+
+      // Tackle check
+      if (!game.player.jumping && dist < game.player.radius + d.radius) {
+        // Tackled!
+        handleTackle();
+      }
+    });
+
+    // Touchdown check
+    if (game.ballYardLine >= 100) {
+      handleTouchdown();
+    }
+  }
+
+  // Thrown ball
+  if (game.ball.thrown && game.ball.visible) {
+    const dx = game.ball.tx - game.ball.x;
+    const dy = game.ball.ty - game.ball.y;
+    const dist = Math.hypot(dx, dy);
+    if (dist < game.ball.speed) {
+      game.ball.x = game.ball.tx;
+      game.ball.y = game.ball.ty;
+      game.ball.thrown = false;
+      if (game.phase === 'punt_flight') {
+        // Turnover after punt
+        handlePuntLand();
+      } else {
+        // Hail Mary catch?
+        const catchChance = Math.random();
+        if (catchChance < 0.4) {
+          handleTouchdown();
+        } else {
+          showMessage('INCOMPLETE!', 1200);
+          game.ball.visible = false;
+          setTimeout(() => setupPlay(), 1500);
+        }
+      }
+    } else {
+      game.ball.x += (dx / dist) * game.ball.speed;
+      game.ball.y += (dy / dist) * game.ball.speed;
+    }
+  }
+
+  updateUI();
+}
+
+function handleTouchdown() {
+  game.phase = 'scored';
+  game.score49 += 7;
+  addParticles(game.player.x, game.player.y, '#ffd700', 30);
+  addParticles(game.player.x, game.player.y, '#b22234', 20);
+  showMessage('TOUCHDOWN! +7', 2500);
+  setTimeout(() => {
+    game.ballYardLine = 25;
+    game.down = 1;
+    game.yardsToGo = 10;
+    setupPlay();
+  }, 3000);
+}
+
+function handleTackle() {
+  game.phase = 'turnover';
+  addParticles(game.player.x, game.player.y, '#ff5722', 15);
+  const gained = game.ballYardLine - 25; // approximate yards from start
+  game.down++;
+
+  if (game.down > 4) {
+    showMessage('TURNOVER ON DOWNS!', 2000);
+    setTimeout(() => {
+      game.ballYardLine = 25;
+      game.down = 1;
+      game.yardsToGo = 10;
+      game.scoreOpp += 3; // opponent gets field goal
+      setupPlay();
+    }, 2500);
+  } else {
+    const yardsGained = Math.max(0, game.ballYardLine - (game.ballYardLine - gained));
+    game.yardsToGo = Math.max(1, game.yardsToGo - Math.max(0, gained));
+    if (game.yardsToGo <= 0) {
+      game.down = 1;
+      game.yardsToGo = 10;
+      showMessage('FIRST DOWN!', 1200);
+    } else {
+      showMessage('TACKLED!', 1200);
+    }
+    setTimeout(() => setupPlay(), 1500);
+  }
+}
+
+function handlePuntLand() {
+  game.phase = 'turnover';
+  game.ball.visible = false;
+  // Opponent "drives" — just give them a field goal sometimes
+  const oppScores = Math.random() < 0.3;
+  if (oppScores) {
+    game.scoreOpp += 3;
+    showMessage('OPP FIELD GOAL +3', 2000);
+  } else {
+    showMessage('DEFENSE HOLDS!', 1500);
+  }
+  setTimeout(() => {
+    game.ballYardLine = 25;
+    game.down = 1;
+    game.yardsToGo = 10;
+    setupPlay();
+  }, 2500);
+}
+
+// ── Rendering ──
+function draw() {
+  ctx.clearRect(0, 0, gameW, gameH);
+
+  const fieldTop = gameH * 0.05;
+  const fieldBot = gameH * 0.95;
+  const endzoneH = (fieldBot - fieldTop) * 0.1;
+
+  // Field background
+  ctx.fillStyle = FIELD_GREEN;
+  ctx.fillRect(0, fieldTop, gameW, fieldBot - fieldTop);
+
+  // Alternating stripes
+  for (let y = 0; y <= 100; y += 10) {
+    const py = yardToPixelY(y);
+    const py2 = yardToPixelY(y + 10);
+    if ((y / 10) % 2 === 0) {
+      ctx.fillStyle = FIELD_DARK;
+      ctx.fillRect(0, py, gameW, py2 - py);
+    }
+  }
+
+  // Endzones
+  ctx.fillStyle = ENDZONE_HOME;
+  ctx.fillRect(0, fieldBot - endzoneH, gameW, endzoneH);
+  ctx.fillStyle = ENDZONE_AWAY;
+  ctx.fillRect(0, fieldTop, gameW, endzoneH);
+
+  // Endzone text
+  ctx.save();
+  ctx.font = `bold ${Math.max(12, gameW * 0.04)}px 'Comic Sans MS', cursive`;
+  ctx.textAlign = 'center';
+  ctx.fillStyle = 'rgba(255,255,255,0.4)';
+  ctx.fillText('49ERS', gameW / 2, fieldTop + endzoneH * 0.65);
+  ctx.fillText('OPPONENT', gameW / 2, fieldBot - endzoneH * 0.35);
+  ctx.restore();
+
+  // Yard lines
+  ctx.strokeStyle = LINE_WHITE;
+  ctx.lineWidth = 1;
+  ctx.font = `bold ${Math.max(9, gameW * 0.02)}px sans-serif`;
+  ctx.fillStyle = 'rgba(255,255,255,0.5)';
+  ctx.textAlign = 'left';
+  for (let y = 10; y <= 90; y += 10) {
+    const py = yardToPixelY(y);
+    ctx.beginPath();
+    ctx.moveTo(0, py);
+    ctx.lineTo(gameW, py);
+    ctx.stroke();
+    const label = y <= 50 ? y : 100 - y;
+    ctx.fillText(label, 4, py - 3);
+    ctx.fillText(label, gameW - 22, py - 3);
+  }
+
+  // Scrimmage line
+  const scrimY = yardToPixelY(game.ballYardLine);
+  ctx.strokeStyle = '#ffd700';
+  ctx.lineWidth = 2;
+  ctx.setLineDash([6, 4]);
+  ctx.beginPath();
+  ctx.moveTo(0, scrimY);
+  ctx.lineTo(gameW, scrimY);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  // Teammates
+  game.teammates.forEach(t => {
+    drawPlayer(t.x, t.y, t.radius, game.player.colors.primary, game.player.colors.secondary, t.number, false);
+  });
+
+  // Defenders
+  game.defenders.forEach(d => {
+    const defColor = d.beaten ? '#666' : '#1a237e';
+    drawPlayer(d.x, d.y, d.radius, defColor, '#fff', '', true);
+  });
+
+  // Ball (if thrown)
+  if (game.ball.visible) {
+    ctx.fillStyle = '#8B4513';
+    ctx.beginPath();
+    ctx.ellipse(game.ball.x, game.ball.y, 8, 5, 0, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.strokeStyle = '#fff';
+    ctx.lineWidth = 1;
+    ctx.stroke();
+  }
+
+  // Player
+  const p = game.player;
+  const jumpOffset = p.jumping ? -10 : 0;
+  const shadowAlpha = p.jumping ? 0.2 : 0;
+  if (p.jumping) {
+    // Shadow
+    ctx.fillStyle = `rgba(0,0,0,${shadowAlpha})`;
+    ctx.beginPath();
+    ctx.ellipse(p.x, p.y + 5, p.radius, p.radius * 0.4, 0, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  drawPlayer(p.x, p.y + jumpOffset, p.radius, p.colors.primary, p.colors.secondary, p.number, false, true);
+
+  // Particles
+  game.particles.forEach(p => {
+    ctx.globalAlpha = p.life / 50;
+    ctx.fillStyle = p.color;
+    ctx.beginPath();
+    ctx.arc(p.x, p.y, p.radius, 0, Math.PI * 2);
+    ctx.fill();
+  });
+  ctx.globalAlpha = 1;
+}
+
+function drawPlayer(x, y, r, primary, secondary, number, isDefender, isMain) {
+  // Body circle
+  ctx.fillStyle = primary;
+  ctx.beginPath();
+  ctx.arc(x, y, r, 0, Math.PI * 2);
+  ctx.fill();
+  ctx.strokeStyle = '#000';
+  ctx.lineWidth = isMain ? 3 : 2;
+  ctx.stroke();
+
+  // Highlight ring for main player
+  if (isMain) {
+    ctx.strokeStyle = '#ffd700';
+    ctx.lineWidth = 2;
+    ctx.beginPath();
+    ctx.arc(x, y, r + 4, 0, Math.PI * 2);
+    ctx.stroke();
+  }
+
+  // Number
+  if (number) {
+    ctx.fillStyle = secondary;
+    ctx.font = `bold ${Math.max(9, r * 0.9)}px sans-serif`;
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText(number, x, y + 1);
+  }
+
+  // Helmet indicator
+  if (!isDefender) {
+    ctx.fillStyle = '#c8aa6e';
+  } else {
+    ctx.fillStyle = '#666';
+  }
+  ctx.beginPath();
+  ctx.arc(x, y - r * 0.6, r * 0.35, 0, Math.PI * 2);
+  ctx.fill();
+}
+
+// ── Game Loop ──
+function gameLoop() {
+  if (paused) return;
+  update();
+  draw();
+  animFrame = requestAnimationFrame(gameLoop);
+}
+
+// ── Start Game ──
+function startGame() {
+  document.getElementById('selection-screen').style.display = 'none';
+  document.getElementById('game-screen').style.display = 'block';
+
+  canvas = document.getElementById('gameCanvas');
+  ctx = canvas.getContext('2d');
+
+  // Set jersey display
+  const jd = document.getElementById('jersey-display');
+  const colors = jerseyColors[state.jerseyColor];
+  jd.innerHTML = `<svg viewBox="0 0 60 70" width="50" height="58">
+    <path d="M15,0 L45,0 L55,15 L50,18 L45,10 L45,65 L15,65 L15,10 L10,18 L5,15 Z"
+      fill="${colors.primary}" stroke="#000" stroke-width="2"/>
+    <text x="30" y="45" text-anchor="middle" fill="${colors.secondary}"
+      font-size="18" font-weight="bold" font-family="sans-serif">${state.ninerNum}</text>
+  </svg>`;
+
+  document.getElementById('player-info-display').innerHTML =
+    `${state.playerName}<br>as<br>${state.ninerPlayer}`;
+
+  resizeCanvas();
+  window.addEventListener('resize', () => { resizeCanvas(); });
+  initGame();
+  setupPlay();
+  setupInput();
+  gameLoop();
+
+  document.getElementById('play-status').textContent = 'Arrow keys / D-Pad to move. Space to snap!';
+}
+
+// Boot
+setupSelection();
+</script>
+</body>
+</html>
