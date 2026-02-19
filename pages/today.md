@@ -9,7 +9,7 @@ ogimage: berens_co_today.jpg
   <thead>
     <tr>
       <th style="width: 40px">Time</th>
-      <th>Task</th>
+      <th>Task <span id="notify-icon"></span></th>
     </tr>
   </thead>
   <tbody id="schedule-body">
@@ -224,26 +224,29 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function initNotifications() {
-    const bar = document.getElementById('notification-bar');
-    if (!bar || !('Notification' in window)) return;
+    const icon = document.getElementById('notify-icon');
+    if (!icon || !('Notification' in window)) return;
 
     if (Notification.permission === 'granted') {
-      scheduleNotifications();
+      icon.textContent = '🔔';
+      icon.title = 'Notifications enabled';
     } else if (Notification.permission !== 'denied') {
-      const btn = document.createElement('button');
-      btn.textContent = '🔔 Notify me at each task time';
-      btn.style.cssText = 'font-size:0.8em; padding:2px 8px; cursor:pointer;';
-      btn.onclick = () => {
+      icon.textContent = '🔕';
+      icon.style.cursor = 'pointer';
+      icon.title = 'Enable notifications';
+      icon.onclick = () => {
         Notification.requestPermission().then(perm => {
           if (perm === 'granted') {
-            const n = scheduleNotifications();
-            bar.innerHTML = `<span class="muted small">🔔 Notifications set for ${n} remaining task${n !== 1 ? 's' : ''} today.</span>`;
+            scheduleNotifications();
+            icon.textContent = '🔔';
+            icon.title = 'Notifications enabled';
+            icon.style.cursor = 'default';
+            icon.onclick = null;
           } else {
-            bar.innerHTML = '';
+            icon.textContent = '';
           }
         });
       };
-      bar.appendChild(btn);
     }
   }
 
@@ -254,8 +257,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <script src="/assets/js/weather.js"></script>
-
-<div id="notification-bar" style="margin: 0.5em 0;"></div>
 
 <div id="event-container"></div>
 <div id="feast-container"></div>
