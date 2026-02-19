@@ -193,12 +193,69 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  function stripTaskHtml(html) {
+    const tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    tmp.querySelectorAll('input[placeholder]').forEach(el => el.replaceWith(el.placeholder));
+    return tmp.textContent.trim();
+  }
+
+  function scheduleNotifications() {
+    const pacificNow = new Date(getPacificTime());
+    const currentDay = pacificNow.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
+    const todaysTasks = siteData.quotidie[currentDay];
+    if (!todaysTasks) return 0;
+
+    const sorted = [...todaysTasks].sort((a, b) => (a.time || '23:59').localeCompare(b.time || '23:59'));
+    const nowSecs = pacificNow.getHours() * 3600 + pacificNow.getMinutes() * 60 + pacificNow.getSeconds();
+    let scheduled = 0;
+
+    sorted.forEach(taskObj => {
+      if (!taskObj.time) return;
+      const [h, m] = taskObj.time.split(':').map(Number);
+      const msUntil = (h * 3600 + m * 60 - nowSecs) * 1000;
+      if (msUntil <= 0) return;
+      const label = stripTaskHtml(taskObj.task);
+      setTimeout(() => new Notification(label), msUntil);
+      scheduled++;
+    });
+
+    return scheduled;
+  }
+
+  function initNotifications() {
+    const bar = document.getElementById('notification-bar');
+    if (!bar || !('Notification' in window)) return;
+
+    if (Notification.permission === 'granted') {
+      scheduleNotifications();
+    } else if (Notification.permission !== 'denied') {
+      const btn = document.createElement('button');
+      btn.textContent = '🔔 Notify me at each task time';
+      btn.style.cssText = 'font-size:0.8em; padding:2px 8px; cursor:pointer;';
+      btn.onclick = () => {
+        Notification.requestPermission().then(perm => {
+          if (perm === 'granted') {
+            const n = scheduleNotifications();
+            bar.innerHTML = `<span class="muted small">🔔 Notifications set for ${n} remaining task${n !== 1 ? 's' : ''} today.</span>`;
+          } else {
+            bar.innerHTML = '';
+          }
+        });
+      };
+      bar.appendChild(btn);
+    }
+  }
+
   updateTimeElements();
   setInterval(updateTimeElements, 60000);
+  initNotifications();
 });
 </script>
 
 <script src="/assets/js/weather.js"></script>
+
+<div id="notification-bar" style="margin: 0.5em 0;"></div>
 
 <div id="event-container"></div>
 <div id="feast-container"></div>
