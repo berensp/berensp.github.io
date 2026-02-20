@@ -1,6 +1,6 @@
 # berens.co
 
-Personal site of Paul Berens — blog, recipes, prayers, cycling and running routes, and daily data-driven content. Originally forked from Dan Romero's [Clio template](https://github.com/danromero/clio) template and expanded considerably.
+Personal site of Paul Berens — blog, recipes, prayers, cycling and running routes, and daily data-driven content. Originally forked from Dan Romero's [Clio template](https://github.com/danromero/clio) and expanded considerably.
 
 **Live at [berens.co](https://berens.co)**
 
