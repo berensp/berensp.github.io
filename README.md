@@ -1,6 +1,6 @@
 # berens.co
 
-Personal site of Paul Berens — blog, recipes, prayers, cycling and running routes, and daily data-driven content. Originally forked from Dan Romero's [Clio](https://danromero.org) template and expanded considerably.
+Personal site of Paul Berens — blog, recipes, prayers, cycling and running routes, and daily data-driven content. Originally forked from Dan Romero's [Clio](../danromero/clio) template and expanded considerably.
 
 **Live at [berens.co](https://berens.co)**
 
@@ -36,5 +36,6 @@ Requires Ruby 3.2+ and Bundler.
 GitHub Actions sync live data from Strava (cycling/running) and Swarm (check-ins), and a Telegram bot sends a daily song to subscribers. These workflows commit directly to the repo — the JSON files they update (`_data/strava.json`, `_data/swarm.json`, `_data/telegram_subscribers.json`) should not be edited by hand.
 
 ## For AI assistants
+
 
 See [CLAUDE.md](CLAUDE.md) for the full guide: directory structure, front matter conventions, layout reference, naming patterns, data file inventory, and rules for working on this codebase.
