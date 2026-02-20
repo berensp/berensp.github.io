@@ -201,13 +201,21 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function scheduleNotifications() {
-    const pacificNow = new Date(getPacificTime());
-    const currentDay = pacificNow.toLocaleString('en-US', { weekday: 'long' }).toLowerCase();
+    const now = new Date();
+    const currentDay = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles', weekday: 'long'
+    }).format(now).toLowerCase();
     const todaysTasks = siteData.quotidie[currentDay];
     if (!todaysTasks) return 0;
 
     const sorted = [...todaysTasks].sort((a, b) => (a.time || '23:59').localeCompare(b.time || '23:59'));
-    const nowSecs = pacificNow.getHours() * 3600 + pacificNow.getMinutes() * 60 + pacificNow.getSeconds();
+
+    const timeParts = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles',
+      hour: 'numeric', minute: '2-digit', second: '2-digit', hourCycle: 'h23'
+    }).formatToParts(now);
+    const get = type => parseInt(timeParts.find(p => p.type === type).value, 10);
+    const nowSecs = get('hour') * 3600 + get('minute') * 60 + get('second');
     let scheduled = 0;
 
     sorted.forEach(taskObj => {
@@ -216,7 +224,7 @@ document.addEventListener('DOMContentLoaded', function() {
       const msUntil = (h * 3600 + m * 60 - nowSecs) * 1000;
       if (msUntil <= 0) return;
       const label = stripTaskHtml(taskObj.task);
-      setTimeout(() => new Notification(label), msUntil);
+      setTimeout(() => { try { new Notification(label); } catch(e) {} }, msUntil);
       scheduled++;
     });
 
@@ -230,6 +238,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (Notification.permission === 'granted') {
       icon.textContent = '🔔';
       icon.title = 'Notifications enabled';
+      scheduleNotifications();
     } else if (Notification.permission !== 'denied') {
       icon.textContent = '🔕';
       icon.style.cursor = 'pointer';
@@ -237,6 +246,7 @@ document.addEventListener('DOMContentLoaded', function() {
       icon.onclick = () => {
         Notification.requestPermission().then(perm => {
           if (perm === 'granted') {
+            try { new Notification('Notifications enabled'); } catch(e) {}
             scheduleNotifications();
             icon.textContent = '🔔';
             icon.title = 'Notifications enabled';
