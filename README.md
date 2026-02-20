@@ -1,6 +1,6 @@
 # berens.co
 
-Personal site of Paul Berens — blog, recipes, prayers, cycling and running routes, and daily data-driven content. Originally forked from Dan Romero's [Clio](../danromero/clio) template and expanded considerably.
+Personal site of Paul Berens — blog, recipes, prayers, cycling and running routes, and daily data-driven content. Originally forked from Dan Romero's [Clio template](https://github.com/danromero/clio) template and expanded considerably.
 
 **Live at [berens.co](https://berens.co)**
 
@@ -39,3 +39,4 @@ GitHub Actions sync live data from Strava (cycling/running) and Swarm (check-ins
 
 
 See [CLAUDE.md](CLAUDE.md) for the full guide: directory structure, front matter conventions, layout reference, naming patterns, data file inventory, and rules for working on this codebase.
+
