@@ -211,9 +211,12 @@ document.addEventListener('DOMContentLoaded', function() {
     const todaysTasks = siteData.quotidie[currentDay];
     if (!todaysTasks) return;
 
-    const currentHHMM = new Intl.DateTimeFormat('en-US', {
+    const tParts = new Intl.DateTimeFormat('en-US', {
       timeZone: 'America/Los_Angeles', hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
-    }).format(now); // e.g. "07:30"
+    }).formatToParts(now);
+    const hh = tParts.find(p => p.type === 'hour').value.padStart(2, '0');
+    const mm = tParts.find(p => p.type === 'minute').value.padStart(2, '0');
+    const currentHHMM = `${hh}:${mm}`; // always "07:30" format
 
     todaysTasks.forEach(taskObj => {
       if (!taskObj.time) return;
