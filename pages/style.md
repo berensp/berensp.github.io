@@ -18,6 +18,8 @@ A collection of my style choices[^1] in order of increasing controversy:
 | Dates | `YYYY-MM-DD`[^3] |
 | Times | `hh:mm` |
 
+![TP orientation: over](/assets/og/tp.png)
+
 [^2]: Yes, but a *whoa, bessie,* because whilst I was among those using the em dash before it was cool, AI has kind of ruined it for everyone [as Christy Bieber explains](https://read.technically.dev/p/ai-and-the-em-dash).
 
 [^3]: <a href="https://xkcd.com/1179/" target="_blank">ISO 8601</a>
