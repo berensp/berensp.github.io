@@ -1,11 +1,11 @@
 {
-  "name": "Eighth Avenue Freeze-out",
-  "type": "Run",
-  "distance": "4.73",
-  "duration": 24,
-  "elevation": 0,
-  "date": "2026-02-17T04:59:18Z",
-  "url": "https://www.strava.com/activities/17423951048",
+  "name": "Afternoon Ride",
+  "type": "Ride",
+  "distance": "2.71",
+  "duration": 11,
+  "elevation": 44,
+  "date": "2026-02-22T22:14:24Z",
+  "url": "https://www.strava.com/activities/17488976560",
   "ytd_run_distance": "96.66",
-  "ytd_ride_distance": "25.06"
+  "ytd_ride_distance": "27.77"
 }
