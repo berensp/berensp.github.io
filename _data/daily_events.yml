@@ -108,11 +108,11 @@
 - date: "02-21"
   event: "National Ski Association forms in Ishpeming, MI (1904)"
 - date: "02-22"
-  event: '"Miracle on Ice" (Lake Placid) (1980)'
+  event: "\"Miracle on Ice\" (Lake Placid) (1980)"
 - date: "02-23"
-  event: "Boston incorporated, receiving the first city charter (1822)"
+  event: "Boston incorporates (first city charter) (1822)"
 - date: "02-24"
-  event: "US House votes 126 to 47 to impeach Andrew Johnson (1868)"
+  event: "House votes 126-47 to impeach Andrew Johnson (1868)"
 - date: "02-25"
   event: "Greenback authorized by Legal Tender Act (1862)"
 - date: "02-26"
@@ -208,7 +208,7 @@
 - date: "04-09"
   event: "Lee surrenders to Grant at Appomattox Court House (1865)"
 - date: "04-10"
-  event: 'Siblings Day'
+  event: "Siblings Day"
 - date: "04-11"
   event: "Apollo 13 launches ('Houston, we've had a problem') (1970)"
 - date: "04-12"
@@ -272,7 +272,7 @@
 - date: "05-10"
   event: "First transcontinental railroad completed (1869)"
 - date: "05-11"
-  event: 'Minnesota admitted as 32nd US state (1858)'
+  event: "Minnesota admitted as 32nd US state (1858)"
 - date: "05-12"
   event: "First advertisement for ice cream in America (1777)"
 - date: "05-13"
@@ -288,7 +288,7 @@
 - date: "05-18"
   event: 'Mount St. Helens erupts (1980)'
 - date: "05-19"
-  event: "Amelia Earhart is first woman to fly solo across Atlantic (1932)"
+  event: "First female solo flight across Atlantic (1932)"
 - date: "05-20"
   event: "Levi Strauss patents copper-riveted jeans (1873)"
 - date: "05-21"
@@ -304,7 +304,7 @@
 - date: "05-26"
   event: "First motorcycle race held at Indianapolis Motor Speedway (1909)"
 - date: "05-27"
-  event: 'Happy Anniversary, 여보! <i>(Nemo nisi mors)</i>'
+  event: "Happy Anniversary, 여보! <em>(Nemo nisi mors)</em>"
 - date: "05-28"
   event: "Golden Gate Bridge opens to pedestrian traffic (1937)"
 - date: "05-29"
@@ -356,7 +356,7 @@
 - date: "06-20"
   event: "The Tennis Court Oath (1789)"
 - date: "06-21"
-  event: 'Columbia Records unveils the 33⅓ rpm <a href="/rebirth-of-the-album.html">LP</a> (1948)'
+  event: "Columbia Records unveils the 33⅓ rpm <a href='/rebirth-of-the-album.html'>LP</a> (1948)"
 - date: "06-22"
   event: "Germany invades Soviet Union (Operation Barbarossa) (1941)"
 - date: "06-23"
@@ -374,7 +374,7 @@
 - date: "06-29"
   event: "Shakespeare's Globe Theatre in London burns down (1613)"
 - date: "06-30"
-  event: '<i>Gone with the Wind</i> premieres in Atlanta (1939)'
+  event: "<em>Gone with the Wind</em> premieres in Atlanta (1939)"
 
 # July
 - date: "07-01"
@@ -438,7 +438,7 @@
 - date: "07-30"
   event: "Medicare and Medicaid enacted (1965)"
 - date: "07-31"
-  event: '"Man''s first wheels on the moon" (1971)'
+  event: "\"Man's first wheels on the moon\" (1971)"
 
 # August
 - date: "08-01"
@@ -620,7 +620,7 @@
 - date: "10-26"
   event: "Erie Canal officially opens (1825)"
 - date: "10-27"
-  event: 'The Red Sox end the "Curse of the Bambino" (2004)'
+  event: "The Red Sox end the \"Curse of the Bambino\" (2004)"
 - date: "10-28"
   event: "Statue of Liberty dedicated—first confetti parade in NYC (1886)"
 - date: "10-29"
