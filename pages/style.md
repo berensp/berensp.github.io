@@ -5,13 +5,14 @@ permalink: /style/
 description: My working style guide (or personal set of constraints)
 ogimage: tp.png
 ---
-A collection of my style choices[^1] in order of increasing controversy:
+An ongoing curation of style choices[^1], in increasing order of controversy:
 
 [^1]: H/t to <a href="https://stephango.com/style" target="_blank">Stephen Ango</a> for this style page concept.
 
 | Style | Choice |
 | :--- | :--- |
 | Oxford comma | `yes` |
+| Necktie knot | `Windsor` |
 | Em dash | `yes`[^2] |
 | TP orientation | `over` |
 | Book format | `physical` |
