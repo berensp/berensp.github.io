@@ -15,17 +15,19 @@ An ongoing curation of style choices[^1], in increasing order of controversy:
 | Em dash | `yes`[^2] |
 | TP orientation | `over` |
 | Necktie knot | `Windsor` |
+| Coffee order | `black`[^3] |
+| Beer order[^4] | `amber/red lager` |
 | Cocktail order | `Manhattan` |
-| Beer order | `malt-forward` |
-| Wine order | `Côtes du Rhône`[^3] |
 | Book format | `physical` |
-| Dates | `YYYY-MM-DD`[^4] |
+| Dates | `YYYY-MM-DD`[^5] |
 | Times | `hh:mm` |
 
 <p><img src="/assets/og/tp.png" alt="proper toilet paper orientation" style="width: 50%;"></p>
 
 [^2]: Yes, but *Whoa, Bessie,* because whilst I was among those using the em dash before it was cool, AI has kind of ruined it for everyone [as Christy Bieber explains](https://read.technically.dev/p/ai-and-the-em-dash).
 
-[^3]: I went with this because of *l'accent circonflexe* (I enjoy wine but do have an allergy to [wine pretentiousness](/wine.html)). 
+[^3]: Black is for good coffee and my home brew. Feelin' fancy → `cortado`—or `Gibraltar` as one does in San Francisco.
 
-[^4]: <a href="https://xkcd.com/1179/" target="_blank">ISO 8601</a>—and other international standards where possible.
+[^4]: I was going to add an entry for "wine order" with "Côtes du Rhône (or some other varietal with *l'accent circonflexe)*, but two alcoholic entries is enough...plus I typically don't order wine because I'm a [Trader Joe's boxed wine oenophile](/wine.html).
+
+[^5]: <a href="https://xkcd.com/1179/" target="_blank">ISO 8601</a>—and other international standards where possible.
