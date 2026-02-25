@@ -7,7 +7,7 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
-Picker, grinner, lover, healthcare tech product marketer.
+Picker, grinner, lover, marketer.
 
 ## Pages
 - [/beliefs/](/beliefs/) – pending new evidence
