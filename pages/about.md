@@ -71,20 +71,12 @@ description: fun facts
       <td style="text-align: left"><code><a href="/centuries/">7</a></code></td>
     </tr>
     <tr>
-      <td style="text-align: left">Dipsea Races</td>
-      <td style="text-align: left"><code><a href="https://www.strava.com/activities/14737190977" target="_blank">1</a></code></td>
-    </tr>
-    <tr>
       <td style="text-align: left">Marathons<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
       <td style="text-align: left"><code>1</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Skydives</td>
       <td style="text-align: left"><code>2</code></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Alpine skis</td>
-      <td style="text-align: left"><code>188 cm</code></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Personal</th>
