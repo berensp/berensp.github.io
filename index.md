@@ -1,22 +1,26 @@
 ---
 layout: home
 ---
-<a href="/prayers/">
-  <img id="rotating-avatar" 
-       alt="PMB avatar" 
+<a href="/bio/">
+  <img id="rotating-avatar"
+       alt="PMB avatar"
        style="width: 160px; height: auto;">
 </a>
 
 Picker, grinner, lover, marketer.
 
+Product marketer by trade, living in San Francisco with my family. I write here about faith, books, cycling, music, and whatever else earns a post.
+
 ## Pages
-- [/beliefs/](/beliefs/) – pending new evidence
-- [/bio/](/bio/) – work and background
-- [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
-- [/now/](/now/) – what I'm up to these days
-- [/style/](/style/) – intentional constraints
-- [/today/](/today/) – what's on tap today
-- [/values/](/values/) – what matters
+- [Beliefs](/beliefs/) – pending new evidence
+- [Bio](/bio/) – work and background
+- [Contact](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
+- [Now](/now/) – what I'm up to these days
+- [Style](/style/) – intentional constraints
+- [Today](/today/) – feast day, daily song, birthdays, and more
+- [Values](/values/) – what matters
+
+Also: [recipes](/recipes/), [prayers](/prayers/), [cycling routes](/cycling/), [running routes](/running/), [books](/books/).
 
 ## Recent Posts
 <ul class="post-list">
