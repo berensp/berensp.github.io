@@ -1,24 +1,24 @@
 ---
 layout: home
 ---
-<a href="/prayers/">
-  <img id="rotating-avatar" 
-       alt="PMB avatar" 
+<a href="/bio/">
+  <img id="rotating-avatar"
+       alt="PMB avatar"
        style="width: 160px; height: auto;">
 </a>
 
-I'm a marketer and product person living in San Francisco. I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.
-Picker, grinner, lover, marketer.
+Technophilic marketer and product person, living in San Francisco. I write about [faith](/posts/tag/theology/), [books](/posts/tag/books/), [tech](/posts/tag/tech/), [economics](/posts/tag/economics/), [culture](/posts/tag/culture/), etc.
 
 ## Pages
-- [/about/](/about/) – fun facts
-- [/bio/](/bio/) – work and background
-- [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
-- [/now/](/now/) – what I'm up to these days
-- [/style/](/style/) – intentional constraints
-- [/today/](/today/) – daily song, agenda, etc.
+- [About](/about/) – fun facts
+- [Beliefs](/beliefs/) – pending new evidence
+- [Bio](/bio/) – work and background
+- [Contact](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
+- [Now](/now/) – what I'm up to these days
+- [Today](/today/) – feast day, daily song, birthdays, and more
+- [Values](/values/) – what matters
 
-Also: [beliefs](/beliefs/), [books](/books/), [cycling routes](/cycling/), [prayers](/prayers/), [recipes](/recipes/), [/systems/](/systems/), [/values/](/values/).
+Also: [recipes](/recipes/), [prayers](/prayers/), [cycling routes](/cycling/), [running routes](/running/), [books](/books/), [systems](/systems/), [style](/style/).
 
 ## Recent Posts
 <ul class="post-list">

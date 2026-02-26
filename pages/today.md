@@ -9,7 +9,7 @@ ogimage: berens_co_today.jpg
   <thead>
     <tr>
       <th style="width: 40px">Time</th>
-      <th>Task</th>
+      <th>Task <span id="notify-icon"></span></th>
     </tr>
   </thead>
   <tbody id="schedule-body">
@@ -193,8 +193,70 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  function stripTaskHtml(html) {
+    const tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    tmp.querySelectorAll('input[placeholder]').forEach(el => el.replaceWith(el.placeholder));
+    return tmp.textContent.trim();
+  }
+
+  const notifiedMinutes = new Set();
+
+  function checkAndNotify() {
+    if (Notification.permission !== 'granted') return;
+    const now = new Date();
+    const currentDay = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles', weekday: 'long'
+    }).format(now).toLowerCase();
+    const todaysTasks = siteData.quotidie[currentDay];
+    if (!todaysTasks) return;
+
+    const currentHHMM = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles', hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
+    }).format(now); // e.g. "07:30"
+
+    todaysTasks.forEach(taskObj => {
+      if (!taskObj.time) return;
+      const key = taskObj.time + '|' + taskObj.task;
+      if (taskObj.time === currentHHMM && !notifiedMinutes.has(key)) {
+        notifiedMinutes.add(key);
+        const label = stripTaskHtml(taskObj.task);
+        try { new Notification(label); } catch(e) {}
+      }
+    });
+  }
+
+  function initNotifications() {
+    const icon = document.getElementById('notify-icon');
+    if (!icon || !('Notification' in window)) return;
+
+    if (Notification.permission === 'granted') {
+      icon.textContent = '🔔';
+      icon.title = 'Notifications enabled';
+    } else if (Notification.permission !== 'denied') {
+      icon.textContent = '🔕';
+      icon.style.cursor = 'pointer';
+      icon.title = 'Enable notifications';
+      icon.onclick = () => {
+        Notification.requestPermission().then(perm => {
+          if (perm === 'granted') {
+            try { new Notification('Notifications enabled'); } catch(e) {}
+            icon.textContent = '🔔';
+            icon.title = 'Notifications enabled';
+            icon.style.cursor = 'default';
+            icon.onclick = null;
+          } else {
+            icon.textContent = '';
+          }
+        });
+      };
+    }
+  }
+
   updateTimeElements();
-  setInterval(updateTimeElements, 60000);
+  checkAndNotify();
+  setInterval(() => { updateTimeElements(); checkAndNotify(); }, 60000);
+  initNotifications();
 });
 </script>
 
