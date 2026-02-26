@@ -7,20 +7,18 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
-Picker, grinner, lover, marketer.
-
-Product marketer by trade, living in San Francisco with my family. I write here about faith, books, cycling, music, and whatever else earns a post.
+Technophilic marketer and product person, living in San Francisco. I write about [faith](/posts/tag/theology/), [books](/posts/tag/books/), [tech](/posts/tag/tech/), [economics](/posts/tag/economics/), [culture](/posts/tag/culture/), etc.
 
 ## Pages
+- [About](/about/) – fun facts
 - [Beliefs](/beliefs/) – pending new evidence
 - [Bio](/bio/) – work and background
 - [Contact](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
 - [Now](/now/) – what I'm up to these days
-- [Style](/style/) – intentional constraints
 - [Today](/today/) – feast day, daily song, birthdays, and more
 - [Values](/values/) – what matters
 
-Also: [recipes](/recipes/), [prayers](/prayers/), [cycling routes](/cycling/), [running routes](/running/), [books](/books/).
+Also: [recipes](/recipes/), [prayers](/prayers/), [cycling routes](/cycling/), [running routes](/running/), [books](/books/), [systems](/systems/), [style](/style/).
 
 ## Recent Posts
 <ul class="post-list">
