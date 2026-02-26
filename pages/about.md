@@ -16,8 +16,8 @@ description: fun facts
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Basic Info</th>
     </tr>
     <tr>
-      <td style="text-align: left">Name</td>
-      <td style="text-align: left"><code>Paul Berens (<a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a>)</code></td>
+      <td style="text-align: left">Pronunciation</td>
+      <td style="text-align: left"><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Mondegreen</td>
