@@ -14,6 +14,7 @@ Picker, grinner, lover, marketer.
 - [/bio/](/bio/) – work and background
 - [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
 - [/now/](/now/) – what I'm up to these days
+- [/style/](/style/) – intentional constraints
 - [/today/](/today/) – what's on tap today
 - [/values/](/values/) – what matters
 
