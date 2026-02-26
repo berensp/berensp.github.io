@@ -26,8 +26,8 @@ An ongoing curation of style choices[^1], in increasing order of controversy:
 
 [^2]: Yes, but *Whoa, Bessie,* because whilst I was among those using the em dash before it was cool, AI has kind of ruined it for everyone [as Christy Bieber explains](https://read.technically.dev/p/ai-and-the-em-dash).
 
-[^3]: Black is for good coffee and my home brew. Feelin' fancy → `cortado`—or `Gibraltar` as one does in San Francisco.
+[^3]: Black is for good coffee and my home brew. If it's time for something fancier then "un cortado" (or "Gibraltar" as it were in San Francisco).
 
-[^4]: I was going to add an entry for "wine order" with "Côtes du Rhône (or some other varietal with *l'accent circonflexe)*, but two alcoholic entries is enough...plus I typically don't order wine because I'm a [Trader Joe's boxed wine oenophile](/wine.html).
+[^4]: I was going to add an entry for "wine order" with `Côtes du Rhône` (or some other varietal with *l'accent circonflexe)*, but two alcoholic entries is enough—plus I'm a [low-key oenophile](/wine.html).
 
 [^5]: <a href="https://xkcd.com/1179/" target="_blank">ISO 8601</a>—and other international standards where possible.
