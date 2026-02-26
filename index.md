@@ -7,16 +7,18 @@ layout: home
        style="width: 160px; height: auto;">
 </a>
 
+I'm a marketer and product person living in San Francisco. I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.
 Picker, grinner, lover, marketer.
 
 ## Pages
-- [/beliefs/](/beliefs/) – pending new evidence
+- [/about/](/about/) – fun facts
 - [/bio/](/bio/) – work and background
 - [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
 - [/now/](/now/) – what I'm up to these days
 - [/style/](/style/) – intentional constraints
-- [/today/](/today/) – what's on tap today
-- [/values/](/values/) – what matters
+- [/today/](/today/) – daily song, agenda, etc.
+
+Also: [beliefs](/beliefs/), [books](/books/), [cycling routes](/cycling/), [prayers](/prayers/), [recipes](/recipes/), [/systems/](/systems/), [/values/](/values/).
 
 ## Recent Posts
 <ul class="post-list">
