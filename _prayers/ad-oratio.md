@@ -19,4 +19,4 @@ ogimage: angel-song-of-bethlehem.png
 - [Anima Christi](/prayers/anima-christi/)
 - [Suspice](/prayers/suspice/)
 - [Daily Rosary 📿](/prayers/rosary/)
-- [Seven Sorrows Rosary 📿](/seven-sorrows/)
+- [Seven Sorrows Rosary 📿](/prayers/seven-sorrows/)
