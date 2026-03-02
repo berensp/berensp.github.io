@@ -200,6 +200,18 @@ document.addEventListener('DOMContentLoaded', function() {
     return tmp.textContent.trim();
   }
 
+  function emojiIconUrl(emoji) {
+    const canvas = document.createElement('canvas');
+    canvas.width = 64; canvas.height = 64;
+    const ctx = canvas.getContext('2d');
+    ctx.font = '52px serif';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText(emoji, 32, 34);
+    return canvas.toDataURL();
+  }
+
+  const notificationIcon = emojiIconUrl('⏰');
   const notifiedMinutes = new Set();
 
   function checkAndNotify() {
@@ -224,7 +236,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (taskObj.time === currentHHMM && !notifiedMinutes.has(key)) {
         notifiedMinutes.add(key);
         const label = stripTaskHtml(taskObj.task);
-        try { new Notification(label); } catch(e) {}
+        try { new Notification(label, { icon: notificationIcon }); } catch(e) {}
       }
     });
   }
@@ -243,7 +255,7 @@ document.addEventListener('DOMContentLoaded', function() {
       icon.onclick = () => {
         Notification.requestPermission().then(perm => {
           if (perm === 'granted') {
-            try { new Notification('Notifications enabled'); } catch(e) {}
+            try { new Notification('Notifications enabled', { icon: notificationIcon }); } catch(e) {}
             icon.textContent = '🔔';
             icon.title = 'Notifications enabled';
             icon.style.cursor = 'default';
