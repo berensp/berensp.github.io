@@ -38,7 +38,7 @@ description: What I'm up to these days.
 [^1]: H/t to <a href="https://sive.rs/" target="_blank">Derek Sivers</a> for this <a href="https://nownownow.com/about" target="_blank">now page concept</a>.
 
 - [Living](/domiciles/) in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now with my beautiful family{% if site.data.swarm %}—most recently spotted at [{{ site.data.swarm.venue }}]({{ site.data.swarm.url }}) via [Swarm](https://docs.foursquare.com/developer/reference/personalization-api-overview).{% endif %}
-- [Growing](/bio/) a SaaS biz / digital products portfolio (product marketing / GTM) [@VarianMedSys](https://x.com/VarianMedSys)
+- [Growing](/bio/) a SaaS biz / digital products portfolio (product marketing / GTM) [@{{ site.gig_handle }}](https://x.com/{{ site.gig_handle }})
 - [Writing](/posts/) across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - [Reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}—previously *{{ last_read.title }}* by {{ last_read.author }}
 - [Learning](/learning/) {{ site.data.learning.current.first.endeavour | strip_html }}{% if site.data.learning.current[1] %}, {{ site.data.learning.current[1].endeavour | strip_html }}{% endif %}, etc.
