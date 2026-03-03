@@ -17,11 +17,10 @@ description: About me
 - Deep experience with product market fit, go-to-market strategy and product launches, positioning and messaging, integrated marketing / demand generation, SaaS, measurement and analytics
 - Excited by resonant stories, unanticipated insights, transformational (and fun) technology, meaningful relationships, and *Arbejdsglæde*
 - Professional profiles at <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a> and <a href="https://wellfound.com/u/berensp" target="_blank">AngelList</a>, and my business card [here](/assets/downloads/pmb_contact.vcf)
-- What I'm up to [now](/now/) and [today](/today/)
 
 ## Fun Facts
 
-<table>
+<p><table>
   <tbody>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Basic Info</th>
@@ -40,11 +39,11 @@ description: About me
     </tr>
     <tr>
       <td style="text-align: left">Current gig</td>
-      <td style="text-align: left"><code><a href="https://x.com/varianmedsys" target="_blank">@VarianMedSys</a></code></td>
+      <td style="text-align: left"><code><a href="https://x.com/SiemensHealth" target="_blank">@SiemensHealth</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Alma Matres</td>
-      <td style="text-align: left"><code><a href="https://x.com/bostoncollege" target="_blank">@BC</a></code>, <code><a href="https://x.com/UMich" target="_blank">@UMich</a></code></td>
+      <td style="text-align: left"><code><a href="https://x.com/BostonCollege" target="_blank">@BC</a></code>, <code><a href="https://x.com/UMich" target="_blank">@UMich</a></code></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Places</th>
