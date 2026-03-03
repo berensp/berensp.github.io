@@ -26,7 +26,7 @@ description: Fun facts
     </tr>
     <tr>
       <td style="text-align: left">Current gig</td>
-      <td style="text-align: left"><code><a href="https://x.com/SiemensHealth" target="_blank">@SiemensHealth</a></code></td>
+      <td style="text-align: left"><code><a href="https://x.com/{{ site.gig_handle }}" target="_blank">@{{ site.gig_handle }}</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Alma Matres</td>
