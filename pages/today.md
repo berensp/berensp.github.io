@@ -236,7 +236,10 @@ document.addEventListener('DOMContentLoaded', function() {
       if (taskObj.time === currentHHMM && !notifiedMinutes.has(key)) {
         notifiedMinutes.add(key);
         const label = stripTaskHtml(taskObj.task);
-        try { new Notification(label, { icon: notificationIcon }); } catch(e) {}
+        try {
+          const n = new Notification(label, { icon: '/assets/images/apple-touch-icon.png' });
+          n.onclick = () => { window.focus(); n.close(); };
+        } catch(e) {}
       }
     });
   }

@@ -16,113 +16,105 @@ description: fun facts
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Basic Info</th>
     </tr>
     <tr>
-      <td style="text-align: left">Name</td>
-      <td style="text-align: left">Paul Berens (<a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a>)</td>
+      <td style="text-align: left">Pronunciation</td>
+      <td style="text-align: left"><code><a href="/assets/audio/berens.mp3">'b&#x026A;r&#x0259;nz</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Mondegreen</td>
-      <td style="text-align: left">Ball Bearings</td>
+      <td style="text-align: left"><code>Ball Bearings</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Occupation</td>
-      <td style="text-align: left"><a href="/bio/">PMM/GTM</a></td>
+      <td style="text-align: left"><code><a href="/bio/">PMM/GTM</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Current gig</td>
-      <td style="text-align: left"><a href="https://x.com/varianmedsys" target="_blank">@VarianMedSys</a></td>
+      <td style="text-align: left"><code><a href="https://x.com/varianmedsys" target="_blank">@VarianMedSys</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Alma Matres</td>
-      <td style="text-align: left"><a href="https://x.com/bostoncollege" target="_blank">@BC</a>, <a href="https://x.com/UMich" target="_blank">@UMich</a></td>
+      <td style="text-align: left"><code><a href="https://x.com/bostoncollege" target="_blank">@BC</a></code>, <code><a href="https://x.com/UMich" target="_blank">@UMich</a></code></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Places</th>
     </tr>
     <tr>
       <td style="text-align: left">Hometown</td>
-      <td style="text-align: left">Saint Paul, <a href="/mn/">MN</a></td>
+      <td style="text-align: left"><code>Saint Paul, <a href="/mn/">MN</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Residence</td>
-      <td style="text-align: left"><a href="/sf/">San Francisco, CA</a></td>
+      <td style="text-align: left"><code><a href="/sf/">San Francisco, CA</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Countries visited</td>
-      <td style="text-align: left"><a href="/countries/">{{ country_count }} of {{ total_countries }}</a><sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup>     
+      <td style="text-align: left"><code><a href="/countries/">{{ country_count }} of {{ total_countries }}</a></code><sup id="fnref1"><a href="#fn1" title="View footnote">1</a></sup>     
       </td>
     </tr>
     <tr>
       <td style="text-align: left">States visited</td>
-      <td style="text-align: left"><a href="/states/">47 of 50</a></td>
+      <td style="text-align: left"><code><a href="/states/">47 of 50</a></code></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Sport</th>
     </tr>
     <tr>
       <td style="text-align: left">Running (YTD)<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
-      <td style="text-align: left">{% if site.data.strava.ytd_run_distance %}{{ site.data.strava.ytd_run_distance | round: 0 }} km{% endif %}</td>
+      <td style="text-align: left"><code>{% if site.data.strava.ytd_run_distance %}{{ site.data.strava.ytd_run_distance | round: 0 }} km{% endif %}</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Cycling (YTD)<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
-      <td style="text-align: left">{% if site.data.strava.ytd_ride_distance %}{{ site.data.strava.ytd_ride_distance | round: 0 }} km{% endif %}</td>
+      <td style="text-align: left"><code>{% if site.data.strava.ytd_ride_distance %}{{ site.data.strava.ytd_ride_distance | round: 0 }} km{% endif %}</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Centuries</td>
-      <td style="text-align: left"><a href="/centuries/">7</a></td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Dipsea Races</td>
-      <td style="text-align: left"><a href="https://www.strava.com/activities/14737190977" target="_blank">1</a></td>
+      <td style="text-align: left"><code><a href="/centuries/">7</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Marathons<sup id="fnref3"><a href="#fn3" title="View footnote">3</a></sup></td>
-      <td style="text-align: left">1</td>
+      <td style="text-align: left"><code>1</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Skydives</td>
-      <td style="text-align: left">2</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Alpine skis</td>
-      <td style="text-align: left">188 cm</td>
+      <td style="text-align: left"><code>2</code></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Personal</th>
     </tr>
     <tr>
       <td style="text-align: left">Spouse</td>
-      <td style="text-align: left"><a href="https://x.com/berenslisa" target="_blank">1</a></td>
+      <td style="text-align: left"><code><a href="https://x.com/berenslisa" target="_blank">1</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Children</td>
-      <td style="text-align: left">2</td>
+      <td style="text-align: left"><code>2</code></td>
     </tr>
         <tr>
       <td style="text-align: left">Tíos<sup id="fnref4"><a href="#fn4" title="View footnote">4</a></sup></td>
-      <td style="text-align: left">19</td>
+      <td style="text-align: left"><code>19</code></td>
     </tr>
     <tr>
       <td style="text-align: left">MBTI®<sup id="fnref5"><a href="#fn5" title="View footnote">5</a></sup></td>
-      <td style="text-align: left"><a href="/personality.html">INTP</a></td>
+      <td style="text-align: left"><code><a href="/personality.html">INTP</a></code></td>
     </tr>
     <tr>
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Miscellany</th>
     </tr>
     <tr>
       <td style="text-align: left">Religion</td>
-      <td style="text-align: left"><a href="/catholic">Catholicism</a></td>
+      <td style="text-align: left"><code><a href="/catholic">Catholicism</a></code></td>
     </tr>
     <tr>
       <td style="text-align: left">Political Party</td>
-      <td style="text-align: left">Independent</td>
+      <td style="text-align: left"><code>Independent</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Languages</td>
-      <td style="text-align: left">🇬🇧 🇪🇸 🇰🇷<sup id="fnref5"><a href="#fn6" title="View footnote">6</a></sup></td>
+      <td style="text-align: left"><code>en</code>, <code>es</code>, <code>ko</code><sup id="fnref5"><a href="#fn6" title="View footnote">6</a></sup></td>
     </tr>
     <tr>
       <td style="text-align: left">Go-to knot</td>
-      <td style="text-align: left">Two half-hitches</td>
+      <td style="text-align: left"><code>Two half-hitches</code></td>
     </tr>
   </tbody>
 </table>
