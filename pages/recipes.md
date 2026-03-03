@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Recipe Box
+title: Recipes
 permalink: /recipes/
 description: "Hey, Good Lookin. Whatcha got cookin?"
 ---
