@@ -113,7 +113,7 @@ description: About me
     </tr>
     <tr>
       <td style="text-align: left">Date & Times</td>
-      <td style="text-align: left"><code>ISO 8601</td>
+      <td style="text-align: left"><code>ISO 8601</code></td>
     </tr>
     <tr>
       <td style="text-align: left">Book format</td>
