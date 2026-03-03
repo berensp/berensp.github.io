@@ -15,5 +15,5 @@ I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tec
 <a class="post-link" href="{{ post.url | relative_url }}">{% if post.tags contains "books" %}<em>{{ post.title | escape }}</em>{% else %}{{ post.title | escape }}{% endif %}</a>
 </li>
 {%- endfor -%}
-<li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">View all posts →</a></li>
+<li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">View all {{ site.posts | size }} posts →</a></li>
 </ul>
