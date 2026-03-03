@@ -3,11 +3,12 @@ layout: home
 ---
 <img src="/assets/images/avatars/pmb.nakamigo.png" alt="nakamigo" style="width: 160px; height: auto;">
 
-I'm a marketer and product person living in San Francisco. More [about me](/about/). And what I'm up to [now](/now/) and, more imminently, [today](/today/).
+I'm a marketer and product person living in San Francisco. More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
 
 This site is filled with my curations: e.g., [beliefs](/beliefs/), [books](/books/), [cycling routes](/cycling/), [prayers](/prayers/), [recipes](/recipes/), [systems](/systems/), [values](/values/).
 
-I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc. My three most recent posts: 
+I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.; most recently:
+
 <ul class="post-list">
 {%- for post in site.posts limit:3 -%}
 <li>
