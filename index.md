@@ -1,23 +1,13 @@
 ---
 layout: home
 ---
-<img id="rotating-avatar" 
-       alt="PMB avatar" 
-       style="width: 160px; height: auto;">
+<img src="/assets/images/avatars/pmb.nakamigo.png" alt="nakamigo" style="width: 160px; height: auto;">
 
-I'm a marketer and product person living in San Francisco. I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.
+I'm a marketer and product person living in San Francisco. More [about me](/about/). And what I'm up to [now](/now/) and, more imminently, [today](/today/).
 
-## Pages
-- [/about/](/about/) – fun facts
-- [/bio/](/bio/) – work and background
-- [/contact/](/contact/) – hmu on one of {{ site.data.contacts.size }} apps
-- [/now/](/now/) – what I'm up to these days
-- [/style/](/style/) – intentional constraints
-- [/today/](/today/) – daily song, agenda, etc.
+This site is filled with my curations: e.g., [beliefs](/beliefs/), [books](/books/), [cycling routes](/cycling/), [prayers](/prayers/), [recipes](/recipes/), [systems](/systems/), [values](/values/).
 
-Also: [beliefs](/beliefs/), [books](/books/), [cycling routes](/cycling/), [prayers](/prayers/), [recipes](/recipes/), [systems](/systems/), [values](/values/).
-
-## Recent Posts
+I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc. My three most recent posts: 
 <ul class="post-list">
 {%- for post in site.posts limit:3 -%}
 <li>
@@ -26,5 +16,3 @@ Also: [beliefs](/beliefs/), [books](/books/), [cycling routes](/cycling/), [pray
 {%- endfor -%}
 <li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">View all posts →</a></li>
 </ul>
-
-<script src="/assets/js/avatar-rotator.js"></script>
