@@ -126,7 +126,7 @@ description: Fun facts
     </tr>
     <tr>
       <td style="text-align: left">Languages</td>
-      <td style="text-align: left"><code>en</code>, <code>es</code>, <code>ko</code><sup id="fnref7"><a href="#fn7" title="View footnote">7</a></sup></td>
+      <td style="text-align: left"><code>en</code>, <code><a href="/spanish.html">es</a></code>, <code>ko</code><sup id="fnref7"><a href="#fn7" title="View footnote">7</a></sup></td>
     </tr>
     <tr>
       <td style="text-align: left">Go-to knot</td>
