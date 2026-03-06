@@ -1,11 +1,11 @@
 {
-  "name": "Al supermercado y a la biblioteca",
-  "type": "Ride",
-  "distance": "3.53",
-  "duration": 14,
-  "elevation": 75,
-  "date": "2026-03-05T01:44:30Z",
-  "url": "https://www.strava.com/activities/17608442113",
-  "ytd_run_distance": "125.33",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.62",
+  "duration": 51,
+  "elevation": 169,
+  "date": "2026-03-05T22:57:04Z",
+  "url": "https://www.strava.com/activities/17619935064",
+  "ytd_run_distance": "134.95",
   "ytd_ride_distance": "38.45"
 }
