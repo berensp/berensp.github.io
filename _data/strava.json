@@ -1,11 +1,11 @@
 {
-  "name": "GGP Moraga Steps",
-  "type": "Run",
-  "distance": "9.62",
-  "duration": 51,
-  "elevation": 169,
-  "date": "2026-03-05T22:57:04Z",
-  "url": "https://www.strava.com/activities/17619935064",
+  "name": "Lands End",
+  "type": "Walk",
+  "distance": "1.33",
+  "duration": 20,
+  "elevation": 44,
+  "date": "2026-03-08T00:35:20Z",
+  "url": "https://www.strava.com/activities/17643010269",
   "ytd_run_distance": "134.95",
-  "ytd_ride_distance": "38.45"
+  "ytd_ride_distance": "48.56"
 }
