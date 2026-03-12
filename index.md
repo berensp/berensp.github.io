@@ -3,9 +3,9 @@ layout: home
 ---
 <img src="/assets/images/avatars/pmb.nakamigo.png" alt="nakamigo" style="width: 120px; height: auto;">
 
-I'm a product marketer in San Francisco by day; bedtime story reader by night. More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
+I'm a product marketer in San Francisco by day; bedtime story reader by night.
 
-I keep lists of things I care about — [beliefs](/beliefs/), [values](/values/), [prayers](/prayers/) — and things that interest me — [systems](/systems/), [cycling routes](/cycling/), [recipes](/recipes/).
+More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
 
 I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.; most recently:
 
