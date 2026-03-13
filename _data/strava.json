@@ -1,11 +1,11 @@
 {
-  "name": "Lunch Walk",
-  "type": "Walk",
-  "distance": "3.15",
-  "duration": 30,
-  "elevation": 87,
-  "date": "2026-03-11T18:53:57Z",
-  "url": "https://www.strava.com/activities/17690136571",
-  "ytd_run_distance": "144.50",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.56",
+  "duration": 49,
+  "elevation": 157,
+  "date": "2026-03-12T18:27:35Z",
+  "url": "https://www.strava.com/activities/17701156890",
+  "ytd_run_distance": "154.06",
   "ytd_ride_distance": "56.07"
 }
