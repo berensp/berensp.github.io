@@ -17,4 +17,4 @@ description: About me
 - Deep experience with product market fit, go-to-market strategy and product launches, positioning and messaging, integrated marketing / demand generation, SaaS, measurement and analytics
 - [Technophile](/posts/tag/tech/), [eclecticist](/style/), [autodidact](/learning/) — curious about [systems](/systems/), reflective about [beliefs](/beliefs/) and [values](/values/), assiduous in honing my [chili recipe](/recipes/chili/).
 - Attended hockey schools: [@UMich](https://x.com/UMich), [@BC](https://x.com/bostoncollege), [@STA](https://cadets.com/). ([More fun facts](/infobox/).)
-- Professional profiles at <a href="https://linkedin.com/in/berensp" target="_blank">LinkedIn</a> and <a href="https://wellfound.com/u/berensp" target="_blank">AngelList</a>, and my business card [here](/assets/downloads/pmb_contact.vcf)
+- Get in touch on [one of {{ site.data.contacts.size }} messengers](/contact/)
