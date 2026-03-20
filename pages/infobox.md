@@ -98,7 +98,7 @@ description: Fun facts
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Style<sup id="fnref6"><a href="#fn6" title="View footnote">6</a></sup></th>
     </tr>
     <tr>
-      <td style="text-align: left">Date & Times</td>
+      <td style="text-align: left">Date & times</td>
       <td style="text-align: left"><code>ISO 8601</code></td>
     </tr>
     <tr>
