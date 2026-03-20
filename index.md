@@ -17,3 +17,5 @@ I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tec
 {%- endfor -%}
 <li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">all {{ site.posts | size }} posts →</a></li>
 </ul>
+
+Get in touch on [any of {{ site.data.contacts.size }} messengers](/contact/)
