@@ -33,7 +33,7 @@ description: What I'm up to these days.
 <script src="/assets/js/timediff.js"></script>
 <script src="/assets/js/current-date.js"></script>
 
-"Now" being what I'm up to *nowadays*[^1]; for *right now* (i.e., <span id="current-date">Loading...</span>), skip ahead to [today](/today/).
+"Now" being what I'm up to *nowadays*[^1]; for *right now* (i.e., <span id="current-date">Loading...</span>), skip over to [today](/today/).
 
 [^1]: H/t to <a href="https://sive.rs/" target="_blank">Derek Sivers</a> for this <a href="https://nownownow.com/about" target="_blank">now page concept</a>.
 

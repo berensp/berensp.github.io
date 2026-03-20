@@ -5,8 +5,6 @@ layout: home
 
 Product marketer in San Francisco by day; bedtime story reader by night.
 
-More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
-
 I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.; most recently:
 
 <ul class="post-list">
@@ -18,4 +16,6 @@ I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tec
 <li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">all {{ site.posts | size }} posts →</a></li>
 </ul>
 
-Get in touch on [any of {{ site.data.contacts.size }} messengers](/contact/)
+More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
+
+Get in touch on [any of {{ site.data.contacts.size }} messengers](/contact/).
