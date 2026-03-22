@@ -18,4 +18,4 @@ I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tec
 
 More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
 
-Get in touch on [any of {{ site.data.contacts.size }} messengers](/contact/).
+Get in touch on any of [{{ site.data.contacts.size }} messengers](/contact/).
