@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Walk",
-  "type": "Walk",
-  "distance": "0.93",
-  "duration": 11,
-  "elevation": 103,
-  "date": "2026-03-22T23:45:25Z",
-  "url": "https://www.strava.com/activities/17823205102",
-  "ytd_run_distance": "183.99",
+  "name": "Marina Green to GGB",
+  "type": "Run",
+  "distance": "9.25",
+  "duration": 55,
+  "elevation": 53,
+  "date": "2026-03-24T00:26:57Z",
+  "url": "https://www.strava.com/activities/17835093972",
+  "ytd_run_distance": "193.23",
   "ytd_ride_distance": "78.18"
 }
