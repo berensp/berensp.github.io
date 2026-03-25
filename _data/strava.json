@@ -1,11 +1,11 @@
 {
-  "name": "Marina Green to GGB",
-  "type": "Run",
-  "distance": "9.25",
-  "duration": 55,
-  "elevation": 53,
-  "date": "2026-03-24T00:26:57Z",
-  "url": "https://www.strava.com/activities/17835093972",
+  "name": "Evening Ride",
+  "type": "Ride",
+  "distance": "10.08",
+  "duration": 32,
+  "elevation": 110,
+  "date": "2026-03-25T03:58:15Z",
+  "url": "https://www.strava.com/activities/17849691379",
   "ytd_run_distance": "193.23",
-  "ytd_ride_distance": "78.18"
+  "ytd_ride_distance": "88.26"
 }
