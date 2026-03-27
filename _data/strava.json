@@ -1,11 +1,11 @@
 {
-  "name": "To the Richmond",
-  "type": "Ride",
-  "distance": "10.19",
-  "duration": 31,
-  "elevation": 114,
-  "date": "2026-03-25T18:46:12Z",
-  "url": "https://www.strava.com/activities/17859199347",
-  "ytd_run_distance": "193.23",
-  "ytd_ride_distance": "98.45"
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "9.45",
+  "duration": 49,
+  "elevation": 171,
+  "date": "2026-03-26T23:00:01Z",
+  "url": "https://www.strava.com/activities/17873162864",
+  "ytd_run_distance": "202.68",
+  "ytd_ride_distance": "111.67"
 }
