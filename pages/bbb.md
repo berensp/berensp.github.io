@@ -12,23 +12,23 @@ The semi-annual[^1] birthday exchanges between Matt Birney and yours truly where
 
 | Date | Platform | From/To |
 | :---    | :---  | :---  |
-| `2010-9-30` | `<a href="https://facebook.com" target="_blank">Facebook</a>` | `MB→PB` |
-| <code><mark>2014-3-31</mark></code> | <code><mark><a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a></mark></code> | <code><mark>PB→MB</mark></code> |
-| <code><mark>2015-9-30</mark></code> | <code><mark><a href="https://en.wikipedia.org/wiki/Ello_(social_network)" target="_blank">Ello</a></mark></code> | <code><mark>MB→PB</mark></code> |
-| <code><mark>2016-3-31</mark></code> | <code><mark><a href="https://en.wikipedia.org/wiki/Peach_(social_network)" target="_blank">Peach</a></mark></code> | <code><mark>PB→MB</mark></code> |
-| `2016-9-30` | `<a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a>` | `MB→PB` |
-| `2017-3-31` | `<a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a>` | `PB→MB` |
-| `2017-9-30` | `<a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a>` | `MB→PB` |
-| `2021-3-31` | `<a href="https://discord.com/channels/790628259414147092/790628259414147094/826944084840153138" target="_blank">Discord</a>` | `PB→MB` |
-| `2022-3-31` | `<a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a>` | `PB→MB` |
-| `2022-11-5` | `<a href="https://plex.tv/" target="_blank">Plex</a>[^2]` | `MB→PB` |
-| `2023-3-31` | `<a href="https://t.me/berensp" target="_blank">Telegram</a>` | `PB→MB` |
-| `2023-9-29` | `<a href="https://mas.to/@mbirney@fosstodon.org/111150123297043833" target="_blank">Mastodon</a>` | `MB→PB` |
-| `2024-3-31` | `<a href="https://warpcast.com/pmb/0x28ae5363" target="_blank">Farcaster</a>[^3]` | `PB→MB` |
-| `2024-9-30` | `<a href="https://steamcommunity.com/chat/" target="_blank">Steam</a>` | `MB→PB` |
-| `2025-3-31` | `<a href="https://bsky.app/profile/berensp.bsky.social/post/3lloou3tb2s2u" target="_blank">Bluesky</a>` | `PB→MB` |
-| `2025-9-30` | `<a href="https://signal.org/" target="_blank">Signal</a>` | `MB→PB` |
-| `2026-3-31` | `<a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">Matrix</a>` | `PB→MB` |
+| `2010-9-30` | <a href="https://facebook.com" target="_blank">Facebook</a> | `MB→PB` |
+| <code><mark>2014-3-31</mark></code> | <mark><a href="https://en.wikipedia.org/wiki/Path_(social_network)" target="_blank">Path</a></mark> | <code><mark>PB→MB</mark></code> |
+| <code><mark>2015-9-30</mark></code> | <mark><a href="https://en.wikipedia.org/wiki/Ello_(social_network)" target="_blank">Ello</a></mark> | <code><mark>MB→PB</mark></code> |
+| <code><mark>2016-3-31</mark></code> | <mark><a href="https://en.wikipedia.org/wiki/Peach_(social_network)" target="_blank">Peach</a></mark> | <code><mark>PB→MB</mark></code> |
+| `2016-9-30` | <a href="https://twitter.com/Skytop1/status/782006760831873025?t=5gXpGsAZ6I0SrKlHEPr-pQ&s=19" target="_blank">Twitter</a> | `MB→PB` |
+| `2017-3-31` | <a href="https://twitter.com/messages/compose?recipient_id=19028711" target="_blank">Twitter DM</a> | `PB→MB` |
+| `2017-9-30` | <a href="https://www.linkedin.com/messaging/thread/2-NGYzNGQzNDItMWRkOC01NTMwLWExMjQtMmQ1NjI4YWFkMDYxXzAwMA==/" target="_blank">LinkedIn</a> | `MB→PB` |
+| `2021-3-31` | <a href="https://discord.com/channels/790628259414147092/790628259414147094/826944084840153138" target="_blank">Discord</a> | `PB→MB` |
+| `2022-3-31` | <a href="https://www.strava.com/activities/6910839279#comments" target="_blank">Strava</a> | `PB→MB` |
+| `2022-11-5` | <a href="https://plex.tv/" target="_blank">Plex</a>[^2] | `MB→PB` |
+| `2023-3-31` | <a href="https://t.me/berensp" target="_blank">Telegram</a> | `PB→MB` |
+| `2023-9-29` | <a href="https://mas.to/@mbirney@fosstodon.org/111150123297043833" target="_blank">Mastodon</a> | `MB→PB` |
+| `2024-3-31` | <a href="https://warpcast.com/pmb/0x28ae5363" target="_blank">Farcaster</a>[^3] | `PB→MB` |
+| `2024-9-30` | <a href="https://steamcommunity.com/chat/" target="_blank">Steam</a> | `MB→PB` |
+| `2025-3-31` | <a href="https://bsky.app/profile/berensp.bsky.social/post/3lloou3tb2s2u" target="_blank">Bluesky</a> | `PB→MB` |
+| `2025-9-30` | <a href="https://signal.org/" target="_blank">Signal</a> | `MB→PB` |
+| `2026-3-31` | <a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">Matrix</a> | `PB→MB` |
 
 [^2]: A stretch to qualify as a messenger, but I definitely 'preciate you sharing yo' trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
