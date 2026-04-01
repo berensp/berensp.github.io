@@ -1,11 +1,14 @@
 current:
-  - endeavour: '<a href="/song-bot.html">Bot making</a>'
+  - endeavour: '<a href="/swarma.html">Wear OS</a>'
     tag: tool
     color: turquoise
   - endeavour: '<a href="/prayers/">Latin</a>'
     tag: skill
     color: yellow
   - endeavour: '<a href="/vibe-coding">Vibe coding</a>'
+    tag: tool
+    color: turquoise
+  - endeavour: '<a href="/song-bot.html">Bot making</a>'
     tag: tool
     color: turquoise
   - endeavour: '<a href="/systems/">Mental models, heuristics</a>'
