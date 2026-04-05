@@ -1,11 +1,11 @@
 {
-  "name": "GGP Moraga Steps",
-  "type": "Run",
-  "distance": "9.69",
-  "duration": 49,
-  "elevation": 147,
-  "date": "2026-04-01T22:49:50Z",
-  "url": "https://www.strava.com/activities/17944192757",
+  "name": "Al mercado",
+  "type": "Ride",
+  "distance": "2.86",
+  "duration": 15,
+  "elevation": 51,
+  "date": "2026-04-04T19:18:35Z",
+  "url": "https://www.strava.com/activities/17979869826",
   "ytd_run_distance": "212.37",
-  "ytd_ride_distance": "140.72"
+  "ytd_ride_distance": "143.58"
 }
