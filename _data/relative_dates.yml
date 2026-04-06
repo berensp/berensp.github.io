@@ -212,7 +212,7 @@
 
 - id: "easter"
   rule: "easter+0"  # Easter Sunday itself
-  event: "Easter Sunday—*[Resurrexit sicut dixit!](/catholic.html)*"
+  event: "Easter Sunday"
 
 # Post-Easter season
 
