@@ -1,11 +1,11 @@
 {
-  "name": "Al mercado",
-  "type": "Ride",
-  "distance": "2.86",
-  "duration": 15,
-  "elevation": 51,
-  "date": "2026-04-04T19:18:35Z",
-  "url": "https://www.strava.com/activities/17979869826",
+  "name": "Evening Walk",
+  "type": "Walk",
+  "distance": "1.74",
+  "duration": 26,
+  "elevation": 30,
+  "date": "2026-04-09T01:31:33Z",
+  "url": "https://www.strava.com/activities/18035528877",
   "ytd_run_distance": "212.37",
   "ytd_ride_distance": "143.58"
 }
