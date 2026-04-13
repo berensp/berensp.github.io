@@ -218,7 +218,7 @@
 
 - id: "divine_mercy_sunday"
   rule: "easter+7"  # 1 week after Easter
-  event: "Divine Mercy Sunday"
+  event: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy Sunday</a>'
 
 - id: "ascension_thursday"
   rule: "easter+39"  # 40th day of Easter (39 days after)
