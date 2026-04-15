@@ -1,11 +1,11 @@
 {
-  "name": "Marina Presidio",
-  "type": "Run",
-  "distance": "10.42",
-  "duration": 53,
-  "elevation": 134,
-  "date": "2026-04-14T00:37:59Z",
-  "url": "https://www.strava.com/activities/18099211162",
+  "name": "Errands",
+  "type": "Ride",
+  "distance": "4.49",
+  "duration": 18,
+  "elevation": 62,
+  "date": "2026-04-14T23:45:26Z",
+  "url": "https://www.strava.com/activities/18112294277",
   "ytd_run_distance": "222.79",
-  "ytd_ride_distance": "147.61"
+  "ytd_ride_distance": "152.10"
 }
