@@ -1,11 +1,11 @@
 {
-  "name": "Errands",
-  "type": "Ride",
-  "distance": "4.49",
-  "duration": 18,
-  "elevation": 62,
-  "date": "2026-04-14T23:45:26Z",
-  "url": "https://www.strava.com/activities/18112294277",
-  "ytd_run_distance": "222.79",
+  "name": "Evening Run",
+  "type": "Run",
+  "distance": "10.02",
+  "duration": 54,
+  "elevation": 133,
+  "date": "2026-04-17T02:08:38Z",
+  "url": "https://www.strava.com/activities/18140708632",
+  "ytd_run_distance": "232.82",
   "ytd_ride_distance": "152.10"
 }
