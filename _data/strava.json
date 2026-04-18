@@ -1,11 +1,11 @@
 {
-  "name": "Evening Run",
-  "type": "Run",
-  "distance": "10.02",
-  "duration": 54,
-  "elevation": 133,
-  "date": "2026-04-17T02:08:38Z",
-  "url": "https://www.strava.com/activities/18140708632",
+  "name": "Afternoon Ride",
+  "type": "Ride",
+  "distance": "11.12",
+  "duration": 44,
+  "elevation": 201,
+  "date": "2026-04-17T21:21:36Z",
+  "url": "https://www.strava.com/activities/18150573472",
   "ytd_run_distance": "232.82",
-  "ytd_ride_distance": "152.10"
+  "ytd_ride_distance": "163.22"
 }
