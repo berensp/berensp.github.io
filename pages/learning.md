@@ -3,6 +3,7 @@ layout: page
 title: Learning
 permalink: /learning/
 ogimage: ggb.jpg
+description: Mens et manus
 ---
 *"For the things we have to learn before we can do them, we learn by doing them."* (—Aristotle, Nicomachean Ethics, II, 1)
 
