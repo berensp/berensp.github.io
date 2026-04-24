@@ -76,6 +76,11 @@
   web3: false
   note: "Some day I'll buy strava.com/athletes/berensp for a large, undisclosed sum."
 
+- platform: Swarm
+  handle: "@berensp"
+  url: "swarm://users/4172752"
+  web3: false
+
 - platform: Telegram
   handle: "@berensp"
   url: "https://t.me/berensp"
