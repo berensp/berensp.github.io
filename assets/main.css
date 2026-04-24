@@ -144,7 +144,7 @@ img {
 /* Mobile devices */
 @media (max-width: 600px) {
     img {
-        width: 100%;
+        max-width: 100%;
     }
     .video-wrapper {
         padding-bottom: 125%; /* Taller on mobile */
