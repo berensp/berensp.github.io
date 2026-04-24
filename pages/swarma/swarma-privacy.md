@@ -41,4 +41,4 @@ If this policy is updated, the revised version will be posted at this URL with a
 
 If you have questions about this policy, [send us a DM](https://x.com/swarma_app).
 
-![Swarma watch](/assets/og/post_pixel.watch.swarma.logo)
+![Swarma watch](/assets/og/post_pixel.watch.swarma.logo.png)
