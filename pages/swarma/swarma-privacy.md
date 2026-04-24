@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: swarma
 title: Swarma Privacy Policy
 permalink: /swarma/privacy/
 ---
@@ -39,6 +39,6 @@ If this policy is updated, the revised version will be posted at this URL with a
 
 ## Contact
 
-If you have questions about this policy, [send us a DM](https://x.com/swarma_app).
+If you have questions about this policy, <a href="https://x.com/swarma_app" target="_blank">send us a DM</a>.
 
 ![Swarma watch](/assets/og/post_pixel.watch.swarma.logo.png)
