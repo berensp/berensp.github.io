@@ -2,12 +2,10 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {%- include head.html -%}
   <body>
-    <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMZNFRB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
     
 <script src="https://cdn.jsdelivr.net/npm/ol@8.2.0/dist/ol.js"></script>
-<a class="muted small" href="/">← Home</a>
+
+{%- include nav.html -%}
 <h1>{{ page.title | escape }}</h1>
 <mark>{{ page.distance }}</mark> | <mark>{{ page.elevation }}</mark> | <mark>{{ page.difficulty }}</mark>
 {{ content }}

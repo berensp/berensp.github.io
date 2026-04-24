@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-
 {% assign totaltime = page.preptime | plus: page.cooktime %}
-
+{%- include nav.html -%}
 <h1>{{ page.title | escape }}</h1>
 
 <b>Prep time:</b> {{ page.preptime }} min.<br>
