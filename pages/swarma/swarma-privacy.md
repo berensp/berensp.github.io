@@ -3,7 +3,6 @@ layout: page
 title: Swarma Privacy Policy
 permalink: /swarma/privacy/
 ---
-
 **Effective date:** April 1, 2026
 
 Swarma is a Wear OS companion app for Foursquare Swarm, developed by Paul Berens. This policy explains what data Swarma collects, why, and how it is handled.
@@ -40,4 +39,6 @@ If this policy is updated, the revised version will be posted at this URL with a
 
 ## Contact
 
-If you have questions about this policy, contact Paul Berens at p@berens.co.
+If you have questions about this policy, [send us a DM](https://x.com/swarma_app).
+
+![Swarma watch](/assets/og/post_pixel.watch.swarma.logo)
