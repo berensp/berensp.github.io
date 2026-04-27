@@ -220,6 +220,10 @@
   rule: "easter+7"  # 1 week after Easter
   event: '<a href="/prayers/divine-mercy-chaplet/">Divine Mercy Sunday</a>'
 
+- id: "good_shepherd"
+  rule: "easter+21"  # 3 weeks after Easter (3rd Sunday of Easter)
+  event: "Good Shepherd Sunday"
+
 - id: "ascension_thursday"
   rule: "easter+39"  # 40th day of Easter (39 days after)
   event: "Ascension Thursday"
