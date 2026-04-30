@@ -1,11 +1,11 @@
 {
-  "name": "A la biblioteca",
-  "type": "Walk",
-  "distance": "2.31",
-  "duration": 28,
-  "elevation": 56,
-  "date": "2026-04-28T20:22:10Z",
-  "url": "https://www.strava.com/activities/18297914993",
+  "name": "Afternoon Ride",
+  "type": "Ride",
+  "distance": "4.94",
+  "duration": 12,
+  "elevation": 0,
+  "date": "2026-04-29T20:14:13Z",
+  "url": "https://www.strava.com/activities/18313913464",
   "ytd_run_distance": "252.65",
-  "ytd_ride_distance": "171.15"
+  "ytd_ride_distance": "176.09"
 }
