@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Ride",
-  "type": "Ride",
-  "distance": "4.94",
-  "duration": 12,
-  "elevation": 0,
-  "date": "2026-04-29T20:14:13Z",
-  "url": "https://www.strava.com/activities/18313913464",
-  "ytd_run_distance": "252.65",
+  "name": "Postprandial stroll",
+  "type": "Walk",
+  "distance": "0.66",
+  "duration": 10,
+  "elevation": 15,
+  "date": "2026-05-02T01:45:35Z",
+  "url": "https://www.strava.com/activities/18340825594",
+  "ytd_run_distance": "262.29",
   "ytd_ride_distance": "176.09"
 }
