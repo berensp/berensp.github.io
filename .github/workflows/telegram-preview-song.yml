@@ -2,8 +2,9 @@ name: Preview Tomorrow's Song
 
 on:
   schedule:
-    # Runs at 8:30 PM PST (4:30 UTC next day)
-    - cron: '30 4 * * *'
+    # Runs at 8:30 PM PDT (3:30 UTC next day) / 8:30 PM PST (4:30 UTC next day)
+    # Update cron when DST changes, or migrate to external timezone-aware cron (see cron-job.org)
+    - cron: '30 3 * * *'
   workflow_dispatch: # Allows manual trigger
 
 jobs:
