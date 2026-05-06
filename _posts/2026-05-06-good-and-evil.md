@@ -7,8 +7,8 @@ tags: ["theology","culture","first principles"]
 ogimage: post_taking_of_christ-caravaggio.jpg
 description: The line separating good and evil passes not through states, nor classes, nor political parties; but through every human heart.
 ---
-![Taking of Christ, Caravaggio, 1602](post_taking_of_christ-caravaggio.jpg)
-<span class="muted small"><i>The Taking of Christ,</i> Caravaggio (c. 1602). The figure holding the lantern at right is believed to be Caravaggio himself, present at the betrayal and looking on. He doesn't exempt himself from the scene...and neither can we.</span>
+![Taking of Christ, Caravaggio, 1602](/assets/og/post_taking_of_christ-caravaggio.jpg)
+<span class="muted small"><i>The Taking of Christ,</i> Caravaggio (c. 1602).</span>
 
 Remember back in the day when you played Cops & Robbers? There was clarity about evil: good guys and bad guys. Pretty simple. And perhaps attractive in that it keeps the world simple.
 
@@ -46,6 +46,8 @@ And how do you end up considering yourself virtuous? By defining virtue[^2] your
 We can't stop naming and calling out and thwarting evil lest we become evil, but that must be balanced with humility.
 
 Dom Christian de Chergé was a Trappist monk who remained in Algeria knowing he would likely be killed...and was. Shortly before his martyrdom, he wrote: "I have lived long enough to know that I am an accomplice in the evil which seems to prevail so terribly in the world, even in the evil which might blindly strike me down."
+
+Check out the Caravaggio at the top of the page. The figure holding the lantern at right is believed to be Caravaggio himself, present at the betrayal and looking on. He doesn't exempt himself from the scene...and neither can we.
 
 Maybe the nuance here is that instead of letting people off the hook, there is still an accounting; but instead of demonizing and continuing to hold in contempt, this humility we speak of requires **forgiveness**. C. S. Lewis says that to be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you.
 
