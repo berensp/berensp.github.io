@@ -1,10 +1,7 @@
 name: Preview Tomorrow's Song
 
 on:
-  schedule:
-    # Runs at 8:30 PM PST (4:30 UTC next day)
-    - cron: '30 4 * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Triggered by cron-job.org (America/Los_Angeles, 8:30 PM)
 
 jobs:
   preview-song:
