@@ -24,6 +24,7 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - Time Preference Theory
 - Tragedy of the Commons
 - Moral Hazard
+- Moral Pollution and Licensing Effect (See [Good and Evil post](/good-and-evil.html))
 - Principal-Agent Problem
 - E.F. Schumacher's "Small is Beautiful"
 - Inequality frameworks:
