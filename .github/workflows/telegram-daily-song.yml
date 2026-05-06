@@ -1,11 +1,7 @@
 name: Send Daily Song to Telegram
 
 on:
-  schedule:
-    # Runs at 7:30 AM PDT (14:30 UTC) / 7:30 AM PST (15:30 UTC)
-    # Update cron when DST changes, or migrate to external timezone-aware cron (see cron-job.org)
-    - cron: '30 14 * * *'
-  workflow_dispatch: # Allows manual trigger
+  workflow_dispatch: # Triggered by cron-job.org (America/Los_Angeles, 7:30 AM)
 
 jobs:
   send-song:
