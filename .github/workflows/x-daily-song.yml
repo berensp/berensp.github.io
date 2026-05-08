@@ -1,0 +1,81 @@
+name: Post Daily Song to X
+
+on:
+  workflow_dispatch: # Triggered by cron-job.org (America/Los_Angeles, 7:30 AM)
+
+jobs:
+  post-song:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install js-yaml twitter-api-v2
+
+      - name: Post today's song to X
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: |
+          cat > post-song.cjs << 'SCRIPT'
+          const { TwitterApi } = require('twitter-api-v2');
+          const yaml = require('js-yaml');
+          const fs = require('fs');
+
+          const client = new TwitterApi({
+            appKey: process.env.TWITTER_API_KEY,
+            appSecret: process.env.TWITTER_API_SECRET,
+            accessToken: process.env.TWITTER_ACCESS_TOKEN,
+            accessSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET,
+          });
+
+          // Read and parse YAML
+          const dailySongs = yaml.load(fs.readFileSync('_data/daily_song.yml', 'utf8'));
+
+          // Get today's date in MM-DD format
+          const today = new Date();
+          const month = String(today.getMonth() + 1).padStart(2, '0');
+          const day = String(today.getDate()).padStart(2, '0');
+          const todayDate = `${month}-${day}`;
+
+          // Calculate day of year
+          const startOfYear = new Date(Date.UTC(today.getUTCFullYear(), 0, 1));
+          const dayOfYear = Math.floor((today - startOfYear) / (1000 * 60 * 60 * 24)) + 1;
+
+          console.log(`Looking for song with date: ${todayDate}`);
+
+          const todaySong = dailySongs.find(song => song.date === todayDate);
+
+          if (!todaySong) {
+            console.error(`No song found for ${todayDate}`);
+            process.exit(1);
+          }
+
+          console.log(`Found song: ${todaySong.track}`);
+
+          const youtubeUrl = `https://music.youtube.com/watch?v=${todaySong.songId}`;
+          const tweet = `#${dayOfYear}: "${todaySong.track}" by ${todaySong.artist}\n${youtubeUrl}`;
+
+          console.log(`Posting: ${tweet}`);
+
+          (async () => {
+            try {
+              const { data } = await client.v2.tweet(tweet);
+              console.log(`✓ Posted tweet ID: ${data.id}`);
+            } catch (err) {
+              console.error('✗ Failed to post tweet:', err);
+              process.exit(1);
+            }
+          })();
+          SCRIPT
+
+          node post-song.cjs
