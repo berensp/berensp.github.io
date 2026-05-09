@@ -1,11 +1,11 @@
 {
-  "name": "Stroll with Nana",
-  "type": "Walk",
-  "distance": "0.58",
-  "duration": 12,
-  "elevation": 11,
-  "date": "2026-05-06T02:17:20Z",
-  "url": "https://www.strava.com/activities/18394263120",
-  "ytd_run_distance": "271.79",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "10.35",
+  "duration": 54,
+  "elevation": 183,
+  "date": "2026-05-08T18:14:53Z",
+  "url": "https://www.strava.com/activities/18429396507",
+  "ytd_run_distance": "282.14",
   "ytd_ride_distance": "176.09"
 }
