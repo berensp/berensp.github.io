@@ -18,7 +18,9 @@ But at the same time there are narratives that keep bringing us back to cosmic d
 
 [^1]: *The Brothers Karamazov,* *Les Misérables,* *Hamlet,* *Fargo,* etc.
 
-Those condemning others in the town square (Twitter/X) need first to put some distance between themselves and the other guys: affirmation of self; discounting and forgetting my own sins. And then the move is: *oh, I would never do that. I would never say that. Because I'm a pretty good guy.* Ergo, *that guy is evil.*
+Those condemning others in the town square (Twitter/X) need first to put some distance between themselves and the other guys: affirmation of self; discounting and forgetting my own sins. And then the move is: *oh, I would never do that. I would never say that. Because I'm a pretty good guy.* Ergo, *that guy is evil.*[^2]
+
+[^2]: Aristotle noticed this, too: in his *Nicomachean Ethics* IX.4 he observes that ordinary men, "poor creatures though they may be," exhibit the marks of self-friendship precisely because they are "satisfied with themselves and think they are good."
 
 In fact there's a concept called **moral pollution** which describes acting like bad reputations are contagious, and mere proximity to something labelled immoral is dangerous/toxic. Brands cut ties with people deemed unethical not because they value ethics, but because they fear contamination (cancellation as moral quarantine).
 
@@ -26,9 +28,9 @@ But Aleksandr I. Solzhenitsyn is much more thoughtful in *The Gulag Archipelago:
 
 > Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties either—but right through every human heart—and through all human hearts. This line shifts. Inside us, it oscillates with the years. And even within hearts overwhelmed by evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains...an unuprooted small corner of evil.
 
-That's not to say we can't and ought not name evil and seek it out and fight it courageously. But it does mean that we should do so with humility and not triumphalism.[^2]
+That's not to say we can't and ought not name evil and seek it out and fight it courageously. But it does mean that we should do so with humility and not triumphalism.[^3]
 
-[^2]: St. Nicholas remembered this about all children — in Hungary he leaves both treats and some twigs (a switch), because no one is either all good nor all bad.
+[^3]: St. Nicholas remembered this about all children: in Hungary he leaves both treats and some twigs (a switch), because no one is either all good nor all bad.
 
 The Roman playwright Terence put it this way: *Homo sum, humani nihil a me alienum puto* ("I am a human being; nothing human is alien to me.") Maya Angelou returned to this line throughout her life, and explained why it matters:
 
@@ -39,11 +41,11 @@ Because after all, sin *(mysterium iniquitatis)* entered the world and we're nai
 Revelation 3:16-17:
 > So, because you are lukewarm, neither hot nor cold, I will spit you out of my mouth. For you say, 'I am rich and affluent and have no need of anything,' and yet do not realize that you are wretched, pitiable, poor, blind, and naked.
 
-If that's the Christian lens, the behavioral economics lens is the [**Licensing Effect**](/systems/), where believing you're good can actually make you behave badly — those who consider themselves virtuous worry less about their own behavior, making them more susceptible to ethical lapses.
+If that's the Christian lens, the behavioral economics lens is the [**Licensing Effect**](/systems/), where believing you're good can actually make you behave badly: i.e., those who consider themselves virtuous worry less about their own behavior, making them more susceptible to ethical lapses.
 
-And how do you end up considering yourself virtuous? By defining virtue[^3] yourself, on your own terms; as opposed to looking to scripture and law, the saints and philosophers, etc.
+And how do you end up considering yourself virtuous? By defining virtue[^4] yourself, on your own terms; as opposed to looking to scripture and law, the saints and philosophers, etc.
 
-[^3]: I won't go all the way down the relativism rabbit hole, but this reminds me of Bishop Robert Barron's frequent citation of the 1992 Supreme Court case *Planned Parenthood v. Casey*, where he highlights the passage authored by Justice Kennedy: "At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life."
+[^4]: I won't go all the way down the relativism rabbit hole, but this reminds me of Bishop Robert Barron's frequent citation of the 1992 Supreme Court case *Planned Parenthood v. Casey*, where he highlights the passage authored by Justice Kennedy: "At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life."
 
 So what do we do with all this? We can't stop naming and calling out and thwarting evil lest we succumb to cowardice — but that must be balanced with humility.
 
