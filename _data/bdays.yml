@@ -280,9 +280,9 @@
 - date: "05-15"
   bday: "Katherine Heigl (1978)"
 - date: "05-16"
-  bday: "<a href'/books/devil-in-the-white-city/'>H. H. Holmes</a> (1861)"
+  bday: '<a href="/books/devil-in-the-white-city/" target="_blank">H. H. Holmes (1861)</a>'
 - date: "05-17"
-  bday: "Bartholomew Roberts (1682) 🏴‍☠️"
+  bday: "Bartholomew Roberts (1682)"
 - date: "05-18"
   bday: "Dave Policar, Irene Coppedge"
 - date: "05-19"
@@ -351,10 +351,6 @@
   bday: "Paul McCartney (1942)"
 - date: "06-19"
   bday: "W. Robert Brennan (1918), <a href='/wager.html'>Blaise Pascal</a> (1623), Lou Gehrig (1903)"
-
-
-
-
 - date: "06-20"
   bday: "Errol Flynn (1909)"
 - date: "06-21"
