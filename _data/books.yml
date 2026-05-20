@@ -5,6 +5,7 @@
 - title: "Avenue of Mysteries"
   author: "John Irving"
   category: "Last Read"
+  review_slug: "ave-mysteries"
 
 # Presently Reading
 
@@ -155,11 +156,6 @@
   author: "Thomas L. Friedman"
   category: "Miscellany"
   review_slug: "the-world-is-flat-20"
-
-- title: "Avenue of Mysteries"
-  author: "John Irving"
-  category: "Miscellany"
-  review_slug: "ave-mysteries"
 
 # Books by Family/Friends
 
