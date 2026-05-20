@@ -2,26 +2,26 @@
 
 # Last Read
 
-- title: "The Brothers Karamazov"
-  author: "Fyodor Dostoevsky"
+- title: "Avenue of Mysteries"
+  author: "John Irving"
   category: "Last Read"
 
 # Presently Reading
 
-- title: "Avenue of Mysteries"
-  author: "John Irving"
+- title: "The Hitchhiker's Guide to the Galaxy"
+  author: "Douglas Adams"
   category: "Presently Reading"
 
 # On Deck
 
-- title: "The Imitation of Christ"
-  author: "Thomas à Kempis"
+- title: "Range"
+  author: "David Epstein"
   category: "On Deck"
 
 # Near Term
 
-- title: "The Hitchhiker's Guide to the Galaxy"
-  author: "Douglas Adams"
+- title: "The Imitation of Christ"
+  author: "Thomas à Kempis"
   category: "Near Term"
 
 - title: "The Iliad"
@@ -30,10 +30,6 @@
 
 - title: "The Shipping News"
   author: "Annie Proulx"
-  category: "Near Term"
-
-- title: "Range"
-  author: "David Epstein"
   category: "Near Term"
 
 - title: "Bridge of Sighs"
@@ -96,6 +92,10 @@
   author: "Alexandre Dumas"
   category: "Favourites"
 
+- title: "The Brothers Karamazov"
+  author: "Fyodor Dostoevsky"
+  category: "Favourites"
+
 # Miscellany
 
 - title: "King Arthur and His Knights of the Round Table"
@@ -156,7 +156,13 @@
   category: "Miscellany"
   review_slug: "the-world-is-flat-20"
 
+- title: "Avenue of Mysteries"
+  author: "John Irving"
+  category: "Miscellany"
+  review_slug: "ave-mysteries"
+
 # Books by Family/Friends
+
 - title: "Max, the Bad-Talking Parrot"
   author: "Patricia Brennan Demuth"
   category: "Books by Family/Friends"
