@@ -1,11 +1,11 @@
 {
-  "name": "Fro Gamla Stan",
-  "type": "Walk",
-  "distance": "1.39",
-  "duration": 18,
-  "elevation": 12,
-  "date": "2026-05-18T20:36:27Z",
-  "url": "https://www.strava.com/activities/18560046460",
-  "ytd_run_distance": "302.15",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "10.26",
+  "duration": 52,
+  "elevation": 183,
+  "date": "2026-05-20T22:13:47Z",
+  "url": "https://www.strava.com/activities/18588846597",
+  "ytd_run_distance": "312.41",
   "ytd_ride_distance": "176.09"
 }
