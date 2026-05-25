@@ -1,11 +1,11 @@
 {
-  "name": "Morning Walk",
-  "type": "Walk",
-  "distance": "2.44",
-  "duration": 32,
-  "elevation": 8,
-  "date": "2026-05-23T16:39:40Z",
-  "url": "https://www.strava.com/activities/18624902761",
+  "name": "GGP ride",
+  "type": "Ride",
+  "distance": "5.52",
+  "duration": 39,
+  "elevation": 19,
+  "date": "2026-05-24T22:46:54Z",
+  "url": "https://www.strava.com/activities/18641498478",
   "ytd_run_distance": "312.41",
-  "ytd_ride_distance": "176.09"
+  "ytd_ride_distance": "181.61"
 }
