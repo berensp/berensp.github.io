@@ -7,18 +7,15 @@ tags: ["theology","culture","first principles"]
 ogimage: post_taking_of_christ-caravaggio.jpg
 description: The line separating good and evil passes not through states, nor classes, nor political parties; but through every human heart.
 ---
-![Taking of Christ, Caravaggio, 1602](/assets/og/post_taking_of_christ-caravaggio.jpg)
-<span class="muted small"><i>The Taking of Christ,</i> Caravaggio (c. 1602). The figure holding the lantern at right is believed to be Caravaggio himself — present at the betrayal, looking on. He doesn't exempt himself from the scene...and neither can we.</span>
+Remember Cops & Robbers? It was clear: there were good guys and there were bad guys. The world made sense.
 
-Remember back in the day when you played Cops & Robbers? There was clarity about evil: there are good guys and there are bad guys. The world made sense.
-
-And then you get older, and life and literature[^1] instruct us that it's more nuanced than that: e.g., ends justify the means conflicts, the corruption of the good / redemption of the evil, etc.
+And then you get older, and life and literature[^1] instruct us that evil can be more nuanced: e.g., ends justify the means conflicts, the corruption of the good / redemption of the evil, etc.
 
 But at the same time there are narratives that keep bringing us back to cosmic dualism: maybe best expressed in our **cancel culture** or **true crime culture**, virtue signaling through performative outrage.
 
 [^1]: *The Brothers Karamazov,* *Les Misérables,* *Hamlet,* *Fargo,* etc.
 
-Those condemning others in the town square (Twitter/X) need first to put some distance between themselves and the other guys: affirmation of self; discounting and forgetting my own sins. And then the move is: *oh, I would never do that. I would never say that. Because I'm a pretty good guy.* Ergo, *that guy is evil.*[^2]
+Those condemning others in the town square (Twitter/X) need first to put some distance between themselves and the other guys: affirmation of self; discounting and forgetting my own sins. And then the move is: *oh, I would never do that. I would never say that. Because I'm a pretty good guy.* Ergo, *so and so is evil.*[^2]
 
 [^2]: Aristotle noticed this, too: in his *Nicomachean Ethics* IX.4 he observes that ordinary men, "poor creatures though they may be," exhibit the marks of self-friendship precisely because they are "satisfied with themselves and think they are good."
 
@@ -50,6 +47,9 @@ And how do you end up considering yourself virtuous? By defining virtue[^4] your
 So what do we do with all this? We can't stop naming and calling out and thwarting evil lest we succumb to cowardice — but that must be balanced with humility.
 
 Dom Christian de Chergé was a Trappist monk who remained in Algeria knowing he would likely be killed...and was. Shortly before his martyrdom, he wrote: "I have lived long enough to know that I am an accomplice in the evil which seems to prevail so terribly in the world, even in the evil which might blindly strike me down."
+
+![Taking of Christ, Caravaggio, 1602](/assets/og/post_taking_of_christ-caravaggio.jpg)
+<span class="muted small"><i>The Taking of Christ,</i> Caravaggio (c. 1602). The figure holding the lantern at right is believed to be Caravaggio himself — present at the betrayal, looking on. He doesn't exempt himself from the scene...and neither can we.</span>
 
 Maybe the nuance here is that instead of letting people off the hook, there is still an accounting; but instead of demonizing and continuing to hold in contempt, this humility we speak of requires **forgiveness**. C. S. Lewis says that to be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you.
 
