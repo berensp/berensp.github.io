@@ -101,6 +101,9 @@ document.addEventListener('DOMContentLoaded', () => {
           message = "two fortnight ago";
           break;
         case 30:
+          message = "one and a half score days ago";
+          break;
+        case 31:
           message = "about a month ago";
           break;
         case 36:
