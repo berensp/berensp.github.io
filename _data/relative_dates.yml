@@ -241,7 +241,7 @@
   event: "Trinity Sunday"
 
 - id: "corpus_christi"
-  rule: "easter+60"  # Thursday after Trinity Sunday
+  rule: "easter+63"  # used to be Thursday after Trinity Sunday but moved to Sunday
   event: '<a href="/prayers/litany-blessed-host/">Corpus Christi</a>'
 
 - id: "sacred_heart"
