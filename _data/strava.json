@@ -1,11 +1,11 @@
 {
-  "name": "Evening Walk",
-  "type": "Walk",
-  "distance": "3.34",
-  "duration": 41,
-  "elevation": 77,
-  "date": "2026-06-03T03:46:11Z",
-  "url": "https://www.strava.com/activities/18765606540",
-  "ytd_run_distance": "340.97",
+  "name": "Twin Peaks Mt Sutro",
+  "type": "Run",
+  "distance": "9.48",
+  "duration": 55,
+  "elevation": 323,
+  "date": "2026-06-05T23:29:51Z",
+  "url": "https://www.strava.com/activities/18803714979",
+  "ytd_run_distance": "350.45",
   "ytd_ride_distance": "187.30"
 }
