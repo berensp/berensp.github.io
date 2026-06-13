@@ -138,4 +138,4 @@ Lamb of God, who take away the sins of the world,<br>
 ℣. Jesus, meek and humble of Heart,<br>
 ℟. Make our hearts like unto Thine.
 
-<p class="small">Let us pray. Almighty and eternal God, look upon the Heart of Your most beloved Son and upon the praises and satisfaction which He offers You in the name of sinners; and to those who implore Your mercy, in Your great goodness, grant forgiveness in the name of the same Jesus Christ, Your Son, who lives and reigns with You forever and ever. Amen.</p>
+<span class="muted small">Let us pray. Almighty and eternal God, look upon the Heart of Your most beloved Son and upon the praises and satisfaction which He offers You in the name of sinners; and to those who implore Your mercy, in Your great goodness, grant forgiveness in the name of the same Jesus Christ, Your Son, who lives and reigns with You forever and ever. Amen.</span>
