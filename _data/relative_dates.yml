@@ -246,7 +246,7 @@
 
 - id: "sacred_heart"
   rule: "easter+68"  # Friday after the second Sunday after Pentecost
-  event: 'Solemnity of Most Sacred Heart of Jesus'
+  event: '<a href="/prayers/litany-sacred-heart/">Solemnity of Most Sacred Heart of Jesus</a>'
 
 - id: "immaculate_heart"
   rule: "easter+69"  # Saturday after the Solemnity of the Most Holy Body and Blood of Christ (Corpus Christi)
