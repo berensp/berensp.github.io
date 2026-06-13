@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-<a href="/_prayers/"><img src="/assets/images/avatars/pmb.nakamigo.png" alt="nakamigo" style="width: 120px; height: auto;"></a>
+<a href="/prayers/"><img src="/assets/images/avatars/pmb.nakamigo.png" alt="nakamigo" style="width: 120px; height: auto;"></a>
 
 Product marketer in San Francisco by day; bedtime story reader by night.
 
