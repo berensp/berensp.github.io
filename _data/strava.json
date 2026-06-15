@@ -1,11 +1,11 @@
 {
-  "name": "Lunch Walk",
-  "type": "Walk",
-  "distance": "2.13",
-  "duration": 29,
-  "elevation": 79,
-  "date": "2026-06-12T19:16:44Z",
-  "url": "https://www.strava.com/activities/18895195388",
-  "ytd_run_distance": "360.48",
+  "name": "Dipsea Race",
+  "type": "Run",
+  "distance": "12.29",
+  "duration": 82,
+  "elevation": 613,
+  "date": "2026-06-14T15:46:54Z",
+  "url": "https://www.strava.com/activities/18920570082",
+  "ytd_run_distance": "372.77",
   "ytd_ride_distance": "191.06"
 }
