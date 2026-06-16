@@ -92,7 +92,7 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 | 15 | [*Bridge Over…*](https://music.youtube.com/playlist?list=OLAK5uy_mce00rQ-71wrhnKWQ4QbNqON4BFCaIEVQ) | Simon & Garfunkel | '70 |
 | 16 | [*Salesmen & Racists*](https://music.youtube.com/playlist?list=OLAK5uy_nFOFeT0jMVXt64G_5DhZa5uMqrYcik70w&feature=share)[^15] | Ike Reilly | '01 |
 | 17 | [*Kind Of Blue*](https://music.youtube.com/playlist?list=OLAK5uy_kQdrECE-ozwNQzDlLQT2vsgVQp8DfHElE&feature=share)[^16] | Miles Davis | '59 |
-| 18 | [*Blonde on Blonde*](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&feature=share)[^17] | Bob Dylan | '66 |
+| 18 | [*Blood…Tracks*](https://music.youtube.com/playlist?list=OLAK5uy_nHWCTvQI-G4uNRNvC0AjQr9hVXG54TeSU&si=DRzh0bw4KKXtmEpX)[^17] | Bob Dylan | '75 |
 | 19 | [*North Hills*](https://music.youtube.com/playlist?list=OLAK5uy_k7yTzKDUOhfrZ26F9ioYfy6hQSb-JLs7g&feature=share) | Dawes | '09 |
 | 20 | [*What's Going On*](https://music.youtube.com/playlist?list=OLAK5uy_l-s2m0elwdWQMZkwd1F6NJEWMzfg90DYg&feature=share) | Marvin Gaye | '71 |
 
@@ -105,7 +105,7 @@ And so, here's my definitive list, which I suppose I could purchase and pay for 
 [^14]: Cliché, but, hey, I want it. I once had a friend disparage me for my admission to liking of Mozart. *Pffft.* It's a hipster tendency that advocates ditching anything perceived too popular and too familiar. *Achtung Baby* scores higher on the Rolling Stones Greatest Albums of All Time (#63), but I'm sticking to my guns.
 [^15]: Ike is my "family's rock band", thanks to Uncle John discovering him years ago...a Marquette connection. Many night-before-Thanksgiving shows at First Ave. And proud this is my sole 21st century pick.
 [^16]: On repeat at Wine Night in Mod 28A.
-[^17]: Dylan's greatest album is also a tough call, which you're not going to convince everyone on, but *Blonde on Blonde* is a masterpiece, and I dig that it was [a combo of New York and Minneapolis musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/). For me [*Blood On The Tracks*](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/) is probably #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
+[^17]: Dylan's greatest album is also a tough call, but I think *Blood On The Tracks* takes it...and I dig that it was [a combo of New York and Minneapolis musicians](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/bob-dylan-blood-on-the-tracks-2-1063224/). For me [*Blonde On Blonde*](https://music.youtube.com/playlist?list=OLAK5uy_mVjoBOrBDL31CRuC-8tWklxLxvDGdQsoA&si=XaJ9TChzNUkXWfhe) is a close #2 and then [*Hwy 61 Revisited*](https://music.youtube.com/playlist?list=OLAK5uy_nIDvA68GQU6dFSErUt5wnrNRt0d0jnMVk&feature=share).
 
 ## Honorable Mentions
 - Beach Boys – [*Pet Sounds*](https://music.youtube.com/playlist?list=OLAK5uy_kSxA3IV3xpP1jCo4iNFKPLcaA8trAJGf0&feature=share) ('66)

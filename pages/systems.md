@@ -40,6 +40,7 @@ My running list of frameworks, mental models, heuristics, and first principles I
 - Be ever vigilant of [fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) (e.g., *argumentum ad populum)*
 - Dunning-Kruger Effect
 - Replication crisis
+- [Cunningham's Law](https://meta.wikimedia.org/wiki/Cunningham's_Law) – *prêcher le faux pour savoir le vrai*
 
 [^2]: Meaningful knowledge acquisition requires reaching certain threshold levels of literacy. The answer to why the average bloke can't pick up and bang through *Infinite Jest*—I'm including myself here. (Also the Matthew Effect.)
 
