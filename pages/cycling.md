@@ -30,4 +30,4 @@ Some favorite rides 👇
 {% endfor %}
 
 
-<span class="muted small">* </span><a class="muted small" href="/centuries/">Century ride</a><span class="muted small"> (~100 miles).</span>
+<span class="muted small">* </span><a class="muted small" href="/races/">Century ride</a><span class="muted small"> (~100 miles).</span>

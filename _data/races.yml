@@ -1,0 +1,50 @@
+# Races, competitions, and endurance events.
+# Fields: event, sport (Cycling | Running | ...), date (ISO 8601), url (optional)
+races:
+  - event: Marin
+    sport: Cycling
+    date: 2011-08-06
+
+  - event: Levi's
+    sport: Cycling
+    date: 2011-10-01
+    url: /rides/levis/
+
+  - event: Marin
+    sport: Cycling
+    date: 2012-08-02
+
+  - event: Levi's
+    sport: Cycling
+    date: 2012-09-29
+    url: /rides/levis/
+
+  - event: Wine Country
+    sport: Cycling
+    date: 2013-05-04
+
+  - event: Levi's
+    sport: Cycling
+    date: 2013-10-05
+    url: /rides/levis/
+
+  - event: Mt. Tam
+    sport: Cycling
+    date: 2014-08-02
+    url: /rides/mt-tam-century/
+
+  - event: Chicago Marathon
+    sport: Running
+    date: 2005-10-09
+    note: "How can you know if someone's run a marathon?...Don't worry; he'll tell you."
+
+  - event: Dipsea Race
+    sport: Running
+    date: 2025-06-14
+    url: /runs/dipsea/
+    note: My prize = poison oak
+
+  - event: 115th Dipsea Race
+    sport: Running
+    date: 2026-06-08
+    url: /runs/dipsea/

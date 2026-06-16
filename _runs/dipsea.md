@@ -12,4 +12,6 @@ difficulty: hard
 category: Greater Bay Area
 description: So fun...except, you, Poison Oak—you're unfun.
 ---
-The Dipsea Race is a serious challenge, but also a total joy...except for the poison oak.
+The Dipsea Race is a serious challenge—are we running this hiking trail?!—but it attracts a great crowd and you couldn't ask for a better route through Marin.
+- [114th Dipsea](https://www.dipsea.org/2025/2025final.html) - awarded some poison oak for being a first timer
+- [115th Dipsea](https://www.dipsea.org/2025/2025final.html) - 12s improvement!
