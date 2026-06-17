@@ -8,7 +8,7 @@ description: Races, centuries, and other endurance events
 | Event | Sport | Date |
 | :--- | :--- | :--- |
 {% for r in races -%}
-| {% if r.url %}[{{ r.event }}]({{ r.url }}){% else %}{{ r.event }}{% endif %}{% if r.note %}[^race{{ forloop.index }}]{% endif %} | {% case r.sport %}{% when 'Cycling' %}🚴{% when 'Running' %}🏃{% else %}🏅{% endcase %} {{ r.sport }} | {{ r.date | date: "%Y-%m-%d" }} |
+| {% if r.url %}[{{ r.event }}]({{ r.url }}){% else %}{{ r.event }}{% endif %}{% if r.note %}[^race{{ forloop.index }}]{% endif %} | {{ r.sport }} | {{ r.date | date: "%Y-%m-%d" }} |
 {% endfor %}
 {% for r in races %}{% if r.note %}
 [^race{{ forloop.index }}]: {{ r.note }}
