@@ -1,34 +1,39 @@
 # Races, competitions, and endurance events.
 # Fields: event, sport (Cycling | Running | ...), date (ISO 8601), url (optional)
 races:
-  - event: Marin
+
+  - event: Med City Half Marathon
+    sport: Running
+    date: 1996-05-26
+
+  - event: Marin Century
     sport: Cycling
     date: 2011-08-06
 
-  - event: Levi's
+  - event: Levi's GranFondo
     sport: Cycling
     date: 2011-10-01
     url: /rides/levis/
 
-  - event: Marin
+  - event: Marin Century
     sport: Cycling
     date: 2012-08-02
 
-  - event: Levi's
+  - event: Levi's GranFondo
     sport: Cycling
     date: 2012-09-29
     url: /rides/levis/
 
-  - event: Wine Country
+  - event: Wine Country Century
     sport: Cycling
     date: 2013-05-04
 
-  - event: Levi's
+  - event: Levi's GranFondo
     sport: Cycling
     date: 2013-10-05
     url: /rides/levis/
 
-  - event: Mt. Tam
+  - event: Mt. Tam Century
     sport: Cycling
     date: 2014-08-02
     url: /rides/mt-tam-century/
@@ -37,6 +42,11 @@ races:
     sport: Running
     date: 2005-10-09
     note: "How can you know if someone's run a marathon?...Don't worry; he'll tell you."
+
+  - event: Rock Tahoe Half Marathon
+    sport: Running
+    date: 2015-06-20
+# Stateline, NV 01:36:57 overall: 28th of 1,601 / M35-39: 8th of 76
 
   - event: Dipsea Race
     sport: Running
