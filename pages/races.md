@@ -5,6 +5,9 @@ permalink: /races/
 description: Races, centuries, and other endurance events
 ---
 {% assign races = site.data.races.races | sort: "date" %}
+
+These are technically *races,* but I've more *participated* than *competed* in them in that I'm typically in no real danger of placing.
+
 | Event | Sport | Date |
 | :--- | :--- | :--- |
 {% for r in races -%}
