@@ -1,11 +1,11 @@
 {
-  "name": "Dipsea Race",
-  "type": "Run",
-  "distance": "12.29",
-  "duration": 82,
-  "elevation": 613,
-  "date": "2026-06-14T15:46:54Z",
-  "url": "https://www.strava.com/activities/18920570082",
+  "name": "Ride to Chinatown",
+  "type": "Ride",
+  "distance": "19.54",
+  "duration": 74,
+  "elevation": 224,
+  "date": "2026-06-17T19:00:30Z",
+  "url": "https://www.strava.com/activities/18963730367",
   "ytd_run_distance": "372.77",
-  "ytd_ride_distance": "191.06"
+  "ytd_ride_distance": "210.60"
 }
