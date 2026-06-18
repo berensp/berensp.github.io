@@ -11,11 +11,11 @@ Remember Cops & Robbers? It was clear: there were good guys and there were bad g
 
 And then you get older, and life and literature[^1] instruct us that evil can be more nuanced: e.g., ends justify the means conflicts, the corruption of the good / redemption of the evil, etc.
 
-But at the same time there are narratives that keep bringing us back to cosmic dualism: maybe best expressed in our **cancel culture** or **true crime culture**, virtue signaling through performative outrage.
+But at the same time there are narratives that keep bringing us back to cosmic dualism: maybe best expressed in our **cancel culture** or **true crime culture** where we virtue signal through performative outrage.
 
 [^1]: *The Brothers Karamazov,* *Les Misérables,* *Hamlet,* *Fargo,* etc.
 
-Those condemning others in the town square (Twitter/X) need first to put some distance between themselves and the other guys: affirmation of self; discounting and forgetting my own sins. And then the move is: *oh, I would never do that. I would never say that. Because I'm a pretty good guy.* Ergo, *so and so is evil.*[^2]
+The first move for those condemning others in the town square (Twitter/X, Substack, etc.) is to first to put some distance between themselves and the other guys: affirmation of self; discounting and forgetting my own sins. And then it's: *oh, I would never do that. I would never say that. Because I'm not perfect, but at least I'm not like him...who is almost evil.*[^2]
 
 [^2]: Aristotle noticed this, too: in his *Nicomachean Ethics* IX.4 he observes that ordinary men, "poor creatures though they may be," exhibit the marks of self-friendship precisely because they are "satisfied with themselves and think they are good."
 
@@ -25,7 +25,7 @@ But Aleksandr I. Solzhenitsyn is much more thoughtful in *The Gulag Archipelago:
 
 > Gradually it was disclosed to me that the line separating good and evil passes not through states, nor between classes, nor between political parties either—but right through every human heart—and through all human hearts. This line shifts. Inside us, it oscillates with the years. And even within hearts overwhelmed by evil, one small bridgehead of good is retained. And even in the best of all hearts, there remains...an unuprooted small corner of evil.
 
-That's not to say we can't and ought not name evil and seek it out and fight it courageously. But it does mean that we should do so with humility and not triumphalism.[^3]
+That's not to say we can't and ought not name evil and seek it out and fight it courageously, but it does mean that we should do so with humility and not triumphalism.[^3]
 
 [^3]: St. Nicholas remembered this about all children: in Hungary he leaves both treats and some twigs (a switch), because no one is either all good nor all bad.
 
