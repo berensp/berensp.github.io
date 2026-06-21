@@ -1,11 +1,11 @@
 {
-  "name": "Ride to Chinatown",
-  "type": "Ride",
-  "distance": "19.54",
-  "duration": 74,
-  "elevation": 224,
-  "date": "2026-06-17T19:00:30Z",
-  "url": "https://www.strava.com/activities/18963730367",
+  "name": "Evening Walk",
+  "type": "Walk",
+  "distance": "0.81",
+  "duration": 10,
+  "elevation": 22,
+  "date": "2026-06-21T02:12:38Z",
+  "url": "https://www.strava.com/activities/19004558951",
   "ytd_run_distance": "372.77",
   "ytd_ride_distance": "210.60"
 }
