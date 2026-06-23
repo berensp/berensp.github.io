@@ -1,0 +1,251 @@
+---
+layout: null
+permalink: /swarma/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Swarma — Foursquare Swarm check-ins for Wear OS</title>
+<meta name="description" content="Swarma brings Foursquare Swarm check-ins to your Wear OS watch. Find nearby places, check in, and earn sticker bonuses — without reaching for your phone.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   Swarma landing — styles scoped under .sw to stay polite
+   inside the existing Jekyll site. Palette is the app's own:
+   warm near-black + Swarma orange, Swarm coin-gold used sparingly.
+   ============================================================ */
+.sw {
+  --bg:        #0D0C0B;
+  --bg-lift:   #161310;
+  --surface:   #1C1813;
+  --orange:    #F06D1F;
+  --orange-hi: #FF8233;
+  --gold:      #FFB400;
+  --text:      #F4F0E8;
+  --muted:     #908A7E;
+  --faint:     #5E594F;
+  --hairline:  rgba(255,255,255,0.08);
+  --display: "Space Grotesk", system-ui, sans-serif;
+  --body:    "Inter", system-ui, sans-serif;
+  --mono:    "Space Mono", ui-monospace, monospace;
+  --maxw: 1080px;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--body);
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.55;
+  overflow-x: hidden;
+}
+.sw *, .sw *::before, .sw *::after { box-sizing: border-box; margin: 0; padding: 0; }
+.sw a { color: inherit; text-decoration: none; }
+.sw__wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 24px; }
+
+.sw__eyebrow {
+  font-family: var(--mono); font-size: 12px; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--orange);
+  display: inline-flex; align-items: center; gap: 10px;
+}
+.sw__eyebrow::before {
+  content: ""; width: 7px; height: 7px; border-radius: 50%;
+  background: var(--orange); box-shadow: 0 0 12px 1px var(--orange);
+}
+
+/* ===================== HERO ===================== */
+.sw__hero { position: relative; padding: 72px 0 96px; }
+.sw__hero-grid {
+  display: grid; grid-template-columns: 1.02fr 0.98fr;
+  gap: 48px; align-items: center;
+}
+.sw__hero h1 {
+  font-family: var(--display); font-weight: 600;
+  font-size: clamp(2.6rem, 6vw, 4.3rem); line-height: 1.02;
+  letter-spacing: -0.02em; margin: 22px 0 0;
+}
+.sw__hero h1 em { font-style: normal; color: var(--orange); }
+.sw__lede {
+  font-size: clamp(1.02rem, 1.4vw, 1.18rem); color: var(--muted);
+  max-width: 32ch; margin: 22px 0 34px;
+}
+.sw__cta-row { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+.sw__cta {
+  font-family: var(--display); font-weight: 600; font-size: 1.02rem;
+  letter-spacing: -0.01em; color: #1a1208; background: var(--orange);
+  padding: 15px 28px; border-radius: 999px;
+  display: inline-flex; align-items: center; gap: 10px; min-height: 48px;
+  transition: transform .15s ease, background .15s ease, box-shadow .15s ease;
+}
+.sw__cta:hover { background: var(--orange-hi); transform: translateY(-1px); box-shadow: 0 8px 28px -8px rgba(240,109,31,0.7); }
+.sw__cta:focus-visible { outline: 3px solid var(--orange-hi); outline-offset: 3px; }
+.sw__cta svg { width: 18px; height: 18px; }
+.sw__cta-note { font-family: var(--mono); font-size: 11.5px; letter-spacing: 0.04em; color: var(--faint); }
+
+/* hero image (transparent watch render) + glow behind the face */
+.sw__watch-stage { display: grid; place-items: center; position: relative; }
+.sw__glow {
+  position: absolute; z-index: 0;
+  width: 62%; aspect-ratio: 1; border-radius: 50%;
+  /* watch face sits upper-right in the render, so bias the glow there */
+  top: 34%; left: 60%; transform: translate(-50%, -50%);
+  background: radial-gradient(circle at 50% 50%, rgba(240,109,31,0.42), rgba(240,109,31,0.10) 45%, transparent 70%);
+  filter: blur(14px);
+  animation: sw-breathe 6s ease-in-out infinite;
+}
+@keyframes sw-breathe {
+  0%,100% { opacity: .7; transform: translate(-50%,-50%) scale(1); }
+  50%     { opacity: 1;  transform: translate(-50%,-50%) scale(1.05); }
+}
+.sw__hero-img {
+  position: relative; z-index: 1; width: min(440px, 88vw); height: auto;
+  filter: drop-shadow(0 28px 60px rgba(0,0,0,0.55));
+}
+
+/* ===================== GAP / WHY ===================== */
+.sw__gap { padding: 60px 0; border-top: 1px solid var(--hairline); }
+.sw__gap-inner { max-width: 760px; }
+.sw__gap h2 {
+  font-family: var(--display); font-weight: 600;
+  font-size: clamp(1.7rem, 3.6vw, 2.6rem); line-height: 1.1; letter-spacing: -0.02em;
+}
+.sw__gap h2 em { font-style: normal; color: var(--orange); }
+.sw__gap p { margin-top: 18px; color: var(--muted); font-size: 1.06rem; max-width: 56ch; }
+
+/* ===================== FEATURES ===================== */
+.sw__features { padding: 24px 0 72px; }
+.sw__feat {
+  display: grid; grid-template-columns: 88px 1fr; gap: 24px;
+  align-items: start; padding: 30px 0; border-top: 1px solid var(--hairline);
+}
+.sw__feat-num {
+  font-family: var(--mono); font-size: 13px; color: var(--orange);
+  border: 1px solid var(--hairline); border-radius: 50%;
+  width: 56px; height: 56px; display: grid; place-items: center;
+}
+.sw__feat h3 {
+  font-family: var(--display); font-weight: 600;
+  font-size: clamp(1.15rem, 2.2vw, 1.5rem); letter-spacing: -0.01em;
+}
+.sw__feat p { margin-top: 8px; color: var(--muted); max-width: 52ch; }
+
+/* ===================== FINAL CTA ===================== */
+.sw__final { padding: 86px 0 96px; border-top: 1px solid var(--hairline); text-align: center; }
+.sw__final h2 {
+  font-family: var(--display); font-weight: 600;
+  font-size: clamp(1.9rem, 4.4vw, 3rem); letter-spacing: -0.02em; line-height: 1.05;
+}
+.sw__final p { color: var(--muted); margin: 16px auto 30px; max-width: 42ch; }
+.sw__final .sw__cta-row { justify-content: center; }
+
+/* ===================== FOOTER ===================== */
+.sw__footer { border-top: 1px solid var(--hairline); padding: 30px 0 48px; font-size: 13px; color: var(--faint); }
+.sw__footer-inner { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; width: 100%; }
+.sw__footer a { color: var(--muted); }
+.sw__footer a:hover { color: var(--orange); }
+
+/* ===================== RESPONSIVE ===================== */
+@media (max-width: 760px) {
+  .sw__hero { padding: 40px 0 64px; }
+  .sw__hero-grid { grid-template-columns: 1fr; gap: 36px; }
+  .sw__watch-stage { order: -1; }
+  .sw__feat { grid-template-columns: 48px 1fr; gap: 16px; }
+  .sw__feat-num { width: 44px; height: 44px; font-size: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .sw__glow { animation: none; }
+  .sw__cta { transition: none; }
+}
+</style>
+</head>
+<body>
+<main class="sw">
+
+  <!-- ========================= HERO ========================= -->
+  <header class="sw__hero">
+    <div class="sw__wrap sw__hero-grid">
+      <div class="sw__hero-copy">
+        <span class="sw__eyebrow">Wear OS · Foursquare Swarm</span>
+        <h1>Check in from <em>your wrist.</em></h1>
+        <p class="sw__lede">Swarma brings Swarm check-ins to your watch — find nearby places, check in, and earn sticker bonuses without reaching for your phone.</p>
+
+        <!-- ===== CTA (beta). For the Jekyll phase-switch, see the note I sent. ===== -->
+        <div class="sw__cta-row">
+          <a class="sw__cta" href="{{ site.swarma.beta_url | default: '#' }}">
+            Join the beta
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </a>
+          <span class="sw__cta-note">Closed testing on Google Play · Wear OS</span>
+        </div>
+      </div>
+
+      <div class="sw__watch-stage">
+        <div class="sw__glow" aria-hidden="true"></div>
+        <img class="sw__hero-img"
+             src="/assets/images/hero_swarma_home_01.png"
+             alt="Swarma running on a Pixel Watch, showing nearby venues and the last check-in">
+      </div>
+    </div>
+  </header>
+
+  <!-- ========================= GAP / WHY ========================= -->
+  <section class="sw__gap">
+    <div class="sw__wrap sw__gap-inner">
+      <h2>Swarm never made a watch app. <em>So I built one.</em></h2>
+      <p>If you check in on Swarm, your phone comes out a dozen times a day. Swarma puts the whole flow on your wrist — open it, and the places around you are already there, ranked by where you actually go.</p>
+    </div>
+  </section>
+
+  <!-- ========================= FEATURES ========================= -->
+  <section class="sw__features">
+    <div class="sw__wrap">
+      <div class="sw__feat">
+        <div class="sw__feat-num">01</div>
+        <div>
+          <h3>Nearby, the moment you raise your wrist</h3>
+          <p>Venues load as soon as you open Swarma — no menus, no searching. A quick Refresh at the top pulls a fresh list when you've moved.</p>
+        </div>
+      </div>
+      <div class="sw__feat">
+        <div class="sw__feat-num">02</div>
+        <div>
+          <h3>Your regular spots, first</h3>
+          <p>Places you check into often float to the top, and anywhere you've been before is highlighted — so your go-to spot is usually the first thing you tap.</p>
+        </div>
+      </div>
+      <div class="sw__feat">
+        <div class="sw__feat-num">03</div>
+        <div>
+          <h3>Stickers and bonuses, from the wrist</h3>
+          <p>Add a Swarm sticker to any check-in and earn the bonus points, right from your watch. Used stickers stay visible so you can always find the one you want.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================= FINAL CTA ========================= -->
+  <section class="sw__final">
+    <div class="sw__wrap">
+      <h2>Ready to check in from your wrist?</h2>
+      <p>Swarma is in closed testing on Google Play. Join the beta and help shape it.</p>
+      <div class="sw__cta-row">
+        <a class="sw__cta" href="{{ site.swarma.beta_url | default: '#' }}">
+          Join the beta
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========================= FOOTER ========================= -->
+  <footer class="sw__footer">
+    <div class="sw__wrap sw__footer-inner">
+      <span>Swarma is an independent app by Paul Berens. Not affiliated with Foursquare or Swarm.</span>
+      <a href="/swarma/privacy">Privacy</a>
+    </div>
+  </footer>
+
+</main>
+</body>
+</html>

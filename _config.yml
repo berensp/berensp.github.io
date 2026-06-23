@@ -19,7 +19,11 @@ collections:
     output: true
     permalink: /rides/:path/
 
-
+swarma:
+  phase: beta
+  beta_url: "YOUR_JOIN_ON_THE_WEB_TEST_LINK"
+  play_url: "https://play.google.com/store/apps/details?id=co.berens.swarma"
+  
 baseurl: ""
 permalink: /:categories/:title:output_ext
 markdown: kramdown
