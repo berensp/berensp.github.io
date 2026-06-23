@@ -21,7 +21,7 @@ collections:
 
 swarma:
   phase: beta
-  beta_url: "YOUR_JOIN_ON_THE_WEB_TEST_LINK"
+  beta_url: "https://groups.google.com/g/swarma-app-testing/about"
   play_url: "https://play.google.com/store/apps/details?id=co.berens.swarma"
   
 baseurl: ""
