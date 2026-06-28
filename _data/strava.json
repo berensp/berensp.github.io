@@ -1,11 +1,11 @@
 {
-  "name": "Postprandial stroll",
-  "type": "Walk",
-  "distance": "1.09",
-  "duration": 16,
-  "elevation": 18,
-  "date": "2026-06-25T01:31:42Z",
-  "url": "https://www.strava.com/activities/19056492838",
+  "name": "à la boucherie",
+  "type": "Ride",
+  "distance": "3.07",
+  "duration": 13,
+  "elevation": 58,
+  "date": "2026-06-28T00:03:49Z",
+  "url": "https://www.strava.com/activities/19091917012",
   "ytd_run_distance": "372.77",
-  "ytd_ride_distance": "210.60"
+  "ytd_ride_distance": "213.68"
 }
