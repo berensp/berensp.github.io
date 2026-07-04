@@ -25,12 +25,10 @@ jobs:
           STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
           STRAVA_ACCESS_TOKEN: ${{ secrets.STRAVA_ACCESS_TOKEN }}
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           node << 'EOF'
           const https = require('https');
           const fs = require('fs');
-          const { execSync } = require('child_process');
           
           const clientId = process.env.STRAVA_CLIENT_ID;
           const clientSecret = process.env.STRAVA_CLIENT_SECRET;
@@ -81,18 +79,13 @@ jobs:
             
             if (response.access_token) {
               accessToken = response.access_token;
-              console.log('Access token refreshed successfully');
-              
-              // Update GitHub secret with new access token
-              try {
-                execSync(`gh secret set STRAVA_ACCESS_TOKEN --body "${accessToken}"`, {
-                  env: { ...process.env, GH_TOKEN: process.env.GH_TOKEN }
-                });
-                console.log('GitHub secret updated');
-              } catch (error) {
-                console.warn('Warning: Could not update GitHub secret:', error.message);
+              // Register the new tokens with the runner's log masker so they can
+              // never appear in plaintext if an error message echoes them
+              console.log(`::add-mask::${response.access_token}`);
+              if (response.refresh_token) {
+                console.log(`::add-mask::${response.refresh_token}`);
               }
-              
+              console.log('Access token refreshed successfully');
               return response.access_token;
             } else {
               throw new Error('Failed to refresh token: ' + JSON.stringify(response));
@@ -148,16 +141,22 @@ jobs:
                   await refreshAccessToken();
                   console.log('Token refreshed, retrying fetch...');
                   activities = await getLatestActivity();
+                  if (activities.message || activities.errors) {
+                    throw new Error('API returned error after token refresh: ' + JSON.stringify(activities));
+                  }
                   console.log('Retry fetch successful');
                 } catch (refreshError) {
-                  console.error('Token refresh failed:', refreshError.message);
+                  if (refreshError.message.includes('"Inactive"')) {
+                    console.error('Strava reports this API application is inactive — check https://www.strava.com/settings/api');
+                  }
+                  console.error('Token refresh / retry failed:', refreshError.message);
                   throw refreshError;
                 }
               }
-              
+
               console.log('Activities received:', JSON.stringify(activities, null, 2));
-              
-              if (!activities || activities.length === 0) {
+
+              if (!Array.isArray(activities) || activities.length === 0) {
                 console.error('No activities found in response');
                 process.exit(1);
               }
@@ -170,7 +169,12 @@ jobs:
               let stats;
               try {
                 stats = await getAthleteStats();
-                console.log('Stats received:', JSON.stringify(stats, null, 2));
+                if (stats.message || stats.errors) {
+                  console.error('Stats request returned error:', JSON.stringify(stats));
+                  stats = null;
+                } else {
+                  console.log('Stats received:', JSON.stringify(stats, null, 2));
+                }
               } catch (error) {
                 console.error('Could not fetch stats:', error.message);
                 stats = null;
