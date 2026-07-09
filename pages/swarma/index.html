@@ -8,10 +8,16 @@ permalink: /swarma/
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Swarma — Foursquare Swarm check-ins for Wear OS</title>
-<meta name="description" content="Swarma brings Foursquare Swarm check-ins to your Wear OS watch. Find nearby places, check in, and earn sticker bonuses — without reaching for your phone.">
+<meta name="description" content="Swarma brings Foursquare Swarm check-ins to your Wear OS watch. Find nearby places, check in, and earn sticker bonuses...without reaching for your phone.">
 <meta property="og:image" content="https://berens.co/assets/og/swarma_og.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:title" content="Swarma: Foursquare Swarm check-ins for Wear OS">
+<meta property="og:description" content="Check in from your wrist. Find nearby places, check in, and earn sticker bonuses...without reaching for your phone.">
+<meta property="og:url" content="https://berens.co/swarma/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://berens.co/assets/og/swarma_og.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="icon" type="image/png" href="/assets/images/favicon/favicon-96x96.png" sizes="96x96">
@@ -79,17 +85,12 @@ permalink: /swarma/
   max-width: 32ch; margin: 22px 0 34px;
 }
 .sw__cta-row { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
-.sw__cta {
-  font-family: var(--display); font-weight: 600; font-size: 1.02rem;
-  letter-spacing: -0.01em; color: #1a1208; background: var(--orange);
-  padding: 15px 28px; border-radius: 999px;
-  display: inline-flex; align-items: center; gap: 10px; min-height: 48px;
-  transition: transform .15s ease, background .15s ease, box-shadow .15s ease;
-}
-.sw__cta:hover { background: var(--orange-hi); transform: translateY(-1px); box-shadow: 0 8px 28px -8px rgba(240,109,31,0.7); }
-.sw__cta:focus-visible { outline: 3px solid var(--orange-hi); outline-offset: 3px; }
-.sw__cta svg { width: 18px; height: 18px; }
 .sw__cta-note { font-family: var(--mono); font-size: 11.5px; letter-spacing: 0.04em; color: var(--faint); }
+
+.sw__badge img { height: 64px; width: auto; display: block; }
+.sw__badge { transition: transform .15s ease; display: inline-block; }
+.sw__badge:hover { transform: translateY(-1px); }
+.sw__badge:focus-visible { outline: 3px solid var(--orange-hi); outline-offset: 3px; }
 
 /* hero image (transparent watch render) + glow behind the face */
 .sw__watch-stage { display: grid; place-items: center; position: relative; }
@@ -163,7 +164,7 @@ permalink: /swarma/
 }
 @media (prefers-reduced-motion: reduce) {
   .sw__glow { animation: none; }
-  .sw__cta { transition: none; }
+  .sw__badge { transition: none; }
 }
 </style>
 </head>
@@ -178,13 +179,12 @@ permalink: /swarma/
         <h1>Check in from <em>your wrist.</em></h1>
         <p class="sw__lede">Swarma brings Swarm check-ins to your smartwatch. Find nearby places, check in, and earn sticker bonuses without reaching for your phone.</p>
 
-        <!-- ===== CTA (beta). For the Jekyll phase-switch, see the note I sent. ===== -->
+        <!-- ===== CTA ===== -->
         <div class="sw__cta-row">
-          <a class="sw__cta" href="{{ site.swarma.beta_url | default: '#' }}" target="_blank">
-            Join the beta
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          <a class="sw__badge" href="{{ site.swarma.play_url | default: '#' }}" target="_blank" rel="noopener">
+            <img src="/assets/images/swarma/google-play-badge.svg" alt="Get it on Google Play">
           </a>
-          <span class="sw__cta-note">For Pixel Watch, Galaxy Watch, and other Wear OS watches.</span>
+          <span class="sw__cta-note">For Pixel Watch, Galaxy Watch, and other Wear OS devices.</span>
         </div>
       </div>
 
@@ -236,11 +236,10 @@ permalink: /swarma/
   <section class="sw__final">
     <div class="sw__wrap">
       <h2>Join us, Mayor</h2>
-      <p>Swarma is in Closed Testing on Google Play, so if you join the beta you can start using the app now as well as help shape it.</p>
+      <p>Swarma is now on Google Play for Pixel Watch, Galaxy Watch, and other Wear OS devices.</p>
       <div class="sw__cta-row">
-        <a class="sw__cta" href="{{ site.swarma.beta_url | default: '#' }}" target="_blank">
-          Join the beta
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        <a class="sw__badge" href="{{ site.swarma.play_url | default: '#' }}" target="_blank" rel="noopener">
+          <img src="/assets/images/swarma/google-play-badge.svg" alt="Get it on Google Play">
         </a>
       </div>
     </div>
@@ -249,7 +248,7 @@ permalink: /swarma/
   <!-- ========================= FOOTER ========================= -->
   <footer class="sw__footer">
   <div class="sw__wrap sw__footer-inner">
-    <span>Swarma is an independent app by Paul Berens and is not affiliated with Foursquare nor Swarm.</span>
+    <span>Swarma is an independent app by Paul Berens and is not affiliated with Foursquare nor Swarm. Google Play and the Google Play logo are trademarks of Google LLC.</span>
     <div style="display:flex; align-items:center; gap:16px;">
       <a href="https://x.com/swarma_app" target="_blank" rel="noopener" aria-label="Swarma on X">
         <svg width="15" height="15" viewBox="0 0 1200 1227" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
