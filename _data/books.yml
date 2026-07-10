@@ -2,35 +2,30 @@
 
 # Last Read
 
-- title: "Avenue of Mysteries"
-  author: "John Irving"
+- title: "The Hitchhiker's Guide to the Galaxy"
+  author: "Douglas Adams"
   category: "Last Read"
-  review_slug: "ave-mysteries"
 
 # Presently Reading
 
-- title: "The Hitchhiker's Guide to the Galaxy"
-  author: "Douglas Adams"
+- title: "Range"
+  author: "David Epstein"
   category: "Presently Reading"
 
 # On Deck
 
-- title: "Range"
-  author: "David Epstein"
+- title: "The Divine Comedy"
+  author: "Dante Alighieri"
   category: "On Deck"
 
 # Near Term
 
-- title: "The Imitation of Christ"
-  author: "Thomas à Kempis"
-  category: "Near Term"
-
-- title: "The Iliad"
-  author: "Homer"
-  category: "Near Term"
-
 - title: "The Shipping News"
   author: "Annie Proulx"
+  category: "Near Term"
+
+- title: "The Imitation of Christ"
+  author: "Thomas à Kempis"
   category: "Near Term"
 
 - title: "Bridge of Sighs"
@@ -98,6 +93,11 @@
   category: "Favourites"
 
 # Miscellany
+
+- title: "Avenue of Mysteries"
+  author: "John Irving"
+  category: "Miscellany"
+  review_slug: "ave-mysteries"
 
 - title: "King Arthur and His Knights of the Round Table"
   author: "Roger Lancelyn Green"
