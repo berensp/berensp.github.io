@@ -1,92 +1,382 @@
 # _data/rosary_mysteries.yml
-- day: Sunday
-  set: Glorious
-  mysteries:
-    - name: The Resurrection
-      fruit: Faith and Joy
-    - name: The Ascension
-      fruit: Hope and Desire for Heaven
-    - name: The Descent of the Holy Spirit
-      fruit: Wisdom and Love of God, Zeal for Souls
-    - name: The Assumption
-      fruit: Devotion to Mary, Union with God
-    - name: The Coronation of Mary
-      fruit: Eternal Happiness and Trust in Mary's Intercession
-- day: Monday
-  set: Joyful
-  mysteries:
-    - name: The Annunciation
-      fruit: Humility, Silence
-    - name: The Visitation
-      fruit: Charity, Thoughtfulness
-    - name: The Nativity
-      fruit: Poverty and Detachment
-    - name: The Presentation in the Temple
-      fruit: Obedience and Purity
-    - name: The Finding in the Temple
-      fruit: Piety and Joy in Finding Jesus
-- day: Tuesday
-  set: Sorrowful
-  mysteries:
-    - name: The Agony in the Garden
-      fruit: Sorrow for Sin and Conformity to God's Will
-    - name: The Scourging at the Pillar
-      fruit: Purity and Mortification
-    - name: The Crowning with Thorns
-      fruit: Moral Courage
-    - name: The Carrying of the Cross
-      fruit: Patience, Fortitude
-    - name: The Crucifixion and Death
-      fruit: Perseverance and Salvation
-- day: Wednesday
-  set: Glorious
-  mysteries:
-    - name: The Resurrection
-      fruit: Faith, Joy
-    - name: The Ascension
-      fruit: Hope and Desire for Heaven
-    - name: The Descent of the Holy Spirit
-      fruit: Wisdom and Love of God
-    - name: The Assumption of Mary
-      fruit: Devotion to Mary
-    - name: The Coronation of the Virgin
-      fruit: Eternal Happiness and Trust in Mary's Intercession
-- day: Thursday
-  set: Luminous
-  mysteries:
-    - name: The Baptism in the Jordan
-      fruit: Gratitude, Missionary Zeal
-    - name: The Wedding at Cana
-      fruit: Faith in Christ's Power
-    - name: The Proclamation of the Kingdom
-      fruit: Conversion and Repentance
-    - name: The Transfiguration
-      fruit: Desire for Holiness
-    - name: The Institution of the Eucharist
-      fruit: Adoration and Thanksgiving
-- day: Friday
-  set: Sorrowful
-  mysteries:
-    - name: The Agony in the Garden
-      fruit: Sorrow for Sin and Conformity to God's Will
-    - name: The Scourging at the Pillar
-      fruit: Purity and Mortification
-    - name: The Crowning with Thorns
-      fruit: Moral Courage
-    - name: The Carrying of the Cross
-      fruit: Fortitude and Patience
-    - name: The Crucifixion and Death of our Lord
-      fruit: Perseverance and Salvation
-- day: Saturday
-  set: Joyful
-  mysteries:
+#
+# days: which set of mysteries is customarily prayed each day of the week
+#       (order matters — index 0 is Sunday, matching JavaScript's Date.getDay())
+# sets: the five mysteries of each set, with meditative components adapted
+#       from the iBreviary Holy Rosary aids:
+#   fruit       — the traditional fruit (grace) of the mystery
+#   thought     — examination questions for meditation
+#   resolution  — the intention prayed for
+#   offering    — offering of the decade
+#   acclamation — aspiration for the grace of the mystery
+#   holy_name   — expansion on the Holy Name during the Hail Mary, said as
+#                 "…and blessed is the fruit of thy womb, Jesus, <holy_name>. Holy Mary…"
+days:
+  - day: Sunday
+    set: Glorious
+  - day: Monday
+    set: Joyful
+  - day: Tuesday
+    set: Sorrowful
+  - day: Wednesday
+    set: Glorious
+  - day: Thursday
+    set: Luminous
+  - day: Friday
+    set: Sorrowful
+  - day: Saturday
+    set: Joyful
+sets:
+  Joyful:
     - name: The Annunciation
       fruit: Humility and Silence
+      thought: >-
+        Do I open my heart and mind to hear the voice of God calling me to do
+        His will? Do I say yes to His will regardless of the possible
+        consequences to myself?
+      resolution: >-
+        I pray that I open my heart and mind to the will of God in my life,
+        following the example given to me by my Holy Mother, the Virgin Mary.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your Incarnation, in
+        which you humbled yourself to take flesh of your holy Mother. Through
+        this mystery and her intercession I ask for humility of heart.
+      acclamation: >-
+        May the grace of the mystery of the Incarnation come into me and make
+        me truly humble.
+      holy_name: who humbled himself and became man for our salvation
     - name: The Visitation
       fruit: Charity and Thoughtfulness
+      thought: >-
+        Do I look outside of myself for opportunities to serve others? Do I
+        humbly serve the will of God, or do I look for personal recognition
+        for what I do?
+      resolution: >-
+        I pray that I put my faith into action through service to others in
+        need.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of the Visitation of
+        your holy Mother to her cousin Elizabeth. Through this mystery and the
+        intercession of Mary I ask for a perfect love of my neighbor.
+      acclamation: >-
+        May the grace of the mystery of the Visitation come into me and make
+        me truly charitable.
+      holy_name: who sanctifies all things and causes them to rejoice
     - name: The Nativity
       fruit: Poverty and Detachment
-    - name: The Presentation of the Lord
+      thought: >-
+        Am I easily distracted by worldly possessions and other temptations?
+        Do I humbly bring Christ into this world through my prayers, thoughts,
+        words, and actions?
+      resolution: >-
+        I pray that the things of this world do not distract my focus away
+        from what is truly important—God's presence in my life and His will
+        for me.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your holy Birth.
+        Through this mystery and the intercession of your blessed Mother I ask
+        for detachment from the things of this world, love of poverty, and
+        love of the poor.
+      acclamation: >-
+        May the grace of the Birth of Jesus come into me and make me truly
+        poor in spirit.
+      holy_name: born for us
+    - name: The Presentation in the Temple
       fruit: Obedience and Purity
-    - name: The Finding of the Lord in the Temple
-      fruit: Piety and Perseverance
+      thought: >-
+        Do I turn to the traditions and laws of the Church—and to devotions
+        like this Rosary—to guide and direct me to God?
+      resolution: >-
+        I pray that I might use suffering in my life to bring me closer to
+        God, as shown to me by the lives of Jesus and Mary.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your Presentation in
+        the temple by the hands of Mary. Through this mystery and her
+        intercession I ask for the grace to always be dedicated to your will,
+        and the gift of purity of heart and body.
+      acclamation: >-
+        May the grace of the mystery of the Presentation come into me and make
+        me pure and wholly dedicated to the will of God.
+      holy_name: dedicated to the will of God
+    - name: The Finding in the Temple
+      fruit: Piety and Joy in Finding Jesus
+      thought: >-
+        When I lose Jesus in my daily life, do I search for Him as I would my
+        lost child? Do I know where to find Him—busy with His Father's
+        affairs?
+      resolution: >-
+        I pray that in those times when I feel I have lost Jesus in my life, I
+        remember that He has not lost me.
+      offering: >-
+        I offer you, Lord Jesus, this decade to honor Mary's finding you in
+        the temple among the learned men. Through this mystery and her
+        intercession I ask for true wisdom, to be converted to your holy
+        teaching and to guide others to you, the only Way, Truth, and Life.
+      acclamation: >-
+        May the grace of the mystery of the Finding in the Temple come into me
+        that I may be truly converted.
+      holy_name: who teaches us the will of the Father
+  Luminous:
+    - name: The Baptism in the Jordan
+      fruit: Gratitude and Missionary Zeal
+      thought: >-
+        How do I live out faithfully the promises of my own baptism? Is it
+        lived in a public way?
+      resolution: >-
+        I pray that each day my faith grows and is strengthened through the
+        power and mystery of Christ's baptism.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your humble Baptism.
+        Through this mystery and the intercession of your holy Mother I ask
+        for a lively faith.
+      acclamation: >-
+        May the grace of your Baptism come into me and make me truly faithful
+        to the promises of my own baptism.
+      holy_name: who was baptized for our sake
+    - name: The Wedding at Cana
+      fruit: Faith in Christ's Power
+      thought: >-
+        Am I becoming more faithful in doing whatever the Lord asks of me? Do
+        I allow the simple gifts I have received to be transformed in Christ's
+        hands into something joyful and life-giving for others?
+      resolution: >-
+        I pray that each day I become more sensitive to the needs of those
+        around me and respond with kindness and charity.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your preaching and
+        miracles on behalf of those in need. Through this mystery and the
+        intercession of your holy Mother I ask for a lively faith and constant
+        charity.
+      acclamation: >-
+        May the grace of your power come into me and help me respond to the
+        needs of others.
+      holy_name: mighty worker of miracles
+    - name: The Proclamation of the Kingdom
+      fruit: Conversion and Repentance
+      thought: >-
+        When was the last time I realized my need for continuous conversion
+        and repentance? Do I make regular use of the grace offered in the
+        Sacrament of Penance?
+      resolution: >-
+        I pray that each day I may proclaim more authentically the coming of
+        God's kingdom of justice and peace in word and deed.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your preaching the
+        coming of God's Kingdom among us. Through this mystery and the
+        intercession of your holy Mother I ask to be converted to you more
+        deeply each day.
+      acclamation: >-
+        May the grace of your preaching of the Kingdom of God strengthen my
+        witness to that Kingdom.
+      holy_name: mighty preacher of God's Kingdom
+    - name: The Transfiguration
+      fruit: Desire for Holiness
+      thought: >-
+        When have I allowed the grace of God to transfigure me into light for
+        my world? Do I take time apart from my daily responsibilities to sit
+        and rejoice with Jesus?
+      resolution: >-
+        I pray that I may more and more be a living light, witnessing to
+        Christ by all that I say and do.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your Transfiguration.
+        Through this mystery and the intercession of your holy Mother I ask to
+        grow in your light and to scatter whatever darkness I may encounter.
+      acclamation: >-
+        May the grace of your Transfiguration strengthen my witness to your
+        light.
+      holy_name: transfigured in light
+    - name: The Institution of the Eucharist
+      fruit: Adoration and Thanksgiving
+      thought: >-
+        How do I allow my reception of the Eucharist to truly transform me
+        into Christ for others? Am I well prepared for the celebration of Mass?
+      resolution: >-
+        I pray that I may more and more be the Body and Blood of Christ that I
+        receive.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your gift of the
+        Eucharist to us. Through this mystery and the intercession of your
+        holy Mother I ask to grow in my openness to the Holy Spirit.
+      acclamation: >-
+        May the grace of your Body and Blood strengthen me in all I do.
+      holy_name: Bread and Cup of Life
+  Sorrowful:
+    - name: The Agony in the Garden
+      fruit: Sorrow for Sin and Conformity to God's Will
+      thought: >-
+        Do I choose God's will over my own despite my fear and doubt? When I
+        am suffering and in pain, do I turn to God, or do I fall into despair
+        and self-pity?
+      resolution: >-
+        I pray that I learn to hear the voice of God in my suffering and
+        answer His call.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your intense Agony in
+        the garden of Olives. Through this mystery and the intercession of
+        your holy Mother I ask for perfect sorrow for my sins and perfect
+        conformity to your holy will.
+      acclamation: >-
+        May the grace of the Agony of Jesus come into me and make me truly
+        contrite and perfectly obedient to the will of God.
+      holy_name: in agony because of our sins
+    - name: The Scourging at the Pillar
+      fruit: Purity and Mortification
+      thought: >-
+        How often do I go along with the crowd, even when I know it is wrong?
+        Am I willing to endure ridicule, pain, and suffering to do the right
+        thing?
+      resolution: >-
+        I pray for the strength to follow Jesus's example in the scourging—to
+        do what is right, not what is popular.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your cruel Scourging.
+        Through this mystery and the intercession of your holy Mother I ask
+        for the grace to mortify my senses.
+      acclamation: >-
+        May the grace of the Scourging of Jesus come into me and make me truly
+        mortified.
+      holy_name: scourged in our stead
+    - name: The Crowning with Thorns
+      fruit: Moral Courage
+      thought: >-
+        Do I back down from Christ's path when challenged or made fun of for
+        choosing His way? How often have I joined in on the humiliation of
+        another person?
+      resolution: >-
+        I pray that I never allow ridicule or embarrassment to deter me from
+        Christ's way.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your Crowning with
+        Thorns. Through this mystery and the intercession of your holy Mother
+        I ask for a deep contempt for the things of the world.
+      acclamation: >-
+        May the grace of the mystery of the Crowning with Thorns come into me
+        and make me truly opposed to the world.
+      holy_name: crowned with thorns to crown us with glory
+    - name: The Carrying of the Cross
+      fruit: Patience and Fortitude
+      thought: >-
+        Do I act, like Jesus, with complete selflessness in my times of
+        suffering? Do I see the Son of God in the strangers around me, as
+        Simon could not?
+      resolution: >-
+        I pray that I carry my cross lightly, remembering that Jesus is there
+        to help me carry it—for on my own, I am incapable.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your Carrying of the
+        Cross. Through this mystery and the intercession of your holy Mother I
+        ask for great patience in carrying my cross after you all the days of
+        my life.
+      acclamation: >-
+        May the grace of the mystery of the Carrying of the Cross come into me
+        and make me truly patient.
+      holy_name: who bore my sins to Calvary
+    - name: The Crucifixion
+      fruit: Perseverance and Salvation
+      thought: >-
+        In my trials and tribulations, do I become a selfish, self-pitying,
+        resentful creature? Do I despair?
+      resolution: >-
+        I pray that I may follow Christ's example even in my most difficult
+        times and continue my mission of faith and hope.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your Crucifixion on
+        Mount Calvary. Through this mystery and the intercession of your holy
+        Mother I ask for a great horror of sin, a love for the Cross, and the
+        grace of a holy death—for us and for those who are now in their last
+        agony.
+      acclamation: >-
+        May the grace of the mystery of the Crucifixion come into me and make
+        me truly holy.
+      holy_name: crucified for our salvation
+  Glorious:
+    - name: The Resurrection
+      fruit: Faith and Joy
+      thought: >-
+        Do I have faith that God will fulfill His promise to me in my life?
+      resolution: >-
+        I pray that each day my faith grows and is strengthened through the
+        power and mystery of Christ's Resurrection.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your triumphant
+        Resurrection. Through this mystery and the intercession of your holy
+        Mother I ask for a lively faith.
+      acclamation: >-
+        May the grace of the Resurrection come into me and make me truly
+        faithful.
+      holy_name: who rose and conquered death and hell
+    - name: The Ascension
+      fruit: Hope and Desire for Heaven
+      thought: >-
+        Does Jesus's Ascension into heaven strengthen my faith and hope each
+        day? Do I allow the Holy Spirit to come to me to guide and direct my
+        life?
+      resolution: >-
+        I pray that I find faith and hope in Christ's Ascension, so I too
+        might follow Him to the Father.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of your glorious
+        Ascension. Through this mystery and the intercession of your holy
+        Mother I ask for a firm hope and a great longing for heaven.
+      acclamation: >-
+        May the grace of the mystery of the Ascension come into me and prepare
+        me for heaven.
+      holy_name: who ascended to heaven to prepare a place for me
+    - name: The Descent of the Holy Spirit
+      fruit: Wisdom and Love of God
+      thought: >-
+        Do I accept the Holy Spirit into my life to give me strength and
+        wisdom? Do I listen to and follow the Holy Spirit's instructions?
+      resolution: >-
+        I pray that I follow the Holy Spirit's direction to become an
+        instrument of God in this world.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of the mystery of
+        Pentecost, in which the Holy Spirit descended in power on the
+        apostles. Through this mystery and the intercession of Mary, the
+        Spirit's most holy Spouse, I ask for your holy wisdom, that I may
+        know, taste, and practice your truth and share it with everyone.
+      acclamation: >-
+        May the grace of Pentecost come into me and make me truly wise in the
+        eyes of God.
+      holy_name: who has sent us a Comforter, Guide, and Helper
+    - name: The Assumption
+      fruit: Devotion to Mary
+      thought: >-
+        Do I try to follow Mary's example by saying yes when I am called upon
+        to do God's will? Are my faith and hope strengthened by her
+        Assumption, body and soul, into heaven?
+      resolution: >-
+        I pray that I am given strength and grace each day, so that I am
+        prepared to say "yes" when I am called to do the will of God.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of the Assumption of
+        your holy Mother into heaven, body and soul. Through this mystery and
+        her intercession I ask for the gift of true devotion to her, in order
+        to live a good life and have a happy death.
+      acclamation: >-
+        May the grace of the Assumption of Mary come into me and make me truly
+        devoted to her.
+      holy_name: >-
+        who raised you to be with him forever, as a promise for all his
+        faithful followers
+    - name: The Coronation of Mary
+      fruit: Eternal Happiness and Trust in Mary's Intercession
+      thought: >-
+        Do I follow Mary's example each day? Do I open my heart to receive the
+        grace of God through the Holy Spirit?
+      resolution: >-
+        I pray that with the help of Mary's intercession I may be brought to
+        Christ in heaven, to share fully in God the Father's presence for
+        eternity.
+      offering: >-
+        I offer you, Lord Jesus, this decade in honor of the Crowning in glory
+        of your holy Mother in heaven. Through this mystery and her
+        intercession I ask for perseverance and an increase in virtue up to
+        the moment of death, and thereafter the eternal crown that is prepared
+        for us.
+      acclamation: >-
+        May the grace of the mystery of the Coronation come into me and help
+        me persevere in grace to the end.
+      holy_name: who crowned and exalted you, his most faithful disciple
