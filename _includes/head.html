@@ -42,6 +42,17 @@
 
   <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
 
+  <script>
+    // Theme switcher - apply saved theme before page renders to prevent flash
+    (function() {
+      const savedTheme = localStorage.getItem('theme');
+      // Default to dark, only apply light if explicitly saved
+      if (savedTheme === 'light') {
+        document.documentElement.setAttribute('data-theme', 'light');
+      }
+    })();
+  </script>
+
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS feed" href="{{ site.url }}/feed.xml" />
   <link rel="icon" href="/assets/favicon.ico" sizes="32x32">
   <link rel="icon" href="/assets/192.png" type="image/png" sizes="192x192">

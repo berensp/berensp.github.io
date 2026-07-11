@@ -1,8 +1,59 @@
-/* CSS Custom Properties for Light/Dark Mode */
+/* CSS Custom Properties - Dark Mode by Default */
 :root {
-  color-scheme: light dark;
+  color-scheme: dark light;
 
-  /* Light mode colors (default) */
+  /* Dark mode colors (default) */
+  --text-color: #c9d1d9;
+  --bg-color: #01242e;
+  --heading-color: #e6edf3;
+  --link-color: #8CC2DD;
+  --strong-color: #8CC2DD;
+  --muted-color: #8b949e;
+  --border-color: #0a3a47;
+  --border-light: #073340;
+
+  /* Code colors */
+  --code-bg: #032833;
+  --code-text: #ff7eb6;
+  --pre-bg: #032833;
+  --pre-text: #c9d1d9;
+  --pre-border: #0a3a47;
+
+  /* UI element colors */
+  --tag-bg: #073340;
+  --tag-hover-bg: #0a3a47;
+  --blockquote-bg: #032833;
+  --blockquote-border: #8CC2DD;
+  --focus-border: #8CC2DD;
+  --focus-shadow: rgba(140, 194, 221, 0.3);
+
+  /* Footnote colors */
+  --footnote-color: #8b949e;
+
+  /* Table colors */
+  --table-border: #0a3a47;
+  --table-header-bg: rgba(255, 255, 255, 0.05);
+  --table-section-header-bg: rgba(140, 194, 221, 0.15);
+  --table-current-row-bg: transparent;
+  --table-accent-border: #8CC2DD;
+
+  /* Input colors */
+  --input-bg: #011a23;
+  --input-border: #0a3a47;
+
+  /* Highlight colors */
+  --mark-yellow: rgba(200, 180, 100, 0.3);
+  --mark-turquoise: rgb(56, 139, 129);
+  --mark-lilac: rgb(137, 87, 168);
+  --mark-gray: rgb(110, 118, 129);
+  --notabene-text: #8b949e;
+}
+
+/* Light mode colors (when toggled) */
+html[data-theme="light"] {
+  color-scheme: light;
+
+  /* Light mode colors */
   --text-color: #222;
   --bg-color: #fafafa;
   --heading-color: #111;
@@ -47,56 +98,6 @@
   --mark-lilac: rgb(243, 228, 255);
   --mark-gray: rgb(211, 211, 211);
   --notabene-text: rgb(79, 79, 79);
-}
-
-/* Dark mode colors */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text-color: #c9d1d9;
-    --bg-color: #01242e;
-    --heading-color: #e6edf3;
-    --link-color: #8CC2DD;
-    --strong-color: #8CC2DD;
-    --muted-color: #8b949e;
-    --border-color: #0a3a47;
-    --border-light: #073340;
-
-    /* Code colors */
-    --code-bg: #032833;
-    --code-text: #ff7eb6;
-    --pre-bg: #032833;
-    --pre-text: #c9d1d9;
-    --pre-border: #0a3a47;
-
-    /* UI element colors */
-    --tag-bg: #073340;
-    --tag-hover-bg: #0a3a47;
-    --blockquote-bg: #032833;
-    --blockquote-border: #8CC2DD;
-    --focus-border: #8CC2DD;
-    --focus-shadow: rgba(140, 194, 221, 0.3);
-
-    /* Footnote colors */
-    --footnote-color: #8b949e;
-
-    /* Table colors */
-    --table-border: #0a3a47;
-    --table-header-bg: rgba(255, 255, 255, 0.05);
-    --table-section-header-bg: rgba(140, 194, 221, 0.15);
-    --table-current-row-bg: transparent;
-    --table-accent-border: #8CC2DD;
-
-    /* Input colors */
-    --input-bg: #011a23;
-    --input-border: #0a3a47;
-
-    /* Highlight colors - adjusted for dark mode */
-    --mark-yellow: rgba(200, 180, 100, 0.3);
-    --mark-turquoise: rgb(56, 139, 129);
-    --mark-lilac: rgb(137, 87, 168);
-    --mark-gray: rgb(110, 118, 129);
-    --notabene-text: #8b949e;
-  }
 }
 
 body {
