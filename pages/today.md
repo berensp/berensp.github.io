@@ -9,7 +9,7 @@ ogimage: berens_co_today.jpg
   <thead>
     <tr>
       <th style="width: 40px">Time</th>
-      <th>Task <span id="notify-icon"></span></th>
+      <th>Task</th>
     </tr>
   </thead>
   <tbody id="schedule-body">
@@ -193,88 +193,8 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  function stripTaskHtml(html) {
-    const tmp = document.createElement('div');
-    tmp.innerHTML = html;
-    tmp.querySelectorAll('input[placeholder]').forEach(el => el.replaceWith(el.placeholder));
-    return tmp.textContent.trim();
-  }
-
-  function emojiIconUrl(emoji) {
-    const canvas = document.createElement('canvas');
-    canvas.width = 64; canvas.height = 64;
-    const ctx = canvas.getContext('2d');
-    ctx.font = '52px serif';
-    ctx.textAlign = 'center';
-    ctx.textBaseline = 'middle';
-    ctx.fillText(emoji, 32, 34);
-    return canvas.toDataURL();
-  }
-
-  const notificationIcon = emojiIconUrl('⏰');
-  const notifiedMinutes = new Set();
-
-  function checkAndNotify() {
-    if (Notification.permission !== 'granted') return;
-    const now = new Date();
-    const currentDay = new Intl.DateTimeFormat('en-US', {
-      timeZone: 'America/Los_Angeles', weekday: 'long'
-    }).format(now).toLowerCase();
-    const todaysTasks = siteData.quotidie[currentDay];
-    if (!todaysTasks) return;
-
-    const tParts = new Intl.DateTimeFormat('en-US', {
-      timeZone: 'America/Los_Angeles', hour: '2-digit', minute: '2-digit', hourCycle: 'h23'
-    }).formatToParts(now);
-    const hh = tParts.find(p => p.type === 'hour').value.padStart(2, '0');
-    const mm = tParts.find(p => p.type === 'minute').value.padStart(2, '0');
-    const currentHHMM = `${hh}:${mm}`; // always "07:30" format
-
-    todaysTasks.forEach(taskObj => {
-      if (!taskObj.time) return;
-      const key = taskObj.time + '|' + taskObj.task;
-      if (taskObj.time === currentHHMM && !notifiedMinutes.has(key)) {
-        notifiedMinutes.add(key);
-        const label = stripTaskHtml(taskObj.task);
-        try {
-          const n = new Notification(label, { icon: '/assets/images/apple-touch-icon.png' });
-          n.onclick = () => { window.focus(); n.close(); };
-        } catch(e) {}
-      }
-    });
-  }
-
-  function initNotifications() {
-    const icon = document.getElementById('notify-icon');
-    if (!icon || !('Notification' in window)) return;
-
-    if (Notification.permission === 'granted') {
-      icon.textContent = '🔔';
-      icon.title = 'Notifications enabled';
-    } else if (Notification.permission !== 'denied') {
-      icon.textContent = '🔕';
-      icon.style.cursor = 'pointer';
-      icon.title = 'Enable notifications';
-      icon.onclick = () => {
-        Notification.requestPermission().then(perm => {
-          if (perm === 'granted') {
-            try { new Notification('Notifications enabled', { icon: notificationIcon }); } catch(e) {}
-            icon.textContent = '🔔';
-            icon.title = 'Notifications enabled';
-            icon.style.cursor = 'default';
-            icon.onclick = null;
-          } else {
-            icon.textContent = '';
-          }
-        });
-      };
-    }
-  }
-
   updateTimeElements();
-  checkAndNotify();
-  setInterval(() => { updateTimeElements(); checkAndNotify(); }, 60000);
-  initNotifications();
+  setInterval(updateTimeElements, 60000);
 });
 </script>
 
