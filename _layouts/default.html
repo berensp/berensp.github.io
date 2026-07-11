@@ -3,5 +3,47 @@
   {%- include head.html -%}
   <body>
     {{ content }}
+
+    <script>
+      // Theme toggle functionality
+      (function() {
+        const toggle = document.getElementById('theme-toggle');
+        if (!toggle) return;
+
+        const icon = toggle.querySelector('.theme-icon');
+
+        function updateIcon(theme) {
+          icon.textContent = theme === 'light' ? '🌙' : '☀️';
+        }
+
+        // Set initial icon based on current theme
+        const currentTheme = document.documentElement.getAttribute('data-theme');
+        updateIcon(currentTheme || 'dark');
+
+        // Handle toggle click
+        toggle.addEventListener('click', function() {
+          const currentTheme = document.documentElement.getAttribute('data-theme');
+          const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+
+          if (newTheme === 'light') {
+            document.documentElement.setAttribute('data-theme', 'light');
+            localStorage.setItem('theme', 'light');
+          } else {
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.removeItem('theme');
+          }
+
+          updateIcon(newTheme);
+        });
+
+        // Add hover effect
+        toggle.addEventListener('mouseenter', function() {
+          this.style.opacity = '1';
+        });
+        toggle.addEventListener('mouseleave', function() {
+          this.style.opacity = '0.7';
+        });
+      })();
+    </script>
   </body>
 </html>
