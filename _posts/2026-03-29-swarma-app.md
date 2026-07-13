@@ -4,7 +4,7 @@ title: "Swarma"
 date: 2026-03-29
 author: Paul Berens
 tags: ["tech","product"]
-ogimage: post_pixel.watch.swarma.png
+ogimage: swarma/pixel.app.drawer.png
 description: What vibe-coding a wearable app taught me about where the hard parts have shifted.
 ---
 I'm old school fringe consumer tech: [Path](https://en.wikipedia.org/wiki/Path_(social_network)) for social media, [Songza](https://en.wikipedia.org/wiki/Songza) for music, Foursquare—now [Swarm](https://swarmapp.com/)—for lifelogging.
@@ -33,7 +33,7 @@ Vibe-coding scales to unfamiliar platforms as long as you can identify and decom
 
 The whole thing—from opening Android Studio for the first time to checking into a Foursquare venue from my watch—took about an afternoon (a.k.a. naptime) to get sorted.
 
-<p><img src="/assets/og/post_pixel.watch.swarma.png" alt="Swarma on Pixel Watch" style="width: 70%;"><span class="muted small">Swarma v1.0, now in closed testing on the Play Store.</span></p>
+<p><img src="/assets/og/swarma/pixel.app.drawer.png" alt="Swarma on Pixel Watch" style="width: 70%;"><span class="muted small">Swarma v1.0, now in closed testing on the Play Store.</span></p>
 
 Swarm lives on the Pixel Watch 🤘
 
