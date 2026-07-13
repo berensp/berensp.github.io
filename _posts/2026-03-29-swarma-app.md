@@ -33,7 +33,7 @@ Vibe-coding scales to unfamiliar platforms as long as you can identify and decom
 
 The whole thing—from opening Android Studio for the first time to checking into a Foursquare venue from my watch—took about an afternoon (a.k.a. naptime) to get sorted.
 
-<p><img src="/assets/og/swarma/pixel.app.drawer.png" alt="Swarma on Pixel Watch" style="width: 70%;"><span class="muted small">Swarma v1.0, now in closed testing on the Play Store.</span></p>
+<p><img src="/assets/og/swarma/pixel.app.drawer.png" alt="Swarma on Pixel Watch"><span class="muted small">Swarma v1.0, now in closed testing on the Play Store.</span></p>
 
 Swarm lives on the Pixel Watch 🤘
 
