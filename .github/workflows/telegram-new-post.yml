@@ -1,0 +1,200 @@
+name: Announce New Post to Telegram
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '_posts/**'
+  workflow_dispatch: # Manual trigger, e.g. to (re)announce a specific post
+    inputs:
+      post_path:
+        description: 'Post to announce (e.g. _posts/2026-07-15-my-post.md). Leave blank for the latest post.'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install js-yaml
+        run: npm install js-yaml
+
+      - name: Determine posts to announce
+        id: detect
+        env:
+          POST_PATH: ${{ github.event.inputs.post_path }}
+          BEFORE_SHA: ${{ github.event.before }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            if [ -n "$POST_PATH" ]; then
+              echo "$POST_PATH" > new_posts.txt
+            else
+              # Latest post by filename (YYYY-MM-DD prefix sorts chronologically)
+              ls _posts/*.md | sort | tail -1 > new_posts.txt
+            fi
+          else
+            # Only announce files ADDED in this push (edits to old posts don't count)
+            if git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+              git diff --name-only --diff-filter=A "$BEFORE_SHA" "${{ github.sha }}" -- '_posts/*.md' > new_posts.txt
+            else
+              # Fallback for force pushes / unknown before-SHA: just the last commit
+              git diff --name-only --diff-filter=A "${{ github.sha }}~1" "${{ github.sha }}" -- '_posts/*.md' > new_posts.txt
+            fi
+          fi
+          echo "Posts to announce:"
+          cat new_posts.txt
+
+      - name: Send new post(s) to Telegram subscribers
+        env:
+          TELEGRAM_BLOG_BOT_TOKEN: ${{ secrets.TELEGRAM_BLOG_BOT_TOKEN }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          cat > announce-posts.cjs << 'SCRIPT'
+          const https = require('https');
+          const fs = require('fs');
+          const yaml = require('js-yaml');
+
+          const botToken = process.env.TELEGRAM_BLOG_BOT_TOKEN;
+          const isManual = process.env.EVENT_NAME === 'workflow_dispatch';
+          const siteUrl = 'https://berens.co';
+
+          const postPaths = fs.readFileSync('new_posts.txt', 'utf8')
+            .split('\n').map(l => l.trim()).filter(Boolean);
+
+          if (postPaths.length === 0) {
+            console.log('No new posts in this push — nothing to announce');
+            process.exit(0);
+          }
+
+          // Load subscribers
+          let subscribers = { users: [] };
+          if (fs.existsSync('_data/telegram_blog_subscribers.json')) {
+            subscribers = JSON.parse(fs.readFileSync('_data/telegram_blog_subscribers.json', 'utf8'));
+          }
+
+          if (subscribers.users.length === 0) {
+            console.log('No subscribers yet');
+            process.exit(0);
+          }
+
+          function escapeHtml(str) {
+            return String(str)
+              .replace(/&/g, '&amp;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;');
+          }
+
+          // Parse front matter and build the announcement message for one post
+          function buildMessage(postPath) {
+            const raw = fs.readFileSync(postPath, 'utf8');
+            const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+            if (!match) {
+              console.error(`No front matter found in ${postPath}, skipping`);
+              return null;
+            }
+            const fm = yaml.load(match[1]);
+
+            // Skip future-dated posts on automatic runs — GitHub Pages won't
+            // have published them yet (manual dispatch announces regardless)
+            if (!isManual && fm.date) {
+              const postDate = new Date(fm.date);
+              const today = new Date();
+              today.setUTCHours(23, 59, 59, 999);
+              if (postDate > today) {
+                console.log(`Skipping future-dated post: ${postPath}`);
+                return null;
+              }
+            }
+
+            // Build URL per permalink /:categories/:title:output_ext
+            const filename = postPath.split('/').pop();
+            const slug = fm.slug || filename.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.md$/, '');
+            let categories = fm.categories || fm.category || [];
+            if (typeof categories === 'string') categories = categories.split(/[, ]+/).filter(Boolean);
+            const catPath = categories.length ? categories.map(c => c.toLowerCase()).join('/') + '/' : '';
+            const url = `${siteUrl}/${catPath}${slug}.html`;
+
+            let message = `🆕 New post on berens.co:\n<a href="${url}">${escapeHtml(fm.title || slug)}</a>`;
+            if (fm.description) {
+              message += `\n\n${escapeHtml(fm.description)}`;
+            }
+            return message;
+          }
+
+          function sendMessage(chatId, text, label) {
+            return new Promise((resolve) => {
+              const postData = JSON.stringify({
+                chat_id: chatId,
+                text: text,
+                parse_mode: 'HTML',
+                disable_web_page_preview: false
+              });
+
+              const options = {
+                hostname: 'api.telegram.org',
+                path: `/bot${botToken}/sendMessage`,
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'Content-Length': Buffer.byteLength(postData)
+                }
+              };
+
+              const req = https.request(options, (res) => {
+                let data = '';
+                res.on('data', (chunk) => { data += chunk; });
+                res.on('end', () => {
+                  try {
+                    const response = JSON.parse(data);
+                    if (response.ok) {
+                      console.log(`✓ Sent to ${label}`);
+                    } else {
+                      console.error(`✗ Failed to send to ${label}:`, response);
+                    }
+                  } catch (e) {
+                    console.error(`✗ Bad response for ${label}:`, data);
+                  }
+                  resolve(); // Never fail the whole job on one send
+                });
+              });
+
+              req.on('error', (error) => {
+                console.error(`✗ Error sending to ${label}:`, error.message);
+                resolve();
+              });
+
+              req.write(postData);
+              req.end();
+            });
+          }
+
+          (async () => {
+            for (const postPath of postPaths) {
+              const message = buildMessage(postPath);
+              if (!message) continue;
+
+              console.log(`Announcing ${postPath} to ${subscribers.users.length} subscriber(s)`);
+              await Promise.all(subscribers.users.map(user =>
+                sendMessage(user.chat_id, message, user.username || user.chat_id)
+              ));
+            }
+            console.log('Done!');
+          })();
+          SCRIPT
+
+          node announce-posts.cjs

@@ -33,7 +33,7 @@ Requires Ruby 3.2+ and Bundler.
 
 ## Automations
 
-GitHub Actions sync live data from Strava (cycling/running) and Swarm (check-ins), and a Telegram bot sends a daily song to subscribers. These workflows commit directly to the repo — the JSON files they update (`_data/strava.json`, `_data/swarm.json`, `_data/telegram_subscribers.json`) should not be edited by hand.
+GitHub Actions sync live data from Strava (cycling/running) and Swarm (check-ins), a Telegram bot sends a daily song to subscribers, and a second Telegram bot announces new blog posts to its subscribers. These workflows commit directly to the repo — the JSON files they update (`_data/strava.json`, `_data/swarm.json`, `_data/telegram_subscribers.json`, `_data/telegram_blog_subscribers.json`) should not be edited by hand.
 
 ## For AI assistants
 
