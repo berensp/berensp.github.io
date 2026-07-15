@@ -215,7 +215,8 @@ These YAML/JSON files drive dynamic content throughout the site:
 | `learning.yml`            | Learning topics                    |
 | `strava.json`             | Latest Strava activity (auto-updated) |
 | `swarm.json`              | Latest Swarm check-in (auto-updated) |
-| `telegram_subscribers.json` | Telegram bot subscriber list     |
+| `telegram_subscribers.json` | Telegram song bot subscriber list |
+| `telegram_blog_subscribers.json` | Telegram blog bot subscriber list |
 
 ## Styling
 
@@ -235,7 +236,9 @@ These YAML/JSON files drive dynamic content throughout the site:
 | `update-swarm.yml`           | Scheduled, manual           | Sync Swarm check-in to `_data/swarm.json`  |
 | `telegram-daily-song.yml`    | Scheduled                   | Send daily song via Telegram bot           |
 | `telegram-preview-song.yml`  | Manual                      | Preview Telegram song message              |
-| `telegram-subscriptions.yml` | Scheduled                   | Manage Telegram subscriber list            |
+| `telegram-subscriptions.yml` | Scheduled                   | Manage Telegram song subscriber list       |
+| `telegram-blog-subscriptions.yml` | Hourly, manual         | Manage Telegram blog subscriber list       |
+| `telegram-new-post.yml`      | New post pushed to master, manual | Announce new blog posts to Telegram blog subscribers |
 
 Automated workflows commit data changes directly back to the repository.
 
@@ -243,7 +246,7 @@ Automated workflows commit data changes directly back to the repository.
 
 - `STRAVA_CLIENT_ID`, `STRAVA_CLIENT_SECRET`, `STRAVA_ACCESS_TOKEN`, `STRAVA_REFRESH_TOKEN`
 - Swarm/Foursquare API credentials
-- Telegram bot token and chat IDs
+- Telegram bot tokens (`TELEGRAM_BOT_TOKEN` for the song bot, `TELEGRAM_BLOG_BOT_TOKEN` for the blog bot) and chat IDs
 
 ## Conventions & Patterns
 
@@ -292,7 +295,7 @@ Key scripts:
 
 3. **No build tooling** for CSS/JS — files are served as-is. Do not introduce webpack, Sass compilation, or other build steps unless specifically requested.
 
-4. **Automated data files** — `_data/strava.json`, `_data/swarm.json`, and `_data/telegram_subscribers.json` are updated by GitHub Actions. Do not modify these files manually as changes will be overwritten.
+4. **Automated data files** — `_data/strava.json`, `_data/swarm.json`, `_data/telegram_subscribers.json`, and `_data/telegram_blog_subscribers.json` are updated by GitHub Actions. Do not modify these files manually as changes will be overwritten.
 
 5. **Custom domain** — The `CNAME` file must always contain `berens.co`. Do not remove or modify it.
 
