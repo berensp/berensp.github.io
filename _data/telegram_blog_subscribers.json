@@ -1,3 +1,9 @@
 {
-  "users": []
+  "users": [
+    {
+      "chat_id": 459469491,
+      "username": "berensp",
+      "subscribed_at": "2026-07-16T03:38:39.010Z"
+    }
+  ]
 }
