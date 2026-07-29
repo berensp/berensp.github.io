@@ -1,7 +1,9 @@
 ---
 layout: home
 ---
-<a href="/prayers/"><img src="/assets/images/avatars/pmb.nakamigo.png" alt="nakamigo" style="width: 120px; height: auto;"></a>
+<script src="/assets/js/avatar-rotator.js"></script>
+
+<a href="/prayers/"><img id="rotating-avatar" alt="PMB avatar" style="width: 160px; height: auto;"></a>
 
 Product marketer in San Francisco by day; bedtime story reader by night.
 
@@ -16,6 +18,6 @@ I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tec
 <li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">all {{ site.posts | size }} posts →</a></li>
 </ul>
 
-More [about me](/about/), what I'm up to [now](/now/), and what's happening [today](/today/).
+More [about](/about/) me, what I'm up to [now](/now/), and what's happening [today](/today/).
 
-Get in touch on any of [{{ site.data.contacts.size }} messengers](/contact/).
+[Contact](/contact/) me on any of {{ site.data.contacts.size }} messengers.
