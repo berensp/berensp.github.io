@@ -184,3 +184,10 @@ countries:
     name: Austria
     first_trip: Vienna
     counts_toward_total: true
+
+  - order: 27
+    flag: 🇧🇷
+    code: BR
+    name: Brazil
+    first_trip: São Paulo, Brasília
+    counts_toward_total: true

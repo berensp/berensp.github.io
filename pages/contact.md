@@ -25,11 +25,10 @@ Say hello on your favorite of {{ site.data.contacts.size }} messaging apps:
 - ~~[Facebook/Instagram](/fb)~~
 
 ## Miscellany
-- <a href="/assets/downloads/pmb_contact.vcf">My contact card (vCard)</a>
+- <a href="/assets/downloads/berens_paul.vcf">vCard</a>
 - <a href="/qr/">QR codes</a>
 - <a href="/pay/">Payment apps</a>
 
 ## Why so many apps?
-
 ![the answer](/assets/og/xkcd_chat_systems.png)
 <a class="muted small" href="https://xkcd.com/1810/" target="_blank">"Chat Systems" (#1810)</a><span class="muted small"> by Randall Munroe, xkcd.com.</span>
