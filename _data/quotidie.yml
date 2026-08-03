@@ -36,8 +36,8 @@ monday:
     time: "17:45"
   - task: 'Dine, clean, arrange things'
     time: "18:00"
-  - task: '<a href="/prayers/ad-oratio/">Ad Oratio</a>'
-    time: "21:00"
+  - task: '<a href="/prayers/examen/">Examen</a> &#47; <a href="/prayers/rosary">Joyful Mysteries</a>'
+    time: "21:40"
   - task: 'Sleep'
     time: "22:00"
 tuesday:
