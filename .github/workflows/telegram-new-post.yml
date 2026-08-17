@@ -129,12 +129,12 @@ jobs:
             const catPath = categories.length ? categories.map(c => c.toLowerCase()).join('/') + '/' : '';
             const url = `${siteUrl}/${catPath}${slug}.html`;
 
-            let message = `🆕 New post on berens.co:\n<a href="${url}">${escapeHtml(fm.title || slug)}</a>`;
+            let message = `🆕 on berens.co: "<a href="${url}">${escapeHtml(fm.title || slug)}</a>"`;
             if (fm.description) {
-              message += `\n\n${escapeHtml(fm.description)}`;
-            }
+              message += ` – ${escapeHtml(fm.description)}`;
+              }
             return message;
-          }
+            }
 
           function sendMessage(chatId, text, label) {
             return new Promise((resolve) => {
