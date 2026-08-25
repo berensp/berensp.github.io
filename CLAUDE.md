@@ -217,6 +217,7 @@ These YAML/JSON files drive dynamic content throughout the site:
 | `swarm.json`              | Latest Swarm check-in (auto-updated) |
 | `telegram_subscribers.json` | Telegram song bot subscriber list |
 | `telegram_blog_subscribers.json` | Telegram blog bot subscriber list |
+| `featured_post.yml`       | Hand-curated "reader favorite" post the blog bot recommends |
 
 ## Styling
 
@@ -237,7 +238,7 @@ These YAML/JSON files drive dynamic content throughout the site:
 | `telegram-daily-song.yml`    | Scheduled                   | Send daily song via Telegram bot           |
 | `telegram-preview-song.yml`  | Manual                      | Preview Telegram song message              |
 | `telegram-subscriptions.yml` | Scheduled                   | Manage Telegram song subscriber list       |
-| `telegram-blog-subscriptions.yml` | Hourly, manual         | Manage Telegram blog subscriber list       |
+| `telegram-blog-subscriptions.yml` | Daily, manual          | Manage Telegram blog subscriber list; serves /latest and /tags commands |
 | `telegram-new-post.yml`      | New post pushed to master, manual | Announce new blog posts to Telegram blog subscribers |
 
 Automated workflows commit data changes directly back to the repository.

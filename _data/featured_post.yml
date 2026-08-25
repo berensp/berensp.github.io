@@ -1,0 +1,3 @@
+# The post the blog bot offers as the "reader favorite" in its welcome
+# message. Update anytime — use the post's path or its slug.
+post: _posts/2025-11-21-song-bot.md
