@@ -34,5 +34,4 @@ This will clear any content that might be pulled in from elsewhere
            border-radius: 4px;
            text-decoration: none;
        ">Subscribe on Telegram</a>
-    <p><span class="muted small">New posts, delivered by bot as they're published. Send /subscribe and you're in; /unsubscribe and you're out. No email, no spam.</span></p>
 </div>
