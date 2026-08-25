@@ -116,10 +116,10 @@ jobs:
           const tagLink = (t) => `<a href="${siteUrl}/posts/tag/${slugify(t.tag)}/">${escapeHtml(t.tag)}</a> (${t.count})`;
 
           function welcomeDigest() {
-            const lines = ['📚 Some reading to get you started:', ''];
+            const lines = ['📚 Getting started:', ''];
             if (latest) lines.push(`🆕 Latest: ${postLink(latest)}`);
             if (featured && (!latest || featured.slug !== latest.slug)) {
-              lines.push(`⭐ Reader favorite: ${postLink(featured)}`);
+              lines.push(`⭐ Fan favorite: ${postLink(featured)}`);
             }
             const tags = rankedTags().slice(0, 3);
             if (tags.length) {
@@ -225,7 +225,7 @@ jobs:
                 const existingUser = subscribers.users.find(u => u.chat_id === chatId);
 
                 if (existingUser) {
-                  await sendMessage(chatId, '✅ You\'re already subscribed to new posts, Silly!');
+                  await sendMessage(chatId, '✅ You\'re already subscribed, Silly!');
                 } else {
                   subscribers.users.push({
                     chat_id: chatId,
