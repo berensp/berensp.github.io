@@ -2,9 +2,9 @@ name: Manage Telegram Blog Subscriptions
 
 on:
   schedule:
-    # Runs hourly at :15 so new subscribers get a confirmation within the hour.
-    # (GitHub's scheduler is imprecise; offset from top-of-hour reduces delays.)
-    - cron: '15 * * * *'
+    # Runs once daily at 15:30 UTC (~8:30 AM PDT / 7:30 AM PST).
+    # New /subscribe messages wait in Telegram's queue until this runs.
+    - cron: '30 15 * * *'
   workflow_dispatch: # Allows manual trigger
 
 permissions:
@@ -23,21 +23,118 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install js-yaml
+        run: npm install js-yaml
+
       - name: Process subscription requests
         env:
           TELEGRAM_BLOG_BOT_TOKEN: ${{ secrets.TELEGRAM_BLOG_BOT_TOKEN }}
         run: |
-          node << 'EOF'
+          cat > process-subscriptions.cjs << 'SCRIPT'
           const https = require('https');
           const fs = require('fs');
+          const yaml = require('js-yaml');
 
           const botToken = process.env.TELEGRAM_BLOG_BOT_TOKEN;
           const subscribersFile = '_data/telegram_blog_subscribers.json';
+          const siteUrl = 'https://berens.co';
 
           // Load existing subscribers or create empty list
           let subscribers = { users: [] };
           if (fs.existsSync(subscribersFile)) {
             subscribers = JSON.parse(fs.readFileSync(subscribersFile, 'utf8'));
+          }
+
+          function escapeHtml(str) {
+            return String(str)
+              .replace(/&/g, '&amp;')
+              .replace(/</g, '&lt;')
+              .replace(/>/g, '&gt;');
+          }
+
+          const slugify = (t) => String(t).toLowerCase().trim()
+            .replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+
+          // Load all published posts (front matter only), newest first
+          function loadPosts() {
+            const files = fs.readdirSync('_posts')
+              .filter(f => f.endsWith('.md')).sort().reverse();
+            const cutoff = new Date();
+            cutoff.setUTCHours(23, 59, 59, 999);
+            const posts = [];
+            for (const f of files) {
+              const raw = fs.readFileSync('_posts/' + f, 'utf8');
+              const m = raw.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+              if (!m) continue;
+              let fm;
+              try { fm = yaml.load(m[1]); } catch (e) { continue; }
+              if (fm.date && new Date(fm.date) > cutoff) continue; // not yet published
+              const slug = fm.slug || f.replace(/^\d{4}-\d{2}-\d{2}-/, '').replace(/\.md$/, '');
+              posts.push({
+                path: '_posts/' + f,
+                slug: slug,
+                title: fm.title || slug,
+                description: fm.description || '',
+                tags: Array.isArray(fm.tags) ? fm.tags : []
+              });
+            }
+            return posts;
+          }
+
+          const posts = loadPosts();
+          const latest = posts[0];
+
+          // Hand-curated "reader favorite" from _data/featured_post.yml
+          let featured = null;
+          if (fs.existsSync('_data/featured_post.yml')) {
+            try {
+              const cfg = yaml.load(fs.readFileSync('_data/featured_post.yml', 'utf8'));
+              if (cfg && cfg.post) {
+                featured = posts.find(p => p.path === cfg.post || p.slug === cfg.post);
+              }
+            } catch (e) { console.error('Could not read featured_post.yml:', e.message); }
+          }
+
+          // "Title" – description, with the title linked
+          function postLink(p) {
+            let s = `"<a href="${siteUrl}/${p.slug}.html">${escapeHtml(p.title)}</a>"`;
+            if (p.description) s += ` – ${escapeHtml(p.description)}`;
+            return s;
+          }
+
+          // Tags that actually have a page under posts/tags/, ranked by post count
+          function rankedTags() {
+            const available = new Set(
+              fs.readdirSync('posts/tags').filter(f => f.endsWith('.md')).map(f => f.replace(/\.md$/, ''))
+            );
+            const counts = {};
+            posts.forEach(p => p.tags.forEach(t => { counts[t] = (counts[t] || 0) + 1; }));
+            return Object.entries(counts)
+              .filter(([t]) => available.has(slugify(t)))
+              .sort((a, b) => b[1] - a[1])
+              .map(([t, n]) => ({ tag: t, count: n }));
+          }
+
+          const tagLink = (t) => `<a href="${siteUrl}/posts/tag/${slugify(t.tag)}/">${escapeHtml(t.tag)}</a>`;
+
+          function welcomeDigest() {
+            const lines = ['📚 Some reading to get you started:', ''];
+            if (latest) lines.push(`🆕 Latest: ${postLink(latest)}`);
+            if (featured && (!latest || featured.slug !== latest.slug)) {
+              lines.push(`⭐ Reader favorite: ${postLink(featured)}`);
+            }
+            const tags = rankedTags().slice(0, 5);
+            if (tags.length) {
+              lines.push('', `🏷 Or browse by topic: ${tags.map(tagLink).join(' · ')}`);
+            }
+            return lines.join('\n');
+          }
+
+          function tagsMessage() {
+            const tags = rankedTags().slice(0, 10);
+            if (!tags.length) return 'No topics found (yet).';
+            return '🏷 Browse berens.co by topic:\n\n' +
+              tags.map(t => `${tagLink(t)} (${t.count})`).join('\n');
           }
 
           // Function to make HTTPS requests
@@ -58,12 +155,13 @@ jobs:
           }
 
           // Function to send message
-          function sendMessage(chatId, text) {
+          function sendMessage(chatId, text, disablePreview) {
             return new Promise((resolve, reject) => {
               const postData = JSON.stringify({
                 chat_id: chatId,
                 text: text,
-                parse_mode: 'HTML'
+                parse_mode: 'HTML',
+                disable_web_page_preview: !!disablePreview
               });
 
               const options = {
@@ -144,7 +242,8 @@ jobs:
                     subscribed_at: new Date().toISOString()
                   });
                   hasChanges = true;
-                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> You\'ll get a message here whenever a new post is published on berens.co.\n\n/unsubscribe - Stop receiving posts');
+                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> You\'ll get a message here whenever a new post is published on berens.co.\n\n/latest - Newest post\n/tags - Browse by topic\n/unsubscribe - Stop receiving posts');
+                  await sendMessage(chatId, welcomeDigest(), true);
                   console.log(`New subscriber: ${username} (${chatId})`);
                 }
               } else if (text === '/unsubscribe') {
@@ -158,8 +257,16 @@ jobs:
                 } else {
                   await sendMessage(chatId, 'You\'re not currently subscribed. Send /subscribe to start receiving new posts from berens.co!');
                 }
+              } else if (text === '/latest') {
+                if (latest) {
+                  await sendMessage(chatId, `🆕 on berens.co: ${postLink(latest)}`);
+                } else {
+                  await sendMessage(chatId, 'No posts found (yet).');
+                }
+              } else if (text === '/tags') {
+                await sendMessage(chatId, tagsMessage(), true);
               } else if (text === '/help') {
-                await sendMessage(chatId, '🛟 <b>Help</b>\n\nCommands:\n/subscribe - Get new berens.co posts as they\'re published\n/unsubscribe - Stop receiving posts\n/help - Show this message');
+                await sendMessage(chatId, '🛟 <b>Help</b>\n\nCommands:\n/subscribe - Get new berens.co posts as they\'re published\n/latest - Newest post\n/tags - Browse by topic\n/unsubscribe - Stop receiving posts\n/help - Show this message');
               }
             }
 
@@ -181,11 +288,6 @@ jobs:
               const hasChanges = await processUpdates();
 
               if (hasChanges) {
-                // Create _data directory if it doesn't exist
-                if (!fs.existsSync('_data')) {
-                  fs.mkdirSync('_data');
-                }
-
                 // Save updated subscribers
                 fs.writeFileSync(subscribersFile, JSON.stringify(subscribers, null, 2));
                 console.log(`Subscribers updated. Total: ${subscribers.users.length}`);
@@ -197,7 +299,9 @@ jobs:
               process.exit(1);
             }
           })();
-          EOF
+          SCRIPT
+
+          node process-subscriptions.cjs
 
       - name: Commit subscriber changes
         id: commit
