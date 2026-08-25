@@ -4,8 +4,3 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
-    ignore:
-      - dependency-name: "webrick"
-      - dependency-name: "addressable"
-      - dependency-name: "rexml"
-      - dependency-name: "google-protobuf"
