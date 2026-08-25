@@ -13,16 +13,16 @@
   --border-light: #073340;
 
   /* Code colors */
-  --code-bg: #032833;
+  --code-bg: #0a3a47;
   --code-text: #ff7eb6;
-  --pre-bg: #032833;
+  --pre-bg: #0a3a47;
   --pre-text: #c9d1d9;
   --pre-border: #0a3a47;
 
   /* UI element colors */
   --tag-bg: #073340;
   --tag-hover-bg: #0a3a47;
-  --blockquote-bg: #032833;
+  --blockquote-bg: #0a3a47;
   --blockquote-border: #8CC2DD;
   --focus-border: #8CC2DD;
   --focus-shadow: rgba(140, 194, 221, 0.3);
@@ -297,7 +297,7 @@ input:not([type="checkbox"]):focus, textarea:focus {
 
 blockquote {
   background: var(--blockquote-bg);
-  border-left: 3px solid var(--blockquote-border);
+  border-left: 0.25em solid var(--blockquote-border);
   margin: 1.5em 10px;
   padding: 0.5em 10px;
 }
