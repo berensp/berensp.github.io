@@ -95,11 +95,9 @@ jobs:
             } catch (e) { console.error('Could not read featured_post.yml:', e.message); }
           }
 
-          // "Title" – description, with the title linked
+          // "Title", linked (title only, for brevity)
           function postLink(p) {
-            let s = `"<a href="${siteUrl}/${p.slug}.html">${escapeHtml(p.title)}</a>"`;
-            if (p.description) s += ` – ${escapeHtml(p.description)}`;
-            return s;
+            return `"<a href="${siteUrl}/${p.slug}.html">${escapeHtml(p.title)}</a>"`;
           }
 
           // Tags that actually have a page under posts/tags/, ranked by post count
@@ -115,7 +113,7 @@ jobs:
               .map(([t, n]) => ({ tag: t, count: n }));
           }
 
-          const tagLink = (t) => `<a href="${siteUrl}/posts/tag/${slugify(t.tag)}/">${escapeHtml(t.tag)}</a>`;
+          const tagLink = (t) => `<a href="${siteUrl}/posts/tag/${slugify(t.tag)}/">${escapeHtml(t.tag)}</a> (${t.count})`;
 
           function welcomeDigest() {
             const lines = ['📚 Some reading to get you started:', ''];
@@ -123,18 +121,11 @@ jobs:
             if (featured && (!latest || featured.slug !== latest.slug)) {
               lines.push(`⭐ Reader favorite: ${postLink(featured)}`);
             }
-            const tags = rankedTags().slice(0, 5);
+            const tags = rankedTags().slice(0, 3);
             if (tags.length) {
-              lines.push('', `🏷 Or browse by topic: ${tags.map(tagLink).join(' · ')}`);
+              lines.push(`🏷️ Browse by topic: ${tags.map(tagLink).join(', ')}`);
             }
             return lines.join('\n');
-          }
-
-          function tagsMessage() {
-            const tags = rankedTags().slice(0, 10);
-            if (!tags.length) return 'No topics found (yet).';
-            return '🏷 Browse berens.co by topic:\n\n' +
-              tags.map(t => `${tagLink(t)} (${t.count})`).join('\n');
           }
 
           // Function to make HTTPS requests
@@ -242,7 +233,7 @@ jobs:
                     subscribed_at: new Date().toISOString()
                   });
                   hasChanges = true;
-                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> You\'ll get a message here whenever a new post is published on berens.co.\n\n/latest - Newest post\n/tags - Browse by topic\n/unsubscribe - Stop receiving posts');
+                  await sendMessage(chatId, '🙌 <b>Subscribed!</b> You\'ll get a message here whenever a new post is published on berens.co.\n\n/unsubscribe - Stop receiving posts');
                   await sendMessage(chatId, welcomeDigest(), true);
                   console.log(`New subscriber: ${username} (${chatId})`);
                 }
@@ -257,16 +248,8 @@ jobs:
                 } else {
                   await sendMessage(chatId, 'You\'re not currently subscribed. Send /subscribe to start receiving new posts from berens.co!');
                 }
-              } else if (text === '/latest') {
-                if (latest) {
-                  await sendMessage(chatId, `🆕 on berens.co: ${postLink(latest)}`);
-                } else {
-                  await sendMessage(chatId, 'No posts found (yet).');
-                }
-              } else if (text === '/tags') {
-                await sendMessage(chatId, tagsMessage(), true);
               } else if (text === '/help') {
-                await sendMessage(chatId, '🛟 <b>Help</b>\n\nCommands:\n/subscribe - Get new berens.co posts as they\'re published\n/latest - Newest post\n/tags - Browse by topic\n/unsubscribe - Stop receiving posts\n/help - Show this message');
+                await sendMessage(chatId, '🛟 <b>Help</b>\n\nCommands:\n/subscribe - Get new berens.co posts as they\'re published\n/unsubscribe - Stop receiving posts\n/help - Show this message');
               }
             }
 
