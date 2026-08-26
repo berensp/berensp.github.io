@@ -33,7 +33,7 @@
   /* Table colors */
   --table-border: #0a3a47;
   --table-header-bg: rgba(255, 255, 255, 0.05);
-  --table-section-header-bg: rgba(140, 194, 221, 0.15);
+  --table-section-header-bg: rgba(56,139,129,0.45);
   --table-current-row-bg: transparent;
   --table-accent-border: #8CC2DD;
 
