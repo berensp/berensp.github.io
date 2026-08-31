@@ -5,6 +5,8 @@ permalink: /today/
 description: Check the diary.
 ogimage: berens_co_today.jpg
 ---
+<div id="date-override-banner"></div>
+
 <table class="schedule-table">
   <thead>
     <tr>
@@ -56,23 +58,51 @@ ogimage: berens_co_today.jpg
     border-color: var(--focus-border);
     box-shadow: 0 0 0 0.5px var(--focus-shadow);
 }
+.date-override-banner {
+  padding: 8px;
+  margin: 1em 0;
+  border-left: 4px solid var(--table-accent-border);
+  background-color: var(--table-current-row-bg);
+}
 </style>
 
 <script src="/assets/js/date_calculator.js"></script>
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
-  
+
+  // ?date=YYYY-MM-DD (optionally &time=HH:MM) previews any past or future day.
+  // The value is read as Pacific wall-clock time, which is what the page shows.
+  const dateOverride = (function() {
+    const params = new URLSearchParams(window.location.search);
+    const dateParam = params.get('date');
+    if (!dateParam) return null;
+
+    const dateMatch = dateParam.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (!dateMatch) return null;
+
+    const timeMatch = (params.get('time') || '09:00').match(/^(\d{1,2}):(\d{2})$/);
+    if (!timeMatch) return null;
+
+    return new Date(
+      Number(dateMatch[1]), Number(dateMatch[2]) - 1, Number(dateMatch[3]),
+      Number(timeMatch[1]), Number(timeMatch[2])
+    );
+  })();
+
   function getTimeZoneAbbreviation() {
     const formatter = new Intl.DateTimeFormat('en-US', {
       timeZoneName: 'short',
       timeZone: 'America/Los_Angeles'
     });
-    const parts = formatter.formatToParts(new Date());
+    const parts = formatter.formatToParts(dateOverride || new Date());
     return parts.find(part => part.type === 'timeZoneName').value;
   }
   
   function getPacificTime() {
+    if (dateOverride) {
+      return dateOverride.toLocaleString("en-US");
+    }
     return new Date().toLocaleString("en-US", {timeZone: "America/Los_Angeles"});
   }
   
@@ -193,8 +223,30 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
+  function showOverrideBanner() {
+    const banner = document.getElementById('date-override-banner');
+    const requested = new URLSearchParams(window.location.search).get('date');
+
+    if (dateOverride) {
+      const shown = dateOverride.toLocaleString('en-US', {
+        weekday: 'long', year: 'numeric', month: 'long', day: 'numeric',
+        hour: 'numeric', minute: '2-digit'
+      });
+      banner.innerHTML = `<span class="muted small">🕰️ Previewing <strong>${shown}</strong> — <a href="/today/">back to today</a></span>`;
+    } else if (requested) {
+      banner.innerHTML = '<span class="muted small">🕰️ Ignoring that <code>date</code> — expected <code>?date=YYYY-MM-DD</code>, optionally with <code>&amp;time=HH:MM</code>.</span>';
+    } else {
+      banner.innerHTML = '';
+    }
+
+    banner.className = banner.innerHTML ? 'date-override-banner' : '';
+  }
+
+  showOverrideBanner();
   updateTimeElements();
-  setInterval(updateTimeElements, 60000);
+  if (!dateOverride) {
+    setInterval(updateTimeElements, 60000);
+  }
 });
 </script>
 
