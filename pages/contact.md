@@ -25,9 +25,10 @@ Say hello on your favorite of {{ site.data.contacts.size }} messaging apps:
 - ~~[Facebook/Instagram](/fb)~~
 
 ## Miscellany
-- <a href="/assets/downloads/berens_paul.vcf">vCard</a>
+- <a href="/assets/downloads/berens_paul.vcf">vCard</a> <a href="/assets/downloads/pmb.vcf">·</a>
 - <a href="/qr/">QR codes</a>
 - <a href="/pay/">Payment apps</a>
+- <a href="https://www.admonymous.co/berensp" target="_blank">anonymous feedback</a>
 
 ## Why so many apps?
 ![the answer](/assets/og/xkcd_chat_systems.png)
