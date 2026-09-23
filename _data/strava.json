@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Walk",
-  "type": "Walk",
-  "distance": "2.28",
-  "duration": 31,
-  "elevation": 50,
-  "date": "2026-09-19T22:06:11Z",
-  "url": "https://www.strava.com/activities/20268748858",
-  "ytd_run_distance": "544.41",
-  "ytd_ride_distance": "352.75"
+  "name": "a la carnicería",
+  "type": "Ride",
+  "distance": "2.61",
+  "duration": 10,
+  "elevation": 28,
+  "date": "2026-09-22T23:10:02Z",
+  "url": "https://www.strava.com/activities/20289295869",
+  "ytd_run_distance": "554.62",
+  "ytd_ride_distance": "355.37"
 }
