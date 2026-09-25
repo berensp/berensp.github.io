@@ -1,11 +1,11 @@
 {
-  "name": "a la carnicería",
-  "type": "Ride",
-  "distance": "2.61",
-  "duration": 10,
-  "elevation": 28,
-  "date": "2026-09-22T23:10:02Z",
-  "url": "https://www.strava.com/activities/20289295869",
-  "ytd_run_distance": "554.62",
+  "name": "GGP Moraga Steps",
+  "type": "Run",
+  "distance": "10.20",
+  "duration": 55,
+  "elevation": 195,
+  "date": "2026-09-24T20:39:11Z",
+  "url": "https://www.strava.com/activities/20316417609",
+  "ytd_run_distance": "564.82",
   "ytd_ride_distance": "355.37"
 }
