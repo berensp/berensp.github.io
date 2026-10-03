@@ -1,11 +1,11 @@
 {
-  "name": "Renouer",
-  "type": "Run",
-  "distance": "10.38",
-  "duration": 61,
-  "elevation": 44,
-  "date": "2026-09-29T10:58:14Z",
-  "url": "https://www.strava.com/activities/20377209067",
+  "name": "Afternoon Hike",
+  "type": "Hike",
+  "distance": "2.56",
+  "duration": 35,
+  "elevation": 68,
+  "date": "2026-10-02T21:04:34Z",
+  "url": "https://www.strava.com/activities/20425047690",
   "ytd_run_distance": "575.20",
   "ytd_ride_distance": "355.37"
 }
