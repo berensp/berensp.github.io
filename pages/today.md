@@ -161,6 +161,14 @@ document.addEventListener('DOMContentLoaded', function() {
     if (timeHeader) {
       timeHeader.textContent = timeZoneAbbr;
     }
+
+    // The heading shows the day being viewed, which is the faked one under ?date=
+    const heading = document.querySelector('h1');
+    if (heading) {
+      heading.textContent = pacificTime.toLocaleString('en-US', {
+        weekday: 'short', month: 'short', day: 'numeric'
+      });
+    }
     
     const todaysTasks = siteData.quotidie[currentDay];
     
@@ -249,8 +257,6 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 </script>
-
-<script src="/assets/js/weather.js"></script>
 
 <div id="event-container"></div>
 <div id="feast-container"></div>
