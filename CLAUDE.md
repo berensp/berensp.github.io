@@ -20,7 +20,7 @@ This is **berens.co**, a personal portfolio and blog built with **Jekyll** and h
 | CI/CD            | GitHub Actions                     |
 | CSS              | Custom (`assets/main.css`), no framework |
 | Maps             | OpenLayers 8.2.0 (CDN)            |
-| JavaScript       | Vanilla JS (7 utility scripts in `assets/js/`) |
+| JavaScript       | Vanilla JS (8 utility scripts in `assets/js/`) |
 
 ## Build & Development
 
@@ -284,6 +284,7 @@ All scripts are vanilla JS in `assets/js/`. No build step or bundler — scripts
 Key scripts:
 - `avatar-rotator.js` — rotates home page avatar by day of week
 - `date_calculator.js` — date/time calculations
+- `weather.js` — weather data fetching
 - `gpx-renderer.js` — GPX map rendering helper
 - `rosary-mysteries.js` — liturgical cycle calculations
 
