@@ -1,7 +1,7 @@
 // weather.js
 
-// /today/?date= previews another day, where live conditions are meaningless and
-// the page sets its own heading. Skip entirely, fetch included.
+// /today/?date= previews another day, where live conditions are meaningless.
+// Skip entirely, fetch included, and leave the container empty.
 const previewingAnotherDate = Boolean(window.todayDateOverride);
 
 // Start fetching weather data immediately
@@ -30,9 +30,13 @@ class WeatherWidget {
     }
 
     getWeatherEmoji(code) {
-        // Get current hour to determine if it's night time
-        const hour = new Date().getHours();
-        const isNight = hour <= 6 || hour >= 20;  // Night between 8 PM and 6 AM
+        // Judged in Pacific time, since the conditions reported are San Francisco's
+        const hour = Number(new Intl.DateTimeFormat('en-US', {
+            hour: 'numeric',
+            hourCycle: 'h23',
+            timeZone: 'America/Los_Angeles'
+        }).format(new Date()));
+        const isNight = hour < 6 || hour >= 20;  // Night between 8 PM and 6 AM
 
         const weatherCodes = {
             0: ['Clear sky', isNight ? '🌙' : '☀️'],
@@ -69,27 +73,28 @@ class WeatherWidget {
         try {
             const data = await this.weatherPromise;
 
-            const now = new Date();
-
             if (typeof data.current.weather_code === 'undefined') {
                 throw new Error('Missing weather code');
             }
-            
+
             const currentTemp = Math.round(data.current.temperature_2m);
             const emoji = this.getWeatherEmoji(data.current.weather_code);
 
-            // Update h1 title
-            const h1 = document.querySelector('h1');
-            if (h1) {
-                const dateText = now.toLocaleString('en-US', { 
-                    weekday: 'short', 
-                    month: 'short', 
-                    day: 'numeric',
-                    timeZone: 'America/Los_Angeles'
-                });
-                h1.textContent = `${dateText} ${emoji} ${currentTemp}°C`;
+            // The daily block is a one-element array per forecast_days=1
+            const daily = data.daily || {};
+            const high = Array.isArray(daily.temperature_2m_max)
+                ? Math.round(daily.temperature_2m_max[0]) : null;
+            const low = Array.isArray(daily.temperature_2m_min)
+                ? Math.round(daily.temperature_2m_min[0]) : null;
+            const range = (high === null || low === null)
+                ? '' : `, ${high}°/${low}° today`;
+
+            const container = document.getElementById('weather-container');
+            if (container) {
+                container.innerHTML = `<span class="muted small">${emoji} ` +
+                    `${currentTemp}°C now${range} in the 94116</span>`;
             }
-            
+
             // Clear any retry timeout if successful
             if (this.retryTimeout) {
                 clearTimeout(this.retryTimeout);

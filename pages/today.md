@@ -165,16 +165,12 @@ document.addEventListener('DOMContentLoaded', function() {
       timeHeader.textContent = timeZoneAbbr;
     }
 
-    // On the real /today the weather widget owns the heading, date and all.
-    // Under ?date= it does not load, so the faked day is set here instead,
-    // in the same format.
-    if (dateOverride) {
-      const heading = document.querySelector('h1');
-      if (heading) {
-        heading.textContent = pacificTime.toLocaleString('en-US', {
-          weekday: 'short', month: 'short', day: 'numeric'
-        });
-      }
+    // The heading is the day in view, faked or not.
+    const heading = document.querySelector('h1');
+    if (heading) {
+      heading.textContent = pacificTime.toLocaleString('en-US', {
+        weekday: 'short', month: 'short', day: 'numeric'
+      });
     }
     
     const todaysTasks = siteData.quotidie[currentDay];
@@ -271,3 +267,4 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="feast-container"></div>
 <div id="birthday-container"></div>
 <div id="song-container"></div>
+<div id="weather-container"></div>
