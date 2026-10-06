@@ -90,12 +90,12 @@ class WeatherWidget {
             const low = Array.isArray(daily.temperature_2m_min)
                 ? Math.round(daily.temperature_2m_min[0]) : null;
             const range = (high === null || low === null)
-                ? '' : `, ${high}°/${low}° today`;
+                ? '' : `${high}°/${low}°`;
 
             const container = document.getElementById('weather-container');
             if (container) {
                 container.innerHTML = `<span class="muted small">${emoji} ` +
-                    `${currentTemp}°C now${range} in the 94116</span>`;
+                    `${currentTemp}°C | ${range}</span>`;
             }
 
             // Clear any retry timeout if successful
