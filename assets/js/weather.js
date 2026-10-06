@@ -99,6 +99,19 @@ class WeatherWidget {
                 ` elevation ${data.elevation} m`);
             console.log('Timezone:', data.timezone, data.timezone_abbreviation,
                 `(UTC offset ${data.utc_offset_seconds}s)`);
+
+            // current.time is local wall clock with no offset marker, so pin it to a
+            // real instant before asking how old it is. A reading hours behind looks
+            // exactly like a microclimate error, and is not one.
+            if (data.current && data.current.time &&
+                    typeof data.utc_offset_seconds === 'number') {
+                const observedMs = Date.parse(`${data.current.time}Z`) -
+                    data.utc_offset_seconds * 1000;
+                const ageMinutes = Math.round((Date.now() - observedMs) / 60000);
+                console.log('Reading taken:', data.current.time,
+                    `— ${ageMinutes} min old`,
+                    ageMinutes > 90 ? '⚠️ stale, so not the current temperature' : '(fresh)');
+            }
             console.log('Current:', data.current, data.current_units);
             console.log('Daily:', data.daily, data.daily_units);
             console.log('Full response:', data);
