@@ -118,13 +118,13 @@ class WeatherWidget {
             const low = Array.isArray(daily.temperature_2m_min)
                 ? Math.round(daily.temperature_2m_min[0]) : null;
             const range = (high === null || low === null)
-                ? '' : `, ${high}°/${low}° today`;
+                ? '' : ` | ${high}°/${low}°`;
 
             const container = document.getElementById('weather-container');
             if (container) {
                 container.innerHTML =
-                    `<span class="muted small">${emoji} ${currentTemp}°C now${range} in the </span>` +
-                    `<a class="muted small" href="${GOOGLE_WEATHER_URL}" target="_blank">${LOCATION_LABEL}</a>`;
+                    `<a class="muted small" href="${GOOGLE_WEATHER_URL}" target="_blank">` +
+                    `${emoji} ${currentTemp}°C${range}</a>`;
             }
 
             // Clear any retry timeout if successful
