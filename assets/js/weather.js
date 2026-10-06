@@ -14,7 +14,11 @@ const WEATHER_API_URL = 'https://api.open-meteo.com/v1/forecast' +
     '&daily=temperature_2m_max,temperature_2m_min' +
     '&current=temperature_2m,weather_code' +
     '&timezone=America/Los_Angeles' +
-    '&forecast_days=1';
+    '&forecast_days=1' +
+    // Open-Meteo defaults to cell_selection=land, which from a coastal point
+    // walked 1.4 km inland and 140 m uphill to find a land cell and answered
+    // about the ridge instead of here, reading 5°C warm on a clear day.
+    '&cell_selection=nearest';
 
 const GOOGLE_WEATHER_URL = 'https://www.google.com/search?q=' +
     encodeURIComponent(`weather ${LOCATION_LABEL}`);
