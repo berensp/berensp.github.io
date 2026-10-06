@@ -68,27 +68,30 @@ ogimage: berens_co_today.jpg
 
 <script src="/assets/js/date_calculator.js"></script>
 <script>
+// ?date=YYYY-MM-DD (optionally &time=HH:MM) previews any past or future day.
+// The value is read as Pacific wall-clock time, which is what the page shows.
+const dateOverride = (function() {
+  const params = new URLSearchParams(window.location.search);
+  const dateParam = params.get('date');
+  if (!dateParam) return null;
+
+  const dateMatch = dateParam.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (!dateMatch) return null;
+
+  const timeMatch = (params.get('time') || '09:00').match(/^(\d{1,2}):(\d{2})$/);
+  if (!timeMatch) return null;
+
+  return new Date(
+    Number(dateMatch[1]), Number(dateMatch[2]) - 1, Number(dateMatch[3]),
+    Number(timeMatch[1]), Number(timeMatch[2])
+  );
+})();
+
+// weather.js reads this and stays out of the way when another date is in view.
+window.todayDateOverride = dateOverride;
+
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
-
-  // ?date=YYYY-MM-DD (optionally &time=HH:MM) previews any past or future day.
-  // The value is read as Pacific wall-clock time, which is what the page shows.
-  const dateOverride = (function() {
-    const params = new URLSearchParams(window.location.search);
-    const dateParam = params.get('date');
-    if (!dateParam) return null;
-
-    const dateMatch = dateParam.match(/^(\d{4})-(\d{2})-(\d{2})$/);
-    if (!dateMatch) return null;
-
-    const timeMatch = (params.get('time') || '09:00').match(/^(\d{1,2}):(\d{2})$/);
-    if (!timeMatch) return null;
-
-    return new Date(
-      Number(dateMatch[1]), Number(dateMatch[2]) - 1, Number(dateMatch[3]),
-      Number(timeMatch[1]), Number(timeMatch[2])
-    );
-  })();
 
   function getTimeZoneAbbreviation() {
     const formatter = new Intl.DateTimeFormat('en-US', {
@@ -162,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
       timeHeader.textContent = timeZoneAbbr;
     }
 
-    // The heading shows the day being viewed, which is the faked one under ?date=
+    // The heading is the day in view, faked or not.
     const heading = document.querySelector('h1');
     if (heading) {
       heading.textContent = pacificTime.toLocaleString('en-US', {
@@ -258,7 +261,10 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
+<script src="/assets/js/weather.js"></script>
+
 <div id="event-container"></div>
 <div id="feast-container"></div>
 <div id="birthday-container"></div>
 <div id="song-container"></div>
+<div id="weather-container"></div>
