@@ -29,6 +29,7 @@ The semi-annual[^1] birthday exchanges between Matt Birney and yours truly where
 | `2025-3-31` | <a href="https://bsky.app/profile/berensp.bsky.social/post/3lloou3tb2s2u" target="_blank">Bluesky</a> | `PB→MB` |
 | `2025-9-30` | <a href="https://signal.org/" target="_blank">Signal</a> | `MB→PB` |
 | `2026-3-31` | <a href="https://matrix.to/#/@berensp:matrix.org" target="_blank">Matrix</a> | `PB→MB` |
+| `2026-9-30` | <a href="https://github.com/mburns75/mars-nixos/commit/a33999b05fb01d4c43e68bb61ef4e6a05701861b#r202989385/" target="_blank">GitHub</a> | `MB→PB` |
 
 [^2]: A stretch to qualify as a messenger, but I definitely 'preciate you sharing yo' trove of Christmas movies.
 [^3]: First blockchain-enabled birthday salute.
