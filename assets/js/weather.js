@@ -4,13 +4,20 @@
 // Skip entirely, fetch included, and leave the container empty.
 const previewingAnotherDate = Boolean(window.todayDateOverride);
 
+const LATITUDE = 37.7500278;
+const LONGITUDE = -122.4596111;
+const LOCATION_LABEL = '94116';
+
 const WEATHER_API_URL = 'https://api.open-meteo.com/v1/forecast' +
-    '?latitude=37.7500278' +
-    '&longitude=-122.4596111' +
+    `?latitude=${LATITUDE}` +
+    `&longitude=${LONGITUDE}` +
     '&daily=temperature_2m_max,temperature_2m_min' +
     '&current=temperature_2m,weather_code' +
     '&timezone=America/Los_Angeles' +
     '&forecast_days=1';
+
+const GOOGLE_WEATHER_URL = 'https://www.google.com/search?q=' +
+    encodeURIComponent(`weather ${LOCATION_LABEL}`);
 
 // Retries back off from a minute, doubling, then give up and leave it to the
 // periodic refresh rather than pestering the API through a long outage.
@@ -22,6 +29,15 @@ const REFRESH_MS = 30 * 60 * 1000;
 const weatherPromise = previewingAnotherDate
     ? null
     : fetch(WEATHER_API_URL).then(response => response.json());
+
+function kmBetween(lat1, lon1, lat2, lon2) {
+    const toRadians = degrees => degrees * Math.PI / 180;
+    const dLat = toRadians(lat2 - lat1);
+    const dLon = toRadians(lon2 - lon1);
+    const a = Math.sin(dLat / 2) ** 2 +
+        Math.cos(toRadians(lat1)) * Math.cos(toRadians(lat2)) * Math.sin(dLon / 2) ** 2;
+    return 6371 * 2 * Math.asin(Math.sqrt(a));
+}
 
 class WeatherWidget {
     constructor() {
@@ -76,6 +92,18 @@ class WeatherWidget {
         try {
             const data = await this.weatherPromise;
 
+            console.groupCollapsed('weather.js — Open-Meteo response');
+            console.log('Requested:', LATITUDE, LONGITUDE, `(${LOCATION_LABEL})`);
+            console.log('Grid cell served:', data.latitude, data.longitude,
+                `— ${kmBetween(LATITUDE, LONGITUDE, data.latitude, data.longitude).toFixed(2)} km away,` +
+                ` elevation ${data.elevation} m`);
+            console.log('Timezone:', data.timezone, data.timezone_abbreviation,
+                `(UTC offset ${data.utc_offset_seconds}s)`);
+            console.log('Current:', data.current, data.current_units);
+            console.log('Daily:', data.daily, data.daily_units);
+            console.log('Full response:', data);
+            console.groupEnd();
+
             if (typeof data.current.weather_code === 'undefined') {
                 throw new Error('Missing weather code');
             }
@@ -94,8 +122,9 @@ class WeatherWidget {
 
             const container = document.getElementById('weather-container');
             if (container) {
-                container.innerHTML = `<span class="muted small">${emoji} ` +
-                    `${currentTemp}°C now${range} in the 94116</span>`;
+                container.innerHTML =
+                    `<span class="muted small">${emoji} ${currentTemp}°C now${range} in the </span>` +
+                    `<a class="muted small" href="${GOOGLE_WEATHER_URL}" target="_blank">${LOCATION_LABEL}</a>`;
             }
 
             // Clear any retry timeout if successful
