@@ -4,28 +4,31 @@
 // Skip entirely, fetch included, and leave the container empty.
 const previewingAnotherDate = Boolean(window.todayDateOverride);
 
-// Start fetching weather data immediately
-const weatherPromise = previewingAnotherDate ? null : fetch('https://api.open-meteo.com/v1/forecast' +
+const WEATHER_API_URL = 'https://api.open-meteo.com/v1/forecast' +
     '?latitude=37.7500278' +
     '&longitude=-122.4596111' +
     '&daily=temperature_2m_max,temperature_2m_min' +
     '&current=temperature_2m,weather_code' +
     '&timezone=America/Los_Angeles' +
-    '&forecast_days=1'
-).then(response => response.json());
+    '&forecast_days=1';
+
+// Retries back off from a minute, doubling, then give up and leave it to the
+// periodic refresh rather than pestering the API through a long outage.
+const RETRY_BASE_MS = 60 * 1000;
+const RETRY_MAX_ATTEMPTS = 5;
+const REFRESH_MS = 30 * 60 * 1000;
+
+// Start fetching weather data immediately
+const weatherPromise = previewingAnotherDate
+    ? null
+    : fetch(WEATHER_API_URL).then(response => response.json());
 
 class WeatherWidget {
     constructor() {
         this.weatherPromise = weatherPromise;
-        this.apiUrl = 'https://api.open-meteo.com/v1/forecast' +
-            '?latitude=37.7500278' +
-            '&longitude=-122.4596111' +
-            '&daily=temperature_2m_max,temperature_2m_min' +
-            '&current=temperature_2m,weather_code' +
-            '&timezone=America/Los_Angeles' +
-            '&forecast_days=1';
         this.lastUpdateTime = null;
         this.retryTimeout = null;
+        this.retryAttempt = 0;
         this.updateInterval = null;
     }
 
@@ -100,19 +103,31 @@ class WeatherWidget {
                 clearTimeout(this.retryTimeout);
                 this.retryTimeout = null;
             }
+            this.retryAttempt = 0;
         } catch (error) {
             console.error('Error displaying weather:', error);
-            
-            // Only set a new retry timeout if one isn't already pending
-            if (!this.retryTimeout) {
-                this.retryTimeout = setTimeout(() => this.fetchWeather(), 60000);
-            }
+            this.scheduleRetry();
         }
+    }
+
+    scheduleRetry() {
+        // One pending retry at a time. The handle is cleared before the attempt
+        // runs, so a repeat failure can schedule the next one.
+        if (this.retryTimeout || this.retryAttempt >= RETRY_MAX_ATTEMPTS) {
+            return;
+        }
+
+        const delay = RETRY_BASE_MS * Math.pow(2, this.retryAttempt);
+        this.retryAttempt += 1;
+        this.retryTimeout = setTimeout(() => {
+            this.retryTimeout = null;
+            this.fetchWeather();
+        }, delay);
     }
 
     async fetchWeather() {
         try {
-            const response = await fetch(this.apiUrl);
+            const response = await fetch(WEATHER_API_URL);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
@@ -120,17 +135,14 @@ class WeatherWidget {
             await this.displayWeather();
         } catch (error) {
             console.error('Error refreshing weather:', error);
-            // Only set a new retry timeout if one isn't already pending
-            if (!this.retryTimeout) {
-                this.retryTimeout = setTimeout(() => this.fetchWeather(), 60000);
-            }
+            this.scheduleRetry();
         }
     }
 
     init() {
         this.displayWeather();
         // Refresh weather data every 30 minutes
-        this.updateInterval = setInterval(() => this.fetchWeather(), 30 * 60 * 1000);
+        this.updateInterval = setInterval(() => this.fetchWeather(), REFRESH_MS);
     }
 
     cleanup() {
