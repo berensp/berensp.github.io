@@ -87,9 +87,6 @@ const dateOverride = (function() {
   );
 })();
 
-// weather.js reads this and stays out of the way when another date is in view.
-window.todayDateOverride = dateOverride;
-
 document.addEventListener('DOMContentLoaded', function() {
   const siteData = {{ site.data | jsonify }};
 
@@ -261,10 +258,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-<script src="/assets/js/weather.js"></script>
-
 <div id="event-container"></div>
 <div id="feast-container"></div>
 <div id="birthday-container"></div>
 <div id="song-container"></div>
-<div id="weather-container"></div>
