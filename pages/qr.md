@@ -3,8 +3,6 @@ layout: page
 title: QR Codes
 permalink: /qr/
 ---
-**📧 [Social/Comms](/contact/)**
-
 ## vCard
 <img class="qr" src="/assets/images/qr/vcard_berens_paul.png" alt="Primary vCard QR code">
 <details class="qr-secret"><summary>&bull;</summary><img class="qr" src="/assets/images/qr/vcard_pmb.png" alt="vCard (pmb) QR code"></details>
@@ -18,8 +16,6 @@ permalink: /qr/
 ## LinkedIn
 <img class="qr" src="/assets/images/qr/qr_linkedin.png" alt="LinkedIn QR code">
 
-**💸 [Payments](/pay/)**
-
 ## Payments page
 <img class="qr" src="/assets/images/qr/qr_pay_pg.png" alt="Payments page QR code">
 
@@ -28,6 +24,3 @@ permalink: /qr/
 
 ## Venmo
 <img class="qr" src="/assets/images/qr/qr_pmt_venmo.png" alt="Venmo QR code">
-
-## Zelle
-<img class="qr" src="/assets/images/qr/qr_pmt_zelle.gif" alt="Zelle QR code">
