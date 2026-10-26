@@ -1,0 +1,81 @@
+# _data/projects.yml — drives /projects/, the "working on" line on the home page, and /now/
+#
+# status: active | ongoing | next
+# kind:   build | collection | invest | practice  (sets the tag color)
+# Optional auto-metrics (rendered by _includes/project_metric.html):
+#   collection: <name>   count of a Jekyll collection, e.g. prayers
+#   data: <path>         count of a _data list, e.g. systems.items
+#   config: <path>       value from _config.yml, e.g. swarma.phase
+#   reading: true        book currently being read (from books.yml)
+#   unit: <word>         label after a count
+#   metric: <text>       fallback static text
+
+- name: Swarma
+  url: /swarma/
+  kind: build
+  status: active
+  blurb: Swarm check-ins from your wrist (Wear OS)
+  config: swarma.phase
+- name: Song of the Day bot
+  url: /song-bot.html
+  kind: build
+  status: active
+  blurb: a song a day via Telegram
+  data: daily_song
+  unit: songs
+- name: Vibe coding
+  url: /vibe-coding
+  kind: practice
+  status: active
+  blurb: learning through AI-powered trial and error (see this site)
+- name: Exodus 90
+  kind: practice
+  status: active
+
+- name: Prayers
+  url: /prayers/
+  kind: collection
+  status: ongoing
+  blurb: with a side of Latin
+  collection: prayers
+  unit: prayers
+- name: Systems
+  url: /systems/
+  kind: collection
+  status: ongoing
+  blurb: mental models, heuristics, first principles
+  data: systems.items
+  unit: entries
+- name: Books
+  url: /books/
+  kind: collection
+  status: ongoing
+  blurb: favourites, miscellany, and what's on deck
+  reading: true
+- name: Recipes
+  url: /recipes/
+  kind: collection
+  status: ongoing
+  blurb: things the kids can push around their plates
+  collection: recipes
+  unit: recipes
+- name: Investments
+  url: /investments/
+  kind: invest
+  status: ongoing
+  blurb: no-fuss, low-burden co-investing
+  data: investments.startups
+  unit: startups
+
+- name: Audacity
+  kind: practice
+  status: next
+- name: Bridge
+  kind: practice
+  status: next
+- name: Korean (한국말)
+  kind: practice
+  status: next
+- name: Piano
+  kind: practice
+  status: next

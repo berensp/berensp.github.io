@@ -41,7 +41,8 @@ description: What I'm up to these days.
 - [Growing](/about/) a SaaS biz / digital products portfolio (product marketing / GTM) [@{{ site.gig_handle }}](https://x.com/{{ site.gig_handle }})
 - [Writing](/posts/) across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - [Reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}—previously *{{ last_read.title }}* by {{ last_read.author }}
-- [Learning](/learning/) {{ site.data.learning.current.first.endeavour | strip_html }}{% if site.data.learning.current[1] %}, {{ site.data.learning.current[1].endeavour | strip_html }}{% endif %}, etc.
+{%- assign active = site.data.projects | where: "status", "active" %}
+- [Working on](/projects/) {{ active[0].name }}, {{ active[1].name }}, etc.
 - [Riding](/cycling/) and [running](/running/) (more the latter){% if site.data.strava %} with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}): {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
 - [Cooking](/recipes/) up something that the kids can push around their plates and pick at
 

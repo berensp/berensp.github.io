@@ -7,16 +7,9 @@ layout: home
 
 Product marketer in San Francisco by day; bedtime story reader by night.
 
-I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.; most recently:
+Working on [Swarma](/swarma/) (in {{ site.swarma.phase }}), a [song-of-the-day bot](/song-bot.html), and slowly collecting [{{ site.prayers.size }} prayers](/prayers/), [{{ site.data.systems.items.size }} mental models](/systems/), and [{{ site.recipes.size }} recipes](/recipes/); also [co-investing](/investments/) in {{ site.data.investments.startups.size }} startups. More [projects](/projects/) →
 
-<ul class="post-list">
-{%- for post in site.posts limit:3 -%}
-<li>
-<a class="post-link" href="{{ post.url | relative_url }}">{% if post.tags contains "books" %}<em>{{ post.title | escape }}</em>{% else %}{{ post.title | escape }}{% endif %}</a>
-</li>
-{%- endfor -%}
-<li style="list-style-type: none;"><a class="muted small" href="{{ '/posts/' | relative_url }}">all {{ site.posts | size }} posts →</a></li>
-</ul>
+I write about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc.—[{{ site.posts | size }} posts](/posts/) and counting.
 
 More [about](/about/) me, what I'm up to [now](/now/), and what's happening [today](/today/).
 
