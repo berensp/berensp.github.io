@@ -32,33 +32,13 @@
   kind: practice
   status: active
 
-- name: Prayers
-  url: /prayers/
-  kind: collection
-  status: ongoing
-  blurb: with a side of Latin
-  collection: prayers
-  unit: prayers
-- name: Systems
-  url: /systems/
-  kind: collection
-  status: ongoing
-  blurb: mental models, heuristics, first principles
-  data: systems.items
-  unit: entries
 - name: Books
   url: /books/
   kind: collection
   status: ongoing
   blurb: favourites, miscellany, and what's on deck
-  reading: true
-- name: Recipes
-  url: /recipes/
-  kind: collection
-  status: ongoing
-  blurb: things the kids can push around their plates
-  collection: recipes
-  unit: recipes
+  data: books
+  unit: books
 - name: Investments
   url: /investments/
   kind: invest
@@ -66,6 +46,27 @@
   blurb: no-fuss, low-burden co-investing
   data: investments.startups
   unit: startups
+- name: Prayers
+  url: /prayers/
+  kind: collection
+  status: ongoing
+  blurb: with a side of Latin
+  collection: prayers
+  unit: prayers
+- name: Recipes
+  url: /recipes/
+  kind: collection
+  status: ongoing
+  blurb: things the kids can push around their plates
+  collection: recipes
+  unit: recipes
+- name: Systems
+  url: /systems/
+  kind: collection
+  status: ongoing
+  blurb: mental models, heuristics, first principles
+  data: systems.items
+  unit: entries
 
 - name: Audacity
   kind: practice
