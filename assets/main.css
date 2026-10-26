@@ -223,6 +223,12 @@ hr {
   line-height: 1.4;
 }
 
+/* Image captions: make the caption its own block so its tighter line-height applies */
+img + .small {
+  display: block;
+  margin-top: 0.3em;
+}
+
 /* Inline code Style 1: Subtle and clean */
 :not(pre) > code {
     background-color: var(--code-bg);
