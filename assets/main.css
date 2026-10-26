@@ -406,3 +406,26 @@ mark.lightgray {
   background-color: var(--mark-gray);
   color: var(--text-color);
 }
+
+/* QR codes page */
+img.qr {
+  width: 300px;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.qr-secret {
+  margin: -1.25rem 0 1.5rem;
+}
+
+.qr-secret summary {
+  display: inline-block;
+  list-style: none;
+  cursor: pointer;
+  font-size: 0.75em;
+  opacity: 0.35;
+}
+
+.qr-secret summary::-webkit-details-marker {
+  display: none;
+}

@@ -3,13 +3,31 @@ layout: page
 title: QR Codes
 permalink: /qr/
 ---
-## 📧 [Social/Comms](/contact/)
-- <a href="/assets/images/qr/berens_dot_co_contact_QR_code.png">Contact page</a>
-- <a href="/assets/images/qr/vcard_berens_paul.png">vCard</a>
-- <a href="/assets/images/qr/berens_dot_co_email_QR_code.png">Email</a>
+**📧 [Social/Comms](/contact/)**
 
-## 💸 [Payments](/pay/)
-- <a href="/assets/images/qr/pmt_cash_app_pmb.png">Cash app</a>
-- <a href="/assets/images/qr/pmt_venmo_berens.png">Venmo</a>
-- <a href="/assets/images/qr/pmt_zelle.gif">Zelle</a>
-- <a href="/assets/images/qr/berens_dot_co_pay_QR_code.png">Payment apps page</a>
+## vCard
+<img class="qr" src="/assets/images/qr/vcard_berens_paul.png" alt="Primary vCard QR code">
+<details class="qr-secret"><summary>&bull;</summary><img class="qr" src="/assets/images/qr/vcard_pmb.png" alt="vCard (pmb) QR code"></details>
+
+## Contact page
+<img class="qr" src="/assets/images/qr/qr_contact_pg.png" alt="Contact page QR code">
+
+## Email
+<img class="qr" src="/assets/images/qr/qr_email_pg.png" alt="Email QR code">
+
+## LinkedIn
+<img class="qr" src="/assets/images/qr/qr_linkedin.png" alt="LinkedIn QR code">
+
+**💸 [Payments](/pay/)**
+
+## Payments page
+<img class="qr" src="/assets/images/qr/qr_pay_pg.png" alt="Payments page QR code">
+
+## Cash App
+<img class="qr" src="/assets/images/qr/qr_pmt_cash_app.png" alt="Cash App QR code">
+
+## Venmo
+<img class="qr" src="/assets/images/qr/qr_pmt_venmo.png" alt="Venmo QR code">
+
+## Zelle
+<img class="qr" src="/assets/images/qr/qr_pmt_zelle.gif" alt="Zelle QR code">
