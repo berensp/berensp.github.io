@@ -1,0 +1,15 @@
+{%- comment -%}Renders a project's metric; pass project=item{%- endcomment -%}
+{%- assign p = include.project -%}
+{%- if p.collection -%}
+  {{ site[p.collection].size }} {{ p.unit }}
+{%- elsif p.data or p.config -%}
+  {%- if p.data %}{% assign d = site.data %}{% assign path = p.data %}{% else %}{% assign d = site %}{% assign path = p.config %}{% endif -%}
+  {%- assign keys = path | split: '.' -%}
+  {%- for key in keys %}{% assign d = d[key] %}{% endfor -%}
+  {%- if p.data %}{{ d.size }} {{ p.unit }}{% else %}{{ d }}{% endif -%}
+{%- elsif p.reading -%}
+  {%- assign book = site.data.books | where: "category", "Presently Reading" | first -%}
+  reading <em>{{ book.title }}</em>
+{%- else -%}
+  {{ p.metric }}
+{%- endif -%}

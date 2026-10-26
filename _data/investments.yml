@@ -1,0 +1,51 @@
+# _data/investments.yml — drives /investments/ (and counts on /projects/ and home)
+
+startups:
+  - name: Hurree
+    url: https://www.hurree.co/
+    via: Chainstay
+    via_url: https://www.chainstaycapital.com/
+    blurb: cross-platform analytics
+  - name: Dex
+    url: https://getdex.com/
+    via: SPV
+    blurb: personal CRM / modern rolodex
+  - name: NurseWallet
+    url: https://www.nursewallet.co/
+    via: Chainstay
+    via_url: https://www.chainstaycapital.com/
+    blurb: money app for nurses (fintech)
+  - name: Vincent
+    url: https://www.withvincent.com/
+    via: Syndicate
+    via_url: https://thesyndicate.com/
+    blurb: alt investing
+  - name: Luminous
+    url: https://www.luminous.com/
+    via: AVG
+    via_url: https://www.av.vc/
+    blurb: photonics, supercomputers
+  - name: Anomaly
+    url: https://www.findanomaly.com/
+    via: AVG
+    via_url: https://www.av.vc/
+    blurb: claim processing automation
+  - name: Laplace Interventional
+    url: https://laplaceint.com/
+    via: Features
+    via_url: https://featuresvc.co/
+    blurb: med device (TTVR)
+
+funds:
+  - name: Basecamp 2021
+    via: AVG
+    via_url: https://www.av.vc/
+  - name: Deep Tech Fund 1
+    via: AVG
+    via_url: https://www.av.vc/
+  - name: Partner Funds
+    via: AVG
+    via_url: https://www.av.vc/
+  - name: Access Fund 2019
+    via: AngelList
+    via_url: https://www.angellist.com/

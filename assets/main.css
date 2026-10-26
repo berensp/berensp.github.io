@@ -413,6 +413,36 @@ mark.lightgray {
   color: var(--text-color);
 }
 
+/* Tag filter (e.g. /systems/) */
+.tag-filter {
+  font-family: inherit;
+  cursor: pointer;
+  margin-bottom: 0.4em;
+}
+
+table.filterable td {
+  vertical-align: top;
+}
+
+.tag-filter[aria-pressed="true"] {
+  background-color: var(--mark-turquoise);
+  color: var(--text-color);
+}
+
+/* Projects page */
+.project-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.project-list li {
+  margin-bottom: 0.75em;
+}
+
+.project-list .tag {
+  margin-left: 0.25em;
+}
+
 /* QR codes page */
 img.qr {
   width: 300px;

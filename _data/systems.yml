@@ -1,0 +1,174 @@
+# _data/systems.yml — drives /systems/
+# name/note accept markdown; tags filter the table (see assets/js/tag-filter.js);
+# post: optional link to a related post on this site
+
+tags:
+  - decisions
+  - economics
+  - epistemology
+  - history
+  - organization
+  - problem-solving
+  - psychology
+  - social
+  - technology
+  - miscellanea
+
+items:
+  # Decision-making / Metrics
+  - name: "[Abilene Paradox](https://en.wikipedia.org/wiki/Abilene_paradox)"
+    tags: [decisions, social]
+  - name: "[Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/)"
+    tags: [decisions, economics]
+  - name: "[Goodhart's Law](https://gordonbrander.com/pattern/goodharts-law/)"
+    tags: [decisions, organization]
+  - name: "[Secretary problem](https://en.wikipedia.org/wiki/Secretary_problem)"
+    tags: [decisions]
+  - name: "[Watermelon Effect](https://www.happysignals.com/blog/watermelon-effect)"
+    tags: [decisions, organization]
+  - name: Bezos' 70% Rule
+    note: limited info
+    tags: [decisions]
+  - name: "[Hats, Haircuts, Tattoos](https://x.com/JamesClear/status/1753816430422683712)"
+    note: limited info
+    tags: [decisions]
+  - name: Lasers and Compasses
+    note: limited info; h/t to Zack Smith for this one
+    tags: [decisions]
+
+  # Economics
+  - name: Behavorial Finance > Efficient Market Hypothesis
+    tags: [economics, psychology]
+  - name: Disposition Effect
+    tags: [economics, psychology]
+  - name: Sunk Cost Fallacy
+    tags: [economics, decisions]
+  - name: Opportunity Cost
+    tags: [economics, decisions]
+  - name: Comparative Advantage (Ricardo)
+    tags: [economics]
+  - name: Time Preference Theory
+    tags: [economics]
+  - name: Tragedy of the Commons
+    tags: [economics, social]
+  - name: Moral Hazard
+    tags: [economics]
+  - name: Moral Pollution and Licensing Effect
+    tags: [economics, psychology]
+    post: /good-and-evil.html
+    post_title: Good and Evil
+  - name: Principal-Agent Problem
+    tags: [economics, organization]
+  - name: E.F. Schumacher's "Small is Beautiful"
+    tags: [economics]
+  - name: Cantillon Effect
+    note: inequality framework
+    tags: [economics]
+  - name: The "Great Decoupling" (Brynjolfsson/McAfee)
+    note: inequality framework
+    tags: [economics, technology]
+  - name: '"Hollowing out" hypothesis (Autor)'
+    note: inequality framework
+    tags: [economics]
+  - name: Piketty's r > g formula
+    note: inequality framework
+    tags: [economics]
+  - name: Skill-biased technological change (SBTC)
+    note: inequality framework
+    tags: [economics, technology]
+
+  # Epistemology
+  - name: Literacy Threshold Theory
+    note: "Meaningful knowledge acquisition requires reaching certain threshold levels of literacy. The answer to why the average bloke can't pick up and bang through *Infinite Jest*—I'm including myself here. (Also the Matthew Effect.)"
+    tags: [epistemology]
+  - name: Knowledge-wisdom gap
+    note: we've got an ever-widening one
+    tags: [epistemology]
+  - name: "[Fallacies](https://en.wikipedia.org/wiki/List_of_fallacies)"
+    note: be ever vigilant (e.g., *argumentum ad populum*)
+    tags: [epistemology]
+  - name: Dunning-Kruger Effect
+    tags: [epistemology, psychology]
+  - name: Replication crisis
+    tags: [epistemology]
+  - name: "[Cunningham's Law](https://meta.wikimedia.org/wiki/Cunningham's_Law)"
+    note: "*prêcher le faux pour savoir le vrai*"
+    tags: [epistemology, social]
+
+  # History/Civilization
+  - name: "[Cut flowers theory](/cut-flowers)"
+    note: beware of discarding things just because they're old
+    tags: [history]
+  - name: "[Chesterton's Fence](https://fs.blog/chestertons-fence/)"
+    note: beware of discarding things just because they're old
+    tags: [history, decisions]
+  - name: "[Lindy Effect](https://en.wikipedia.org/wiki/Lindy_effect)"
+    note: beware of discarding things just because they're old
+    tags: [history]
+  - name: "[Tytler's Cycle](https://thinkingwest.com/2022/11/16/tytlers-cycle-of-civilizations/)"
+    note: are we headed toward bondage?
+    tags: [history]
+    post: /safetyism
+    post_title: Safetyism
+  - name: "[Tainter's Collapse of Complex Societies](https://philosophicaldisquisitions.blogspot.com/2019/02/the-collapse-of-complex-societies_1.html)"
+    tags: [history, organization]
+
+  # Organization
+  - name: "[Pournelle's Iron Law of Bureaucracy](https://gordonbrander.com/pattern/pournelles-iron-law-of-bureaucracy/)"
+    tags: [organization]
+  - name: Value Capture v. Value Creation Loop
+    note: "when firms/orgs can extract high margins there is reduced pressure to allocate resources efficiently (e.g., bloat in US four-year universities)"
+    tags: [organization, economics]
+    post: /liberal-arts
+    post_title: Liberal Arts
+  - name: "[Conway's Law](https://www.atlassian.com/blog/teamwork/what-is-conways-law-acmi)"
+    tags: [organization, technology]
+
+  # Problem-solving
+  - name: Kidlin's Law
+    tags: [problem-solving]
+
+  # Psychology/Behavior
+  - name: Cognitive biases
+    note: "[Availability Heuristic](https://en.wikipedia.org/wiki/Availability_heuristic), etc."
+    tags: [psychology, decisions]
+    post: /safetyism
+    post_title: Safetyism
+  - name: Status/Signaling
+    note: Veblen goods, stated vs. revealed preferences
+    tags: [psychology, social, economics]
+  - name: Personal Utility Function and Financial Calculation Gap
+    note: "gap between monetary returns and full economic utility (e.g., housing rent vs. buy calculation)"
+    tags: [psychology, economics]
+  - name: Enantiodromia
+    tags: [psychology]
+    post: /orthopraxy.html
+    post_title: Orthopraxy
+
+  # Social Dynamics
+  - name: Network effects and Dunbar's Number
+    tags: [social, technology]
+    post: /fb
+    post_title: FB
+  - name: Game theory concepts
+    note: Prisoner's Dilemma, coordination problems
+    tags: [social, decisions]
+  - name: Nassim Taleb's Skin in the Game principle
+    tags: [social, decisions]
+
+  # Technology
+  - name: Jevons Paradox
+    tags: [technology, economics]
+  - name: Ellul Principle
+    tags: [technology]
+  - name: Collingridge Dilemma
+    tags: [technology, decisions]
+  - name: "[Heidegger's Critique of Tech](https://www.thenewatlantis.com/publications/understanding-heidegger-on-technology)"
+    tags: [technology]
+  - name: Neil Postman's Technopoly
+    tags: [technology]
+
+  # Miscellanea
+  - name: Pareto Principle
+    note: which even extends to food *(Hara hachi bu)*
+    tags: [miscellanea, problem-solving]
