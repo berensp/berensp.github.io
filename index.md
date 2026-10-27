@@ -7,7 +7,7 @@ layout: home
 
 Product marketer in San Francisco by day; bedtime story reader by night.
 
-Working on [Swarma](/swarma/) and a [song-of-the-day bot](https://t.me/pb_song_bot). Curating ([prayers](/prayers/), [mental models](/systems/), [kid-friendly recipes](/recipes/), etc. More [projects](/projects/) →
+Working on [Swarma](/swarma/) and a [song-of-the-day bot](https://t.me/pb_song_bot). Curating [prayers](/prayers/), [mental models](/systems/), [kid-friendly recipes](/recipes/), etc. More [projects](/projects/) →
 
 Writing about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc. All [{{ site.posts | size }} posts](/posts/) →
 
