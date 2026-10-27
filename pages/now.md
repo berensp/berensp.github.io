@@ -43,6 +43,6 @@ description: What I'm up to these days.
 - [Reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}—previously *{{ last_read.title }}* by {{ last_read.author }}
 {%- assign active = site.data.projects | where: "status", "active" %}
 - [Working on](/projects/) {{ active[0].name }}, {{ active[1].name }}, etc.
-- [Riding](/cycling/) and [running](/running/) (more the latter){% if site.data.strava %} with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}): {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
+- Getting outside as much as possible{% if site.data.strava %} with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}): {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
 
 <span class="muted small">Last updated: {{ last_update }} via {{ update_source }}.</span>
