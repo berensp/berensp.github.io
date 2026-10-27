@@ -46,6 +46,13 @@
   blurb: no-fuss, low-burden co-investing
   data: investments.startups
   unit: startups
+- name: Jogs
+  url: /running/
+  kind: collection
+  status: ongoing
+  blurb: some favorite running routes
+  collection: runs
+  unit: routes
 - name: Prayers
   url: /prayers/
   kind: collection
@@ -60,6 +67,13 @@
   blurb: things the kids can push around their plates
   collection: recipes
   unit: recipes
+- name: Rides
+  url: /cycling/
+  kind: collection
+  status: ongoing
+  blurb: some favorite cycling routes
+  collection: rides
+  unit: routes
 - name: Systems
   url: /systems/
   kind: collection

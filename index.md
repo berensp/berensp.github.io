@@ -7,9 +7,11 @@ layout: home
 
 Product marketer in San Francisco by day; bedtime story reader by night.
 
-Working on [Swarma](/swarma/) and a [song-of-the-day bot](https://t.me/pb_song_bot). Curating [prayers](/prayers/), [mental models](/systems/), [kid-friendly recipes](/recipes/), etc. More [projects](/projects/) →
+Building [Swarma](/swarma/){:target="_blank"} and [Paul's Song of the Day bot](https://t.me/pb_song_bot){:target="_blank"}. Curating [prayers](/prayers/), [mental models](/systems/), [kid-friendly recipes](/recipes/), etc. More [projects](/projects/) →
 
-Writing about [books](/posts/tag/books/), [theology](/posts/tag/theology/), [tech](/posts/tag/tech/), [culture](/posts/tag/culture/), etc. All [{{ site.posts | size }} posts](/posts/) →
+{% capture tag_counts -%}{% for tag in site.tags %}{{ tag[1].size | prepend: "0000" | slice: -4, 4 }}:{{ tag[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}{%- endcapture -%}
+{%- assign top_tags = tag_counts | split: "," | sort | reverse -%}
+Writing about {% for entry in top_tags limit:4 %}{% assign parts = entry | split: ":" %}{{ parts[1] }} ([{{ parts[0] | plus: 0 }}](/posts/tag/{{ parts[1] | slugify }}/)), {% endfor %}etc. All [{{ site.posts | size }} posts](/posts/) →
 
 More [about](/about/) me, what I'm up to [now](/now/), and what's happening [today](/today/).
 
