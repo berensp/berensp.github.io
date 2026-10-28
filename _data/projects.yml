@@ -1,7 +1,8 @@
 # _data/projects.yml — drives /projects/, the "working on" line on the home page, and /now/
 #
-# status: active | ongoing | next
-# kind:   build | collection | invest | practice  (sets the tag color)
+# status: active | ongoing | next  (order within a section; next is tagged "up next")
+# kind:   build | collection | invest | practice
+#         (sections on /projects/: Building, Curating, Investing, Learning)
 # Optional auto-metrics (rendered by _includes/project_metric.html):
 #   collection: <name>   count of a Jekyll collection, e.g. prayers
 #   data: <path>         count of a _data list, e.g. systems.items
