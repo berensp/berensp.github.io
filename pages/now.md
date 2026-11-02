@@ -8,8 +8,8 @@ description: What I'm up to these days.
 {% assign currently_reading = site.data.books | where: "category", "Presently Reading" | first %}
 {% assign last_read = site.data.books | where: "category", "Last Read" | first %}
 
-{% if site.data.strava.date %}
-  {% assign strava_timestamp = site.data.strava.date | date: "%s" | minus: 28800 %}
+{% if site.data.strava.last_run_or_ride.date %}
+  {% assign strava_timestamp = site.data.strava.last_run_or_ride.date | date: "%s" | minus: 28800 %}
   {% assign strava_date = strava_timestamp | date: "%Y-%m-%d" %}
 {% else %}
   {% assign strava_timestamp = 0 %}
@@ -47,9 +47,7 @@ description: What I'm up to these days.
 {%- if rr.kind == "ride" %}
 - [Bicycling](/cycling/) infrequently but just did a [{{ rr.distance }}km, {{ rr.elevation }}m gain ride]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
 {%- elsif rr.kind == "run" %}
-- [Jogging](/running/) here and there and everywhere, with most recent being a [{{ rr.distance }}km, {{ rr.elevation }}m gain run]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
-{%- else %}
-- Getting outside as much as possible{% if site.data.strava %} with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}): {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
+- [Jogging](/running/) hither, thither, and yon, with most recent being a [{{ rr.distance }}km, {{ rr.elevation }}m gain run]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
 {%- endif %}
 
 <span class="muted small">Last updated: {{ last_update }} via {{ update_source }}.</span>
