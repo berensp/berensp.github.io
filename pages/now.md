@@ -39,10 +39,17 @@ description: What I'm up to these days.
 
 - [Living](/domiciles/) in [San Francisco](/sf/) for some <span id="TimeinSF"></span> now with my beautiful family{% if site.data.swarm %}—most recently spotted at [{{ site.data.swarm.venue }}]({{ site.data.swarm.url }}) via [Swarm](https://docs.foursquare.com/developer/reference/personalization-api-overview).{% endif %}
 - [Growing](/about/) a SaaS biz / digital products portfolio (product marketing / GTM) [@{{ site.gig_handle }}](https://x.com/{{ site.gig_handle }})
+{%- assign active = site.data.projects | where: "status", "active" %}
+- [Building](/projects/) {{ active[0].name }}, {{ active[1].name }}, etc.
 - [Writing](/posts/) across a smörgåsbord of topics—most recently [*{{ site.posts.first.title }}*]({{ site.posts.first.url }}), posted <span id="timeDifferenceInline"></span>
 - [Reading](/books/) *{{ currently_reading.title }}* by {{ currently_reading.author }}—previously *{{ last_read.title }}* by {{ last_read.author }}
-{%- assign active = site.data.projects | where: "status", "active" %}
-- [Working on](/projects/) {{ active[0].name }}, {{ active[1].name }}, etc.
+{%- assign rr = site.data.strava.last_run_or_ride %}
+{%- if rr.kind == "ride" %}
+- [Bicycling](/cycling/) infrequently but just did a [{{ rr.distance }}km, {{ rr.elevation }}m gain ride]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
+{%- elsif rr.kind == "run" %}
+- [Jogging](/running/) here and there and everywhere, with most recent being a [{{ rr.distance }}km, {{ rr.elevation }}m gain run]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
+{%- else %}
 - Getting outside as much as possible{% if site.data.strava %} with last recorded [{{ site.data.strava.type | downcase }}]({{ site.data.strava.url }}): {{ site.data.strava.distance }}km, {{ site.data.strava.elevation }}m gain via [Strava](https://developers.strava.com/docs/reference/){% endif %}
+{%- endif %}
 
 <span class="muted small">Last updated: {{ last_update }} via {{ update_source }}.</span>

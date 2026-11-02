@@ -96,7 +96,7 @@ jobs:
           async function getLatestActivity() {
             const options = {
               hostname: 'www.strava.com',
-              path: '/api/v3/athlete/activities?per_page=1',
+              path: '/api/v3/athlete/activities?per_page=30',
               method: 'GET',
               headers: {
                 'Authorization': `Bearer ${accessToken}`
@@ -190,6 +190,38 @@ jobs:
                 url: `https://www.strava.com/activities/${activity.id}`
               };
               
+              // Track the most recent run or ride separately so the /now/ page
+              // keeps showing it when the latest activity is a hike, walk, swim, etc.
+              const RUN_TYPES = ['Run', 'TrailRun', 'VirtualRun'];
+              const RIDE_TYPES = ['Ride', 'VirtualRide', 'EBikeRide', 'GravelRide', 'MountainBikeRide', 'EMountainBikeRide', 'Velomobile'];
+              const kindOf = (a) => {
+                const t = a.sport_type || a.type;
+                if (RUN_TYPES.includes(t) || a.type === 'Run') return 'run';
+                if (RIDE_TYPES.includes(t) || a.type === 'Ride') return 'ride';
+                return null;
+              };
+              const runOrRide = activities.find((a) => kindOf(a));
+              if (runOrRide) {
+                stravaData.last_run_or_ride = {
+                  kind: kindOf(runOrRide),
+                  name: runOrRide.name,
+                  type: runOrRide.sport_type || runOrRide.type,
+                  distance: (runOrRide.distance / 1000).toFixed(2),
+                  elevation: Math.round(runOrRide.total_elevation_gain),
+                  date: runOrRide.start_date,
+                  url: `https://www.strava.com/activities/${runOrRide.id}`
+                };
+              } else if (fs.existsSync('_data/strava.json')) {
+                try {
+                  const previous = JSON.parse(fs.readFileSync('_data/strava.json', 'utf8'));
+                  if (previous.last_run_or_ride) {
+                    stravaData.last_run_or_ride = previous.last_run_or_ride;
+                  }
+                } catch (e) {
+                  console.error('Could not read previous strava.json:', e.message);
+                }
+              }
+
               // Add YTD stats if available
               if (stats) {
                 stravaData.ytd_run_distance = (stats.ytd_run_totals?.distance / 1000 || 0).toFixed(2);
