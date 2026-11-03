@@ -15,45 +15,48 @@ God the Son, Redeemer of the world, *have mercy on us.*<br>
 God the Holy Spirit, *have mercy on us.*<br>
 Holy Trinity, one God, *have mercy on us.*
 
-Holy Mary, Mother of God and our Mother, *pray for us.*
+Holy Mary, Mother of God, *pray for us.*<br>
+Mary, Star of the Sea, *pray for us.*
 
-St. Michael the Archangel, my namesake and defender in battle, *pray for us.*<br>
+St. Michael,[^michael] *pray for us.*<br>
 All you holy Angels and Archangels, *pray for us.*<br>
 All you holy orders of blessed Spirits, *pray for us.*
 
-St. Joseph, husband, father, protector, and worker, *pray for us.*<br>
+St. Joseph,[^joseph] *pray for us.*<br>
 All you holy Patriarchs and Prophets, *pray for us.*
 
-St. Peter, Prince of the Apostles, *pray for us.*<br>
-St. Paul, my patron, *pray for us.*<br>
-St. Jude, helper in things despaired of, *pray for us.*<br>
-St. Matthias, patron of our son, *pray for us.*<br>
+St. Peter, *pray for us.*<br>
+St. Paul,[^paul] *pray for us.*<br>
+St. Jude,[^jude] *pray for us.*<br>
+St. Matthias,[^matthias] *pray for us.*<br>
 All you holy Apostles and Evangelists, *pray for us.*<br>
 All you holy Disciples of the Lord, *pray for us.*<br>
 All you holy Innocents, *pray for us.*
 
-St. Blaise, guardian of our children's breath, *pray for us.*<br>
+St. Blaise,[^blaise] *pray for us.*<br>
 All you holy Martyrs, *pray for us.*
 
-St. Patrick, of Ireland and of San Francisco, *pray for us.*<br>
-St. Richard, patron of my father, *pray for us.*<br>
-St. Thomas Aquinas, guide of my learning and formation in the faith, *pray for us.*<br>
+St. Patrick,[^patrick] *pray for us.*<br>
+St. Richard,[^richard] *pray for us.*<br>
+St. Thomas Aquinas,[^thomas] *pray for us.*<br>
 All you holy Bishops and Confessors, *pray for us.*<br>
 All you holy Doctors, *pray for us.*
 
-St. Dominic, in whose church we met, were married, and baptized Matthias, *pray for us.*<br>
-St. Francis, patron of our city, where we met, *pray for us.*<br>
-St. Gerard, patron of mothers and of those who long for children, *pray for us.*<br>
+St. Dominic,[^dominic] *pray for us.*<br>
+St. Francis,[^francis] *pray for us.*<br>
+St. Gerard,[^gerard] *pray for us.*<br>
 All you holy Priests and Levites, *pray for us.*<br>
 All you holy Monks and Hermits, *pray for us.*
 
-St. Agatha, patron of Lisa's family, *pray for us.*<br>
-St. Lucy, guardian of my eyes, *pray for us.*<br>
-St. Cecilia, patron of the music in our lives, *pray for us.*<br>
-St. Anastasia, patron of the Brennan family, *pray for us.*<br>
-St. Elizabeth of Hungary, patron of Lisa, *pray for us.*<br>
-St. Rita, patron of my mother, *pray for us.*<br>
+St. Agatha,[^agatha] *pray for us.*<br>
+St. Lucy,[^lucy] *pray for us.*<br>
+St. Cecilia,[^cecilia] *pray for us.*<br>
+St. Anastasia,[^anastasia] *pray for us.*<br>
+St. Elizabeth of Hungary,[^elizabeth] *pray for us.*<br>
+St. Rita,[^rita] *pray for us.*<br>
 All you holy Virgins and Widows, *pray for us.*
+
+Sts. Louis and Zélie Martin,[^martin] *pray for us.*
 
 All you holy Saints of God, *make intercession for us.*
 
@@ -116,3 +119,23 @@ Lord, have mercy on us.<br>
 Lord, have mercy on us.
 
 **Let us pray.** Almighty ever-living God, by whose gift we venerate in one celebration the merits of all the Saints, bestow on us, we pray, through the prayers of so many intercessors, an abundance of the reconciliation with You for which we earnestly long. Through our Lord Jesus Christ, Your Son, who lives and reigns with You in the unity of the Holy Spirit, one God, for ever and ever. Amen.
+
+[^michael]: My middle name, and a powerful intercessor.
+[^joseph]: For me as husband, father, protector, and worker.
+[^paul]: My patron.
+[^jude]: Helper in things despaired of.
+[^matthias]: Patron of our son.
+[^blaise]: Our intercessor for the children's laryngomalacia.
+[^patrick]: For our Irish roots, and for San Francisco.
+[^richard]: For my dad.
+[^thomas]: Who guided my learning and formation in the faith.
+[^dominic]: In whose church we met, were married, and baptized Matthias.
+[^francis]: Patron of our city, where we met.
+[^gerard]: Helping us conceive.
+[^agatha]: For Lisa's family.
+[^lucy]: For guarding my eyes all these years.
+[^cecilia]: For the music in our lives.
+[^anastasia]: For the Brennan family.
+[^elizabeth]: For Lisa.
+[^rita]: For my mom.
+[^martin]: For our marriage.
