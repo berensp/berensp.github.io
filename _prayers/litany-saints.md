@@ -15,99 +15,47 @@ God the Son, Redeemer of the world, *have mercy on us.*<br>
 God the Holy Spirit, *have mercy on us.*<br>
 Holy Trinity, one God, *have mercy on us.*
 
-Holy Mary, *pray for us.*<br>
-Holy Mother of God, *pray for us.*<br>
-Holy Virgin of virgins, *pray for us.*
+Holy Mary, Mother of God and our Mother, *pray for us.*
 
-St. Michael, *pray for us.*<br>
-St. Gabriel, *pray for us.*<br>
-St. Raphael, *pray for us.*<br>
+St. Michael the Archangel, my namesake and defender in battle, *pray for us.*<br>
 All you holy Angels and Archangels, *pray for us.*<br>
 All you holy orders of blessed Spirits, *pray for us.*
 
-St. John the Baptist, *pray for us.*<br>
-St. Joseph, *pray for us.*<br>
+St. Joseph, husband, father, protector, and worker, *pray for us.*<br>
 All you holy Patriarchs and Prophets, *pray for us.*
 
-St. Peter, *pray for us.*<br>
-St. Paul, *pray for us.*<br>
-St. Andrew, *pray for us.*<br>
-St. James, *pray for us.*<br>
-St. John, *pray for us.*<br>
-St. Thomas, *pray for us.*<br>
-St. James, *pray for us.*<br>
-St. Philip, *pray for us.*<br>
-St. Bartholomew, *pray for us.*<br>
-St. Matthew, *pray for us.*<br>
-St. Simon, *pray for us.*<br>
-St. Thaddeus, *pray for us.*<br>
-St. Matthias, *pray for us.*<br>
-St. Barnabas, *pray for us.*<br>
-St. Luke, *pray for us.*<br>
-St. Mark, *pray for us.*<br>
-All you holy Apostles and Evangelists, *pray for us.*<br>
-All you holy Disciples of the Lord, *pray for us.*<br>
-All you holy Innocents, *pray for us.*
-
-St. Stephen, *pray for us.*<br>
-St. Lawrence, *pray for us.*<br>
-St. Vincent, *pray for us.*<br>
-Sts. Fabian and Sebastian, *pray for us.*<br>
-Sts. John and Paul, *pray for us.*<br>
-Sts. Cosmas and Damian, *pray for us.*<br>
-Sts. Gervase and Protase, *pray for us.*<br>
-All you holy Martyrs, *pray for us.*
-
-St. Sylvester, *pray for us.*<br>
-St. Gregory, *pray for us.*<br>
-St. Ambrose, *pray for us.*<br>
-St. Augustine, *pray for us.*<br>
-St. Jerome, *pray for us.*<br>
-St. Martin, *pray for us.*<br>
-St. Nicholas, *pray for us.*<br>
-All you holy Bishops and Confessors, *pray for us.*<br>
-All you holy Doctors, *pray for us.*
-
-St. Anthony, *pray for us.*<br>
-St. Benedict, *pray for us.*<br>
-St. Bernard, *pray for us.*<br>
-St. Dominic, *pray for us.*<br>
-St. Francis, *pray for us.*<br>
-All you holy Priests and Levites, *pray for us.*<br>
-All you holy Monks and Hermits, *pray for us.*
-
-St. Mary Magdalene, *pray for us.*<br>
-St. Agatha, *pray for us.*<br>
-St. Lucy, *pray for us.*<br>
-St. Agnes, *pray for us.*<br>
-St. Cecilia, *pray for us.*<br>
-St. Catherine, *pray for us.*<br>
-St. Anastasia, *pray for us.*<br>
-All you holy Virgins and Widows, *pray for us.*
-
-All you holy Saints of God, *make intercession for us.*
-
-### Our Family's Patrons
-
-Holy Mary, Mother of God and our Mother, *pray for us.*<br>
-St. Michael the Archangel, my namesake and defender in battle, *pray for us.*<br>
-St. Joseph, husband, father, protector, and worker, *pray for us.*<br>
 St. Peter, Prince of the Apostles, *pray for us.*<br>
 St. Paul, my patron, *pray for us.*<br>
 St. Jude, helper in things despaired of, *pray for us.*<br>
 St. Matthias, patron of our son, *pray for us.*<br>
+All you holy Apostles and Evangelists, *pray for us.*<br>
+All you holy Disciples of the Lord, *pray for us.*<br>
+All you holy Innocents, *pray for us.*
+
 St. Blaise, guardian of our children's breath, *pray for us.*<br>
+All you holy Martyrs, *pray for us.*
+
 St. Patrick, of Ireland and of San Francisco, *pray for us.*<br>
 St. Richard, patron of my father, *pray for us.*<br>
+St. Thomas Aquinas, guide of my learning and formation in the faith, *pray for us.*<br>
+All you holy Bishops and Confessors, *pray for us.*<br>
+All you holy Doctors, *pray for us.*
+
 St. Dominic, in whose church we met, were married, and baptized Matthias, *pray for us.*<br>
 St. Francis, patron of our city, where we met, *pray for us.*<br>
 St. Gerard, patron of mothers and of those who long for children, *pray for us.*<br>
+All you holy Priests and Levites, *pray for us.*<br>
+All you holy Monks and Hermits, *pray for us.*
+
 St. Agatha, patron of Lisa's family, *pray for us.*<br>
 St. Lucy, guardian of my eyes, *pray for us.*<br>
 St. Cecilia, patron of the music in our lives, *pray for us.*<br>
 St. Anastasia, patron of the Brennan family, *pray for us.*<br>
 St. Elizabeth of Hungary, patron of Lisa, *pray for us.*<br>
-St. Rita, patron of my mother, *pray for us.*
+St. Rita, patron of my mother, *pray for us.*<br>
+All you holy Virgins and Widows, *pray for us.*
+
+All you holy Saints of God, *make intercession for us.*
 
 Be merciful, *spare us, O Lord.*<br>
 Be merciful, *graciously hear us, O Lord.*
