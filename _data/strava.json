@@ -1,11 +1,20 @@
 {
-  "name": "Afternoon Hike",
-  "type": "Hike",
-  "distance": "2.56",
-  "duration": 35,
-  "elevation": 68,
-  "date": "2026-10-02T21:04:34Z",
-  "url": "https://www.strava.com/activities/20425047690",
-  "ytd_run_distance": "575.20",
-  "ytd_ride_distance": "355.37"
+  "name": "Parking so far away",
+  "type": "Walk",
+  "distance": "1.78",
+  "duration": 14,
+  "elevation": 5,
+  "date": "2026-11-07T20:11:16Z",
+  "url": "https://www.strava.com/activities/20900314145",
+  "last_run_or_ride": {
+    "kind": "run",
+    "name": "Twin Peaks Mt Sutro",
+    "type": "Run",
+    "distance": "9.88",
+    "elevation": 335,
+    "date": "2026-11-07T14:19:21Z",
+    "url": "https://www.strava.com/activities/20896856549"
+  },
+  "ytd_run_distance": "665.43",
+  "ytd_ride_distance": "389.15"
 }
