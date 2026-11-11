@@ -24,3 +24,6 @@ permalink: /qr/
 
 ## Venmo
 <img class="qr" src="/assets/images/qr/qr_pmt_venmo.png" alt="Venmo QR code">
+
+## Strava
+<img class="qr" src="/assets/images/qr/qr_strava.png" alt="Strava QR code">
