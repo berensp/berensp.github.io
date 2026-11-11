@@ -13,6 +13,6 @@ Telling product stories by day and bedtime stories by night.
 {%- assign top_tags = tag_counts | split: "," | sort | reverse -%}
 [Writing](/posts/) about {% for entry in top_tags limit:4 %}{% assign parts = entry | split: ":" %}{{ parts[1] }}, {% endfor %}and more.
 
-More [about](/about/) me, what I'm up to [now](/now/), and what's happening [today](/today/).
+More [about](/about/) me and what I'm up to [now](/now/).
 
-[Contact](/contact/) me on any of {{ site.data.contacts.size }} messengers.
+Do keep in [contact](/contact/).
