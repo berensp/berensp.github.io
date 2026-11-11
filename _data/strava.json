@@ -1,11 +1,11 @@
 {
-  "name": "Parking so far away",
+  "name": "Afternoon Walk",
   "type": "Walk",
-  "distance": "1.78",
-  "duration": 14,
-  "elevation": 5,
-  "date": "2026-11-07T20:11:16Z",
-  "url": "https://www.strava.com/activities/20900314145",
+  "distance": "2.37",
+  "duration": 30,
+  "elevation": 76,
+  "date": "2026-11-10T23:59:45Z",
+  "url": "https://www.strava.com/activities/20940644610",
   "last_run_or_ride": {
     "kind": "run",
     "name": "Twin Peaks Mt Sutro",
