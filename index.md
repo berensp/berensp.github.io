@@ -15,4 +15,4 @@ Telling product stories by day and bedtime stories by night.
 
 More [about](/about/) me and what I'm up to [now](/now/).
 
-Do keep in [contact](/contact/).
+[Get in touch](/contact/).
