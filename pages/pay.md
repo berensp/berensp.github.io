@@ -3,6 +3,7 @@ layout: page
 title: Payment Apps
 permalink: /pay/
 description: Pay me my money down
+ogimage: monopoly.man.png
 ---
 Let us settle accounts on your favourite app:
 - **Cash App** (<a href="https://cash.app/$pmb" target="_blank">@pmb</a>)
