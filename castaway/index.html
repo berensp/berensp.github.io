@@ -1,0 +1,647 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Castaway: eight tracks, one book, one luxury</title>
+<meta name="description" content="Eight tracks, one book and one luxury for a desert island, with the reason for each.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  --sea:#DCEBE7;        /* page */
+  --foam:#F3F9F7;       /* raised surface */
+  --ink:#10283A;        /* text */
+  --tide:#4C6B78;       /* secondary text */
+  --line:#B4CEC9;       /* rules, borders */
+  --deep:#0F4C5C;       /* actions, links */
+  --on-deep:#F3F9F7;
+  --raft:#F2C230;       /* the one saved disc */
+  --on-raft:#10283A;
+  --warn:#9B2C2C;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --text:"Newsreader",Georgia,"Times New Roman",serif;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    color-scheme:dark;
+    --sea:#0B1F2B; --foam:#122C3B; --ink:#E4F1EE; --tide:#8FB0B5;
+    --line:#234656; --deep:#7FD1C7; --on-deep:#0B1F2B;
+    --raft:#F2C230; --on-raft:#10283A; --warn:#FF9C8F;
+  }
+}
+:root[data-theme="dark"]{
+  color-scheme:dark;
+  --sea:#0B1F2B; --foam:#122C3B; --ink:#E4F1EE; --tide:#8FB0B5;
+  --line:#234656; --deep:#7FD1C7; --on-deep:#0B1F2B;
+  --raft:#F2C230; --on-raft:#10283A; --warn:#FF9C8F;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--sea);color:var(--ink);font-family:var(--display);font-size:1rem;line-height:1.45}
+main{max-width:40rem;margin:0 auto;padding:2.5rem 1.25rem 5rem}
+[hidden]{display:none!important}
+a{color:var(--deep)}
+:focus-visible{outline:3px solid var(--raft);outline-offset:2px}
+
+h1{font-weight:800;font-size:clamp(2.6rem,11vw,4.75rem);line-height:.92;letter-spacing:-.035em;margin:0 0 1rem;overflow-wrap:anywhere}
+h2{font-weight:600;font-size:1.25rem;letter-spacing:-.01em;margin:0}
+.lede{font-family:var(--text);font-size:1.2rem;line-height:1.5;color:var(--tide);margin:0 0 2.5rem;max-width:32rem}
+
+/* the record label: the one loud element */
+.label{flex:none;width:3.25rem;height:3.25rem;border-radius:50%;background:var(--deep);color:var(--on-deep);
+  display:grid;place-items:center;font-weight:800;font-size:1.35rem;position:relative}
+.saved .label{background:var(--raft);color:var(--on-raft)}
+
+/* reader */
+.discs{list-style:none;margin:0 0 2.5rem;padding:0}
+.disc{display:flex;gap:1rem;padding:1.25rem 0;border-top:1px solid var(--line)}
+.disc:last-child{border-bottom:1px solid var(--line)}
+.artist{color:var(--tide);margin:.1rem 0 .5rem}
+.why{font-family:var(--text);font-size:1.15rem;line-height:1.5;margin:0 0 .5rem}
+.listen{font-size:.9rem;color:var(--tide);margin:0}
+.mark{flex:none;position:relative}
+.art{display:block;width:4.5rem;height:4.5rem;border-radius:.3rem;object-fit:cover;background:var(--line)}
+.saved .art{outline:4px solid var(--raft)}
+.mark.has-art .label{position:absolute;left:-.55rem;top:-.55rem;width:1.7rem;height:1.7rem;font-size:.85rem;border:2px solid var(--sea)}
+.saved-note{display:inline-block;margin-top:.6rem;background:var(--raft);color:var(--on-raft);font-weight:600;font-size:.85rem;padding:.15rem .55rem;border-radius:1rem}
+.extras{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem;margin-bottom:2.5rem}
+.extras p{margin:.25rem 0 0;font-family:var(--text);font-size:1.15rem}
+.extras .kind{font-family:var(--display);font-size:.9rem;color:var(--tide);margin:0}
+.given{font-family:var(--text);color:var(--tide);font-size:1rem;margin:0 0 2rem}
+
+/* embed card: fills whatever size the iframe is given */
+body.embed main{max-width:none;padding:0}
+body.embed footer{display:none}
+.card{display:flex;flex-direction:column;gap:.6rem;height:100vh;padding:.9rem;background:var(--foam);color:var(--ink);
+  text-decoration:none;border:1px solid var(--line);border-radius:.6rem}
+.card-head{display:flex;gap:.6rem;align-items:baseline;flex-wrap:wrap;color:var(--tide);font-size:.9rem}
+.card-head strong{font-weight:800;font-size:1.4rem;letter-spacing:-.02em;color:var(--ink)}
+.tiles{flex:1;min-height:0;list-style:none;margin:0;padding:0;display:grid;gap:.4rem;grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(2,1fr)}
+.tile{min-width:0;overflow:hidden;background:var(--sea);border-radius:.4rem;padding:.45rem .6rem;display:flex;flex-direction:column;justify-content:center}
+.tile.saved{background:var(--raft);color:var(--on-raft)}
+.tile b{font-weight:600;font-size:.95rem;line-height:1.2;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.tile span{font-size:.82rem;color:var(--tide);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tile.saved span{color:var(--on-raft)}
+.tile .tt{min-width:0;display:flex;flex-direction:column}
+.tile img{flex:none;width:3.25rem;height:3.25rem;border-radius:.25rem;object-fit:cover;margin-bottom:.35rem;background:var(--line)}
+.card-foot{display:flex;gap:.75rem;justify-content:space-between;align-items:baseline;flex-wrap:wrap;font-size:.9rem}
+.card-foot .more{color:var(--deep);font-weight:600;text-decoration:underline}
+.card-foot #c-extras{flex:1;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+@media (max-width:34rem){
+  .tiles{grid-template-columns:repeat(2,1fr);grid-template-rows:repeat(4,1fr)}
+  .tile{padding:.2rem .5rem;flex-direction:row;align-items:center;justify-content:flex-start;gap:.45rem}
+  .tile img{width:1.9rem;height:1.9rem;margin:0}
+  .tile b{-webkit-line-clamp:1;font-size:.9rem}
+  .tile span{font-size:.78rem;line-height:1.25}
+  .card-head > span{display:none}
+  .card-foot{flex-direction:column;gap:.15rem}
+  .card-foot #c-extras{flex:none;max-width:100%}
+}
+
+/* builder */
+fieldset{border:0;padding:0;margin:0 0 2.25rem;min-width:0}
+legend{font-weight:600;font-size:1.25rem;padding:0;margin-bottom:.25rem}
+.hint{color:var(--tide);font-size:.95rem;margin:0 0 1rem}
+.slot{display:flex;gap:1rem;padding:1.25rem 0;border-top:1px solid var(--line)}
+.slot .fields{flex:1;min-width:0;display:grid;gap:.5rem}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}
+label{font-size:.9rem;color:var(--tide);display:block;margin-bottom:.2rem}
+input[type=text],input[type=url],textarea{width:100%;font:inherit;color:var(--ink);background:var(--foam);
+  border:1px solid var(--line);border-radius:.4rem;padding:.55rem .65rem}
+textarea{font-family:var(--text);font-size:1.1rem;line-height:1.4;resize:vertical;min-height:4.2rem}
+.row{display:flex;gap:.5rem;align-items:center;justify-content:space-between;flex-wrap:wrap}
+.count{font-size:.85rem;color:var(--tide);font-variant-numeric:tabular-nums}
+.status{font-size:.9rem;color:var(--tide);min-height:1.3em;margin:0}
+.status.bad{color:var(--warn)}
+.results{list-style:none;margin:0;padding:0;display:grid;gap:.3rem}
+.results button{width:100%;text-align:left;font-weight:400;border-color:var(--line);color:var(--ink);background:var(--foam);padding:.45rem .65rem;line-height:1.3}
+.results button strong{font-weight:600;display:block}
+.results button span{color:var(--tide);font-size:.9rem}
+.searchrow{display:flex;gap:.5rem}
+.searchrow input{flex:1;min-width:0}
+.linked{font-size:.9rem;color:var(--tide);margin:0}
+button.text{border:0;padding:0;background:none;font-weight:400;text-decoration:underline;color:var(--deep)}
+.keep{display:flex;gap:.4rem;align-items:center;font-size:.95rem;color:var(--ink);margin:0}
+.keep input{accent-color:var(--deep);width:1.05rem;height:1.05rem}
+
+button{font:inherit;font-weight:600;cursor:pointer;border-radius:.4rem;padding:.6rem 1rem;border:1px solid var(--deep);background:transparent;color:var(--deep)}
+button.primary{background:var(--deep);color:var(--on-deep)}
+button:disabled{opacity:.45;cursor:not-allowed}
+.actions{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center}
+.missing{font-size:.95rem;color:var(--tide);margin:.75rem 0 0}
+.result{margin-top:1.5rem;padding:1rem;background:var(--foam);border:1px solid var(--line);border-radius:.5rem}
+.result input{margin:.5rem 0 .75rem;font-size:.9rem}
+footer{margin-top:3rem;padding-top:1.25rem;border-top:1px solid var(--line);font-size:.9rem;color:var(--tide)}
+
+@media (max-width:30rem){
+  .extras,.pair{grid-template-columns:1fr}
+  .label{width:2.6rem;height:2.6rem;font-size:1.1rem}
+  .disc,.slot{gap:.75rem}
+  .art{width:3.5rem;height:3.5rem}
+}
+@media (prefers-reduced-motion:no-preference){
+  .saved .label{animation:bob 3.2s ease-in-out infinite}
+  @keyframes bob{50%{transform:translateY(-3px) rotate(-4deg)}}
+}
+</style>
+</head>
+<body>
+<main>
+
+<!-- ============ READER ============ -->
+<section id="reader" hidden>
+  <h1 id="r-title"></h1>
+  <p class="lede" id="r-lede"></p>
+  <ol class="discs" id="r-discs"></ol>
+  <div class="extras">
+    <div><p class="kind">The book</p><p id="r-book"></p></div>
+    <div><p class="kind">The luxury</p><p id="r-luxury"></p></div>
+  </div>
+  <p class="given">Already on the island: the Bible and the complete works of Shakespeare.</p>
+  <div class="actions">
+    <button class="primary" id="r-copy">Copy link</button>
+    <button id="r-embed">Copy embed code</button>
+    <button id="r-edit">Edit a copy</button>
+    <a href="./" id="r-new">Choose your own eight</a>
+  </div>
+  <p class="status" id="r-status" role="status"></p>
+</section>
+
+<!-- ============ EMBED CARD ============ -->
+<a class="card" id="card" hidden target="_blank" rel="noopener">
+  <span class="card-head"><strong id="c-title"></strong><span>Eight tracks for a desert island</span></span>
+  <ol class="tiles" id="c-tiles"></ol>
+  <span class="card-foot"><span id="c-extras"></span><span class="more" id="c-more"></span></span>
+</a>
+
+<!-- ============ BUILDER ============ -->
+<section id="builder" hidden>
+  <h1>Eight tracks for a desert island</h1>
+  <p class="lede">You are cast away on a desert island. Choose eight tracks, one book and one luxury, say why if you like, and share the link.</p>
+
+  <form id="form" novalidate>
+    <fieldset>
+      <legend>Who is being cast away?</legend>
+      <label for="name">Your name or handle</label>
+      <input type="text" id="name" maxlength="40" autocomplete="nickname">
+    </fieldset>
+
+    <fieldset>
+      <legend>Your eight tracks</legend>
+      <p class="hint">Search for each track and pick the right version; its listen link is added for you. If a track does not turn up, paste its link into the same box, or type the title and artist yourself. Reasons are optional.</p>
+      <div id="slots"></div>
+    </fieldset>
+
+    <fieldset>
+      <legend>One book</legend>
+      <p class="hint">You already have the Bible and the complete works of Shakespeare.</p>
+      <div class="pair">
+        <div><label for="book-title">Title</label><input type="text" id="book-title" maxlength="120"></div>
+        <div><label for="book-author">Author</label><input type="text" id="book-author" maxlength="120"></div>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>One luxury</legend>
+      <p class="hint">Something of no practical use for escaping or calling for help.</p>
+      <label for="luxury">Your luxury</label>
+      <input type="text" id="luxury" maxlength="80">
+    </fieldset>
+
+    <div class="actions">
+      <button class="primary" type="submit" id="publish">Create link</button>
+      <button type="button" id="clear">Start over</button>
+    </div>
+    <p class="missing" id="missing" role="status"></p>
+
+    <div class="result" id="result" hidden>
+      <strong>Link created.</strong> Everything you chose is stored in the link itself, so keep a copy.
+      <input type="text" id="result-url" readonly aria-label="Your link">
+      <div class="actions">
+        <button type="button" class="primary" id="result-copy">Copy link</button>
+        <a id="result-open" href="#">Open it</a>
+        <span class="count" id="result-len"></span>
+      </div>
+    </div>
+  </form>
+</section>
+
+<footer>
+  Inspired by BBC Radio 4’s Desert Island Discs. Not affiliated with or endorsed by the BBC. Track search and cover art come from Apple’s iTunes catalogue. Nothing is stored on a server; a list lives entirely in its link.
+</footer>
+</main>
+
+<script>
+"use strict";
+/* ================================================================
+   PAYLOAD FORMAT v1  (the one decision that is expensive to change)
+
+   URL:      <page>#v1.<base64url( deflate-raw( JSON ) )>
+             <page>#v1j.<base64url( JSON )>     fallback, no compression
+   JSON:     [ name, created "YYYY-MM",
+               [ [title, artist, link, why] x8 ],
+               saveIndex 0-7,
+               [bookTitle, bookAuthor],
+               luxury ]
+   Rules:    - version tag sits outside the blob so a server can route
+               on it without decoding
+             - payload is self-contained: a reader makes zero API calls
+             - positional arrays, not keyed objects, to keep links short
+             - new fields are appended; readers ignore extra elements
+   Phase 2:  a Worker stores this exact string and returns a short slug.
+   ================================================================ */
+const LIMIT = {name:40, title:120, artist:120, link:300, why:160, book:120, luxury:80};
+const DRAFT_KEY = "castaway-draft-v1";
+
+const b64u = {
+  enc(bytes){ let s=""; for (const b of bytes) s+=String.fromCharCode(b);
+    return btoa(s).replace(/\+/g,"-").replace(/\//g,"_").replace(/=+$/,""); },
+  dec(str){ const s=atob(str.replace(/-/g,"+").replace(/_/g,"/")); 
+    const out=new Uint8Array(s.length); for(let i=0;i<s.length;i++) out[i]=s.charCodeAt(i); return out; }
+};
+async function pipe(bytes, stream){
+  const w = stream.writable.getWriter(); w.write(bytes).catch(() => {}); w.close().catch(() => {});
+  return new Uint8Array(await new Response(stream.readable).arrayBuffer());
+}
+const clip = (v,n) => (typeof v==="string" ? v : "").trim().slice(0,n);
+function safeUrl(u){ try{ const x=new URL(u); return (x.protocol==="https:"||x.protocol==="http:") ? x.href : ""; }catch{ return ""; } }
+
+function toWire(s){
+  return [ s.name, s.created,
+    s.tracks.map(t => [t.title, t.artist, t.link.replace(/^https:\/\//,""), t.why]),
+    s.save, [s.book.title, s.book.author], s.luxury ];
+}
+function fromWire(a){
+  if (!Array.isArray(a) || !Array.isArray(a[2]) || a[2].length!==8) throw new Error("bad shape");
+  const tracks = a[2].map(t => {
+    if (!Array.isArray(t)) throw new Error("bad track");
+    const raw = clip(t[2], LIMIT.link);
+    return { title:clip(t[0],LIMIT.title), artist:clip(t[1],LIMIT.artist),
+             link: raw ? safeUrl(/^https?:\/\//.test(raw) ? raw : "https://"+raw) : "", why:clip(t[3],LIMIT.why), url:"" };
+  });
+  const save = Number.isInteger(a[3]) && a[3]>=0 && a[3]<8 ? a[3] : 0;
+  const book = Array.isArray(a[4]) ? a[4] : [];
+  return { name:clip(a[0],LIMIT.name), created:/^\d{4}-\d{2}$/.test(a[1]) ? a[1] : "",
+           tracks, save, book:{title:clip(book[0],LIMIT.book), author:clip(book[1],LIMIT.book)}, luxury:clip(a[5],LIMIT.luxury) };
+}
+async function encode(state){
+  const bytes = new TextEncoder().encode(JSON.stringify(toWire(state)));
+  if (typeof CompressionStream === "function"){
+    try { return "v1." + b64u.enc(await pipe(bytes, new CompressionStream("deflate-raw"))); } catch {}
+  }
+  return "v1j." + b64u.enc(bytes);
+}
+async function decode(tag){
+  const dot = tag.indexOf("."); const ver = tag.slice(0,dot); const body = tag.slice(dot+1);
+  let bytes = b64u.dec(body);
+  if (ver === "v1") bytes = await pipe(bytes, new DecompressionStream("deflate-raw"));
+  else if (ver !== "v1j") throw new Error("unknown version");
+  return fromWire(JSON.parse(new TextDecoder().decode(bytes)));
+}
+
+/* ---------------- state ---------------- */
+const blank = () => ({ name:"", created:"", save:-1, book:{title:"",author:""}, luxury:"",
+  tracks: Array.from({length:8}, () => ({url:"", link:"", title:"", artist:"", why:""})) });
+let state = blank();
+const $ = id => document.getElementById(id);
+function el(tag, props, ...kids){ const n=document.createElement(tag); Object.assign(n, props||{});
+  for (const k of kids) n.append(k); return n; }
+
+function saveDraft(){ try{ localStorage.setItem(DRAFT_KEY, JSON.stringify(state)); }catch{} }
+function loadDraft(){ try{ const d=JSON.parse(localStorage.getItem(DRAFT_KEY)); 
+  if (d && Array.isArray(d.tracks) && d.tracks.length===8) state = Object.assign(blank(), d); }catch{} }
+
+/* ---------------- builder ---------------- */
+function buildSlots(){
+  const host = $("slots"); host.textContent = "";
+  state.tracks.forEach((t,i) => {
+    const n = i+1;
+    const url = el("input",{type:"text",id:`u${i}`,value:t.url,placeholder:"Title and artist",autocomplete:"off",enterKeyHint:"search"});
+    const go = el("button",{type:"button",textContent:"Search"});
+    const linked = el("p",{className:"linked",id:`l${i}`});
+    const results = el("ul",{className:"results",id:`r${i}`});
+    const title = el("input",{type:"text",id:`t${i}`,value:t.title,maxLength:LIMIT.title});
+    const artist = el("input",{type:"text",id:`a${i}`,value:t.artist,maxLength:LIMIT.artist});
+    const why = el("textarea",{id:`w${i}`,value:t.why,maxLength:LIMIT.why,rows:2});
+    const count = el("span",{className:"count",textContent:`${t.why.length}/${LIMIT.why}`});
+    const status = el("p",{className:"status",id:`s${i}`}); status.setAttribute("role","status");
+    const radio = el("input",{type:"radio",name:"save",value:String(i),checked:state.save===i});
+    const slot = el("div",{className:"slot"+(state.save===i?" saved":"")},
+      el("div",{className:"label",textContent:String(n)}),
+      el("div",{className:"fields"},
+        el("div",null, el("label",{htmlFor:`u${i}`,textContent:`Search for track ${n}`}), el("div",{className:"searchrow"}, url, go)),
+        results, status,
+        el("div",{className:"pair"},
+          el("div",null, el("label",{htmlFor:`t${i}`,textContent:"Title"}), title),
+          el("div",null, el("label",{htmlFor:`a${i}`,textContent:"Artist"}), artist)),
+        linked,
+        el("div",null, el("label",{htmlFor:`w${i}`,textContent:"Why this one? (optional)"}), why),
+        el("div",{className:"row"},
+          el("label",{className:"keep"}, radio, "The one I’d save from the waves"), count)));
+    slot.querySelector(".label").setAttribute("aria-hidden","true");
+    host.append(slot);
+
+    let timer = 0;
+    const ui = {url, title, artist, status, results};
+    const now = () => { clearTimeout(timer); find(i, url.value.trim(), ui, true); };
+    url.addEventListener("input", () => { t.url = url.value; clearTimeout(timer);
+      timer = setTimeout(() => find(i, url.value.trim(), ui, false), 500); });
+    url.addEventListener("keydown", e => { if (e.key === "Enter"){ e.preventDefault(); now(); } });
+    go.addEventListener("click", now);
+    title.addEventListener("input", () => { t.title = title.value; changed(); });
+    artist.addEventListener("input", () => { t.artist = artist.value; changed(); });
+    why.addEventListener("input", () => { t.why = why.value; count.textContent = `${why.value.length}/${LIMIT.why}`; changed(); });
+    radio.addEventListener("change", () => { state.save = i;
+      document.querySelectorAll(".slot").forEach((s,j) => s.classList.toggle("saved", j===i)); changed(); });
+  });
+}
+
+/* Track lookup. No API key anywhere:
+   - search and Apple-link lookup use Apple's iTunes Search API over JSONP
+   - a list stores one exact link per track; the reader adds search links for the other services */
+let searchBlocked = false;
+document.addEventListener("securitypolicyviolation", e => { if (/itunes\.apple\.com/.test(e.blockedURI || "")) searchBlocked = true; });
+const BLOCKED_MSG = "Track search is switched off where this copy is hosted. Type the title and artist below.";
+let jsonpSeq = 0;
+function jsonp(url){
+  return new Promise((ok, fail) => {
+    const name = "__cw" + (++jsonpSeq), tag = document.createElement("script");
+    const done = () => { clearTimeout(timer); delete window[name]; tag.remove(); };
+    const timer = setTimeout(() => { done(); fail(new Error("timeout")); }, 8000);
+    window[name] = data => { done(); ok(data); };
+    tag.onerror = () => { done(); fail(new Error("network")); };
+    tag.src = url + (url.includes("?") ? "&" : "?") + "callback=" + name;
+    document.head.append(tag);
+  });
+}
+const STORE = (() => { const m = /-([A-Za-z]{2})$/.exec(navigator.language || ""); return m ? m[1].toUpperCase() : "US"; })();
+/* Returns {link} or {error}. Links are stored in each service's own canonical form. */
+function toTrackLink(href){
+  const u = new URL(href), host = u.hostname.replace(/^www\./,""); let m;
+  if (host.endsWith("spotify.com")){
+    if ((m = /\/track\/([A-Za-z0-9]+)/.exec(u.pathname))) return {link: "https://open.spotify.com/track/" + m[1]};
+    return {error: "That Spotify link is not a single track. Open the track, choose Share, then Copy song link."};
+  }
+  if (host.endsWith("apple.com")){
+    const id = u.searchParams.get("i") || ((m = /\/song\/[^/]*\/?(\d+)/.exec(u.pathname)) && m[1]);
+    if (id) return {link: href, appleId: id};
+    return {error: "That Apple Music link is an album. Open the track’s own menu and copy its link."};
+  }
+  if (host === "youtu.be" && u.pathname.length > 1) return {link: "https://music.youtube.com/watch?v=" + u.pathname.slice(1)};
+  if (host.endsWith("youtube.com")){
+    const v = u.searchParams.get("v");
+    if (v) return {link: "https://music.youtube.com/watch?v=" + v};
+    return {error: "That YouTube link is a playlist or channel. Paste a link to one track."};
+  }
+  return {link: href};
+}
+function appleUrl(hit){
+  try{ const u = new URL(hit.trackViewUrl); u.searchParams.delete("uo"); return u.href; }catch{ return ""; }
+}
+/* One link per service for the reader: exact where the list holds that service's
+   own link, otherwise a search on that service for "title artist". */
+function services(t){
+  const q = encodeURIComponent(`${t.title} ${t.artist}`.trim());
+  const out = { apple: {label:"Apple Music", href:"https://music.apple.com/us/search?term=" + q},
+                spotify: {label:"Spotify", href:"https://open.spotify.com/search/" + q},
+                youtube: {label:"YouTube Music", href:"https://music.youtube.com/search?q=" + q} };
+  let other = null;
+  const href = safeUrl(t.link);
+  if (href){
+    const u = new URL(href), host = u.hostname.replace(/^www\./,""); let m;
+    if (host.endsWith("apple.com")) out.apple.href = href;
+    else if (host.endsWith("spotify.com")) out.spotify.href = href;
+    else if (host.endsWith("youtube.com") || host === "youtu.be") out.youtube.href = href;
+    else if (host === "song.link" && (m = /^\/s\/([A-Za-z0-9]+)$/.exec(u.pathname))) out.spotify.href = "https://open.spotify.com/track/" + m[1];
+    else if (host === "song.link" && (m = /^\/y\/([\w-]+)$/.exec(u.pathname))) out.youtube.href = "https://music.youtube.com/watch?v=" + m[1];
+    else other = {label: host, href};
+  }
+  return [out.apple, out.spotify, out.youtube].concat(other ? [other] : []);
+}
+
+const lastQuery = {};
+async function find(i, raw, ui, force){
+  const t = state.tracks[i];
+  const say = (msg,bad) => { ui.status.textContent = msg; ui.status.classList.toggle("bad", !!bad); };
+  const pick = (title, artist, link) => {
+    t.title = clip(title, LIMIT.title); t.artist = clip(artist, LIMIT.artist); t.link = link;
+    ui.title.value = t.title; ui.artist.value = t.artist; ui.results.textContent = ""; changed();
+  };
+  if (!force && lastQuery[i] === raw) return;
+  ui.results.textContent = "";
+  lastQuery[i] = raw;
+  if (!raw){ say(""); return; }
+
+  if (/^https?:\/\//i.test(raw)){                       // ---- a pasted link
+    const href = safeUrl(raw);
+    if (!href){ say("That link is incomplete. Copy it again from your music app.", true); return; }
+    const r = toTrackLink(href);
+    if (r.error){ say(r.error, true); return; }
+    t.link = r.link; changed();
+    if (r.appleId){
+      say("Looking it up…");
+      try{
+        const d = await jsonp("https://itunes.apple.com/lookup?id=" + r.appleId + "&country=" + STORE);
+        const hit = d && d.results && d.results[0];
+        if (lastQuery[i] !== raw) return;
+        if (hit && hit.trackName){ pick(hit.trackName, hit.artistName, appleUrl(hit) || r.link); say("Found."); return; }
+      }catch{}
+    }
+    say("Link kept. Type the title and artist below.");
+    return;
+  }
+
+  if (raw.length < 3) { say(""); return; }               // ---- a search
+  if (searchBlocked){ say(BLOCKED_MSG, true); return; }
+  say("Searching…");
+  try{
+    const d = await jsonp("https://itunes.apple.com/search?media=music&entity=song&limit=6&country=" + STORE + "&term=" + encodeURIComponent(raw));
+    if (lastQuery[i] !== raw) return;
+    const hits = (d && d.results || []).filter(h => h.trackName && h.trackId);
+    if (!hits.length){ say("No tracks found for that search. Try fewer words, or type the title and artist below.", true); return; }
+    say("Choose the right version.");
+    for (const h of hits){
+      const b = el("button",{type:"button"}, el("strong",{textContent:h.trackName}),
+        el("span",{textContent: h.collectionName ? `${h.artistName}, from ${h.collectionName}` : h.artistName}));
+      b.addEventListener("click", () => { pick(h.trackName, h.artistName, appleUrl(h));
+        ui.url.value = ""; t.url = ""; lastQuery[i] = ""; say("Added."); });
+      ui.results.append(el("li", null, b));
+    }
+  }catch{
+    lastQuery[i] = "";
+    if (searchBlocked){ say(BLOCKED_MSG, true); return; }
+    say("Search did not respond. Press Search to try again; nothing you have typed is lost.", true);
+  }
+}
+
+function missing(){
+  const m = [];
+  if (!state.name.trim()) m.push("your name");
+  const noTrack = state.tracks.filter(t => !t.title.trim() || !t.artist.trim()).length;
+  if (noTrack) m.push(`${noTrack} ${noTrack===1?"track":"tracks"}`);
+  if (state.save < 0) m.push("the one track you’d save");
+  if (!state.book.title.trim()) m.push("a book");
+  if (!state.luxury.trim()) m.push("a luxury");
+  return m;
+}
+function showLinks(){
+  state.tracks.forEach((t,i) => {
+    const p = $("l"+i); if (!p) return; p.textContent = "";
+    const href = safeUrl(t.link);
+    if (!href){ p.textContent = "No exact link yet. Readers will get search links instead."; return; }
+    const rm = el("button",{type:"button",className:"text",textContent:"Remove link"});
+    rm.addEventListener("click", () => { t.link = ""; changed(); });
+    p.append("Exact link added. ", el("a",{href,target:"_blank",rel:"noopener noreferrer",textContent:"Test it"}), " or ", rm);
+  });
+}
+function changed(){
+  showLinks();
+  const m = missing();
+  $("publish").disabled = m.length > 0;
+  const noWhy = state.tracks.filter(t => !t.why.trim()).length;
+  $("missing").textContent = m.length ? "Still needed: " + m.join(", ") + "."
+    : noWhy ? `Ready to create. ${noWhy} of 8 tracks ${noWhy===1?"has":"have"} no reason yet, which is fine.` : "";
+  $("result").hidden = true;
+  saveDraft();
+}
+function fillBuilder(){
+  $("name").value = state.name; $("book-title").value = state.book.title;
+  $("book-author").value = state.book.author; $("luxury").value = state.luxury;
+  buildSlots(); changed();
+}
+function baseUrl(){ return location.href.split(/[?#]/)[0]; }
+function pageUrl(tag){ return baseUrl() + "#" + tag; }
+
+$("name").addEventListener("input", e => { state.name = e.target.value; changed(); });
+$("book-title").addEventListener("input", e => { state.book.title = e.target.value; changed(); });
+$("book-author").addEventListener("input", e => { state.book.author = e.target.value; changed(); });
+$("luxury").addEventListener("input", e => { state.luxury = e.target.value; changed(); });
+$("clear").addEventListener("click", () => {
+  if (!confirm("Clear everything and start over?")) return;
+  state = blank(); try{ localStorage.removeItem(DRAFT_KEY); }catch{} fillBuilder(); });
+$("form").addEventListener("submit", async e => {
+  e.preventDefault();
+  if (missing().length) return;
+  const now = new Date();
+  const out = JSON.parse(JSON.stringify(state));
+  out.created = `${now.getFullYear()}-${String(now.getMonth()+1).padStart(2,"0")}`;
+  out.name = clip(out.name, LIMIT.name); out.luxury = clip(out.luxury, LIMIT.luxury);
+  out.book = {title:clip(out.book.title,LIMIT.book), author:clip(out.book.author,LIMIT.book)};
+  out.tracks = out.tracks.map(t => ({title:clip(t.title,LIMIT.title), artist:clip(t.artist,LIMIT.artist),
+    link: safeUrl(t.link) , why:clip(t.why,LIMIT.why)}));
+  const url = pageUrl(await encode(out));
+  $("result-url").value = url; $("result-open").href = url;
+  $("result-len").textContent = `${url.length} characters`;
+  $("result").hidden = false; $("result").scrollIntoView({block:"nearest"});
+});
+$("result-copy").addEventListener("click", e => copy($("result-url").value, e.target, "Copy link"));
+
+async function copy(text, btn, label){
+  try{ await navigator.clipboard.writeText(text); btn.textContent = "Copied"; }
+  catch{ btn.textContent = "Select and copy the text"; }
+  setTimeout(() => { btn.textContent = label; }, 1800);
+}
+
+/* ---------------- reader ---------------- */
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+function renderReader(s){
+  const who = s.name || "A castaway";
+  document.title = `${who}: eight tracks for a desert island`;
+  $("r-title").textContent = /s$/i.test(who) ? `${who}’ eight` : `${who}’s eight`;
+  let lede = "Eight tracks, one book and one luxury for a desert island.";
+  if (s.created){ const [y,m] = s.created.split("-"); lede += ` Chosen in ${MONTHS[+m-1] || ""} ${y}.`; }
+  $("r-lede").textContent = lede;
+  const list = $("r-discs"); list.textContent = "";
+  s.tracks.forEach((t,i) => {
+    const body = el("div",null, el("h2",{textContent:t.title||"Untitled"}), el("p",{className:"artist",textContent:t.artist}));
+    if (t.why) body.append(el("p",{className:"why",textContent:t.why}));
+    const row = el("p",{className:"listen"}, "Listen on ");
+    services(t).forEach((v,k,all) => { row.append(el("a",{href:v.href,rel:"noopener noreferrer",target:"_blank",textContent:v.label}),
+      k < all.length-2 ? ", " : k === all.length-2 ? " or " : ""); });
+    body.append(row);
+    if (i === s.save) body.append(el("span",{className:"saved-note",textContent:"The one saved from the waves"}));
+    const label = el("div",{className:"label",textContent:String(i+1)}); label.setAttribute("aria-hidden","true");
+    const mark = el("div",{className:"mark",id:`m${i}`}, label);
+    list.append(el("li",{className:"disc"+(i===s.save?" saved":"")}, mark, body));
+  });
+  $("r-book").textContent = s.book.author ? `${s.book.title}, by ${s.book.author}` : s.book.title;
+  $("r-luxury").textContent = s.luxury;
+}
+function renderCard(s, full){
+  const who = s.name || "A castaway";
+  $("card").href = full;
+  $("c-title").textContent = /s$/i.test(who) ? `${who}’ eight` : `${who}’s eight`;
+  const list = $("c-tiles"); list.textContent = "";
+  s.tracks.forEach((t,i) => list.append(el("li",{className:"tile"+(i===s.save?" saved":""),id:`k${i}`},
+    el("div",{className:"tt"}, el("b",{textContent:t.title}), el("span",{textContent:t.artist})))));
+  $("c-extras").textContent = `Book: ${s.book.title}. Luxury: ${s.luxury}.`;
+  $("c-more").textContent = s.tracks.some(t => t.why) ? "Read the reasons" : "Open the full list";
+}
+/* Cover art: fetched from Apple when a list is opened, so it adds nothing to the link.
+   Only tracks that carry an Apple Music link get art; the rest keep the plain number. */
+function appleRef(link){
+  try{ const u = new URL(link); if (!u.hostname.endsWith("apple.com")) return null;
+    const m = /\/song\/[^/]*\/?(\d+)/.exec(u.pathname), id = u.searchParams.get("i") || (m && m[1]);
+    if (!id || !/^\d+$/.test(id)) return null;
+    const c = /^\/([a-z]{2})\//.exec(u.pathname);
+    return {id, cc: c ? c[1].toUpperCase() : "US"};
+  }catch{ return null; }
+}
+async function addArt(s){
+  const groups = {};
+  s.tracks.forEach((t,i) => { const r = appleRef(t.link); if (r) (groups[r.cc] = groups[r.cc] || []).push({i, id:r.id}); });
+  for (const cc in groups){
+    try{
+      const d = await jsonp("https://itunes.apple.com/lookup?id=" + groups[cc].map(x => x.id).join(",") + "&country=" + cc);
+      if (shown !== s) return;
+      const byId = {}; (d && d.results || []).forEach(h => { if (h.trackId && h.artworkUrl100) byId[h.trackId] = h; });
+      groups[cc].forEach(({i,id}) => {
+        const h = byId[id]; if (!h) return;
+        const small = safeUrl(h.artworkUrl100);
+        if (!small || !new URL(small).hostname.endsWith("mzstatic.com")) return;
+        const big = small.replace("100x100","300x300");
+        const make = cls => { const im = el("img",{className:cls, alt:`Cover of ${h.collectionName || h.trackName}`, loading:"lazy", src:big});
+          im.onerror = () => { im.onerror = null; im.src = small; }; return im; };
+        const m = $("m"+i); if (m && !m.querySelector("img")){ m.classList.add("has-art"); m.prepend(make("art")); }
+        const k = $("k"+i); if (k && !k.querySelector("img")) k.prepend(make(""));
+      });
+    }catch{}
+  }
+}
+$("r-copy").addEventListener("click", e => copy(location.href, e.target, "Copy link"));
+$("r-embed").addEventListener("click", e => copy(
+  `<iframe src="${baseUrl()}?embed=1${location.hash}" title="Eight tracks for a desert island" width="100%" height="380" style="border:0;max-width:44rem" loading="lazy"></iframe>`,
+  e.target, "Copy embed code"));
+let shown = null;
+$("r-edit").addEventListener("click", () => {
+  if (!shown) return;
+  state = Object.assign(blank(), JSON.parse(JSON.stringify(shown)));
+  state.tracks.forEach(t => { t.url = ""; });
+  history.pushState(null, "", baseUrl()); show("builder"); fillBuilder(); window.scrollTo(0,0);
+});
+
+/* ---------------- routing ---------------- */
+const EMBED = new URLSearchParams(location.search).has("embed");
+function show(which){ $("reader").hidden = which!=="reader"; $("builder").hidden = which!=="builder"; $("card").hidden = which!=="card";
+  document.body.classList.toggle("embed", which==="card"); }
+async function route(){
+  const tag = location.hash.slice(1);
+  if (/^v1j?\./.test(tag)){
+    try{ shown = await decode(tag);
+      if (EMBED){ renderCard(shown, pageUrl(tag)); show("card"); } else { renderReader(shown); show("reader"); }
+      addArt(shown);
+      return; }
+    catch{ $("r-status").textContent = ""; show("builder"); loadDraft(); fillBuilder();
+      $("missing").textContent = "That link is incomplete or damaged, so it could not be opened. Ask for it again, or choose your own eight below."; return; }
+  }
+  document.title = "Castaway: eight tracks, one book, one luxury";
+  shown = null; loadDraft(); show("builder"); fillBuilder();
+}
+window.addEventListener("hashchange", route);
+window.addEventListener("popstate", route);
+route();
+</script>
+</body>
+</html>
