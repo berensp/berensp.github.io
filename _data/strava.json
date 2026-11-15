@@ -1,11 +1,11 @@
 {
-  "name": "Afternoon Walk",
+  "name": "Errands",
   "type": "Walk",
-  "distance": "2.37",
-  "duration": 30,
-  "elevation": 76,
-  "date": "2026-11-10T23:59:45Z",
-  "url": "https://www.strava.com/activities/20940644610",
+  "distance": "3.02",
+  "duration": 52,
+  "elevation": 62,
+  "date": "2026-11-14T23:14:28Z",
+  "url": "https://www.strava.com/activities/20990885586",
   "last_run_or_ride": {
     "kind": "run",
     "name": "Twin Peaks Mt Sutro",
