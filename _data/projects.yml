@@ -17,6 +17,8 @@
   new_tab: true
   kind: build
   status: active
+  blurb: Your eight shareable desert island tracks
+
 - name: Swarma
   url: /swarma/
   new_tab: true
@@ -24,6 +26,7 @@
   status: active
   blurb: Swarm check-ins from your wrist (Wear OS)
   config: swarma.phase
+
 - name: Song of the Day bot
   url: https://x.com/pb_song_bot
   new_tab: true
@@ -32,11 +35,13 @@
   blurb: a song a day via Telegram
   data: daily_song
   unit: songs
+
 - name: Vibe coding
   url: /vibe-coding
   kind: practice
   status: active
   blurb: learning through AI-powered trial and error (see this site)
+
 - name: Exodus 90
   kind: practice
   status: active
@@ -48,6 +53,7 @@
   blurb: favourites, miscellany, and what's on deck
   data: books
   unit: books
+
 - name: Investments
   url: /investments/
   kind: invest
@@ -55,6 +61,7 @@
   blurb: no-fuss, low-burden co-investing
   data: investments.startups
   unit: startups
+
 - name: Jogs
   url: /jogging/
   kind: collection
@@ -62,6 +69,7 @@
   blurb: some favorite running routes
   collection: runs
   unit: routes
+
 - name: Prayers
   url: /prayers/
   kind: collection
@@ -69,6 +77,7 @@
   blurb: with a side of Latin
   collection: prayers
   unit: prayers
+
 - name: Recipes
   url: /recipes/
   kind: collection
@@ -76,6 +85,7 @@
   blurb: things the kids can push around their plates
   collection: recipes
   unit: recipes
+
 - name: Rides
   url: /cycling/
   kind: collection
@@ -83,6 +93,7 @@
   blurb: some favorite cycling routes
   collection: rides
   unit: routes
+
 - name: Systems
   url: /systems/
   kind: collection
@@ -94,12 +105,15 @@
 - name: Audacity
   kind: practice
   status: next
+
 - name: Bridge
   kind: practice
   status: next
+
 - name: Korean (한국말)
   kind: practice
   status: next
+
 - name: Piano
   kind: practice
   status: next
