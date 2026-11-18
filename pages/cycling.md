@@ -7,7 +7,7 @@ ogimage: marin.ride.bw.png
 ---
 <img src="/assets/og/marin.ride.bw.png" width="50%" height="50%">
 
-My preferred means of soaking in the great outdoors whilst spiking serotonin and dopamine. (Alas, I don't allocate the time for it these days and so I end up [running](/running/).)
+My preferred means of soaking in the great outdoors whilst spiking serotonin and dopamine. (Alas, I don't allocate the time for it these days and so I end up [jogging](/jogging/).)
 
 Year to date distance: **{{ site.data.strava.ytd_ride_distance | round: 0 }} km**[^1]
 

@@ -10,15 +10,23 @@
 #   reading: true        book currently being read (from books.yml)
 #   unit: <word>         label after a count
 #   metric: <text>       fallback static text
+# new_tab: true          open the link in a new window
 
+- name: Castaway
+  url: https://castaway.berens.co
+  new_tab: true
+  kind: build
+  status: active
 - name: Swarma
   url: /swarma/
+  new_tab: true
   kind: build
   status: active
   blurb: Swarm check-ins from your wrist (Wear OS)
   config: swarma.phase
 - name: Song of the Day bot
-  url: /song-bot.html
+  url: https://x.com/pb_song_bot
+  new_tab: true
   kind: build
   status: active
   blurb: a song a day via Telegram
@@ -48,7 +56,7 @@
   data: investments.startups
   unit: startups
 - name: Jogs
-  url: /running/
+  url: /jogging/
   kind: collection
   status: ongoing
   blurb: some favorite running routes

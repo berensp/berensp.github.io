@@ -6,7 +6,7 @@ author:	Paul Berens
 tags: ["tech", "product"]
 ogimage: post_brooks_adrenaline_gts_23.png
 ---
-I've been tracking my [runs](/running/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is a little, quiet one: **The Shoe Mileage Tracker**.
+I've been tracking my [runs](/jogging/) and [rides](/cycling/) on Strava since February 2012, but I have to say that my favorite feature is a little, quiet one: **The Shoe Mileage Tracker**.
 
 Easy peasy:
 1. Add running shoe model to the My Gear section of your profile
