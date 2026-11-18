@@ -5,7 +5,7 @@ permalink: /favourites/
 ---
 - 🍿 [movies](/movies/)
 - 📚 [books](/books/)
-- 🏃‍♂️ [runs](/running/)
+- 🏃‍♂️ [runs](/jogging/)
 - 🚴‍♂️ [rides](/cycling)
 - 🧑‍🎨 Caravaggio
 - quotes

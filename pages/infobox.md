@@ -56,7 +56,7 @@ description: Fun facts
       <th colspan="2" style="text-align: center; background-color: var(--table-section-header-bg);">Sport</th>
     </tr>
     <tr>
-      <td style="text-align: left">Running (YTD)<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
+      <td style="text-align: left">Jogging (YTD)<sup id="fnref2"><a href="#fn2" title="View footnote">2</a></sup></td>
       <td style="text-align: left"><code>{% if site.data.strava.ytd_run_distance %}{{ site.data.strava.ytd_run_distance | round: 0 }} km{% endif %}</code></td>
     </tr>
     <tr>

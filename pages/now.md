@@ -47,7 +47,7 @@ description: What I'm up to these days.
 {%- if rr.kind == "ride" %}
 - [Bicycling](/cycling/) infrequently but just did a [{{ rr.distance }}km, {{ rr.elevation }}m gain ride]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
 {%- elsif rr.kind == "run" %}
-- [Jogging](/running/) hither, thither, and yon, with most recent being a [{{ rr.distance }}km, {{ rr.elevation }}m gain run]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
+- [Jogging](/jogging/) hither, thither, and yon, with most recent being a [{{ rr.distance }}km, {{ rr.elevation }}m gain run]({{ rr.url }}) via [Strava](https://developers.strava.com/docs/reference/)
 {%- endif %}
 
 <span class="muted small">Last updated: {{ last_update }} via {{ update_source }}.</span>

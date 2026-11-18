@@ -20,7 +20,7 @@ What I'm building, curating, investing in, and (constructively) learning:
   {%- for item in items %}
   {%- capture metric %}{% include project_metric.html project=item %}{% endcapture %}
   <li>
-    {% if item.url %}<a href="{{ item.url }}">{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}
+    {% if item.url %}<a href="{{ item.url }}"{% if item.new_tab %} target="_blank" rel="noopener"{% endif %}>{{ item.name }}</a>{% else %}{{ item.name }}{% endif %}
     {%- if item.status == "next" %} <span class="tag tag-lilac">up next</span>{% endif %}
     {%- if item.blurb %}<br><span class="small">{{ item.blurb }}</span>{% endif %}
     {%- assign metric = metric | strip %}{% if metric != "" %}<span class="muted small"> · {{ metric }}</span>{% endif %}
