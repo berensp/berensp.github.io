@@ -1,20 +1,20 @@
 {
-  "name": "Errands",
-  "type": "Walk",
-  "distance": "3.02",
-  "duration": 52,
-  "elevation": 62,
-  "date": "2026-11-14T23:14:28Z",
-  "url": "https://www.strava.com/activities/20990885586",
+  "name": "Bosque de Chapultepec",
+  "type": "Run",
+  "distance": "6.23",
+  "duration": 33,
+  "elevation": 19,
+  "date": "2026-11-20T13:10:28Z",
+  "url": "https://www.strava.com/activities/21059003392",
   "last_run_or_ride": {
     "kind": "run",
-    "name": "GGP Moraga Steps",
+    "name": "Bosque de Chapultepec",
     "type": "Run",
-    "distance": "10.19",
-    "elevation": 171,
-    "date": "2026-11-10T22:30:00Z",
-    "url": "https://www.strava.com/activities/21011857556"
+    "distance": "6.23",
+    "elevation": 19,
+    "date": "2026-11-20T13:10:28Z",
+    "url": "https://www.strava.com/activities/21059003392"
   },
-  "ytd_run_distance": "675.62",
+  "ytd_run_distance": "681.85",
   "ytd_ride_distance": "389.15"
 }
