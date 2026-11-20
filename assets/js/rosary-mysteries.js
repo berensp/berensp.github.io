@@ -1,19 +1,27 @@
 function updateRosaryInfo() {
   const currentTime = new Date();
-  const dayOfWeek = currentTime.getDay();
+  const timeZone = 'America/Los_Angeles';
+
+  // Derive the weekday in Pacific Time, not the browser's local time zone,
+  // so the day always matches the Pacific time shown below.
+  const weekdayName = new Intl.DateTimeFormat('en-US', {
+    timeZone,
+    weekday: 'long'
+  }).format(currentTime);
+  const dayOfWeek = mysteriesData.days.findIndex(d => d.day === weekdayName);
+  if (dayOfWeek === -1) return;
+
   const today = mysteriesData.days[dayOfWeek];
   const tomorrow = mysteriesData.days[(dayOfWeek + 1) % 7];
-
-  if (!today) return;
 
   const todayMysteries = mysteriesData.sets[today.set];
   const tomorrowMysteries = mysteriesData.sets[tomorrow.set];
 
   const timeFormatter = new Intl.DateTimeFormat('en-US', {
-    timeZone: 'America/Los_Angeles',
+    timeZone,
     hour: '2-digit',
     minute: '2-digit',
-    hour12: false
+    hourCycle: 'h23'
   });
 
   const formattedTime = timeFormatter.format(currentTime);
