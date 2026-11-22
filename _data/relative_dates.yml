@@ -102,7 +102,7 @@
 
 - id: "christ_the_king"
   rule: "christ-the-king"  # Sunday before the First Sunday of Advent
-  event: "Solemnity of Our Lord Jesus Christ, King of the Universe"
+  event: "Christ the King"
 
 # Thanksgiving-related dates
 
