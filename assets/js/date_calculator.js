@@ -230,6 +230,13 @@ function calculateDateFromRule(rule, year) {
     return null;
   }
 
+  // Christ the King: last Sunday of the liturgical year (Sunday before Advent 1)
+  if (rule === "christ-the-king") {
+    const christTheKing = calculateAdventSunday(year, 1);
+    christTheKing.setDate(christTheKing.getDate() - 7);
+    return christTheKing;
+  }
+
   // Christmas season feasts (special cases)
   if (rule === "holy-family") {
     return calculateHolyFamily(year);
